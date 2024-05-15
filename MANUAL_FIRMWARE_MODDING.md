@@ -36,9 +36,11 @@ E então, neste caso, para compilar basta usar o comando `qmk compile -kb tergo_
 
 ### Configurando na própria chamada do comando de compilação
 
-Adicione parâmetros específicos ao comando de compilação para especificar se o seu teclado possui OLEDs e/ou RGB.
+Por padrão, o firmware é compilado considerando que você tem telas OLED e RGB.
 
-Um exemplo para um Tergo Sofle que possui ambos é: `qmk compile -kb tergo_sofle/rev1 -km default -j 0 -e OLED_ENABLE=yes -e RGB_MATRIX_ENABLE=yes`.
+Adicione parâmetros específicos ao comando de compilação para especificar se o seu teclado não possui OLEDs (`-e OLED_ENABLE=no`) ou se não possui RGB (`-e RGB_MATRIX_ENABLE=no -e VIALRGB_ENABLE=no`)
+
+Um exemplo para um Tergo Sofle que não possui nem OLEDs nem RGB é: `qmk compile -kb tergo_sofle/rev1 -km default -j 0 -e OLED_ENABLE=no -e RGB_MATRIX_ENABLE=no -e VIALRGB_ENABLE=no`.
 
 ## Começar as modificações
 
