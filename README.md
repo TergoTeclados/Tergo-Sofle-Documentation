@@ -18,6 +18,7 @@ Os manuais são:
 - [Manual do usuário](/MANUAL_USER.md): uma visão geral com o básico essencial que você precisa saber;
 - [Manual de ergonomia](/MANUAL_ERGONOMY.md): como utilizar o produto corretamente, aprendizados e bons hábitos;
 - [Manual de funcionalidades](/MANUAL_FEATURES.md): cada funcionalidade que o Tergo trás explicada em níveis mais avançados;
+- [Manual de Atualização do Firmware](/MANUAL_FIRMWARE_UPDATE.md): como atualizar o firmware com base nas novas versões que a Tergo ofereça;
 - [Manual de modificação de firmware](/MANUAL_FIRMWARE_MODDING.md): como modificar diretamente o código-fonte;
 - [Manual de manutenção](/MANUAL_MAINTENANCE.md): como cuidar do seu teclado.
 

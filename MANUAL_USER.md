@@ -98,39 +98,29 @@ As variaveis são relacionadas a brilho, efeito, saturação e velocidade do efe
 
 Use o Vial para facilmente visualizar o mapeamento das teclas que ajustam o RGB.
 
+## Cuidados com seu teclado
+
+O teclado Tergo foi feito para ser durável e facilmente renovável. Entretanto, ninguém quer presenciar defeitos no seu produto por conta de mal uso. Dado isso, seguem dicas para o seu teclado ter uma ótima durabilidade:
+
+### Cuidado com líquidos perto do seu teclado
+
+Deixe seu cafézinho em locais que não vá esbarrar 😉
+
+### Cuidado ao colocar e retirar os cabos USBs
+
+Forçar ou empurrar em ângulos inadequados pode estressar os conectores, em especial os laterais. Evite quando possível ficar desconectando-os. Para o conector superior que conecta ao computador, você pode adquirir um cabo magnético para desconectar facilmente de forma rápida seu teclado.
+
+### Não conecte o USB do computador ao conector lateral
+
+Os conectores laterais (USB C) são apenas para conectar os lados do teclado. Não conecte o USB C que vem do computador ao conector lateral, pois isso deve danificar seu produto.
+
+## Como digitar com o teclado Tergo
+
+Visite o [Manual de Ergonomia](/MANUAL_ERGONOMY.md) e entenda as maneiras ideais de utilizar seu teclado Tergo.
+
 ## Atualizar firmware
 
-### Visualizar versão atual
-
-Você pode ver a versão do firmware do seu teclado indo para a camada de ajustes e visualizando o OLED direito.
-
-### Baixar firmware atualizado
-
-Sempre que houver um lançamento de uma nova versão do firwmare, ela será publicada no [repositório do Firwmare](https://github.com/TergoTeclados/vial-qmk-firmware/releases). 
-
-Baixe a versão mais recente do firwmare que combine com o seu teclado, baseado se ele tem RGB e telas OLED. Você só precisa de 1 arquivo com final ".uf2".
-
-### Salvar configuração atual do Vial
-
-Você precisa do [aplicativo desktop do Vial](https://get.vial.today/download/) para fazer backup do seu layout atual. Importante para não perder suas configurações ao atualizar.
-
-Salve seu layout atual no Vial clicando em "File>Save current layout". Você precisará adicioná-lo novamente após atualização.
-
-### Colocar firmware no teclado
-
-Lado esquerdo: 
-- Inicialmente com o teclado desconectado do computador, mantenha pressionada a tecla superior esquerda e conecte o USB no teclado esquerdo;
-- Espere um pouco para que o controlador entre no modo bootloader e a pasta de armazenamento seja aberta;
-- Copie ou mova o arquivo .uf2 para a pasta que abriu.
-
-Depois disso, o controlador deve reiniciar automaticamente e a pasta sumir.
-
-Lado direito:
-- Faça os mesmos passos que o lado esquerdo porém para o lado direito, sendo que a tecla a ser pressionada é a mais superior à direita.
-
-### Importar configuração do Vial
-
-Por fim, importe de volta seu layout salvo para o Vial clicando em "File>Load saved layout"
+A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado. Para atualizar o firmware consulte o [Manual de Atualização do Firmware](/MANUAL_FIRMWARE_UPDATE.md).
 
 ## Modificar manualmente o _firmware_
 
@@ -143,10 +133,6 @@ Você pode entender mais a fundo algumas dessas funcionalidades no [Manual de Fu
 Para se aventurar no mundo de modificação do _firmware_, use o [Manual de Modificação do Firmware](/MANUAL_FIRMWARE_MODDING.md).
 
 Algumas dessas modificações são: mudar o conteúdo nas telas OLED, mudar o comportamento _tap-hold_ por tecla, entre outros.
-
-## Como digitar com o teclado Tergo
-
-Visite o [Manual de Ergonomia](/MANUAL_ERGONOMY.md) e entenda as maneiras ideais de utilizar seu teclado Tergo.
 
 ## Contato
 
