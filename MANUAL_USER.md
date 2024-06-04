@@ -16,7 +16,7 @@ Seu teclado já vem com os cabos necessários para o funcionamento.
 
 - Conecte o lado esquerdo do teclado ao computador com o cabo USB-C para A no USB-C (conector fêmea da parte de cima);
 
-- Confirme que o layout do teclado no seu sistema operacional é "Estados Unidos (Internacional)".
+- Mude o layout do seu teclado no seu sistema operacional para "Estados Unidos (Internacional)", que é o padrão do teclado. [Este vídeo](https://youtu.be/r9vUzQyXdps?t=40) explica algumas das pequenas diferenças desse layout, como por exemplo fazer acentos.
 
 Agora seu teclado deve estar pronto para digitação.
 
