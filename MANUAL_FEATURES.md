@@ -20,10 +20,6 @@ Você pode modificar o conteúdo das telas OLED e outras variáveis modificando 
 
 O sistema de camadas de teclas é uma das partes mais interessantes e importantes do teclado.
 
-Note que teclas especiais, a princípio, não se encontram na camada base do teclado, mas sim em outras camadas. Essas teclas podem ser: símbolos especiais, F1-F12, botões de navegação e setas.
-
-Isso justamente porque esses botões costumam ficar em posições mais distantes, que requerem bastante movimento para serem alcançadas.
-
 ### Visualizar e modificar camadas
 
 Veja as camadas que vem pré-configuradas com seu teclado (e edite-as o quanto quiser) no [Vial](#vial).

@@ -44,6 +44,16 @@ Na tela direita, quando você está na camada de ajuste, você verá variáveis 
 
 O sistema de camada de teclas faz com que todas as teclas do teclado estejam acessíveis em outras camadas.
 
+Note que teclas especiais, a princípio, não se encontram na camada base do teclado, mas sim em outras camadas. Essas teclas podem ser: símbolos especiais, F1-F12, botões de navegação e setas.
+
+Isso justamente porque esses botões costumam ficar em posições mais distantes, que requerem bastante movimento para serem alcançadas.
+
+Com o sistema de camada de teclas, elas ficam mais próximas de você, a uma camada de distância.
+
+É parecido como a tecla Shift funciona no seu teclado tradicional. Quando você segura o Shift, as teclas que são números assumem uma nova funcionalidade: símbolos. E as letras normais viram maiúsculas.
+
+A diferença é que você pode programar o que quer ver em cada camada: configure uma tecla para mudar de camada e configure o que você quer de teclas nessa camada.
+
 As camadas que já vem com o seu teclado são: 
 - camada base
 - símbolos e navegação
@@ -58,11 +68,13 @@ Use a interface do Vial para entender facilmente cada camada.
 
 O modo básico e adepto são extensões do sistema de camada de teclas.
 
-Basicamente mudar entre esses modos altera qual é a camada base do teclado: camada 1 ou 2 (que podem ser visualizadas no Vial). A camada base é a camada ativa quando você não está em nenhuma outra camada.
+Basicamente mudar entre esses modos altera qual é a camada base do teclado: camada 1 ou 2 (que podem ser visualizadas no Vial). 
+
+A camada base é a camada ativa quando você não está em nenhuma outra camada, ou seja, onde estão suas letras e números convencionais.
 
 ### Modo adepto
 
-O modo adepto vem com funcionalidades extras configuradas para as teclas. Em especial, ele adiciona:
+O modo adepto já vem com algumas funcionalidades extras configuradas para suas teclas que visam uma experiência ainda mais ergonômica e avançada de digitação. Em especial, ele adiciona:
 - Duplo comportamento para a tecla espaço (também conhecido como Tap-Hold) para ir à camada do simulador de mouse se segurada;
 - Comportamento Tap-Hold nas teclas da Home Row para utilização de modificadores.
 
@@ -108,11 +120,11 @@ Deixe seu cafézinho em locais que não vá esbarrar 😉
 
 ### Cuidado ao colocar e retirar os cabos USBs
 
-Forçar ou empurrar em ângulos inadequados pode estressar os conectores, em especial os laterais. Evite quando possível ficar desconectando-os. Para o conector superior que conecta ao computador, você pode adquirir um cabo magnético para desconectar facilmente de forma rápida seu teclado.
+Forçar ou empurrar em ângulos inadequados pode estressar os conectores. Para o conector superior que conecta ao computador, você pode adquirir um cabo magnético para desconectar facilmente de forma rápida seu teclado, caso faça isso com frequência.
 
 ### Não conecte o USB do computador ao conector lateral
 
-Os conectores laterais (USB C) são apenas para conectar os lados do teclado. Não conecte o USB C que vem do computador ao conector lateral, pois isso deve danificar seu produto.
+Os conectores laterais (USB C) são apenas para conectar os lados do teclado. Não conecte o USB C que vem do computador ao conector lateral, pois isso pode danificar seu produto.
 
 ## Como digitar com o teclado Tergo
 
@@ -124,11 +136,11 @@ A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado. 
 
 ## Modificar manualmente o _firmware_
 
-Isto aqui é considerado um tópico avançado.
+Isto aqui é considerado um tópico avançado, para você que tem interesse em programar e modificar diretamente o código-fonte do seu teclado.
 
 Existem modificações mais específicas que a interface Vial ainda não oferece mas que podem ser modificadas no próprio _firmware_. Isso vai requerer conhecimento em programação e baixar softwares.
 
-Você pode entender mais a fundo algumas dessas funcionalidades no [Manual de Funcionalidades](/MANUAL_FEATURES.md).
+Você pode entender mais a fundo algumas funcionalidades do teclado no [Manual de Funcionalidades](/MANUAL_FEATURES.md).
 
 Para se aventurar no mundo de modificação do _firmware_, use o [Manual de Modificação do Firmware](/MANUAL_FIRMWARE_MODDING.md).
 
