@@ -28,15 +28,26 @@ O teclado usa a interface para configurações em tempo real [Vial](https://get.
 
 Você pode utilizar o [Vial no próprio navegador](https://vial.rocks/) ou [baixar o aplicativo do Vial](https://get.vial.today/download/) para seu sistema operacional. Em ambos os casos, espere seu teclado ser reconhecido no software e o selecione. As modificações são feitas em tempo real.
 
-Com o [Vial](https://get.vial.today/), você pode ver o mapeamento de cada tecla e modificar o que cada uma faz, configurar o RGB, configurar variáveis específicas de funcionalidades do firmware QMK, entre outros.
+Aproveite e já abra o Vial e o utilize como guia para entender a posição de cada tecla. Não se assuste, é mais simples do que parece.
 
-Você pode encontrar mais detalhes sobre como utilizar o Vial no [Manual de Funcionalidades](/MANUAL_FEATURES.md)
+Ps: em breve vídeo do Vial e funcionalidades em detalhes.
+
+Com o [Vial](https://get.vial.today/), você tem funcionalidades diversas. Algumas das principais que você provavelmente utilizará são:
+
+- Ver o mapeamento de cada tecla;
+- Modificar o que cada tecla faz;
+- Modificar camadas;
+- Configurar o RGB;
+- Configurar variáveis específicas de funcionalidades do firmware QMK;
+- Entre outros.
+
+Se tem uma ideia em mente que não está documentada ou não encontrou, pode entrar em contato conosco que te ajudo e adiciono à documentação.
 
 ## Telas OLED
 
 As telas OLED não só oferecem um visual único mas também possuem utilidades.
 
-Na tela esquerda, é possível visualizar o modo do teclado (básico ou adepto), a camada atual e se o capslock está ativo.
+Na tela esquerda, é possível visualizar o modo do teclado (básico ou adepto), a camada atual (o que deve te ajudar muito a se guiar para se acostumar com o teclado) e se o capslock está ativo.
 
 Na tela direita, quando você está na camada de ajuste, você verá variáveis relacionadas ao RGB e a versão do firmware do teclado.
 
@@ -74,9 +85,13 @@ A camada base é a camada ativa quando você não está em nenhuma outra camada,
 
 ### Modo adepto
 
-O modo adepto já vem com algumas funcionalidades extras configuradas para suas teclas que visam uma experiência ainda mais ergonômica e avançada de digitação. Em especial, ele adiciona:
+O modo adepto muda qual é a camada base. 
+
+Você pode colocar o que quiser na camada que corresponde ao modo adepto (camada 2), mas ela é chamada assim pois já vem com funcionalidades interessantes configuraras que devem tornar sua experiência de digitação mais avançada.
+
+Essas funcionalidades consistem de teclas com comportamentos especiais que visam uma experiência ainda mais ergonômica e avançada de digitação. Em destaque, ele adiciona teclas com:
 - Duplo comportamento para a tecla espaço (também conhecido como Tap-Hold) para ir à camada do simulador de mouse se segurada;
-- Comportamento Tap-Hold nas teclas da Home Row para utilização de modificadores.
+- Comportamento Tap-Hold nas teclas da Home Row para utilização de modificadores (não se assuste com isso, teremos vídeo em breve e é super interessante!).
 
 Saiba mais sobre funcionalidades incríveis e mais avançadas que o Tergo Sofle utiliza no [Manual de Funcionalidades](/MANUAL_FEATURES.md)
 
