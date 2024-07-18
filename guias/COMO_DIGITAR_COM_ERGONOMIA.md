@@ -241,6 +241,37 @@ Experimente usar sua cadeira com e sem apoio de braços. Entenda o que funciona 
 
 Entenda também, caso você use os apoios de braço, se está dependente dele ou se usa ele apenas para descansar. Ou seja, perceba se você está apoiando seu corpo neles ou apenas deixando seus braços relaxarem neles.
 
+## Adapte o layout de teclas para suas necessidades
+
+Procure entender que teclas você usa com mais frequência e posicioná-las estrategicamente de forma que seja confortável de usá-las.
+
+Utilize a interface do Vial para mudar o conteúdo de cada camada de teclas.
+
+A principal dica para ter em mente ao modificar o layout das suas teclas para algo mais otimizado para você é que teclas as mais frequentemente utilizadas devem exigir o mínimo de esforço para serem digitadas.
+
+Isso pode ser alcançado aplicando 3 conceitos:
+- Reposicionar teclas de forma que as teclas mais frequentes fiquem próximas da "home row';
+- Minimizar o número de passos necessários para realizar uma ação;
+- Trocar o dedo escolhido para apertar a tecla.
+
+### Reposicionar teclas de forma que as teclas mais frequentes fiquem próximas da "home row"
+
+O exemplo mais básico do primeiro ponto pode ser rearranjar o posicionamento de símbolos na camada de símbolos e navegação, de forma que fique otimizado para que você tenha os símbolos que você usa com mais frequência pertos da home row, que é onde seus dedos descançam normalmente. Assim, minimizando a necessidade de ter que movê-los ao entrar na camada para digitar essas teclas.
+
+Esse conceito pode se estender muito além. Um exemplo é o "home row mod", explicado com mais detalhes no próximo guia (o de [funcionalidades avançadas](./FUNCIONALIDADES_AVANCADAS.md#home-row-mod)), e que está presente no modo adepto do teclado.
+
+Um dos níveis que exige mais sair da zona de conforto que aplica essa ideia é reposicionar as letras do seu teclado de forma a otimizar com base nas que você usa com mais frequência ou mais utilizados na língua pontuguesa.
+
+### Minimizar o número de passos necessários para realizar uma ação
+
+Se você usa com muita frequência alguma funcionalidade, como, por exemplo "Ctrl + Shift + Seta para o lado" (que resulta em selecionar uma palavra para a esquerda ou direita), você pode programar uma tecla para fazer esses passo com um só clique, na própria interface do Vial.
+
+## Sugestão de adaptações no layout do Tergo Sofle
+
+Pode ser que você prefira utilizar a tecla "backspace" e/ou "enter" com algum dedo que não seja o dedão. Dessa forma, você pode colocá-lo(s), por exemplo, na coluna direita, de forma que sejam alcançáveis pelo seu dedo mindinho ou anelar, e usar a nova tecla disponível do dedão para acessar uma nova camada com símbolos e funcionalidades úteis pra você.
+
+Outra ideia é criar uma camada só para números ou deixar o teclado numérico mais facilmente alcançável, de forma que você não precisa usar os números da linha de teclas superior do seu teclado, podendo assim colocar novas funcionalidades para cada uma dessas teclas superiores agora vagas.
+
 ## Próximos passos
 
 Considera-se que você já leu o manual do usuário e este guia de como digitar com ergonomia.
