@@ -1,6 +1,8 @@
 # Tergo Sofle - Manual de Manutenção
 
-Neste manual você descobrirá como cuidar do seu Tergo.
+Neste manual você descobrirá como montar/desmontar seu teclado Tergo Sofle e como solucionar problemas diversos.
+
+Atenção: danos causados por tentativa de manutenção manual são sujeitos a perda de garantia.
 
 ## Nós te ajudamos!
 
@@ -8,21 +10,34 @@ Caso tenha qualquer problema, nos contate que te ajudaremos a descobrir qual é 
 
 Lembre-se de que você tem garantia e assistência técnica. Estamos aqui para te ajudar.
 
-## Sumário
+## Voltar para configuração de fábrica
 
-## Resetar configuração de fábrica
+Problemas que você tem relacionados ao firmware podem estar relacionados com alguma configuração que você fez.
 
-Isto irá resetar as configurações que persistem na memória da EEPROM, que incluem configurações do Vial e do RGB.
+Resete para as configurações de fábrica do Tergo Sofle seguindo o [guia de como resetar para a configuração de fábrica](./COMO_RESETAR_PARA_CONFIGURACAO_DE_FABRICA.md).
 
-### Salve sua configuração do Vial (opcional)
+## Montar e desmontar a estrutura do teclado
 
-No software Vial, salve sua configuração atual caso queira, para carregá-la novamente após resetar as configurações.
+Cada metade do teclado consiste de:
+- Top plate: onde os switches mecânicos estão;
+- Placa de Circuito Integrado (PCI): onde estão os componentes eletrônicos;
+- Bottom plate: a parte debaixo da estrutura que fecha o teclado
+- Cover: peça que cobre a região onde fica a tela e placa controladora.
 
-### Como resetar
+Para cada metade do teclado, ele possui 14 parafusos, 5 espaçadores de 7mm e 2 espaçadores de 9mm:
 
-É semelhante ao processo de atualização do firmware. Vale destacar para você [salvar a configuração atual do Vial](/MANUAL_USER.md/#salvar-configuração-atual-do-vial) para não a perder.
+- 5 parafusos na bottom plate (embaixo do teclado), prendendo a bottom plate aos espaçadores de 7mm que vão à top plate;
+- 5 parafusos na top plate, escondidos entre os switches, prendendo a top plate aos espaçadores de 7mm que vão à bottom plate;
+- 2 parafusos na PCI, prendendo a PCI aos espaçadores de 9mm que vão ao cover;
+- 2 parafusos no cover, prendendo o cover aos espaçadores de 9mm que vão para a PCI.
 
-Desconecte o USB que está conectado ao computador, segure a tecla superior mais distante (tecla em cima nas esquerda no caso do teclado esquerdo), e conecte novamente enquanto segura o ESC. Após isso, seu teclado estará no modo de boot e com as configurações limpas. Então, desconecte e conecte novamente ele ao computador e ele estará funcionando normalmente.
+### Atenção ao parafusar/desparafusar
+
+Não aperte muito os parafusos, pois, ao tentar desrosqueá-lo depois, pode acontecer da força exercida fazer com que o parafuso conectado ao outro lado do espaçador perca pressão. Assim, você tentará parafusar/desparafusar e vai sentir que o parafuso está rodando em falso e não está entrando/saindo, pois o parafuso do outro lado que segurava o espaçador afroxou e agora o espaçador está girando junto ao seu parafuso.
+
+Tome cuidado especialmente em relação a isso com os parafusos dos covers: se o parafuso conectado à PCI afrouxar pode acabar sendo difícil de apertá-lo novamente, já que para acessá-lo você precisaria chegar na PCI e para isso precisaria abrir a parte debaixo do teclado.
+
+A solução é achar o parafuso equivalente no outro lado e segurá-lo também com uma chave.
 
 ## Trocar Switch ou keycaps
 
@@ -30,34 +45,30 @@ Com a tecnologia _hotswap_ é muito fácil trocar os switches mecânicos.
 
 Cada switch tem a vida útil estimada de 50 milhões de cliques. Se você deseja trocá-lo é provavelmente porque encontrou algum problema ou quer experimentar outros tipos de switch.
 
-### Remover keycap
+<img src="../imagens/tirar_keycaps_e_switch.png" alt="Exemplo Cabos" width="800">
 
-Remova a keycap com o removedor de keycaps.
+## Remover Keycap
 
-### Remover Switch
+Remova a keycap com o removedor de keycaps, conforme imagem exemplo. Basta encaixar a ferramenta na keycap e puxar.
+
+## Trocar Switch
 
 Remova o switch com o removedor de switch apertando e puxando a parte superio e inferior do switch que é onde ficam as travas.
 
-Caso não possua o removedor de switch, você pode tentar usar uma pinça para apertar as laterais do switch que encaixam no teclado e retirá-lo.
+Você pode sentir pouca ou muita resistencia para puxá-lo. Evite apertar demais: aperte apenas o necessário para agarrar as travas e puxe para cima.
 
-### Cuidado ao colocá-lo novamente
+### Cuidado ao colocar novo switch
 
-Fique atento para não entortar as pernas do switch ao encaixá-lo novamente. Caso entorte, basta desentortar manualmente.
+Fique atento para não entortar as pernas do switch ao encaixá-lo novamente. Caso encaixe e ele não funcione, é provável que você entortou alguma perna. Retire-o e então basta desentortar manualmente.
 
-### Resolução de problemas
+## Resolução de problemas
+
+### Relacionado a switches
 
 Caso queira trocar pois está tendo experiência com algum problema relacionado a tecla não estar enviando o caracter esperado, verifique primeiramente se está configurado corretamente no Vial e se você está na camada esperada. Se não, tente remover o switch, ver se não entortou as pernas deles, e botar outro no lugar. Caso não detecte o problema entre em contato conosco.
 
-## Trocar placa controladora
+### Trocar placa controladora
 
 Caso esteja certo de que você tem problemas na placa controladora e queira trocá-la, entre em contato conosco que podemos trocar ou enviar uma nova para você mesmo colocar e te orientar.
 
 Para mais detalhes de como realizar esta manutenção entre em contato.
-
-## Desmontar teclado
-
-Cada lado do teclado possui 5 parafusos embaixo e mais 5 em cima que servem para segurar a carcaça. Há outros 2 parafusos na parte superior do teclado que seguram o protetor da placa controladora.
-
-### Retirar parte debaixo.
-
-Basta desparafusar os 5 parafusos inferiores. Isso pode ser útil caso deseje realizar alguma limpeza.

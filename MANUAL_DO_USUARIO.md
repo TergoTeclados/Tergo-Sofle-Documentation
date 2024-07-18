@@ -156,7 +156,11 @@ Use o Vial para facilmente visualizar o mapeamento das teclas que ajustam o RGB.
 
 ## Cuidados com seu teclado
 
-O teclado Tergo foi feito para ser durável e facilmente renovável. Entretanto, ninguém quer presenciar defeitos no seu produto por conta de mal uso. Dado isso, seguem dicas para o seu teclado ter uma ótima durabilidade:
+O teclado Tergo foi feito para ser durável e facilmente renovável.
+
+Inclusive, temos o [manual de manutenção](./guias/MANUAL_DE_MANUTENCAO.md) que ensina diversas questões e resoluções de problema para o longo prazo do seu teclado.
+
+ Entretanto, ninguém quer presenciar defeitos no seu produto por conta de mal uso. Dado isso, seguem dicas para o seu teclado ter uma ótima durabilidade:
 
 ### Cuidado com líquidos perto do seu teclado
 
@@ -169,6 +173,12 @@ Forçar ou empurrar em ângulos inadequados pode estressar os conectores. Para o
 ### Não conecte o USB do computador ao conector lateral
 
 Os conectores laterais (USB C) são apenas para conectar os lados do teclado. Não conecte o USB C que vem do computador ao conector lateral, pois isso pode danificar seu produto.
+
+## Cuidados com modificações físicas
+
+Caso pretenda realizar modificações físicas no seu teclado como trocar o cover ou switches, recomendo que consulte o [manual de manutenção](./guias/MANUAL_DE_MANUTENCAO.md).
+
+Em especial, entenda como é a montagem da estrutura do seu teclado na [sessão sobre como montar e desmontar a estrutura do seu teclado](./guias/MANUAL_DE_MANUTENCAO.md/#montar-e-desmontar-a-estrutura-do-teclado).
 
 ## Como digitar com o teclado Tergo
 

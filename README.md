@@ -8,6 +8,8 @@ Comece lendo o [Manual do usuário](MANUAL_DO_USUARIO.md), que fornece uma visã
 
 Após ele, o principal guia sugerido é o de [como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), que trás uma grande quantidade de conhecimento agregado e te indica maneiras recomendadas de digitar.
 
+Há diversos outros guias que são referenciados principalmente nos 2 citados acima.
+
 Além disso, estamos sempre abertos a receber sugestões de conteúdos que podemos adicionar aqui para te ajudar ou melhorias!
 
 # Comunidades
