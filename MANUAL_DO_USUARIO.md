@@ -1,8 +1,14 @@
 # Tergo Sofle - Manual de Usuário
 
-## Introdução
+## Resumo
 
 Neste manual você vai saber os aspectos importantes para utilizar seu teclado Tergo Sofle.
+
+## Aproveite sua jornada!
+
+Com um passo de cada vez, entenda cada aspecto do seu teclado.
+
+Os guias te ajudarão e estão super detalhados, para que você desfrute do máximo potencial de cada aspecto do seu teclado.
 
 ## Instalação
 
