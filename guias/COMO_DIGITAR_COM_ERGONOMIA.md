@@ -254,21 +254,101 @@ Isso pode ser alcançado aplicando 3 conceitos:
 - Minimizar o número de passos necessários para realizar uma ação;
 - Trocar o dedo escolhido para apertar a tecla.
 
-### Reposicionar teclas de forma que as teclas mais frequentes fiquem próximas da "home row"
+## Reposicionar teclas de forma que as teclas mais frequentes fiquem próximas da "home row"
 
-O exemplo mais básico do primeiro ponto pode ser rearranjar o posicionamento de símbolos na camada de símbolos e navegação, de forma que fique otimizado para que você tenha os símbolos que você usa com mais frequência pertos da home row, que é onde seus dedos descançam normalmente. Assim, minimizando a necessidade de ter que movê-los ao entrar na camada para digitar essas teclas.
+O exemplo mais básico deste ponto pode ser rearranjar o posicionamento de símbolos na camada de símbolos e navegação, de forma que fique otimizado para que você tenha os símbolos que você usa com mais frequência pertos da home row, que é onde seus dedos descançam normalmente. 
 
-Esse conceito pode se estender muito além. Um exemplo é o "home row mod", explicado com mais detalhes no próximo guia (o de [funcionalidades avançadas](./FUNCIONALIDADES_AVANCADAS.md#home-row-mod)), e que está presente no modo adepto do teclado.
+Assim, você minimiza a necessidade de ter que movê-los ao entrar na camada para digitar essas teclas.
 
-Um dos níveis que exige mais sair da zona de conforto que aplica essa ideia é reposicionar as letras do seu teclado de forma a otimizar com base nas que você usa com mais frequência ou mais utilizados na língua pontuguesa.
+Esse conceito pode se estender muito além. Um exemplo é o "home row mod", que adiciona duplo comportamento às teclas da "home row" (que são as teclas A, S, D, F e J, K, L, ;), de forma que clicá-la te fornece o caracter (como esperado normalmente) e segurá-la faz com que ela funcione como um modificador: SHIFT, CTRL, ALT e WIN/CMD.
 
-### Minimizar o número de passos necessários para realizar uma ação
+<img src="../imagens/exemplo_home_row_mod.svg" alt="Exemplo" width="800">
 
-Se você usa com muita frequência alguma funcionalidade, como, por exemplo "Ctrl + Shift + Seta para o lado" (que resulta em selecionar uma palavra para a esquerda ou direita), você pode programar uma tecla para fazer esses passo com um só clique, na própria interface do Vial.
+Esta é uma funcionalidade que já vem configurada na camada do modo Adepto (camada 1). Experimente!
+
+Com isso, você não precisa mover os dedos para alcançar esses modificadores que normalmente ficam nas laterais do teclado.
+
+_Isto é explicado com mais detalhes no próximo guia (o de [funcionalidades avançadas](./FUNCIONALIDADES_AVANCADAS.md#home-row-mod)), e está presente no modo adepto do teclado._
+
+### Layouts de teclas além do QWERT
+
+Uma das aplicações desse conceito e que exige mais sair da zona de conforto é reposicionar as letras do seu teclado de forma a otimizar sua digitação.
+
+A ideia por trás é super interessante, mesmo que não pretenda experimentar.
+
+Já se perguntou o porquê do layout das suas teclas ser do jeito que ele é? Ou seja, por que os caracteres QWERT ficam um ao lado do outro, por exemplo?
+
+#### Layout de teclas QWERT
+
+<img src="../imagens/layout_qwert.png" alt="Exemplo" width="500">
+
+Não há uma resposta exata, mas foi algo que surgiu junto à máquina de escrever, e que foi historicamente herdado e é utilizado até hoje.
+
+Ele não parece ter sido criado pensando em uma digitação otimizada e confortável.
+
+Uma das teorias é que ele foi feito justamente para deixar o digitador mais lento, de forma a minimizar problemas nos mecanismos da máquina de escrever por digitar teclas muito próximas de forma rápida.
+
+Visto isso, há diversos layouts criados pensando em otimizar a digitação. Vou te resumir 2 principais populares.
+
+#### Layout de teclas Dvorak
+
+<img src="../imagens/layout_dvorak.png" alt="Exemplo" width="500">
+
+Antigo, criado em 1930 por Dvorak, mas já trazia melhorias em relação QWERT, com a ideia de minimizar movimentos estranhos para combinações normalmente usadas de teclas.
+
+##### Layout de teclas Colemak
+
+<img src="../imagens/layout_colemak.png" alt="Exemplo" width="500">
+
+Criado em 2006. Pega pontos positivos do Dvorak e do QWERT, e otimiza posicionamento das teclas baseado na língua inglesa.
+
+_Fonte e mais detalhes comparando no site: https://typingdonewell.com/blog/dvorak-vs-colemak-in-depth-comparison-with-my-own-tests/_
+
+## Minimizar o número de passos necessários para realizar uma ação
+
+Se você usa com muita frequência alguma funcionalidade, como, por exemplo "Ctrl + Seta para o lado" (que resulta em pular uma palavra para a esquerda ou direita), você pode programar uma tecla para fazer esses passo com um só clique, na própria interface do Vial.
+
+Há um exemplo disso aplicado na camada de símbolos e navegação (camada de número "3" no Vial). Repare nas teclas abaixo de onde seriam as setas (Left e Right).
+
+<img src="../imagens/exemplo_tecla_control_seta.png" alt="Exemplo Cabos" width="500">
+
+Para fazer o que foi feito no exemplo acima, você pode usar as teclas especiais disponível no submenu "Quantum". 
+
+Para entender o que cada tecla desse menu faz, você pode (apenas no aplicativo baixado do Vial) manter o mouse em cima que aparece uma dica flutuante. Ou então, [consultar este trecho da documentação oficial do firmware QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md#modifiers-modifiers), que é o utilizado.
+
+### Macros
+
+Com a ajuda de macros, você pode ser ainda mais criativo.
+
+Macros simulam sequências de ações, como pressionar teclas específicas simultaneamente ou uma após a outra.
+
+Um exemplo de aplicação é programar uma sequência de ações que você faz com frequência.
+
+Você pode criar macros pelo submenu "Macros" no software Vial.
+
+(Mais detalhes sobre isso em breve)
+
+### Combos
+
+Clique duas ou mais teclas ao mesmo tempo e tenha como resultado uma outra tecla.
+
+Um exemplo de aplicação é fazer com que pressionar 2 teclas ao mesmo tempo ativem o Capslock.
+
+Você pode criar combos pelo submenu "Combos" no software Vial.
+
+(Mais detalhes sobre isso em breve)
 
 ## Sugestão de adaptações no layout do Tergo Sofle
 
-Pode ser que você prefira utilizar a tecla "backspace" e/ou "enter" com algum dedo que não seja o dedão. Dessa forma, você pode colocá-lo(s), por exemplo, na coluna direita, de forma que sejam alcançáveis pelo seu dedo mindinho ou anelar, e usar a nova tecla disponível do dedão para acessar uma nova camada com símbolos e funcionalidades úteis pra você.
+Pode ser que você prefira utilizar a tecla "backspace" e/ou "enter" com algum dedo que não seja o dedão. 
+
+Dessa forma, você pode colocá-lo(s), por exemplo, na coluna direita, de forma que sejam alcançáveis pelo seu dedo mindinho ou anelar, e usar a nova tecla disponível do dedão, por exemplo, para acessar uma nova camada com símbolos e funcionalidades úteis pra você.
+
+O exemplo abaixo é uma aplicação disso.
+
+<img src="../imagens/exemplo_camada_base_diferente.svg" alt="Exemplo Cabos" width="800">
+
+As teclas marcadas em vermelho foram as alteradas em relação ao layout original do Tergo Sofle.
 
 Outra ideia é criar uma camada só para números ou deixar o teclado numérico mais facilmente alcançável, de forma que você não precisa usar os números da linha de teclas superior do seu teclado, podendo assim colocar novas funcionalidades para cada uma dessas teclas superiores agora vagas.
 
@@ -280,4 +360,4 @@ Quando estiver ficando confiante com sua digitação ou caso queira funcionalida
 
 ### Aceitamos sugestões e feedbacks!
 
-Compartilhe conosco maneiras que você descobriu de usar teu Tergo Sofle confortavelmente ou nos dê sugestões que possam agregar à este guia e outros!
+Compartilhe conosco maneiras que você descobriu de usar seu Tergo Sofle confortavelmente ou nos dê sugestões que possam agregar à este guia e outros!
