@@ -18,9 +18,11 @@ Seu teclado já vem com os cabos necessários para o funcionamento.
 
 - Conecte o lado esquerdo do teclado ao computador com o outro cabo USB-C ao seu computador (conector fêmea da parte de cima);
 
-- Mude o layout do seu teclado no seu sistema operacional para "Estados Unidos (Internacional)", que é o padrão do teclado.
+- Mude o layout do seu teclado no seu sistema operacional para "Estados Unidos (Internacional)", que é o padrão do teclado. [Clicando aqui](https://support.microsoft.com/pt-br/windows/gerenciar-as-configura%C3%A7%C3%B5es-de-idioma-de-entrada-e-exibi%C3%A7%C3%A3o-no-windows-12a10cb4-8626-9b77-0ccb-5013e0c7c7a2#WindowsVersion=Windows_11) você vê como fazer isso no Windows 11, mas varia dependendo do seu sistema operacional.
 
-Caso queira usar o seu teclado com layout no padrão Brasil ABNT, siga [este guia](./guias/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md).
+Note que o layout de teclas padrão do seu teclado é o Internacional.
+
+Caso queira usar o seu teclado com layout no padrão Português (Brasil) ABNT, [clique aqui](./guias/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) para saber como.
 
 A imagem abaixo mostra um exemplo da disposição dos cabos:
 
