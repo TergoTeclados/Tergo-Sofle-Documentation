@@ -160,6 +160,12 @@ Depois disso, acaba sendo questão de gerar mais memória muscular para criar ve
 
 O sistema de camadas de teclas também requer prática para seu cérebro se acostumar com o posicionamento de cada tecla nas outras camadas.
 
+Há diversos relatos de usuários que começaram a usar teclados ergonômicos divididos e aprenderam a digitar corretamente. Um exemplo recente que vi foi o seguinte:
+
+_"Quando mudei (de teclado), coloquei algo para ouvir em segundo plano e fiz testes de digitação de 20 a 40 minutos por dia. Eu sei que parece chato pra caramba, mas é meio pacífico e meditativo. Em cerca de duas semanas, eu estava totalmente proficiente. Pode levar mais ou menos tempo, mas compare isso com o tempo que você levou para aprender a digitar quando era criança e usou um computador pela primeira vez. Um pouco de dedicação no início compensa muito rapidamente."_
+
+_Comentário traduzido [dessa postagem](https://www.reddit.com/r/ErgoMechKeyboards/comments/1ed0i6j/this_is_embarrassing/)._
+
 #### Como treinar
 
 Uma sugestão é fazer diariamente treinos de digitação com Touch Typing como dito na sessão de ["pratique touch typing"](#pratique-touch-typing), de 10 minutos por exemplo, caso queira ter uma mudança gradual.
