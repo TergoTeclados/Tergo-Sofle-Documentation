@@ -6,7 +6,7 @@ Atenção: danos causados por tentativa de manutenção manual são sujeitos a p
 
 ## Nós te ajudamos!
 
-Caso tenha qualquer problema, nos contate que te ajudaremos a descobrir qual é a causa e também arrumamos para você!
+Caso tenha qualquer problema que não encontrou a solução na documentação, nos contate que te ajudaremos a descobrir qual é a causa e também arrumamos para você!
 
 Lembre-se de que você tem garantia e assistência técnica. Estamos aqui para te ajudar.
 
@@ -14,7 +14,7 @@ Lembre-se de que você tem garantia e assistência técnica. Estamos aqui para t
 
 Problemas que você tem relacionados ao firmware podem estar relacionados com alguma configuração que você fez.
 
-Resete para as configurações de fábrica do Tergo Sofle seguindo o [guia de como resetar para a configuração de fábrica](./COMO_RESETAR_PARA_CONFIGURACAO_DE_FABRICA.md).
+Resete para as configurações de fábrica do Tergo Sofle (e opcionalmente atualize para a versão mais recente) seguindo o [guia de como atualizar o Firmware](./COMO_ATUALIZAR_FIRMWARE.md). Em especial, caso queira apenas resetar as configurações de fábrica, pode parar na parte que o seu teclado entra em modo de _boot_.
 
 ## Montar e desmontar a estrutura do teclado
 
@@ -47,19 +47,45 @@ Cada switch tem a vida útil estimada de 50 milhões de cliques. Se você deseja
 
 <img src="../imagens/tirar_keycaps_e_switch.png" alt="Exemplo Cabos" width="800">
 
-## Remover Keycap
+### Remover Keycap
 
 Remova a keycap com o removedor de keycaps, conforme imagem exemplo. Basta encaixar a ferramenta na keycap e puxar.
 
-## Trocar Switch
+### Trocar Switch
 
 Remova o switch com o removedor de switch apertando e puxando a parte superio e inferior do switch que é onde ficam as travas.
 
 Você pode sentir pouca ou muita resistencia para puxá-lo. Evite apertar demais: aperte apenas o necessário para agarrar as travas e puxe para cima.
 
-### Cuidado ao colocar novo switch
+## Atenção ao montar ou trocar switches
 
-Fique atento para não entortar as pernas do switch ao encaixá-lo novamente. Caso encaixe e ele não funcione, é provável que você entortou alguma perna. Retire-o e então basta desentortar manualmente.
+### Troque um por vez
+
+Caso queira trocar todos switches do seu teclado ou uma grande quantidade, dê preferência por trocar um por vez.
+
+Isso porque os switches ao redor do switch que você retirou ajudam a sustentar a top plate no lugar, evitando que ela envergue ao tentar colocar um novo switch.
+
+Ter a top plate envergada não gera problemas muito relevantes. É principalmente uma questão estética e pode fazer com que switches saiam sem querer quando você tentar retirar uma keycap.
+
+### Cuidado para não entortar as pernas ao tentar inserir
+
+Fique atento para não entortar as pernas do switch ao encaixá-lo novamente. Caso encaixe e ele não funcione, é provável que você entortou alguma perna. Retire-o e então desentortar manualmente já deve ser suficiente para resolver o problema.
+
+### Resistência ao colocar novo switch
+
+Caso sinta resistência para encaixar o switch, fique atento a 2 pontos:
+
+#### Perna entortada
+
+Nesse caso, manualmente desentortá-la costuma resolver o problema.
+
+Forçar a entrada com a perna torta pode danificar o _hotswap_, então fique atento a isso.
+
+#### Top plate resistindo
+
+Microvariações na fabricação fazem com que alguns buracos tenham um pouco mais de resistencia para suportar a largura do switch.
+
+Recomenda-se lixar levemente se possível o buraco. Mas, em geral, um pouco mais de força já deve fazer com que ele encaixe, porém pode gerar dificuldade ao tentar tirá-lo da próxima vez.
 
 ## Resolução de problemas
 
