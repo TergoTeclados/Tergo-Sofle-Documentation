@@ -276,6 +276,18 @@ Com isso, você não precisa mover os dedos para alcançar esses modificadores q
 
 _Isto é explicado com mais detalhes no próximo guia (o de [funcionalidades avançadas](./FUNCIONALIDADES_AVANCADAS.md#home-row-mod)), e está presente no modo adepto do teclado._
 
+### Layout popular otimizado para poucas teclas: Miryoku
+
+Um layout altamente popular na comunidade de teclados ergonômicos é o [Miryoku](https://github.com/manna-harbour/miryoku/tree/master/docs/reference#layers).
+
+Ele foi pensado para usar pouquissimas teclas, utilizando altamente do sistema de camadas de teclas e teclas com duplo comportamento.
+
+A imagem abaixo é pouco legível mas mostra, para cada cor, a funcionalidade que a tecla assume em determinada camada.
+
+Caso queira ver cada camada individualmente para se inspirar e entender melhor, [clique aqui](https://github.com/manna-harbour/miryoku/tree/master/docs/reference#layers).
+
+<img src="../imagens/miryoku.png" alt="Exemplo" width="800">
+
 ### Layouts de teclas além do QWERT
 
 Uma das aplicações desse conceito e que exige mais sair da zona de conforto é reposicionar as letras do seu teclado de forma a otimizar sua digitação.
