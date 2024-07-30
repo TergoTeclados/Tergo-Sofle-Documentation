@@ -1,35 +1,47 @@
 # Manual de Atualização do Firmware
 
-A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado. Para atualizar o firmware é fácil, basta seguir as instruções aqui presentes.
+A Tergo Teclados pretende continuar realizando melhorias no _firmware_ do teclado. Para atualizá-lo é fácil, basta seguir as instruções aqui presentes.
 
 ## Visualizar versão atual
 
-Você pode ver a versão do firmware do seu teclado indo para a camada de ajustes e visualizando a tela OLED direita.
+Você pode ver a versão do firmware do seu teclado indo para a camada de ajustes e visualizando a tela OLED direita, na parte superior.
 
 ## Baixar firmware atualizado
 
-Sempre que houver um lançamento de uma nova versão do firwmare, ela será publicada no [repositório do Firwmare](https://github.com/TergoTeclados/vial-qmk-firmware/releases). 
+Sempre que houver um lançamento de uma nova versão do firwmare, ela será publicada no [repositório do Firwmare](https://github.com/TergoTeclados/vial-qmk-firmware/releases) e cada usuário notificado.
 
-Baixe a versão mais recente do firwmare que combine com o seu teclado, baseado se ele tem RGB e telas OLED. Você só precisa de 1 arquivo com final ".uf2".
+Baixe a versão mais recente do firwmare para garantir que você está em dia com as atualizações.
 
-## Salvar configuração atual do Vial
+Basta clicar no arquivo com final do tipo `.uf2` para baixá-lo. Por exemplo: `firmware_tergo_sofle_v1_xx.uf2`.
 
-Você precisa do [aplicativo desktop do Vial](https://get.vial.today/download/) para fazer backup do seu layout atual. Importante para não perder suas configurações ao atualizar.
+## Salvar customizações atuais do Vial
 
-Salve seu layout atual no Vial clicando em "File>Save current layout". Você precisará adicioná-lo novamente após atualização.
+Caso tenha customizações que realizou no Vial e pretende mantê-las, você precisa salvá-las no seu computador, pois atualizar o _firmware_ retornará seu teclado para as configurações de fábrica.
+
+Para isso, você precisa da [versão desktop do aplicativo do Vial](https://get.vial.today/download/) para salvar seu layout atual.
+
+Clique em "File > Save current layout" (ou use o atalho `Ctrl+S`), e o salve em uma pasta no seu computador. Ele será carregado novamente após atualizar seu teclado.
 
 ## Colocar firmware no teclado
 
-Lado esquerdo: 
-- Inicialmente com o teclado desconectado do computador, mantenha pressionada a tecla superior esquerda e conecte o USB no teclado esquerdo;
-- Espere um pouco para que o controlador entre no modo bootloader e uma pasta de armazenamento deve ser aberta no seu computador;
-- Copie ou mova o arquivo com final .uf2 para a pasta que abriu.
+### Gravar o lado esquerdo
 
-Depois disso, o controlador deve reiniciar automaticamente e a pasta sumir.
+- Inicialmente, desconecte o cabo que conecta o teclado ao computador.
 
-Lado direito:
-- Faça os mesmos passos que o lado esquerdo porém para o lado direito, sendo que a tecla a ser pressionada é a mais superior à direita.
+- Mantenha pressionada a tecla superior mais à esquerda (que por padrão é o `ESC`) e conecte novamente o cabo energizado. [Este breve vídeo](https://www.youtube.com/watch?v=cs2bDVUJNUQ) mostra este passo.
+
+- Ao largar a tecla, uma pasta deve se abrir no seu computador, conforme exemplo mais abaixo, indicando que seu teclado entrou em modo de _boot_.
+
+- Copie ou mova o arquivo do _firmware_ para a pasta que abriu.
+
+<img src="../imagens/exemplo_modo_boot.png" alt="Exemplo" width="800">
+
+Após isso, a pasta deve sumir automaticamente, indicando que a placa controladora reiniciou.
+
+### Gravar o lado direito
+
+- Faça os mesmos passos que o lado esquerdo, porém agora para o lado direito, sendo que a tecla a ser pressionada é a mais superior à direita.
 
 ## Importar configuração do Vial
 
-Por fim, importe de volta seu layout salvo para o Vial clicando em "File>Load saved layout"
+Por fim, opcionalmente, importe de volta seu layout salvo para o Vial clicando em "File > Load saved layout"
