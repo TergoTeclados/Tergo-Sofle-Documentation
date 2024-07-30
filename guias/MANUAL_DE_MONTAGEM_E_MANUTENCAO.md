@@ -1,4 +1,4 @@
-# Tergo Sofle - Manual de Manutenção
+# Tergo Sofle - Manual de Montagem e Manutenção
 
 Neste manual você descobrirá como montar/desmontar seu teclado Tergo Sofle e como solucionar problemas diversos.
 
