@@ -56,11 +56,19 @@ Bem vindo à comunidade do QMK!
 
 [Consulte o site da documentação oficial](https://docs.qmk.fm/#/) ou, como eu prefiro, essa mesma [documentação diretamente no github](https://github.com/qmk/qmk_firmware).
 
-Pesquise seu problema no google e você encontrará pessoas que tiveram o mesmo. Em especial, você encontra muitos usuários nos Reddits [r/olkb](https://www.reddit.com/r/olkb/) e [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/).
+No [repositório do QMK Firmware](https://github.com/qmk/qmk_firmware), pesquise nas issues e PRs pessoas que tiveram problemas semelhantes ou que implementaram funcionalidades semelhantes. 
+
+Busque pelo seu problema no google e você provavelmente encontrará pessoas que tiveram o mesmo. Em especial, você encontra muitos usuários nos Reddits [r/olkb](https://www.reddit.com/r/olkb/) e [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/).
 
 [Venha conversar no discord da Tergo](https://discord.gg/uJwf5hnurs). Venha compartilhar experiências com outros usuários!
 
 [Tire dúvidas diretamente com a comunidade QMK no Discord](https://discord.com/invite/qmk). Eles são ótimas pessoas dispostas a ajudas. Saiba usar com moderação.
+
+## Contribua também!
+
+A Tergo Teclados possui uma equipe super dedicada, porém pequena. Mas que busca dar o máximo possível de suporte para a criação de novas funcionalidades para nossos teclados!
+
+Ficariamos gratos caso queira contribuir com a comunidade, compartilhando funcionalidades que você fez, resolvendo issues no [nosso repositório do firwmare](https://github.com/TergoTeclados/vial-qmk-firmware), entre outros!
 
 ## FAQ
 
