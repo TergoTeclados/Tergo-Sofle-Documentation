@@ -12,7 +12,7 @@ O firmware QMK é open-source e dedicado para uso em teclados. Ele é baseado na
 
 O Vial é um fork do QMK e trás como adicional a interface visual para configuração Vial, que é o firmware que vem com seu teclado.
 
-A Tergo tem o [fork do firmware Vial QMK](https://github.com/TergoTeclados/vial-qmk-firmware) que deve ser usado, pois possui modificações importantes para funcionalidades do seu teclado.
+A Tergo tem o [fork do firmware Vial QMK](https://github.com/TergoTeclados/vial-qmk-firmware), onde se encontra o código-fonte do teclado com suas modificações.
 
 ## Preparar ambiente de programação
 
@@ -20,33 +20,21 @@ Siga até o tópico 3 do guia [Setting Up Your QMK Environment](https://docs.qmk
 
 Com o GitHub faça um fork ou simplesmente clone o [fork do firmware Vial QMK](https://github.com/TergoTeclados/vial-qmk-firmware). Caso não tenha muita experiência com git por interface de comando, você pode experimentar o [GitHub Desktop](https://desktop.github.com/).
 
-Então, dentro da pasta do firmware, execute `qmk git-submodule`. Por garantia caso ache que o comando não funcionou, execute `git submodule update --init --recursive`.
+Então, dentro da pasta do firmware, execute `qmk git-submodule`. 
+
+_Por garantia, caso ache que o comando não funcionou, execute `git submodule update --init --recursive`._
 
 ## Compilar firmware do seu teclado
 
-Seu Tergo Sofle pode ter ou não RGB e telas OLED. Então, é importante saber o que ele possui para configurar o firmware a ser compilado corretamente.
+Após realizar os passos anteriores, abra o QMK MSYS na pasta do firmware e execute o comando `qmk compile -kb tergo_sofle/rev1 -km default -j 0`.
 
-Caso falhe a compilação, tente repetir todos passos para garantir que você preparou o ambiente corretamente.
-
-### Configurando diretamente nos arquivos e compilando
-
-**Ps: não é mais necessário seguir todos esses passos. Basta chamar o comando genérico para compilar com tudo, pois o teclado funciona normalmente mesmo não tendo RGB ou telas.**
-
-No firmware [Vial QMK](https://github.com/TergoTeclados/vial-qmk-firmware) disponibilizado pela Tergo, dentro da pasta `keyboards/tergo_sofle/rev1`, você vai encontrar o arquivo `rules.mk` que contém regras que podem ser alteradas. Um jeito fácil de encontrar essas linhas a serem alteradas é usando o mecanismo de busca do seu editor e pesquisando pela palavra `CONFIG-ME` que marca essas linhas. Troque "no" por "yes" onde for necessário. Esta configuração só é necessária fazer 1 vez.
-
-E então, neste caso, para compilar basta usar o comando `qmk compile -kb tergo_sofle/rev1 -km default -j 0`.
-
-### Configurando na própria chamada do comando de compilação
-
-Por padrão, o firmware é compilado considerando que você tem telas OLED e RGB.
-
-Adicione parâmetros específicos ao comando de compilação para especificar se o seu teclado não possui OLEDs (`-e OLED_ENABLE=no`) ou se não possui RGB (`-e RGB_MATRIX_ENABLE=no -e VIALRGB_ENABLE=no`)
-
-Um exemplo para um Tergo Sofle que não possui nem OLEDs nem RGB é: `qmk compile -kb tergo_sofle/rev1 -km default -j 0 -e OLED_ENABLE=no -e RGB_MATRIX_ENABLE=no -e VIALRGB_ENABLE=no`.
+_Ps: Seu Tergo Sofle pode ter ou não RGB e telas OLED. Você não precisa se preocupar em desabilitar essas funcionalidades ao compilar o firmware caso não tenha algo pois funcionará normalmente._
 
 ## Começar as modificações
 
-Você agora pode encontrar as configurações do teclado na pasta `keyboards/tergo_sofle`. Essa pasta é um submodulo git que possui seu próprio versionamento.
+Você agora pode encontrar as configurações do teclado na pasta `keyboards/tergo_sofle`.
+
+Faça suas customizações e aproveite sua jornada!
 
 ## Se aventure na documentação e nos fóruns
 
