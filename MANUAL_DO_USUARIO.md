@@ -20,13 +20,27 @@ Seu teclado já vem com os cabos necessários para o funcionamento.
 
 - Mude o layout do seu teclado no seu sistema operacional para "Estados Unidos (Internacional)", que é o padrão do teclado. [Clicando aqui](https://support.microsoft.com/pt-br/windows/gerenciar-as-configura%C3%A7%C3%B5es-de-idioma-de-entrada-e-exibi%C3%A7%C3%A3o-no-windows-12a10cb4-8626-9b77-0ccb-5013e0c7c7a2#WindowsVersion=Windows_11) você vê como fazer isso no Windows 11, mas varia dependendo do seu sistema operacional.
 
+A imagem abaixo mostra um exemplo da disposição dos cabos:
+
+<img src="./imagens/exemplo_cabos.jpg" alt="Exemplo Cabos" width="800">
+
+## Layout de teclas
+
+<img src="./imagens/base_internacional.svg" alt="Exemplo" width="800">
+
+As teclas com a letra `L` seguida de um número (como o `L2`) mudam a camada de teclas do seu teclado.
+
+Este conceito será explicado mais abaixo neste guia.
+
+### Mudar para o padrão brasileiro ABNT
+
 Note que o layout de teclas padrão do seu teclado é o Internacional.
 
 Caso queira usar o seu teclado com layout no padrão Português (Brasil) ABNT, [clique aqui](./guias/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) para saber como.
 
-A imagem abaixo mostra um exemplo da disposição dos cabos:
+Mudando para o padrão brasileiro, as teclas abaixo em vermelho são as que mudam em relação ao layout internacional que vem por padrão.
 
-<img src="./imagens/exemplo_cabos.jpg" alt="Exemplo Cabos" width="800">
+<img src="./imagens/base_abnt.svg" alt="Exemplo" width="800">
 
 ## Vial: Software para configuração
 

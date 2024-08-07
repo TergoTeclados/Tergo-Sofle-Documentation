@@ -8,7 +8,9 @@ Este guia vai te ensinar a como utilizar o layout de teclas do seu teclado no pa
 
 Por padrão, o Tergo Sofle vem com o layout internacional. Ou seja, teclas como o "Ç" são feitas com atalhos, sem muitas dificuldades. Caso não esteja acostumado, você pode espiar [esse vídeo](https://youtu.be/r9vUzQyXdps?t=40) para entender melhor como utilizar acentos e outros símbolos.
 
-Mude o layout do seu teclado no seu sistema operacional para "Estados Unidos (Internacional)", que é o padrão do teclado. 
+<img src="../imagens/base_internacional.svg" alt="Exemplo" width="800">
+
+Para usá-lo, mude o layout do seu teclado no seu sistema operacional para "Estados Unidos (Internacional)", que é o padrão do teclado. 
 
 Agora seu teclado deve estar pronto para digitação.
 
@@ -16,15 +18,21 @@ Porém, se você está mais acostumado com o padrão brasileiro e preferir ele, 
 
 ## Alterar layout para português Brasil ABNT
 
-Para fazer isso, você precisa primeiro entender como abrir o software de configuração Vial, explicado no [Manual do Usuário](../MANUAL_DO_USUARIO.md).
+### Exemplo layout ABNT
 
-1 -  Baixe o layout brasileiro presente [nesta página](https://github.com/TergoTeclados/vial-qmk-firmware/releases/tag/Tergo-Sofle-v1.2). Basta clicar no arquivo para baixá-lo.
+Nós fornecemos também um layout no padrão ABNT para quem está mais familiarizado. As teclas em vermelho são as que mudam em relação ao layout internacional.
 
-#### Exemplo de arquivo
+<img src="../imagens/base_abnt.svg" alt="Exemplo" width="800">
 
-<img src="../imagens/botao_do_arquivo_vil.png" alt="Exemplo" width="">
+### Como mudar para o padrão ABNT
 
-2 - Baixe o aplicativo do Vial para seu dispositivo [nesta página](https://get.vial.today/download/). Somente a versão baixada do Vial (e não a de navegador) te permite realizar uma operação que será feita mais a frente.
+Para fazer isso, você precisa primeiro entender como abrir o software de configuração Vial, explicado no [Manual do Usuário](../MANUAL_DO_USUARIO.md), e então seguir o passo a passo aqui descrito.
+
+1 -  Baixe o layout brasileiro presente [nesta página](https://github.com/TergoTeclados/vial-qmk-firmware/releases/tag/Tergo-Sofle-v1.2). Basta clicar no arquivo para baixá-lo. 
+
+_Exemplo de nome de arquivo que você encontrará: `layout_brasileiro_v1_03.vil`_
+
+2 - Baixe o aplicativo do Vial para seu dispositivo [nesta página](https://get.vial.today/download/). Somente a versão baixada do Vial (e não a de navegador) te permite realizar uma operação que será feita mais a frente, de carregar o layout.
 
 3 - Abra o aplicativo do Vial com seu teclado conectado e selecione seu teclado.
 

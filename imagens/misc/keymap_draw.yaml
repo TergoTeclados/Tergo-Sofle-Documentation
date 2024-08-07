@@ -1,0 +1,377 @@
+# Dados usados para desenhar layout no Keymap Drawer 
+# https://keymap-drawer.streamlit.app/
+
+layout: {qmk_keyboard: splitkb/aurora/sofle_v2/rev1, qmk_layout: LAYOUT}
+layers:
+  Base (Padrão Internacional): [ESC, '1 !', '2 @', '3 #', '4 $', '5 %', '6 ^', '7 &', '8 *', '9 (', '0 )', '- _', TAB, Q, W, E, R, T, Y, U, I, O, P, BSPC, LSFT, A, S, D, F, G, H, J, K, L, '; :', ''' "', LCTL, Z, X, C,
+    V, B, L4, L3, N, M, ', <', '. >', '/ ?', RSFT, L5, LGUI, LALT, SPC, L2, ENT, BSPC, DEL, RGUI, RCTL]
+  Base (Padrão ABNT): [ESC, '1 !', '2 @', '3 #', '4 $', '5 %', '6 ¨', '7 &', '8 *', '9 (', '0 )', '- _', TAB, Q, W, E, R, T, Y, U, I, O, P, {t: '´ `', type: held}, LSFT, A, S, D, F, G, H, J, K, L, {t: 'Ç', type: held}, {t: '^ ~', type: held}, LCTL, Z, X, C,
+    V, B, L4, L3, N, M, ', <', '. >', {t: ': ;', type: held}, {t: '/ ?', type: held}, L5, LGUI, LALT, SPC, L2, ENT, BSPC, DEL, RGUI, RCTL]
+  Base (Modo Adept):
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {h: LGUI, t: A}
+  - {h: LALT, t: S}
+  - {h: LCTL, t: D}
+  - {h: LSFT, t: F}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {h: LSFT, t: J}
+  - {h: LCTL, t: K}
+  - {h: LALT, t: L}
+  - {h: LGUI, t: ';:'}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {h: 'L Mouse', t: SPC}
+  - {h: 'L Symb', t: TAB}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  Símbolos e Navegação:
+  - {t: ▽, type: trans}
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
+  - F6
+  - F7
+  - F8
+  - F9
+  - F10
+  - F11
+  - {t: ▽, type: trans}
+  - '`'
+  - '^'
+  - '+'
+  - '{'
+  - '}'
+  - 'PGUP'
+  - 'HOME'
+  - 'UP'
+  - 'END'
+  - 'INSERT'
+  - F12
+  - {t: ▽, type: trans}
+  - '~'
+  - '='
+  - '-'
+  - '('
+  - ')'
+  - 'PGDN'
+  - 'LEFT'
+  - 'DOWN'
+  - 'RIGHT'
+  - 'PSCR'
+  - ''
+  - {t: ▽, type: trans}
+  - '\'
+  - '|'
+  - '_'
+  - '['
+  - ']'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - CAPS
+  - 'LCTL +LEFT'
+  - ESC
+  - 'LCTL +RGHT'
+  - PAUSE
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  Ajustes:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - 'RGB Speed+'
+  - 'RGB Bright+'
+  - 'RGB Sat+'
+  - 'RGB Hue+'
+  - 'RGB Mode+'
+  - 'RGB ON/OFF'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: ▽, type: trans}
+  - 'RGB Speed-'
+  - 'RGB Bright-'
+  - 'RGB Sat-'
+  - 'RGB Hue-'
+  - 'RGB Mode-'
+  - 'OLEDs ON/OFF'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - 'Base Layer 0'
+  - 'Base Layer 1'
+  - 'Base Layer 2'
+  - 'Show Layer Number'
+  - {t: ▽, type: trans}
+  - {type: held}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  Mídia:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - 'Vol-'
+  - 'Mute'
+  - 'Vol+'
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {type: held}
+  - {t: ▽, type: trans}
+  - ''
+  - 'Media Prev'
+  - 'Media Play'
+  - 'Media Next'
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  Teclado Numérico:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - 'Num Lock'
+  - '/'
+  - '*'
+  - '-'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '7'
+  - '8'
+  - '9'
+  - '+'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '4'
+  - '5'
+  - '6'
+  - '+'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - '1'
+  - '2'
+  - '3'
+  - 'Enter'
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '0'
+  - '0'
+  - '.'
+  Simulador de Mouse:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - 'Wheel UP'
+  - ''
+  - 'Mouse UP'
+  - ''
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - 'LGUI'
+  - 'LALT'
+  - 'LCTL'
+  - 'LSFT'
+  - ''
+  - 'Wheel DOWN'
+  - 'Mouse LEFT'
+  - 'Mouse DOWN'
+  - 'Mouse RIGHT'
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - 'Undo'
+  - 'Cut'
+  - 'Copy'
+  - 'Paste'
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - 'Mouse Right'
+  - 'Mouse Left'
+  - 'Mouse Middle'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  Exemplo Home Row Mod: [ESC, '1 !', '2 @', '3 #', '4 $', '5 %', '6 ^', '7 &', '8 *', '9 (', '0 )', '- _', TAB, Q, W, E, R, T, Y, U, I, O, P, BSPC, LSFT, {h: GUI, t: A, type: held}, {h: ALT, t: S, type: held}, {h: CTRL, t: D, type: held}, {h: SFT, t: F, type: held}, G, H, {h: SFT, t: J, type: held}, {h: CTRL, t: K, type: held}, {h: ALT, t: L, type: held}, {h: GUI, t: '; :', type: held}, ''' "', LCTL, Z, X, C,
+    V, B, L4, L3, N, M, ', <', '. >', '/ ?', RSFT, L5, LGUI, LALT, SPC, L2, ENT, BSPC, DEL, RGUI, RCTL]
