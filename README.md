@@ -16,7 +16,7 @@ Além disso, estamos sempre abertos a receber sugestões de conteúdos que podem
 
 [Inscreva-se no Youtube](https://www.youtube.com/@tecladoergonomico?sub_confirmation=1) e acompanhe futuros vídeos.
 
-[Instagram @tecladoergonomico](https://www.instagram.com/tecladoergonomico) e acompanhane fotos e conteúdos.
+[Instagram @tergoteclados](https://www.instagram.com/tergoteclados) e acompanhane fotos e conteúdos.
 
 [Discord](https://discord.gg/uJwf5hnurs) para compartilhar experiências com outros usuários!
 
