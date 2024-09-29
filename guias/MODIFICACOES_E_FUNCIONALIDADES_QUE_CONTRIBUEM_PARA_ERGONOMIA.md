@@ -2,6 +2,28 @@
 
 Neste guia você descobrirá como diversas funcionalidades como modificar o layout de teclas ou teclas especiais da tecnologia utilizada pelo Tergo Sofle podem te fornecer uma experiência de digitação mais otimizada e aplicando ideias de ergonomia.
 
+## Sumário
+
+  * [Adapte o layout de teclas para suas necessidades](#adapte-o-layout-de-teclas-para-suas-necessidades)
+  * [Reposicionar teclas de forma que as teclas mais frequentes fiquem próximas da "home row"](#reposicionar-teclas-de-forma-que-as-teclas-mais-frequentes-fiquem-próximas-da--home-row)
+    + [Home Row Mod](#home-row-mod)
+  * [Minimizar o número de passos necessários para realizar uma ação](#minimizar-o-número-de-passos-necessários-para-realizar-uma-ação)
+    + [Tecla + modificador em um só clique](#tecla--modificador-em-um-só-clique)
+    + [Macros](#macros)
+    + [Combos](#combos)
+      - [Ideias de combos](#ideias-de-combos)
+  * [Sugestões de adaptações no layout do Tergo Sofle](#sugestões-de-adaptações-no-layout-do-tergo-sofle)
+    + [Tirar Backspace e Enter dos dedões](#tirar-backspace-e-enter-dos-dedões)
+    + [Criar camadas dedicadas](#criar-camadas-dedicadas)
+    + [Colocar duplo comportamento nas teclas do dedão para mudar de camada](#colocar-duplo-comportamento-nas-teclas-do-dedão-para-mudar-de-camada)
+  * [Layouts de teclas além do QWERT](#layouts-de-teclas-além-do-qwert)
+    + [Layout de teclas QWERT](#layout-de-teclas-qwert)
+    + [Layout de teclas Dvorak](#layout-de-teclas-dvorak)
+      - [Layout de teclas Colemak](#layout-de-teclas-colemak)
+  * [Layout popular otimizado para poucas teclas: Miryoku](#layout-popular-otimizado-para-poucas-teclas-miryoku)
+  * [Próximos passos](#próximos-passos)
+
+
 ## Adapte o layout de teclas para suas necessidades
 
 Procure entender que teclas você usa com mais frequência e posicioná-las estrategicamente de forma que seja confortável de usá-las.

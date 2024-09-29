@@ -2,6 +2,48 @@
 
 Este manual visa discutir aspectos de ergonomia focados na digitação e maneiras recomendadas de aprender a digitar com o Tergo.
 
+## Sumário
+
+  * [Atenção](#atenção)
+    + [Parte da ergonomia é entender o que é confortável para seu corpo](#parte-da-ergonomia-é-entender-o-que-é-confortável-para-seu-corpo)
+    + [Isenção de Responsabilidade](#isenção-de-responsabilidade)
+  * [Postura no Uso do Computador](#postura-no-uso-do-computador)
+  * [Qual a melhor forma de posicionar cada lado do teclado Tergo?](#qual-a-melhor-forma-de-posicionar-cada-lado-do-teclado-tergo)
+    + [Desvio Ulnar e Radial: evitar!](#desvio-ulnar-e-radial-evitar)
+    + [Exemplos de posicionamento das mãos](#exemplos-de-posicionamento-das-mãos)
+    + [Lados próximos](#lados-próximos)
+    + [Lados afastados](#lados-afastados)
+      - [Onde coloco o mouse?](#onde-coloco-o-mouse)
+  * [Posicionamento para digitação com o Tergo](#posicionamento-para-digitação-com-o-tergo)
+    + [Posicionamento dos braços](#posicionamento-dos-braços)
+    + [Posicionamento dos dedos e mãos](#posicionamento-dos-dedos-e-mãos)
+      - [Polegares](#polegares)
+  * [Como digitar](#como-digitar)
+    + [Touch Typing](#touch-typing)
+    + [Pratique Touch Typing!](#pratique-touch-typing)
+  * [Dicas e curva de aprendizado](#dicas-e-curva-de-aprendizado)
+    + [O Uso do Mindinho em Touch Typing](#o-uso-do-mindinho-em-touch-typing)
+    + [Experimente flutuar as mãos](#experimente-flutuar-as-mãos)
+      - [Isso não vai deixar meus braços cansados?](#isso-não-vai-deixar-meus-braços-cansados)
+    + [Curva de aprendizado](#curva-de-aprendizado)
+      - [Como treinar](#como-treinar)
+    + [Vou esquecer como usar um teclado tradicional?](#vou-esquecer-como-usar-um-teclado-tradicional)
+    + [Sistema de Camada de Teclas](#sistema-de-camada-de-teclas)
+  * [Inclinação dos Lados](#inclinação-dos-lados)
+    + [Fica mais dificil de digitar?](#fica-mais-dificil-de-digitar)
+  * [Apoios de pulso](#apoios-de-pulso)
+    + [Apoiar os pulsos ao invés de digitar flutuando](#apoiar-os-pulsos-ao-invés-de-digitar-flutuando)
+    + [Pressão causada no pulso](#pressão-causada-no-pulso)
+    + [Usar ou não usar](#usar-ou-não-usar)
+  * [Ergonomia e bons hábitos em geral](#ergonomia-e-bons-hábitos-em-geral)
+    + [Alongamentos e descansos!](#alongamentos-e-descansos)
+      - [Alongamento rápido para minimizar problemas de síndrome do túnel de carpo e tendinite](#alongamento-rápido-para-minimizar-problemas-de-síndrome-do-túnel-de-carpo-e-tendinite)
+    + [Controvérsia do Uso do Apoio de Braço da Cadeira](#controvérsia-do-uso-do-apoio-de-braço-da-cadeira)
+  * [Modificações e Funcionalidades que Contribuem para Ergonomia](#modificações-e-funcionalidades-que-contribuem-para-ergonomia)
+    + [Busque entender o que funciona para você](#busque-entender-o-que-funciona-para-você)
+
+
+
 ## Atenção
 
 ### Parte da ergonomia é entender o que é confortável para seu corpo

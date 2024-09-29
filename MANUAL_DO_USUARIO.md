@@ -4,6 +4,35 @@
 
 Neste manual você vai saber os aspectos importantes para utilizar seu teclado Tergo Sofle.
 
+## Sumário
+
+  * [Resumo](#resumo)
+  * [Aproveite sua jornada!](#aproveite-sua-jornada)
+  * [Instalação](#instalação)
+  * [Layout de teclas](#layout-de-teclas)
+    + [Mudar para o padrão brasileiro ABNT](#mudar-para-o-padrão-brasileiro-abnt)
+  * [Vial: Software para configuração](#vial-software-para-configuração)
+  * [Telas OLED](#telas-oled)
+  * [Camadas de teclas](#camadas-de-teclas)
+    + [Utilize as telas OLED para se guiar](#utilize-as-telas-oled-para-se-guiar)
+    + [Modo básico e adepto](#modo-básico-e-adepto)
+    + [Funcionalidades que já vem configuradas no modo adepto (camada 1)](#funcionalidades-que-já-vem-configuradas-no-modo-adepto-camada-1)
+  * [Atalhos no teclado](#atalhos-no-teclado)
+    + [Ligar/Desligar OLED](#ligar-desligar-oled)
+    + [Alterar camada base](#alterar-camada-base)
+    + [Configurar RGB](#configurar-rgb)
+  * [Cuidados com seu teclado](#cuidados-com-seu-teclado)
+    + [Cuidado com líquidos perto do seu teclado](#cuidado-com-líquidos-perto-do-seu-teclado)
+    + [Cuidado ao colocar e retirar os cabos USBs](#cuidado-ao-colocar-e-retirar-os-cabos-usbs)
+    + [Não conecte o USB do computador ao conector lateral](#não-conecte-o-usb-do-computador-ao-conector-lateral)
+  * [Cuidados com modificações físicas](#cuidados-com-modificações-físicas)
+  * [Como digitar com o teclado Tergo](#como-digitar-com-o-teclado-tergo)
+  * [Atualizar firmware](#atualizar-firmware)
+  * [Modificar manualmente o _firmware_](#modificar-manualmente-o-firmware)
+  * [Próximos passos](#próximos-passos)
+  * [Contato](#contato)
+
+
 ## Aproveite sua jornada!
 
 Com um passo de cada vez, entenda cada aspecto do seu teclado.

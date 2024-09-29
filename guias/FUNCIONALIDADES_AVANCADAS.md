@@ -4,6 +4,27 @@ Neste é um manual mais avançado onde você descobrirá mais a fundo funcionali
 
 Para uma visão geral das funcionalidades, consulte o [Manual do Usuário](../MANUAL_DO_USUARIO.md).
 
+## Sumário
+
+  * [Sistema de Camadas de Teclas](#sistema-de-camadas-de-teclas)
+    + [Visão geral](#visão-geral)
+  * [Tap-Hold](#tap-hold)
+    + [Tap-Hold para mudança de camadas](#tap-hold-para-mudança-de-camadas)
+    + [Modificadores](#modificadores)
+      - [Home Row Mod](#home-row-mod)
+    + [Configurações do Tap Hold](#configurações-do-tap-hold)
+      - [Tapping Term](#tapping-term)
+      - [Comportamento do Tap Hold padrão do Tergo Sofle](#comportamento-do-tap-hold-padr-o-do-tergo-sofle)
+      - [Tecnologia usada para diferenciar o comportamento](#tecnologia-usada-para-diferenciar-o-comportamento)
+  * [Vial](#vial)
+    + [Keycodes](#keycodes)
+    + [Aba QMK Settings](#aba-qmk-settings)
+  * [Detalhes avançados das telas OLED](#detalhes-avançados-das-telas-oled)
+    + [Configurações do OLED](#configurações-do-oled)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 ## Sistema de Camadas de Teclas
 
 ### Visão geral

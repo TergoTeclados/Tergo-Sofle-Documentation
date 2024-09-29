@@ -4,11 +4,13 @@ Neste repositório você encontrará a documentação completa do <a href="https
 
 ## Primeiros Passos
 
-Comece lendo o [Manual do usuário](MANUAL_DO_USUARIO.md), que fornece uma visão geral com o básico que você precisa saber e que indica os diversos guias que temos.
+Recomenda-se seguir em ordem a leitura dos guias:
 
-Após ele, o principal guia sugerido é o de [como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), que trás uma grande quantidade de conhecimento agregado e te indica maneiras recomendadas de digitar.
+- [Manual do usuário](MANUAL_DO_USUARIO.md), que fornece uma visão geral de funcionalidades básicas e referencia outros guias;
+- [Guia de Como Digitar com Ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), que mostra técnicas de digitação e recomendações;
+- [Guia de Modificações e Funcionalidades que Contribuem para Ergonomia](./guias/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md), que mostra como usar funcionalidades avançadas do teclado ao seu favor.
 
-Há diversos outros guias que são referenciados principalmente nos 2 citados acima.
+O restante dos guias são referenciados nos guias acima.
 
 Além disso, estamos sempre abertos a receber sugestões de conteúdos que podemos adicionar aqui para te ajudar ou melhorias!
 
@@ -17,8 +19,6 @@ Além disso, estamos sempre abertos a receber sugestões de conteúdos que podem
 [Inscreva-se no Youtube](https://www.youtube.com/@tecladoergonomico?sub_confirmation=1) e acompanhe futuros vídeos.
 
 [Instagram @tergoteclados](https://www.instagram.com/tergoteclados) e acompanhane fotos e conteúdos.
-
-[Discord](https://discord.gg/uJwf5hnurs) para compartilhar experiências com outros usuários!
 
 # Contato
 
