@@ -5,9 +5,16 @@ Neste é um manual mais avançado onde você descobrirá mais a fundo funcionali
 Para uma visão geral das funcionalidades, consulte o [Manual do Usuário](../MANUAL_DO_USUARIO.md).
 
 ## Sumário
-
+  * [Vial](#vial)
+    + [O que encontro no Vial](#o-que-encontro-no-vial)
+    + [Como aprender a usar o Vial](#como-aprender-a-usar-o-vial)
+    + [Keycodes](#keycodes)
+    + [Aba QMK Settings](#aba-qmk-settings)
+  * [Detalhes avançados das telas OLED](#detalhes-avançados-das-telas-oled)
+    + [Configurações do OLED](#configurações-do-oled)
   * [Sistema de Camadas de Teclas](#sistema-de-camadas-de-teclas)
     + [Visão geral](#visão-geral)
+    + [Dica para entender as camadas](#dica-para-entender-as-camadas)
   * [Tap-Hold](#tap-hold)
     + [Tap-Hold para mudança de camadas](#tap-hold-para-mudança-de-camadas)
     + [Modificadores](#modificadores)
@@ -16,20 +23,50 @@ Para uma visão geral das funcionalidades, consulte o [Manual do Usuário](../MA
       - [Tapping Term](#tapping-term)
       - [Comportamento do Tap Hold padrão do Tergo Sofle](#comportamento-do-tap-hold-padr-o-do-tergo-sofle)
       - [Tecnologia usada para diferenciar o comportamento](#tecnologia-usada-para-diferenciar-o-comportamento)
-  * [Vial](#vial)
-    + [Keycodes](#keycodes)
-    + [Aba QMK Settings](#aba-qmk-settings)
-  * [Detalhes avançados das telas OLED](#detalhes-avançados-das-telas-oled)
-    + [Configurações do OLED](#configurações-do-oled)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+## Vial
 
+Com o [Vial](https://get.vial.today/), você pode desfrutar do poder de diversas funcionalidades do seu teclado de forma rápida.
+
+### O que encontro no Vial
+
+O Vial te permite desfrutar da maioria das funcionalidades possibilitadas pelo _firmware_ do seu teclado, que é o QMK, no seu próprio navegador ou desktop, sem necessidade de saber programar.
+
+### Como aprender a usar o Vial
+
+Para você entender o potencial do Vial e como ele pode ser usado ao seu favor, recomendo que use como referência o [guia de modificações e funcionalidades que contribuem para ergonomia](./MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md), que te mostra como usar diversas funcionalidades encontradas no Vial para adaptar seu teclado para novas possibilidades.
+
+Caso não encontre respostas para o que quer fazer no guia, você pode pesquisar pela documentação oficial do QMK.
+
+Por exemplo, caso olhe para as teclas no submenu "layers" e não entenda o significado delas, você pode pesquisar por "QMK layers" e cair na [documentação oficial do QMK](https://docs.qmk.fm/feature_layers) sobre camadas.
+
+Caso queira uma visão geral de como você pode atingir um objetivo seu, pode nos mandar mensagem que te guiaremos com dicas e caminhos!
+
+### Keycodes
+
+O firmware QMK oferece muitas teclas (ou keycodes) com nomes diferentes que você pode estranhar. [Aqui é a lista completa de keycodes suportados pelo QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md). É importante destacar que nem todos o Vial oferece.
+
+Um keycode relevante de ser entendido é o símbolo de um triângulo ao contrário que pode ser visto na maioria das camadas. Ele significa que a tecla é a mesma da camada inferior ativa.
+
+### Aba QMK Settings
+
+A aba QMK Settings permite modificar aspectos mais profundos de funcionalidades oferecidas pelo QMK.
+
+Algumas relevantes são: 
+- Tap-Hold e Tapping Term
+- Variáveis de velocidade do simulador de mouse (Mouse keys);
+
+Nem todas funcionalidades do QMK podem ser modificados diretamente na interface Vial. Alguns pontos mais profundos precisam de modificação no código.
 
 ## Sistema de Camadas de Teclas
 
 ### Visão geral
 
 O sistema de camadas de teclas é uma das partes mais interessantes e importantes do teclado.
+
+### Dica para entender as camadas
+
+Acesse a camada de configurações e clique a tecla B. Por padrão, ao fazer isso, os textos da tela OLED do seu teclado relacionados a camada serão substituídos pelo número da camada. Isso pode te ajudar a entender em exatamente qual é a camada base do seu teclado e qual é a camada ativa mais alta.
 
 ## Tap-Hold
 
@@ -107,26 +144,6 @@ Existem diferentes tecnologias usadas para o comportamento do Tap-Hold. Você po
 O Tergo Sofle, para identificar se você quer o caractere ou o modificador, vem configurado com a tecnologia de Tap-Hold chamada [Permissive Hold](https://github.com/qmk/qmk_firmware/blob/master/docs/tap_hold.md#permissive-hold).
 
 A peculiaridade dela é que é ela que permite o último caso dado como exemplo no tópico anterior.
-
-## Vial
-
-Com o [Vial](https://get.vial.today/), você pode ver o mapeamento de cada tecla e modificar o que cada uma faz, configurar o RGB, configurar variáveis específicas de funcionalidades do firmware QMK, entre outros. Aqui mostrarei alguns dos mais relevantes.
-
-### Keycodes
-
-O firmware QMK oferece muitos keycodes diferentes que você pode estranhar. [Aqui é a lista completa de keycodes suportados pelo QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md). É importante destacar que nem todos o Vial oferece.
-
-Um keycode relevante de ser entendido é o símbolo de um triângulo ao contrário que pode ser visto na maioria das camadas. Ele significa que a tecla é a mesma da camada inferior ativa.
-
-### Aba QMK Settings
-
-A aba QMK Settings permite modificar aspectos mais profundos de funcionalidades oferecidas pelo QMK.
-
-Algumas relevantes são: 
-- Tap-Hold e Tapping Term
-- Variáveis de velocidade do simulador de mouse (Mouse keys);
-
-Nem todas funcionalidades do QMK podem ser modificados diretamente na interface Vial. Alguns pontos mais profundos precisam de modificação no código.
 
 ## Detalhes avançados das telas OLED
 

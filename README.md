@@ -8,7 +8,8 @@ Recomenda-se seguir em ordem a leitura dos guias:
 
 - [Manual do usuário](MANUAL_DO_USUARIO.md), que fornece uma visão geral de funcionalidades básicas e referencia outros guias;
 - [Guia de Como Digitar com Ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), que mostra técnicas de digitação e recomendações;
-- [Guia de Modificações e Funcionalidades que Contribuem para Ergonomia](./guias/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md), que mostra como usar funcionalidades avançadas do teclado ao seu favor.
+- [Guia de Modificações e Funcionalidades que Contribuem para Ergonomia](./guias/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md), que mostra como usar funcionalidades avançadas do teclado ao seu favor;
+- [Guia de Tópicos Avançados](./guias/TOPICOS_AVANCADOS.md), para você entender profundamente de detalhes do seu teclado especial e entender seu potencial máximo.
 
 O restante dos guias são referenciados nos guias acima.
 

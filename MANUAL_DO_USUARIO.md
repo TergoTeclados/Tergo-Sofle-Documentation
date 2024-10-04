@@ -79,9 +79,9 @@ O teclado usa a interface para configurações em tempo real [Vial](https://get.
 
 Você pode utilizar o [Vial no próprio navegador](https://vial.rocks/) ou [baixar o aplicativo do Vial](https://get.vial.today/download/) para seu sistema operacional. Em ambos os casos, espere seu teclado ser reconhecido no software e o selecione. As modificações são feitas em tempo real.
 
-Aproveite e já abra o Vial e o utilize como guia para entender a posição de cada tecla. Não se assuste, é mais simples do que parece.
+Aproveite e já abra o Vial, e navegue pelas camadas de teclas para entender a posição de cada tecla em cada camada. Não se assuste, é mais simples do que parece.
 
-Ps: em breve vídeo do Vial e funcionalidades em detalhes.
+Não se preocupe em entender agora o que cada menu do Vial faz. Te explicaremos aos poucos nos próximos guias, como o de [modificações e funcionalidades que contribuem para ergonomia](./guias/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md).
 
 Com o [Vial](https://get.vial.today/), você tem funcionalidades diversas. Algumas das principais que você provavelmente utilizará são:
 
@@ -173,7 +173,7 @@ Não se assuste! Te explicamos tudo. Um passo por vez.
 
 Recomenda-se que você explore o restante do manual e, em seguida, o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), e que se adapte ao teclado antes de você experimentar essas funcionalidades do modo adepto.
 
-Essas funcionalidades são explicadas com mais detalhes no [guia de funcionalidades avançadas](./guias/FUNCIONALIDADES_AVANCADAS.md).
+Essas funcionalidades são explicadas com mais detalhes no [guia de tópicos avançados](./guias/TOPICOS_AVANCADOS.md).
 
 _Ps: alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja desenergizado._
 
@@ -248,7 +248,7 @@ Isto aqui é considerado um tópico avançado, para você que tem interesse em p
 
 Existem modificações mais específicas que a interface Vial ainda não oferece mas que podem ser modificadas no próprio _firmware_. Isso vai requerer conhecimento em programação e baixar softwares.
 
-Você pode entender mais a fundo algumas funcionalidades do teclado no [Manual de Funcionalidades](./guias/FUNCIONALIDADES_AVANCADAS.md.md).
+Você pode entender mais a fundo algumas funcionalidades do teclado no [Manual de Funcionalidades](./guias/TOPICOS_AVANCADOS.md.md).
 
 Para se aventurar no mundo de modificação do _firmware_, use o [Manual de Modificação do Firmware](./guias/COMO_MODIFICAR_CODIGO_FONTE.md).
 
