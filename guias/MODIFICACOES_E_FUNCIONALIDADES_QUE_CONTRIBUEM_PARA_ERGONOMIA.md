@@ -15,6 +15,8 @@ Neste guia você descobrirá como diversas funcionalidades como modificar o layo
   * [Sugestões de adaptações no layout do Tergo Sofle](#sugestões-de-adaptações-no-layout-do-tergo-sofle)
     + [Tirar Backspace e Enter dos dedões](#tirar-backspace-e-enter-dos-dedões)
     + [Criar camadas dedicadas](#criar-camadas-dedicadas)
+    + [Teclas com duplo comportamento](#teclas-com-duplo-comportamento)
+    + [Colocar duplo comprtamento nas teclas extras abaixo das telas](#colocar-duplo-comportamento-nas-teclas-extras-abaixo-das-telas)
     + [Colocar duplo comportamento nas teclas do dedão para mudar de camada](#colocar-duplo-comportamento-nas-teclas-do-dedão-para-mudar-de-camada)
   * [Layouts de teclas além do QWERT](#layouts-de-teclas-além-do-qwert)
     + [Layout de teclas QWERT](#layout-de-teclas-qwert)
@@ -130,13 +132,35 @@ Complementando o exemplo acima que resultou em novas teclas para o dedão, que t
 Você pode criar uma camada só para números (ou deixar a camada do teclado numérico mais facilmente alcançável) de forma que você não precisa usar os números da linha de teclas superior do seu teclado.
 Com eles vagos, você pode colocar novas funcionalidades para cada uma dessas teclas superiores, por exemplo.
 
+### Teclas com duplo comportamento
+
+Essa é uma das funcionalidades mais úteis e interessantes do teclado Tergo.
+
+Como funciona: ao clicar, você tem a tecla. Ao segurar, ela faz outra coisa, como, por exemplo, mudar de camada. 
+
+Veja os exemplos abaixo.
+
+### Colocar duplo comportamento nas teclas extras abaixo das telas
+
+Por padrão, há 2 teclas abaixo da região das telas que servem para mudar a camada do seu teclado: uma vai para a camada de mídia ao ser segurada, e a outra para a camada de ajustes, conforme foto abaixo.
+
+<img src="../imagens/teclas-embaixo-da-tela.png" alt="Exemplo" width="300">
+
+Que tal modificarmos para que, quando eu apenas clicar nelas (ao invés de segurar) elas façam alguma outra coisa? 
+
+Como, por exemplo, uma pode ser usada para ativar o CapsLock. A outra para tirar _print_ da tela.
+
+Para isso, ficamos com o exemplo abaixo:
+
+<img src="../imagens/teclas-embaixo-da-tela-depois.png" alt="Exemplo" width="300">
+
+Para fazer isso, basta ir para o submenu de teclas `layers` e colocar no lugar das teclas a tecla `LT` seguida do número da camada de destino que você quer que seja ativada ao segurar a tecla.
+
+Em seguida, você poderá escolher qual tecla por padrão será ativada ao simplesmente clicar a tecla.
+
 ### Colocar duplo comportamento nas teclas do dedão para mudar de camada
 
-Essa é uma das mais úteis modificações:
-
 Que tal adicionar duplo comportamento para as teclas mais próximas do seu dedão: `espaço` e `backspace`.
-
-Ao clicar, você tem a tecla. Ao segurar, ela muda a camada do seu teclado. Uma, por exemplo, pode ativar para você uma camada com números, e a outra uma com símbolos.
 
 Repare nessas teclas comentadas no exemplo abaixo.
 
