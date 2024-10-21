@@ -1,4 +1,4 @@
-# Guia - Modificações e Funcionalidades que Contribuem para Ergonomia
+ # Guia - Modificações e Funcionalidades que Contribuem para Ergonomia
 
 Neste guia você descobrirá como diversas funcionalidades como modificar o layout de teclas ou teclas especiais da tecnologia utilizada pelo Tergo Sofle podem te fornecer uma experiência de digitação mais otimizada e aplicando ideias de ergonomia.
 
@@ -170,7 +170,7 @@ Há 2 exemplos disso no Vial na camada 1 (modo adepto), nas teclas do dedão esq
 
 Mas resumidamente, para fazer isso, abra o submenu de teclas "Layers" e coloque no lugar da tecla que você quer substituir o botão com nome `LT` seguido de um número que representa a camada de destino que você quer ativar ao segurar a tecla. Em seguida, escolha a tecla que será ativada caso você simplesmente clique a tecla.
 
-## Layouts de teclas além do QWERT
+## layouts  de teclas além do QWERTY
 
 Uma das aplicações da ideia de reposicionar as teclas como comentado [mais acima neste guia](#reposicionar-teclas-de-forma-que-as-teclas-mais-frequentes-fiquem-próximas-da-home-row) (e que exige mais sair da zona de conforto) é reposicionar as letras do seu teclado de forma a otimizar sua digitação.
 
@@ -192,7 +192,7 @@ Visto isso, há diversos layouts criados pensando em otimizar a digitação. Vou
 
 ### Layout de teclas Dvorak
 
-<img src="../imagens/layout_dvorak.png" alt="Exemplo" width="500">
+<img src="../imagens/layout_dvorak.png" alt="Exemplo" width="500"> 
 
 Antigo, criado em 1930 por Dvorak, mas já trazia melhorias em relação QWERT, com a ideia de minimizar movimentos estranhos para combinações normalmente usadas de teclas.
 
@@ -221,3 +221,11 @@ Caso queira ver cada camada individualmente para se inspirar e entender melhor, 
 Considera-se que você já leu o manual do usuário, entendeu como digitar com  ergonomia e leu este manual.
 
 Quando estiver ficando confiante com sua digitação ou caso queira entender melhor funcionalidades ainda mais avançadas, que podem inclusive contribuir para seu conforto, leia o [guia de tópicos avançados](./TOPICOS_AVANCADOS.md) para entender a fundo funcionalidades presentes especialmente no modo adepto do seu teclado.
+
+### Guias da comunidade
+
+Deixamos abertos à nossa comunidade contribuir com guias e aprendizados! Você pode vê-los listados aqui.
+
+Pode ser interessante na sua jornada ou resolver dúvidas que tenha no momento.
+
+[Substituir uma sequência de teclas por outra tecla](./guias_da_comunidade/SUBSTITUIR_SEQUENCIA_DE_TECLAS_POR_OUTRA.md), por EGmux.
