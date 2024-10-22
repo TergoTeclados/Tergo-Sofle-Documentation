@@ -170,57 +170,6 @@ Há 2 exemplos disso no Vial na camada 1 (modo adepto), nas teclas do dedão esq
 
 Mas resumidamente, para fazer isso, abra o submenu de teclas "Layers" e coloque no lugar da tecla que você quer substituir o botão com nome `LT` seguido de um número que representa a camada de destino que você quer ativar ao segurar a tecla. Em seguida, escolha a tecla que será ativada caso você simplesmente clique a tecla.
 
-### Substituir uma sequência de teclas por  outra tecla
-
-Uma das desvantagens de utilizar camadas é a necessidade de não poder reutilizar a tecla pressionada como modificador.
-Suponha que uma de suas camadas seja ativada ao apertar a tecla *Control*, caso deseje executar atalhos como *Control C* ou *Control v* comuns em diversas aplicações não seria possível sem utilizar combos, *Tap-Dance* ou substituindo a tecla na interface do *Vial* por *Any*.
-
-Se você for um usuário mais experiente pode ser que *Any* seja uma solução aceitável, mas para usuários iniciantes consultar [código de teclas](https://docs.qmk.fm/features/command) pode prejudicar o período de adaptação. Utilização de *Tap-Dance* é sensível a latência da sua digitação e combos são fáceis de errar o "timing" , assim como nos games de Luta 😞 [demonstração do combo ](https://www.youtube.com/shorts/MjQF17hFAzg).
-
-A solução para esses casos é utilizar a funcionalidade de [key overrides](https://docs.qmk.fm/features/key_overrides) 
-
-<img src="../imagens/funcionalidade_override.png" alt="Funcionalidade.png" width="800">
-
-#### Compreendendo *trigger, suspended e negative mods*
-
-Para compreender tais modificadores considere o seguinte exemplo, uma "camada" de navegação.
-
-Ao apertar e segurar *Control e h* seria como se tivesse sido apertado a *seta esquerda(⬅️)* do teclado.
-
-Ao apertar e segurar *Control e l* seria como se tivesesse sido apertado a *seta direita(➡️)* do teclado.
-
-Ao apertar e segurar *Control e k* seria como se tivesesse sido apertado a *seta para cima(⬆️)* do teclado.
-
-Ao apertar e segurar *Control e j* seria como se tivesesse sido apertado a *seta para baixo(⬇️)* do teclado.
-
-esse tipo de remapeamento pode ser bastante útil nos casos que já existem atalhos de teclado pré-configurados
-como por exemplo os de navegação no gerenciador de tarefas ou até mesmo no seu navegador, nesses casos tais atalhos podem não ser reconfiguráveis.
-
-então o que essencialmente queremos é que ao pressionarmos e não soltar *Control* ao apertar uma das teclas mencionadas,(h,j,k,l) tenhamos accesso as "teclas" e caso não deixemos soltar as teclas depois do *Control* que continue parecendo que estamos apertando as setas do teclado.
-
-Para que seja possível executar a primeira etapa do nosso remapeamento é preciso que *Control* seja tratado como uma tecla especial que "dirá" para o teclado que o remapeamento é possível a partir do momento quue a tecla é segurada, no caso do menu do Vial essa tecla está sendo tratada como um exemplo de **trigger  mod** ou seja ela o passo inicial para que o nosso remapeamento ocorra, segue um breve tutorial:
-
-Clique no checkbox ao lado de *Enable*
-
-Clique no quadrado ao lado de *Trigger* e selecione a tecla *h*
-
-Clique na palavra *LCtrl* na linha que está localizado o nome *Trigger mods*
-
-Clique no quadrado ao lado de *Replacement* e selecione a tecla *seta para esquerda*
-
-agora teste algum dos remapeamentos, você notará que ao segurar *Control* e não soltar e depois apertar *h* o comportamento não é de uma seta para cima, isto se deve ao fato que a tecla Control está sendo considerada como pressionada depois de apertar *d*, que problema!
-
-Mas há uma solução, **suppresed mods*** tais modificadores permitem que ao pressionar o *Control* e depois o *h*  o *Control* é ignorado e o resultado é o remapeamento como esperado 😄.
-
-Clique na palavra LCtrl na linha que está localizado o nome Supressed mods.
-
-Pronto agora repita o procedimento para as outras teclas e sua "camada" está pronta para uso em qualquer app que utilize atalho envolvendo seta de teclado como por exemplo *Alt ➡️, Shift ⬆️*, **note que esse método exibe uma desvantagem que pode ser significativa, as teclas Control h, Control j, Control k e Control l ficarão inutilizadas, sendo sempre substítuidas pelas setas de teclado**.
-
-Como solução para o problema acima podemos aplicar um  **negative mod** evitando assim que um remapeamento aconteça se uma tecla modificadora esteja pressionada. 
-
-Clique em qualquer tecla modificador na linha *Negative mods* que não seja *LCtrl*.
-
-
 ## layouts  de teclas além do QWERTY
 
 Uma das aplicações da ideia de reposicionar as teclas como comentado [mais acima neste guia](#reposicionar-teclas-de-forma-que-as-teclas-mais-frequentes-fiquem-próximas-da-home-row) (e que exige mais sair da zona de conforto) é reposicionar as letras do seu teclado de forma a otimizar sua digitação.
@@ -272,3 +221,11 @@ Caso queira ver cada camada individualmente para se inspirar e entender melhor, 
 Considera-se que você já leu o manual do usuário, entendeu como digitar com  ergonomia e leu este manual.
 
 Quando estiver ficando confiante com sua digitação ou caso queira entender melhor funcionalidades ainda mais avançadas, que podem inclusive contribuir para seu conforto, leia o [guia de tópicos avançados](./TOPICOS_AVANCADOS.md) para entender a fundo funcionalidades presentes especialmente no modo adepto do seu teclado.
+
+### Guias da comunidade
+
+Deixamos abertos à nossa comunidade contribuir com guias e aprendizados! Você pode vê-los listados aqui.
+
+Pode ser interessante na sua jornada ou resolver dúvidas que tenha no momento.
+
+[Substituir uma sequência de teclas por outra tecla](./guias_da_comunidade/SUBSTITUIR_SEQUENCIA_DE_TECLAS_POR_OUTRA.md), por EGmux.
