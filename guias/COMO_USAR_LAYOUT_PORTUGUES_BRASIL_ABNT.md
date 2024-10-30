@@ -4,18 +4,6 @@
 
 Este guia vai te ensinar a como utilizar o layout de teclas do seu teclado no padrão Português (Brasil) ABNT, ou seja, com teclas como "Ç" e outros acentos na camada base.
 
-## Introdução
-
-Por padrão, o Tergo Sofle vem com o layout internacional. Ou seja, teclas como o "Ç" são feitas com atalhos, sem muitas dificuldades. Caso não esteja acostumado, você pode espiar [esse vídeo](https://youtu.be/r9vUzQyXdps?t=40) para entender melhor como utilizar acentos e outros símbolos.
-
-<img src="../imagens/base_internacional.svg" alt="Exemplo" width="800">
-
-Para usá-lo, mude o layout do seu teclado no seu sistema operacional para "Estados Unidos (Internacional)", que é o padrão do teclado. 
-
-Agora seu teclado deve estar pronto para digitação.
-
-Porém, se você está mais acostumado com o padrão brasileiro e preferir ele, você pode alterar pela interface visual do Vial.
-
 ## Alterar layout para português Brasil ABNT
 
 ### Exemplo layout ABNT
@@ -26,23 +14,27 @@ Nós fornecemos também um layout no padrão ABNT para quem está mais familiari
 
 ### Como mudar para o padrão ABNT
 
+**Atenção: se resume a realizar 2 configurações: uma no teclado, outra no computador.**
+
 Para fazer isso, você precisa primeiro entender como abrir o software de configuração Vial, explicado no [Manual do Usuário](../MANUAL_DO_USUARIO.md), e então seguir o passo a passo aqui descrito.
 
 1 -  Baixe o layout brasileiro presente [nesta página](https://github.com/TergoTeclados/vial-qmk-firmware/releases/tag/Tergo-Sofle-v1.2). Basta clicar no arquivo para baixá-lo. 
 
 _Exemplo de nome de arquivo que você encontrará: `layout_brasileiro_v1_03.vil`_
 
-2 - Baixe o aplicativo do Vial para seu dispositivo [nesta página](https://get.vial.today/download/). Somente a versão baixada do Vial (e não a de navegador) te permite realizar uma operação que será feita mais a frente, de carregar o layout.
+2 - **Baixe** o aplicativo do Vial para seu dispositivo [nesta página](https://get.vial.today/download/). 
+
+_Somente a versão baixada do Vial (e não a de navegador) te permite realizar uma operação que será feita mais a frente, de carregar o layout._
 
 3 - Abra o aplicativo do Vial com seu teclado conectado e selecione seu teclado.
 
 4 - Vá para o menu "File" e clique em "Load saved layout", e carregue seu arquivo recém baixado com o layout brasileiro (o arquivo comentado anteriomente que possui final `.vil`). 
 
-_Carregar este arquivo não é obrigatório para seu teclado funcionar, mas ele adapta o layout de teclas e o deixa otimizado para português._
+5- **Importante!** Após carregá-lo, vá para o submenu "Keyboard layout" e selecione "Brazilian". Porém, não basta só seu teclado estar em português no Vial, mas também precisa estar no seu sistema operacional (que é o próximo passo).
 
-5- Após carregá-lo, vá para o submenu "Keyboard layout" e selecione "Brazilian". Porém, não basta só seu teclado estar em português no Vial, mas também precisa estar no seu sistema operacional (que é o próximo passo).
+6 - Garanta que o layout de teclado do seu sistema operacional seja "Português (Brasil ABNT)". No Windows, caso você tenha mais que um layout de teclado, você provavelmente verá o seguinte:
 
-6 - Garanta que o layout de teclado do seu sistema operacional seja "Português (Brasil ABNT)". [Clicando aqui](https://support.microsoft.com/pt-br/windows/gerenciar-as-configura%C3%A7%C3%B5es-de-idioma-de-entrada-e-exibi%C3%A7%C3%A3o-no-windows-12a10cb4-8626-9b77-0ccb-5013e0c7c7a2#WindowsVersion=Windows_11) você vê como fazer isso no Windows 11, mas varia dependendo do seu sistema operacional.
+<img src="../imagens/teclados_no_windows.png" alt="Exemplo" width="500">
 
 Está pronto! Experimente digitar e se guie pela interface do Vial para entender claramente o que cada tecla faz.
 

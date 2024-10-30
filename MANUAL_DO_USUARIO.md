@@ -10,6 +10,8 @@ Neste manual você vai saber os aspectos importantes para utilizar seu teclado T
   * [Aproveite sua jornada!](#aproveite-sua-jornada)
   * [Instalação](#instalação)
   * [Layout de teclas](#layout-de-teclas)
+    + [Padrão (Internacional)](#padrão-internacional)
+    + [Como fazer acentos e teclas especiais](#como-fazer-acentos-e-teclas-especiais)
     + [Mudar para o padrão brasileiro ABNT](#mudar-para-o-padrão-brasileiro-abnt)
   * [Vial: Software para configuração](#vial-software-para-configuração)
   * [Telas OLED](#telas-oled)
@@ -47,13 +49,21 @@ Seu teclado já vem com os cabos necessários para o funcionamento.
 
 - Conecte o lado esquerdo do teclado ao computador com o outro cabo USB-C ao seu computador (conector fêmea da parte de cima);
 
-- Mude o layout do seu teclado no seu sistema operacional para "Estados Unidos (Internacional)", que é o padrão do teclado. [Clicando aqui](https://support.microsoft.com/pt-br/windows/gerenciar-as-configura%C3%A7%C3%B5es-de-idioma-de-entrada-e-exibi%C3%A7%C3%A3o-no-windows-12a10cb4-8626-9b77-0ccb-5013e0c7c7a2#WindowsVersion=Windows_11) você vê como fazer isso no Windows 11, mas varia dependendo do seu sistema operacional.
-
 A imagem abaixo mostra um exemplo da disposição dos cabos:
 
 <img src="./imagens/exemplo_cabos.jpg" alt="Exemplo Cabos" width="800">
 
+### Adicione o teclado ao seu sistema operacional
+
+O teclado por padrão segue o padrão internacional, mas pode ser usado também no padrão ABNT (mais abaixo te mostraremos).
+
+Para que seja reconhecido no seu computador, você precisa adicionar o layout de teclado internacional.
+
+[Clique aqui](https://www.youtube.com/watch?v=UWwcIcwkPlA) para ver um breve vídeo de como fazer isso no Windows 11, por exemplo.
+
 ## Layout de teclas
+
+### Padrão (Internacional)
 
 <img src="./imagens/base_internacional.svg" alt="Exemplo" width="800">
 
@@ -61,7 +71,21 @@ As teclas com a letra `L` seguida de um número (como o `L2`) mudam a camada de 
 
 Este conceito será explicado mais abaixo neste guia.
 
+### Como fazer acentos e teclas especiais?
+
+É bem tranquilo!
+
+Para acentos agudos, basta clicar a tecla de aspas e então a letra que quer.
+
+Para o `Ç`, clique na tecla de aspas e na letra `C`.
+
+Para o símbolo de `~`, por padrão está na camada secundária. Clique nele e então na letra que quer.
+
+[Clique aqui](https://youtu.be/r9vUzQyXdps?t=142) para ver um breve vídeo que mostra isso.
+
 ### Mudar para o padrão brasileiro ABNT
+
+Caso prefira, você pode mudar para o padrão ABNT.
 
 Note que o layout de teclas padrão do seu teclado é o Internacional.
 
