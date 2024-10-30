@@ -137,7 +137,7 @@ As camadas que já vem com o seu teclado são:
 <details>
     <summary><strong>Clique aqui para ver as teclas das camadas que já vem com seu teclado</strong></summary>
 
-![Exemplo camadas](./imagens/camadas_v102.svg)
+![Exemplo camadas](./imagens/todas_camadas.svg)
 
 </details>
 

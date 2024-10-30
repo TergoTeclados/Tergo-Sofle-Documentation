@@ -18,4 +18,4 @@ As camadas que já vem com o seu teclado são:
 
 Use a interface do Vial para entender facilmente o conteúdo de cada camada, e modifique como ficar mais confortável para você!
 
-![Exemplo camadas](../imagens/camadas_v102.svg)
+![Exemplo camadas](../imagens/todas_camadas.svg)
