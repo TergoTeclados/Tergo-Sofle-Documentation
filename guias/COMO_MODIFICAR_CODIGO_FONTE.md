@@ -46,6 +46,16 @@ Você agora pode encontrar as configurações do teclado na pasta `keyboards/ter
 
 Faça suas customizações e aproveite sua jornada!
 
+## Atenção em relação a compatibilidade do Vial
+
+O Vial é um fork do QMK. A maioria da documentação que você vai encontrar é diretamente relacionada ao QMK.
+
+Dado isso, há certas funcionalidades do Vial (não muito claras) que, de acordo com nossos testes e pesquisas, parecem não ser compatíveis com o fork do Vial (que é usado), e não resultam em nenhum efeito pois são sobrepostas pelo Vial.
+
+- `TAPPING_TERM_PER_KEY` e semelhantes (como `PERMISSIVE_HOLD_PER_KEY`)
+
+_Caso encontre outras, agradecemos caso possa contribuir a essa lista_
+
 ## Se aventure na documentação e nos fóruns
 
 Bem vindo à comunidade do QMK!
