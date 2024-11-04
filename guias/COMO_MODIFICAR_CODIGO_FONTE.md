@@ -52,7 +52,13 @@ O Vial é um fork do QMK. A maioria da documentação que você vai encontrar é
 
 Dado isso, há certas funcionalidades do Vial (não muito claras) que, de acordo com nossos testes e pesquisas, parecem não ser compatíveis com o fork do Vial (que é usado), e não resultam em nenhum efeito pois são sobrepostas pelo Vial.
 
+O que parece não funcionar:
+
 - `TAPPING_TERM_PER_KEY` e semelhantes (como `PERMISSIVE_HOLD_PER_KEY`)
+
+O que houve dúvida se funcionava mas parece ter funcionado:
+
+- `QUICK_TAP_TERM`
 
 _Caso encontre outras, agradecemos caso possa contribuir a essa lista_
 
