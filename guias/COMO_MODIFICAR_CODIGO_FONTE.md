@@ -30,6 +30,16 @@ Após realizar os passos anteriores, abra o QMK MSYS na pasta do firmware e exec
 
 _Ps: Seu Tergo Sofle pode ter ou não RGB e telas OLED. Você não precisa se preocupar em desabilitar essas funcionalidades ao compilar o firmware caso não tenha algo pois funcionará normalmente._
 
+## Gravar firmware no teclado
+
+Caso tenha conseguido compilar sem erros o firmware, o arquivo com o firmware a ser usado se encontrará na pasta `.build`, na raiz do repositório.
+
+Ele tem a extensão `.uf2`, e o nome será algo semelhante a `tergo_sofle_rev1_default_rp2040_ce.uf2`.
+
+Copie esse arquivo e use ele para gravar seu teclado.
+
+Para fazer isso, basta seguir os passos do [guia de como atualizar o firmware](./COMO_ATUALIZAR_FIRMWARE.md).
+
 ## Começar as modificações
 
 Você agora pode encontrar as configurações do teclado na pasta `keyboards/tergo_sofle`.
