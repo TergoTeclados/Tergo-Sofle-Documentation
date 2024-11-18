@@ -11,7 +11,7 @@ Recomenda-se seguir em ordem a leitura dos guias:
 - [Guia de Modificações e Funcionalidades que Contribuem para Ergonomia](./guias/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md), que mostra como usar funcionalidades avançadas do teclado ao seu favor;
 - [Guia de Tópicos Avançados](./guias/TOPICOS_AVANCADOS.md), para você entender profundamente de detalhes do seu teclado especial e entender seu potencial máximo.
 
-O restante dos guias são referenciados nos guias acima:
+Outros guias úteis a serem consultados quando necessário:
 
 - [Como usar layout de teclas em português ABNT](./guias/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md)
 - [Como atualizar firmware](./guias/COMO_ATUALIZAR_FIRMWARE.md)
