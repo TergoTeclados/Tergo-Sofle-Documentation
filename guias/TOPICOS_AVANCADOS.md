@@ -23,8 +23,7 @@ Para uma visão geral das funcionalidades, consulte o [Manual do Usuário](../MA
       - [Tapping Term](#tapping-term)
       - [Comportamento do Tap Hold padrão do Tergo Sofle](#comportamento-do-tap-hold-padr-o-do-tergo-sofle)
       - [Tecnologia usada para diferenciar o comportamento](#tecnologia-usada-para-diferenciar-o-comportamento)
-
-## Vial
+  * [Caps Word](#caps-word)
 
 Com o [Vial](https://get.vial.today/), você pode desfrutar do poder de diversas funcionalidades do seu teclado de forma rápida.
 
@@ -150,3 +149,25 @@ A peculiaridade dela é que é ela que permite o último caso dado como exemplo 
 ### Configurações do OLED
 
 Você pode modificar o conteúdo das telas OLED e outras variáveis modificando diretamente o firmware do teclado. Veja o [guia de como modificar o código-fonte](./COMO_MODIFICAR_CODIGO_FONTE.md.md) para isso.
+
+## Caps Word
+
+Caps Word é uma alternativa interessante à tecla `Caps Lock`.
+
+Funciona assim:
+
+- Ao ativar, seus caracteres ficarão em maiúsculo (assim como o Caps Lock);
+
+- Ao clicar no `espaço`, ele automaticamente voltará ao normal (como se tivesse desligado o Caps Lock);
+
+- A tecla `-` é substituída por `_` enquanto ativo (útil para programadores).
+
+Além disso, nas telas OLED, o texto referente ao `Caps Lock` estar ativo também é ativado ao usar o Caps Word.
+
+### Como usar
+
+No software Vial, você encontra a tecla `CapsWord` no submenu de teclas "User". Aloque ela em alguma posição no seu teclado.
+
+#### Sugestão de uso
+
+Você pode usá-la com um combo, assim como o combo sugerido para ativar o Caps Lock [no guia de modificações e funcionalidades](./MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md/#ideias-de-combos).

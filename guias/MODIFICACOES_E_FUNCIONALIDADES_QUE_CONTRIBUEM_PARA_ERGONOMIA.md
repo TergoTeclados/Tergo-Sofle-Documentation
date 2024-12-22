@@ -11,7 +11,7 @@ Neste guia você descobrirá como diversas funcionalidades como modificar o layo
     + [Tecla + modificador em um só clique](#tecla--modificador-em-um-só-clique)
     + [Macros](#macros)
     + [Combos](#combos)
-      - [Ideias de combos](#ideias-de-combos)
+    + [Ideias de combos](#ideias-de-combos)
   * [Sugestões de adaptações no layout do Tergo Sofle](#sugestões-de-adaptações-no-layout-do-tergo-sofle)
     + [Tirar Backspace e Enter dos dedões](#tirar-backspace-e-enter-dos-dedões)
     + [Criar camadas dedicadas](#criar-camadas-dedicadas)
@@ -95,7 +95,7 @@ Clique duas ou mais teclas ao mesmo tempo e tenha como resultado uma outra tecla
 
 Um exemplo de aplicação é fazer com que pressionar 2 teclas ao mesmo tempo resultem em teclas especiais como Enter, Backspace, ou mesmo Capslock.
 
-#### Ideias de combos
+### Ideias de combos
 
 Experimente, por exemplo, fazer um macro que ative Capslock ao clicar `R` e `U`, que são 2 teclas que sempre estão próximas aos seus dedos.
 
