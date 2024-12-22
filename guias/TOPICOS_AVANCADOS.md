@@ -160,6 +160,8 @@ Funciona assim:
 
 - Ao clicar no `espaço`, ele automaticamente voltará ao normal (como se tivesse desligado o Caps Lock);
 
+- Desativa automaticamente depois de 5 segundos sem interagir com o teclado;
+
 - A tecla `-` é substituída por `_` enquanto ativo (útil para programadores).
 
 Além disso, nas telas OLED, o texto referente ao `Caps Lock` estar ativo também é ativado ao usar o Caps Word.
