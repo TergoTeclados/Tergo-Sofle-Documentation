@@ -1,12 +1,9 @@
-# Dados usados para desenhar layout no Keymap Drawer 
-# https://keymap-drawer.streamlit.app/
-
 layout: {qmk_keyboard: splitkb/aurora/sofle_v2/rev1, qmk_layout: LAYOUT}
 layers:
-  Base (Padrão Internacional): [ESC, '1 !', '2 @', '3 #', '4 $', '5 %', '6 ^', '7 &', '8 *', '9 (', '0 )', '- _', TAB, Q, W, E, R, T, Y, U, I, O, P, BSPC, LSFT, A, S, D, F, G, H, J, K, L, '; :', ''' "', LCTL, Z, X, C,
-    V, B, L4, L3, N, M, ', <', '. >', '/ ?', RSFT, L5, LGUI, LALT, SPC, L2, ENT, BSPC, DEL, RGUI, RCTL]
-  Base (Padrão ABNT): [ESC, '1 !', '2 @', '3 #', '4 $', '5 %', '6 ¨', '7 &', '8 *', '9 (', '0 )', '- _', TAB, Q, W, E, R, T, Y, U, I, O, P, {t: '´ `', type: held}, LSFT, A, S, D, F, G, H, J, K, L, {t: 'Ç', type: held}, {t: '^ ~', type: held}, LCTL, Z, X, C,
-    V, B, L4, L3, N, M, ', <', '. >', {t: ': ;', type: held}, {t: '/ ?', type: held}, L5, LGUI, LALT, SPC, L2, ENT, BSPC, DEL, RGUI, RCTL]
+  Base (Padrão Internacional): [ESC, '1 !', '2 @', '3 #', '4 $', '5 %', '6 ^', '7 &', '8 *', '9 (', '0 )', '- _', TAB, Q, W, E, R, T, Y, U, I, O, P, 'BKSPC ←', SHIFT, A, S, D, F, G, H, J, K, L, '; :', ''' "', CTRL, Z, X, C,
+    V, B, L4, 'L3', N, M, ', <', '. >', '/ ?', 'ENTER ↲', L5, 'WIN MAC LINUX', LALT, 'SPACE ⌴', L2, 'ENTER ↲', 'BKSPC ←', DEL, 'WIN MAC LINUX', CTRL]
+  Base (Padrão ABNT2): [ESC, '1 !', '2 @', '3 #', '4 $', '5 %', '6 ^', '7 &', '8 *', '9 (', '0 )', {t: 'BKSPC ←', type: held}, TAB, Q, W, E, R, T, Y, U, I, O, P, {t: "´ `", type: held}, SHIFT, A, S, D, F, G, H, J, K, L, {t: "Ç", type: held}, {t: "^ ~", type: held}, CTRL, Z, X, C,
+    V, B, L4, 'L3', N, M, ', <', '. >', {t: "; :", type: held}, {t: "/ ?", type: held}, L5, 'WIN MAC LINUX', LALT, 'SPACE ⌴', L2, 'ENTER ↲', 'BKSPC ←', DEL, 'WIN MAC LINUX', CTRL]
   Base (Modo Adept):
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -33,19 +30,16 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {h: LGUI, t: A}
-  - {h: LALT, t: S}
-  - {h: LCTL, t: D}
-  - {h: LSFT, t: F}
+  - {h: GUI, t: A}
+  - {h: ALT, t: S}
+  - {h: CTRL, t: D}
+  - {h: SHIFT, t: F}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {h: LSFT, t: J}
-  - {h: LCTL, t: K}
-  - {h: LALT, t: L}
-  - {h: LGUI, t: ';:'}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {h: SHIFT, t: J}
+  - {h: CTRL, t: K}
+  - {h: ALT, t: L}
+  - {h: GUI, t: ';:'}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -61,7 +55,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {h: 'L Mouse', t: SPC}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {h: 'L Mouse', t: SPACE}
   - {h: 'L Symb', t: TAB}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -87,10 +84,10 @@ layers:
   - '+'
   - '{'
   - '}'
-  - 'PGUP'
-  - 'HOME'
-  - 'UP'
-  - 'END'
+  - '↑PGUP'
+  - '←HOME'
+  - '↑'
+  - 'END→'
   - 'INSERT'
   - F12
   - {t: ▽, type: trans}
@@ -99,11 +96,11 @@ layers:
   - '-'
   - '('
   - ')'
-  - 'PGDN'
-  - 'LEFT'
-  - 'DOWN'
-  - 'RIGHT'
-  - 'PSCR'
+  - '↓PGDN'
+  - '←'
+  - '↓'
+  - '→'
+  - 'PRINT'
   - ''
   - {t: ▽, type: trans}
   - '\'
@@ -113,10 +110,10 @@ layers:
   - ']'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - CAPS
-  - 'LCTL +LEFT'
+  - CAPSLOCK
+  - 'CTRL +LEFT'
   - ESC
-  - 'LCTL +RGHT'
+  - 'CTRL +RGHT'
   - PAUSE
   - ''
   - {t: ▽, type: trans}
@@ -338,10 +335,10 @@ layers:
   - ''
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - 'LGUI'
-  - 'LALT'
-  - 'LCTL'
-  - 'LSFT'
+  - 'GUI'
+  - 'ALT'
+  - 'CTRL'
+  - 'SHIFT'
   - ''
   - 'Wheel DOWN'
   - 'Mouse LEFT'
