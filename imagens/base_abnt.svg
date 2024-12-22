@@ -192,10 +192,10 @@ path.combo { stroke: #7f7f7f; }
 <tspan x="0" dy="-0.6em">0</tspan><tspan x="0" dy="1.2em">)</tspan>
 </text>
 </g>
-<g transform="translate(868, 63)" class="key keypos-11">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">-</tspan><tspan x="0" dy="1.2em">_</tspan>
+<g transform="translate(868, 63)" class="key held keypos-11">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held"/>
+<text x="0" y="0" class="key held tap">
+<tspan x="0" dy="-0.6em">BKSPC</tspan><tspan x="0" dy="1.2em">←</tspan>
 </text>
 </g>
 <g transform="translate(28, 119)" class="key keypos-12">
@@ -414,4 +414,4 @@ path.combo { stroke: #7f7f7f; }
 </g>
 </g>
 </g>
-<text x="926.0" y="426.0" class="footer">Layout de teclas</text></svg>
+</svg>
