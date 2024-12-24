@@ -1,8 +1,8 @@
-layout: {qmk_keyboard: splitkb/aurora/sofle_v2/rev1, qmk_layout: LAYOUT}
+layout: {qmk_keyboard: splitkb/aurora/sofle_v2/rev1, layout_name: LAYOUT}
 layers:
   Base (Padrão Internacional): [ESC, '1 !', '2 @', '3 #', '4 $', '5 %', '6 ^', '7 &', '8 *', '9 (', '0 )', '- _', TAB, Q, W, E, R, T, Y, U, I, O, P, 'BKSPC ←', SHIFT, A, S, D, F, G, H, J, K, L, '; :', ''' "', CTRL, Z, X, C,
     V, B, L4, 'L3', N, M, ', <', '. >', '/ ?', 'ENTER ↲', L5, 'WIN MAC LINUX', LALT, 'SPACE ⌴', L2, 'ENTER ↲', 'BKSPC ←', DEL, 'WIN MAC LINUX', CTRL]
-  Base (Padrão ABNT2): [ESC, '1 !', '2 @', '3 #', '4 $', '5 %', '6 ^', '7 &', '8 *', '9 (', '0 )', {t: 'BKSPC ←', type: held}, TAB, Q, W, E, R, T, Y, U, I, O, P, {t: "´ `", type: held}, SHIFT, A, S, D, F, G, H, J, K, L, {t: "Ç", type: held}, {t: "^ ~", type: held}, CTRL, Z, X, C,
+  Base (Padrão ABNT2): [ESC, '1 !', '2 @', '3 #', '4 $', '5 %', '6 ^', '7 &', '8 *', '9 (', '0 )', '- _', TAB, Q, W, E, R, T, Y, U, I, O, P, {t: "´ `", type: held}, SHIFT, A, S, D, F, G, H, J, K, L, {t: "Ç", type: held}, {t: "^ ~", type: held}, CTRL, Z, X, C,
     V, B, L4, 'L3', N, M, ', <', '. >', {t: "; :", type: held}, {t: "/ ?", type: held}, L5, 'WIN MAC LINUX', LALT, 'SPACE ⌴', L2, 'ENTER ↲', 'BKSPC ←', DEL, 'WIN MAC LINUX', CTRL]
   Base (Modo Adept):
   - {t: ▽, type: trans}
@@ -187,6 +187,67 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  Ajustes (versão Wireless):
+  - ''
+  - '🛜 BT1'
+  - '🛜 BT2'
+  - '🛜 BT3'
+  - '🛜 BT4'
+  - '🛜 BT5'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '🛜 Clear All'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '🛜 PC⟷BT'
+  - ''
+  - ''
+  - ''
+  - ''
+  - '🛜 Clear Profile'
+  - ''
+  - ''
+  - ''
+  - '⚙️ Boot Left'
+  - ''
+  - 'Base Layer 0'
+  - 'Base Layer 1'
+  - 'Base Layer 2'
+  - ''
+  - {t: ▽, type: trans}
+  - {type: held}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '⚙️ Boot Right'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   Mídia:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -309,7 +370,7 @@ layers:
   - '0'
   - '0'
   - '.'
-  Simulador de Mouse:
+  Simulador de Mouse (modo Adepto):
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -372,3 +433,64 @@ layers:
   - {t: ▽, type: trans}
   Exemplo Home Row Mod: [ESC, '1 !', '2 @', '3 #', '4 $', '5 %', '6 ^', '7 &', '8 *', '9 (', '0 )', '- _', TAB, Q, W, E, R, T, Y, U, I, O, P, BSPC, LSFT, {h: GUI, t: A, type: held}, {h: ALT, t: S, type: held}, {h: CTRL, t: D, type: held}, {h: SFT, t: F, type: held}, G, H, {h: SFT, t: J, type: held}, {h: CTRL, t: K, type: held}, {h: ALT, t: L, type: held}, {h: GUI, t: '; :', type: held}, ''' "', LCTL, Z, X, C,
     V, B, L4, L3, N, M, ', <', '. >', '/ ?', RSFT, L5, LGUI, LALT, SPC, L2, ENT, BSPC, DEL, RGUI, RCTL]
+  Receptor - Ativar modo de gravação:
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {type: held}
+  - {type: held}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {type: held}
+  - {type: held}

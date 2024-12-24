@@ -2,6 +2,10 @@
 
 A Tergo Teclados pretende continuar realizando melhorias no _firmware_ do teclado. Para atualizá-lo é fácil, basta seguir as instruções aqui presentes.
 
+> [!TIP]
+>
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
+
 ## Visualizar versão atual
 
 Você pode ver a versão do firmware do seu teclado indo para a camada de ajustes e visualizando a tela OLED direita, na parte superior.
@@ -24,9 +28,15 @@ Clique em "File > Save current layout" (ou use o atalho `Ctrl+S`), e o salve em 
 
 ## Colocar firmware no teclado
 
+Cada metade do teclado conta com uma placa controladora independente, que pode ser acessada a partir do USB **superior** de cada metade. É a partir dele que atualizaremos cada metade para uma nova versão do _firmware_.
+
+> [!IMPORTANT]
+> Atenção às entradas USB que serão usadas para atualizar o firmware: são as entradas superiores de cada metade do teclado.
+> As entradas USBs das laterais servem puramente para a comunicação entre as metades do teclado.
+
 ### Gravar o lado esquerdo
 
-- Inicialmente, desconecte o cabo que conecta o teclado ao computador.
+- Inicialmente, desconecte o cabo que conecta o teclado ao computador, que fica conectado à parte superior do teclado.
 
 - Mantenha pressionada a tecla superior mais à esquerda (que por padrão é o `ESC`) e conecte novamente o cabo energizado. [Este breve vídeo](https://www.youtube.com/watch?v=cs2bDVUJNUQ) mostra este passo.
 
@@ -40,7 +50,15 @@ Após isso, a pasta deve sumir automaticamente, indicando que a placa controlado
 
 ### Gravar o lado direito
 
-- Faça os mesmos passos que o lado esquerdo, porém agora para o lado direito, sendo que a tecla a ser pressionada é a mais superior à direita.
+Agora, você ainda usará o cabo USB que está conectado ao seu computador para gravar o lado esquerdo.
+
+Dessa vez, ele será conectado na entrada USB superior da metdade direita do teclado, que é onde fica a placa controladora.
+
+Faça os mesmos passos que o lado esquerdo, porém agora para o lado direito, sendo que dessa vez a tecla a ser pressionada é a mais superior à direita.
+
+> [!IMPORTANT]
+> O USB para atualizar o lado direito, assim como é para o esquerdo, é o que fica na parte superior do teclado, e não os laterais.
+> Os USBs laterais servem apenas para a comunicação entre as metades do teclado.
 
 ## Importar configuração do Vial
 

@@ -2,35 +2,15 @@
 
 Neste guia você descobrirá como diversas funcionalidades como modificar o layout de teclas ou teclas especiais da tecnologia utilizada pelo Tergo Sofle podem te fornecer uma experiência de digitação mais otimizada e aplicando ideias de ergonomia.
 
-## Sumário
-
-  * [Adapte o layout de teclas para suas necessidades](#adapte-o-layout-de-teclas-para-suas-necessidades)
-  * [Reposicionar teclas de forma que as teclas mais frequentes fiquem próximas da "home row"](#reposicionar-teclas-de-forma-que-as-teclas-mais-frequentes-fiquem-próximas-da--home-row)
-    + [Home Row Mod](#home-row-mod)
-  * [Minimizar o número de passos necessários para realizar uma ação](#minimizar-o-número-de-passos-necessários-para-realizar-uma-ação)
-    + [Tecla + modificador em um só clique](#tecla--modificador-em-um-só-clique)
-    + [Macros](#macros)
-    + [Combos](#combos)
-    + [Ideias de combos](#ideias-de-combos)
-  * [Sugestões de adaptações no layout do Tergo Sofle](#sugestões-de-adaptações-no-layout-do-tergo-sofle)
-    + [Tirar Backspace e Enter dos dedões](#tirar-backspace-e-enter-dos-dedões)
-    + [Criar camadas dedicadas](#criar-camadas-dedicadas)
-    + [Teclas com duplo comportamento](#teclas-com-duplo-comportamento)
-    + [Colocar duplo comprtamento nas teclas extras abaixo das telas](#colocar-duplo-comportamento-nas-teclas-extras-abaixo-das-telas)
-    + [Colocar duplo comportamento nas teclas do dedão para mudar de camada](#colocar-duplo-comportamento-nas-teclas-do-dedão-para-mudar-de-camada)
-  * [Layouts de teclas além do QWERT](#layouts-de-teclas-além-do-qwert)
-    + [Layout de teclas QWERT](#layout-de-teclas-qwert)
-    + [Layout de teclas Dvorak](#layout-de-teclas-dvorak)
-      - [Layout de teclas Colemak](#layout-de-teclas-colemak)
-  * [Layout popular otimizado para poucas teclas: Miryoku](#layout-popular-otimizado-para-poucas-teclas-miryoku)
-  * [Próximos passos](#próximos-passos)
-
+> [!TIP]
+>
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
 
 ## Adapte o layout de teclas para suas necessidades
 
 Procure entender que teclas você usa com mais frequência e posicioná-las estrategicamente de forma que seja confortável de usá-las.
 
-Utilize a interface do Vial para mudar o conteúdo de cada camada de teclas.
+Utilize a interface do software de customização para mudar o conteúdo de cada camada de teclas.
 
 A principal dica para ter em mente ao modificar o layout das suas teclas para algo mais otimizado para você é que teclas as mais frequentemente utilizadas devem exigir o mínimo de esforço para serem digitadas.
 
@@ -55,7 +35,7 @@ Um exemplo de aplicação muito popular desse conceito é o "home row mod", que 
 
 <img src="../imagens/exemplo_home_row_mod.svg" alt="Exemplo" width="800">
 
-Esta é uma funcionalidade que já vem configurada na camada do modo Adepto (camada 1). Experimente mudar o teclado para o modo adepto, como explicado no [manual do usuário](../MANUAL_DO_USUARIO.md#alterar-camada-base). Então, por exemplo, segure a letra `F` (que assim se comportará como se você estivesse segurando o `Shift`) e clique em uma letra, como a `U`, para ter o caracter maiúsculo.
+Esta é uma funcionalidade que já vem configurada na camada do modo Adepto (camada 1). Experimente mudar o teclado para o modo adepto, como explicado no manual do Tergo Sofle. Então, por exemplo, segure a letra `F` (que assim se comportará como se você estivesse segurando o `Shift`) e clique em uma letra, como a `U`, para ter o caracter maiúsculo.
 
 Com isso, você não precisa mover os dedos para alcançar esses modificadores que normalmente ficam nas laterais do teclado.
 
@@ -65,15 +45,17 @@ _Como isto funciona é explicado com mais detalhes no próximo guia (o de [funci
 
 ### Tecla + modificador em um só clique
 
-Se você usa com muita frequência alguma funcionalidade, como, por exemplo "Ctrl + Seta para o lado" (que resulta em pular uma palavra para a esquerda ou direita), você pode programar uma tecla para fazer esses passo com um só clique, na própria interface do Vial.
+Se você usa com muita frequência alguma funcionalidade, como, por exemplo "Ctrl + Seta para o lado" (que resulta em pular uma palavra para a esquerda ou direita), você pode programar uma tecla para fazer esses passo com um só clique, na própria interface do software de customização.
 
-Há um exemplo disso aplicado na camada de símbolos e navegação (camada de número "3" no Vial). Repare nas teclas abaixo de onde seriam as setas (Left e Right).
+Há um exemplo disso aplicado na camada de símbolos e navegação. Repare nas teclas abaixo de onde seriam as setas (Left e Right).
 
 <img src="../imagens/exemplo_tecla_control_seta.png" alt="Exemplo Cabos" width="500">
 
-Para fazer o que foi feito no exemplo acima, você pode usar as teclas especiais disponível no submenu "Quantum". 
+> [!NOTE]
+> No Vial (software da versão com fio), para fazer o que foi feito no exemplo acima, você pode usar as teclas especiais disponível no submenu "Quantum". Para entender o que cada tecla desse menu faz, você pode [consultar este trecho da documentação oficial do firmware QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md#modifiers-modifiers).
 
-Para entender o que cada tecla desse menu faz, você pode (apenas no aplicativo baixado do Vial) manter o mouse em cima que aparece uma dica flutuante. Ou então, [consultar este trecho da documentação oficial do firmware QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md#modifiers-modifiers), que é o utilizado.
+> [!NOTE]
+> Já é suportado pelo ZMK Studio (software da versão sem fio) esta funcionalidade.
 
 ### Macros
 
@@ -81,13 +63,19 @@ Com a ajuda de macros, você pode ser ainda mais criativo.
 
 Macros simulam sequências de ações, como pressionar teclas específicas simultaneamente ou uma após a outra.
 
-Há vários exemplos de aplicaçõe que você pode ver na [documentação do Vial sobre macros](https://get.vial.today/manual/macros.html#examples).
-
 Um exemplo mostrado é abrir o gerenciador de tarefas do Windows, por exemplo, por meio de segurar o `Ctrl`+`Shift` e clicar `ESC`:
 
 <img src="../imagens/exemplo_macro.png" alt="Exemplo" width="500">
 
-Você pode criar macros pelo submenu "Macros" no software Vial.
+> [!NOTE]
+> No Vial (software da versão com fio), há vários exemplos de aplicações que você pode ver na [documentação do Vial sobre macros](https://get.vial.today/manual/macros.html#examples).
+>
+> Você pode criar macros pelo submenu "Macros" no software Vial.
+
+> [!NOTE]
+> No ZMK Studio (software da versão sem fio), até a data de escrita desta documentação, ainda não é possível customizar isso pelo software. É necessário modificar o código-fonte. Para isso, você pode consultar o guia de [como modificar o código fonte (ZMK)](./especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
+>
+> É previsto que o ZMK Studio venha a suportar isso no futuro. Isso pode ser visto na [lista de funcionalidades previstas do ZMK Studio](https://zmk.dev/docs/features/studio).
 
 ### Combos
 
@@ -105,11 +93,14 @@ Ou então,
 
 que tal `W`+`E`+`R` para ativar o `espaço` e `U`+`I`+`O` para ativar o `backspace`?
 
-Você pode criar combos pelo submenu "Combos" no software Vial.
+> [!NOTE]
+> No Vial (software da versão com fio), você pode criar combos pelo submenu "Combos". Saiba mais vendo a [documentação do Vial sobre combos](https://get.vial.today/manual/combos.html).
 
-Saiba mais vendo a [documentação do Vial sobre combos](https://get.vial.today/manual/combos.html).
 
-(Mais detalhes sobre isso em breve)
+> [!NOTE]
+> No ZMK Studio (software da versão sem fio), até a data de escrita desta documentação, ainda não é possível customizar isso pelo software. É necessário modificar o código-fonte. Para isso, você pode consultar o guia de [como modificar o código fonte (ZMK)](./especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
+>
+> É previsto que o ZMK Studio venha a suportar isso no futuro. Isso pode ser visto na [lista de funcionalidades previstas do ZMK Studio](https://zmk.dev/docs/features/studio).
 
 ## Sugestões de adaptações no layout do Tergo Sofle
 
@@ -146,7 +137,7 @@ Por padrão, há 2 teclas abaixo da região das telas que servem para mudar a ca
 
 <img src="../imagens/teclas-embaixo-da-tela.png" alt="Exemplo" width="300">
 
-Que tal modificarmos para que, quando eu apenas clicar nelas (ao invés de segurar) elas façam alguma outra coisa? 
+Que tal modificarmos para que, quando eu apenas clicar nelas (ao invés de segurar), elas façam alguma outra coisa? 
 
 Como, por exemplo, uma pode ser usada para ativar o CapsLock. A outra para tirar _print_ da tela.
 
@@ -154,9 +145,11 @@ Para isso, ficamos com o exemplo abaixo:
 
 <img src="../imagens/teclas-embaixo-da-tela-depois.png" alt="Exemplo" width="300">
 
-Para fazer isso, basta ir para o submenu de teclas `layers` e colocar no lugar das teclas a tecla `LT` seguida do número da camada de destino que você quer que seja ativada ao segurar a tecla.
+> [!NOTE]
+> No Vial (software da versão com fio), para fazer isso, basta ir para o submenu de teclas `layers` e colocar no lugar das teclas a tecla `LT` seguida do número da camada de destino que você quer que seja ativada ao segurar a tecla. Em seguida, você poderá escolher qual tecla por padrão será ativada ao simplesmente clicar a tecla.
 
-Em seguida, você poderá escolher qual tecla por padrão será ativada ao simplesmente clicar a tecla.
+> [!NOTE]
+> Já é suportado pelo ZMK Studio (software da versão sem fio) esta funcionalidade. Entenda a funcionalidade vendo a documentação do ZMK sobre [Mod-Tap](https://zmk.dev/docs/keymaps/behaviors/mod-tap), [Layer-Tap](https://zmk.dev/docs/keymaps/behaviors/layers#layer-tap) e [Hold-Tap](https://zmk.dev/docs/keymaps/behaviors/hold-tap).
 
 ### Colocar duplo comportamento nas teclas do dedão para mudar de camada
 
@@ -166,11 +159,12 @@ Repare nessas teclas comentadas no exemplo abaixo.
 
 <img src="../imagens/exemplo_tap_hold_layer.svg" alt="Exemplo Cabos" width="800">
 
-Há 2 exemplos disso no Vial na camada 1 (modo adepto), nas teclas do dedão esquerdo. Use-os como referência.
+Há 2 exemplos disso na camada especial do modo adepto, nas teclas do dedão esquerdo. Use-os como referência no software de customização.
 
-Mas resumidamente, para fazer isso, abra o submenu de teclas "Layers" e coloque no lugar da tecla que você quer substituir o botão com nome `LT` seguido de um número que representa a camada de destino que você quer ativar ao segurar a tecla. Em seguida, escolha a tecla que será ativada caso você simplesmente clique a tecla.
+> [!NOTE]
+> No Vial (software da versão com fio), para fazer isso, resumidamente, abra o submenu de teclas "Layers" e coloque no lugar da tecla que você quer substituir o botão com nome `LT` seguido de um número que representa a camada de destino que você quer ativar ao segurar a tecla. Em seguida, escolha a tecla que será ativada caso você simplesmente clique a tecla.
 
-## layouts  de teclas além do QWERTY
+## layouts de teclas além do QWERTY
 
 Uma das aplicações da ideia de reposicionar as teclas como comentado [mais acima neste guia](#reposicionar-teclas-de-forma-que-as-teclas-mais-frequentes-fiquem-próximas-da-home-row) (e que exige mais sair da zona de conforto) é reposicionar as letras do seu teclado de forma a otimizar sua digitação.
 
@@ -190,7 +184,7 @@ Uma das teorias é que ele foi feito justamente para deixar o digitador mais len
 
 Visto isso, há diversos layouts criados pensando em otimizar a digitação. Vou te resumir 2 principais populares.
 
-### Layout de teclas Dvorak
+#### Layout de teclas Dvorak
 
 <img src="../imagens/layout_dvorak.png" alt="Exemplo" width="500"> 
 
@@ -210,9 +204,16 @@ Um layout altamente popular na comunidade de teclados ergonômicos é o [Miryoku
 
 Ele foi pensado para usar pouquissimas teclas, utilizando altamente do sistema de camadas de teclas e teclas com duplo comportamento.
 
-A imagem abaixo é pouco legível mas mostra, para cada cor, a funcionalidade que a tecla assume em determinada camada.
+Ele aplica diversos conceitos:
+- Utilização de um layout compacto, com poucas teclas
+- Teclas com duplo comportamento que ao serem seguradas alteram funcionalidades do teclado
+- Utilização das teclas do dedão para alteração das camadas
+- Entre outros.
 
 Caso queira ver cada camada individualmente para se inspirar e entender melhor, [clique aqui](https://github.com/manna-harbour/miryoku/tree/master/docs/reference#layers).
+
+> [!TIP]
+> Para entender a imagem abaixo, recomendo vê-las separadas [clicando aqui](https://github.com/manna-harbour/miryoku/tree/master/docs/reference#layers). Mas interpretá-la, repare nos textos que ficam na parte debaixo das **teclas do dedão**. O texto indica qual camada será ativada ao segurar a tecla. Assim, por exemplo, ao segurar a "Nav" (que tem cor azul claro), as funcionalidades das teclas mudarão para teclas de navegação (marcadas também na cor azul claro).
 
 <img src="../imagens/miryoku.png" alt="Exemplo" width="800">
 
