@@ -4,8 +4,7 @@ Este manual visa discutir aspectos de ergonomia focados na digitação e maneira
 
 ## Sumário
 
-  * [Atenção](#atenção)
-    + [Parte da ergonomia é entender o que é confortável para seu corpo](#parte-da-ergonomia-é-entender-o-que-é-confortável-para-seu-corpo)
+  * [Parte da ergonomia é entender o que é confortável para seu corpo](#parte-da-ergonomia-é-entender-o-que-é-confortável-para-seu-corpo)
     + [Isenção de Responsabilidade](#isenção-de-responsabilidade)
   * [Postura no Uso do Computador](#postura-no-uso-do-computador)
   * [Qual a melhor forma de posicionar cada lado do teclado Tergo?](#qual-a-melhor-forma-de-posicionar-cada-lado-do-teclado-tergo)
@@ -44,17 +43,18 @@ Este manual visa discutir aspectos de ergonomia focados na digitação e maneira
 
 
 
-## Atenção
+## Parte da ergonomia é entender o que é confortável para seu corpo
 
-### Parte da ergonomia é entender o que é confortável para seu corpo
-
-Todos temos corpos e equipamentos diferentes. Caso os conselhos que você encontra aqui possam parecer não fazer sentido, procure entender o porquê deles e soluções que melhor se adequem ao seu corpo.
+> [!IMPORTANT]
+> Todos temos corpos e equipamentos diferentes. Caso os conselhos que você encontra aqui possam parecer não fazer sentido, procure entender o porquê deles e soluções que melhor se adequem ao seu corpo.
 
 ### Isenção de Responsabilidade
 
-Antes de qualquer dica e informação sobre ergonomia que eu possa te passar, é importante destacar que não possuimos especialista com formação em área médica nem fisioterapia. Recomenda-se que se consulte um especialista na presença de qualquer problema de saúde para o devido laudo médico.
-
-As explicações e dicas que podemos te oferecer neste momento são baseadas em leituras, relatos e experiências de pessoas com problemas de dores, dentre eles que consultaram médicos e encontraram a solução de seus problemas na melhoria de hábitos, melhores periféricos (como o teclado Tergo), e fisioterapia.
+> [!WARNING]
+>
+> Antes de qualquer dica e informação sobre ergonomia que passaremos, é importante destacar que não possuimos especialista com formação em área médica nem fisioterapia. Recomenda-se que se consulte um especialista na presença de qualquer problema de saúde para o devido laudo médico.
+>
+> As explicações e dicas que podemos oferecer a você neste momento são baseadas em leituras, relatos e experiências de pessoas com problemas de dores, dentre eles que consultaram médicos e encontraram a solução de seus problemas na melhoria de hábitos, melhores periféricos (como o teclado Tergo), e fisioterapia.
 
 ## Postura no Uso do Computador
 
@@ -117,12 +117,12 @@ Considerando que você entendeu como se posicionar corretamente na sua cadeira, 
 
 A maneira recomendada de posicionar seus braços é com:
 - Ombros relaxados;
-- Seus braços devem estar posicionado de forma parecida com a imagem anterior de modo que você não sinta que seus músculos do ombro estejam sustentando seus braços abertos (o que deve gerar fadiga);
+- Seus braços devem estar posicionado de forma parecida com a imagem anterior de modo que você não sinta que seus músculos do ombro estejam sustentando seus braços abertos (o que pode gerar fadiga);
 - Aproximadamente 90 graus entre o braço e antebraço.
 
 ### Posicionamento dos dedos e mãos
 
-Posicione seus dedos na "home row", ou seja, seus indicadores nas teclas com relevo: F e J. Isto é, mão esquerda com dedos nas teclas A, S, D, F, e a direta nas teclas J, K, L, ;.
+Posicione seus dedos na "home row", ou seja, seus indicadores nas teclas com relevo: `F` e `J`. Isto é, mão esquerda com dedos nas teclas `A`, `S`, `D`, `F`, e a direta nas teclas `J`, `K`, `L`, `;`.
 
 Perceba que ao posicionar idealmente os dedos nessas teclas, especialmente o mindinho, você estará com a ponta dos dedos tocando a superfície das teclas e com a mão curvada para dentro, como se fosse uma garra.
 
@@ -148,13 +148,16 @@ Repare que uso a região do meio do dedo, próximo à articulação, para pressi
 
 <img src="../imagens/mao_dedao.jpg" alt="Exemplo Dedão" width="800">
 
-Uma outra dica para evitar que você perca referência de qual tecla seu dedão está durante a fase de adaptação à digitação nele é substituir a keycap dessa tecla pela tecla "5" que vem em kits de keycaps que incluem teclado numérico, pois essa tecla possui um relevo (assim com as teclas F e J) que ajudará você a se guiar.
+> [!TIP]
+> Uma dica para evitar que você perca referência de qual tecla seu dedão está durante a fase de adaptação à digitação nele é substituir a keycap dessa tecla pela tecla "5" que vem em kits de keycaps que incluem teclado numérico, pois essa tecla possui um **relevo** (assim com as teclas `F` e `J`) que ajudará você a se guiar.
 
 ## Como digitar
 
 ### Touch Typing
 
-"Touch Typing" é vista como a maneira recomendada de digitar mesmo em teclados convencionais. Resume-se a digitar sem olhar para o teclado e com 1 ou 2 colunas dedicadas para cada dedo da mão (exceto polegares). É um equilibrio entre aproveitar a maiora dos dedos das mãos e ter velocidade.
+"Touch Typing" é vista como a maneira recomendada de digitar mesmo em teclados convencionais.
+
+Resume-se a digitar sem olhar para o teclado e com 1 ou 2 colunas dedicadas para cada dedo da mão (exceto polegares). É um equilibrio entre aproveitar a maiora dos dedos das mãos e ter velocidade.
 
 Ao mesmo tempo, é importante destacar que variações dessa técnica podem funcionar até melhor para cada um. Você verá mais detalhes nas dicas mais abaixo.
 
@@ -170,13 +173,17 @@ Você pode experimentar alguns exemplos básicos e também pular direto para mai
 
 ### O Uso do Mindinho em Touch Typing
 
-Dependendo da maneira que você posiciona seus dedos nas teclas, você vai reparar que os mindinhos podem ter dificuldade de alcançar certas teclas, como o "Q" e "P". Isto é notável na foto mais acima que mostra a mão posicionada de forma extendida, na sessão de [posicionamento dos dedos e mãos](#posicionamento-dos-dedos-e-mãos).
+Dependendo da maneira que você posiciona seus dedos nas teclas, você vai reparar que os mindinhos podem ter dificuldade de alcançar certas teclas, como o `Q` e `P`.
 
-Uma alternativa é optar pelos dedos anelares para alcançarem essas teclas, reposicionar as mãos no teclado, ou digitar com flutuação das mãos.
+Isto é notável na foto mais acima que mostra a mão posicionada de forma estendida, na sessão de [posicionamento dos dedos e mãos](#posicionamento-dos-dedos-e-mãos).
+
+Uma alternativa recomendada é optar pelos dedos anelares para alcançarem essas teclas, reposicionar as mãos no teclado, ou digitar com flutuação das mãos.
 
 ### Experimente flutuar as mãos
 
-Mesmo o teclado sendo pensado para que as teclas fiquem todas ao alcance das mãos, você pode reparar que, para alcançar certas teclas, caso você mantenha os pulsos apoiados na mesa e dependendo do posicionamento da sua mão nas teclas, seus dedos podem fazer movimentos estranhos e seus pulsos rotações. Por exemplo: você pode ter que esticar muito ou retrair muito o dedo para alcançar as teclas mais a cima e mais abaixo em uma mesma coluna.
+Mesmo o teclado sendo pensado para que as teclas fiquem todas ao alcance das mãos, você pode reparar que, para alcançar certas teclas, caso você mantenha os pulsos apoiados na mesa e dependendo do posicionamento da sua mão nas teclas, seus dedos podem fazer movimentos estranhos e seus pulsos rotações. 
+
+Por exemplo: você pode ter que esticar muito ou retrair muito o dedo para alcançar as teclas mais a cima e mais abaixo em uma mesma coluna.
 
 Quando você digita flutuando as mãos, ou seja, sem apoiar os pulsos na mesa enquanto digita, o movimento dos pulsos se torna mínimo e você passa a responsabilidade para alcançar certas teclas para o movimento dos braços.
 
@@ -192,7 +199,7 @@ Além disso, na prática, passamos boa parte do tempo pensando e deixando os bra
 
 ### Curva de aprendizado
 
-Minha experiência e de diversos outros usuários em relação a se adaptar ao design do Tergo Sofle costuma relatar que em cerca de 1 mês você volta a digitar na velocidade que digitava antes de começar a utilizar o teclado ergonômico.
+Minha experiência e de diversos outros usuários em relação a se adaptar ao design do Tergo Sofle costuma relatar que **em cerca de 1 mês** você volta a digitar na velocidade que digitava antes de começar a utilizar o teclado ergonômico.
 
 Você não precisa fazer a mudança imediata de parar de usar o seu teclado convencional e usar 100% do tempo o Tergo. Na primeira semana é normal que você tenha uma velocidade de digitação mais lenta.
 
@@ -204,9 +211,10 @@ O sistema de camadas de teclas também requer prática para seu cérebro se acos
 
 Há diversos relatos de usuários que começaram a usar teclados ergonômicos divididos e aprenderam a digitar corretamente. Um exemplo recente que vi foi o seguinte:
 
-_"Quando mudei (de teclado), coloquei algo para ouvir em segundo plano e fiz testes de digitação de 20 a 40 minutos por dia. Eu sei que parece chato pra caramba, mas é meio pacífico e meditativo. Em cerca de duas semanas, eu estava totalmente proficiente. Pode levar mais ou menos tempo, mas compare isso com o tempo que você levou para aprender a digitar quando era criança e usou um computador pela primeira vez. Um pouco de dedicação no início compensa muito rapidamente."_
-
-_Comentário traduzido [dessa postagem](https://www.reddit.com/r/ErgoMechKeyboards/comments/1ed0i6j/this_is_embarrassing/)._
+> [!NOTE]
+> _"Quando mudei (de teclado), coloquei algo para ouvir em segundo plano e fiz testes de digitação de 20 a 40 minutos por dia. Eu sei que parece chato pra caramba, mas é meio pacífico e meditativo. Em cerca de duas semanas, eu estava totalmente proficiente. Pode levar mais ou menos tempo, mas compare isso com o tempo que você levou para aprender a digitar quando era criança e usou um computador pela primeira vez. Um pouco de dedicação no início compensa muito rapidamente."_
+>
+> _Comentário traduzido [dessa postagem](https://www.reddit.com/r/ErgoMechKeyboards/comments/1ed0i6j/this_is_embarrassing/)._
 
 #### Como treinar
 
@@ -214,13 +222,18 @@ Uma sugestão é fazer diariamente treinos de digitação com Touch Typing como 
 
 ### Vou esquecer como usar um teclado tradicional?
 
-Não! Seu cérebro cria memória muscular de como utilizar ambos teclados. A mudança entre eles requer um pequeno momento para ele relembrar como utilizar corretamente cada layout.
+Não! 
+
+Seu cérebro cria memória muscular de como utilizar ambos teclados. A mudança entre eles requer um pequeno momento para ele relembrar como utilizar corretamente cada layout.
 
 Mas mesmo assim você pode levar seu Tergo para onde quiser e sempre ter as vantagens de utilizá-lo com você, dado ser compacto e compatível com qualquer sistema.
 
 ### Sistema de Camada de Teclas
 
-Lembre-se de que você pode configurar as teclas de todas camadas usando o Vial. Assim, adapte as camadas de teclas para o que ficar mais confortável para você.
+Lembre-se de que você pode configurar as teclas de todas camadas usando o software do seu teclado. Assim, adapte as camadas de teclas para o que ficar mais confortável para você.
+
+> [!TIP]
+> Serão dadas mais dicas e sugestões sobre isso no próximo guia, o de customizações.
 
 Mas quando criar ou modificar alguma camada de teclas tenha em mente a seguinte dica: é interessante deixar os botões utilizados com mais frequência o mais próximo possível da home row, pois assim você minimizará o movimento das mãos e dedos para alcançar essas teclas.
 
@@ -270,7 +283,7 @@ Não me aprofundarei neste tópico dado não ser especialista da área médica, 
 
 #### Alongamento rápido para minimizar problemas de síndrome do túnel de carpo e tendinite
 
-[Este video que mostra um alongamento de 2 minutos a ser feito diariamente](https://youtu.be/fdD7CgN5FGg?t=129) se demonstra popular nas comunidades de ergonomia. É simples de fazer, basta criar o hábito e compromisso. Porém existem muito mais vídeos como esse que valem ser assistidos.
+[Este video que mostra um alongamento de 2 minutos a ser feito diariamente](https://youtu.be/fdD7CgN5FGg?t=129) se demonstra popular nas comunidades de ergonomia. É simples de fazer, basta criar o hábito e compromisso. Porém existem muito mais vídeos como esse que valem a pena serem assistidos.
 
 ### Controvérsia do Uso do Apoio de Braço da Cadeira
 

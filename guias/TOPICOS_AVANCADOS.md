@@ -1,8 +1,12 @@
 # Tergo Sofle - Funcionalidades
 
+> [!WARNING]
+> Este guia ainda não foi adaptado para a versão sem fio do teclado Tergo.
+> Logo, é focado para a versão com fio, que usa tecnologias diferentes, mas que compartilham de conceitos semelhantes.
+
 Neste é um manual mais avançado onde você descobrirá mais a fundo funcionalidades do teclado Tergo Sofle.
 
-Para uma visão geral das funcionalidades, consulte o [Manual do Usuário](../MANUAL_DO_USUARIO.md).
+Para uma visão geral das funcionalidades, consulte o manual do usuário.
 
 ## Sumário
   * [Vial](#vial)
@@ -148,7 +152,7 @@ A peculiaridade dela é que é ela que permite o último caso dado como exemplo 
 
 ### Configurações do OLED
 
-Você pode modificar o conteúdo das telas OLED e outras variáveis modificando diretamente o firmware do teclado. Veja o [guia de como modificar o código-fonte](./COMO_MODIFICAR_CODIGO_FONTE.md.md) para isso.
+Você pode modificar o conteúdo das telas OLED e outras variáveis modificando diretamente o firmware do teclado. Veja o guia de como modificar o código-fonte para isso.
 
 ## Caps Word
 

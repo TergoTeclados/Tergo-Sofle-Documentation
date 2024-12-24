@@ -12,7 +12,7 @@ Neste manual você vai saber os aspectos importantes para utilizar seu teclado T
   * [Layout de teclas](#layout-de-teclas)
     + [Padrão (Internacional)](#padrão-internacional)
     + [Como fazer acentos e teclas especiais](#como-fazer-acentos-e-teclas-especiais)
-    + [Mudar para o padrão brasileiro ABNT](#mudar-para-o-padrão-brasileiro-abnt)
+    + [Mudar para o padrão brasileiro ABNT2](#mudar-para-o-padrão-brasileiro-abnt)
   * [Vial: Software para configuração](#vial-software-para-configuração)
   * [Telas OLED](#telas-oled)
   * [Camadas de teclas](#camadas-de-teclas)
@@ -55,7 +55,7 @@ A imagem abaixo mostra um exemplo da disposição dos cabos:
 
 ### Adicione o teclado ao seu sistema operacional
 
-O teclado por padrão segue o padrão internacional, mas pode ser usado também no padrão ABNT (mais abaixo te mostraremos).
+O teclado por padrão segue o padrão internacional, mas pode ser usado também no padrão ABNT2 (mais abaixo te mostraremos).
 
 Para que seja reconhecido no seu computador, você precisa adicionar o layout de teclado internacional.
 
@@ -67,29 +67,29 @@ Para que seja reconhecido no seu computador, você precisa adicionar o layout de
 
 <img src="./imagens/base_internacional.svg" alt="Exemplo" width="800">
 
-As teclas com a letra `L` seguida de um número (como o `L2`) mudam a camada de teclas do seu teclado.
+As teclas com a letra `L` seguida de um número (como o `L2`) indicam teclas que ao serem seguradas mudam a camada de teclas do seu teclado.
 
-Este conceito será explicado mais abaixo neste guia.
+O conceito de camada de teclas será explicado mais abaixo neste manual.
 
 ### Como fazer acentos e teclas especiais?
 
-É bem tranquilo!
-
-Para acentos agudos, basta clicar a tecla de aspas e então a letra que quer.
+Para acentos agudos, no padrão internacional, basta clicar a tecla de aspas e então a letra que quer.
 
 Para o `Ç`, clique na tecla de aspas e na letra `C`.
 
-Para o símbolo de `~`, por padrão está na camada secundária. Clique nele e então na letra que quer.
+Para o símbolo de til (`~`), segure a tecla `Fn` (tecla do dedão esquerdo) e clique `A`. Em seguida, você pode largar a tecla segurada e clicar na letra que deseja.
 
-[Clique aqui](https://youtu.be/r9vUzQyXdps?t=142) para ver um breve vídeo que mostra isso.
+Para o símbolo grave (``` ` ```), segure a tecla `Fn` (tecla do dedão esquerdo) e clique `Q`. Em seguida, você pode largar a tecla segurada e clicar na letra que deseja.
 
-### Mudar para o padrão brasileiro ABNT
+[Clique aqui](https://youtu.be/r9vUzQyXdps?t=142) para ver um breve vídeo que demonstra como usar teclas no padrão internacional.
 
-Caso prefira, você pode mudar para o padrão ABNT.
+### Mudar para o padrão brasileiro ABNT2
+
+Caso prefira, você pode mudar para o padrão ABNT2.
 
 Note que o layout de teclas padrão do seu teclado é o Internacional.
 
-Caso queira usar o seu teclado com layout no padrão Português (Brasil) ABNT, [clique aqui](./guias/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) para saber como.
+Caso queira usar o seu teclado com layout no padrão Português (Brasil) ABNT2, [clique aqui](./guias/especifico_versao_padrao/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) para saber como.
 
 Mudando para o padrão brasileiro, as teclas abaixo em vermelho são as que mudam em relação ao layout internacional que vem por padrão.
 
@@ -171,7 +171,7 @@ Você também pode, a partir da camada de "ajustes", clicar a tecla "B" para mud
 
 ### Modo básico e adepto
 
-O modo básico e adepto é simplesmente uma aplicação do sistema de camada de teclas.
+O modo básico e adepto são simplesmente aplicações do sistema de camada de teclas.
 
 O Tergo Sofle vem configurado de forma que você pode escolher entre 3 camadas base, ou seja, a camada que fica ativa quando você não está com nenhuma outra camada ativa, ou seja, onde estão suas letras e números convencionais.
 
@@ -201,7 +201,8 @@ Recomenda-se que você explore o restante do manual e, em seguida, o [guia de co
 
 Essas funcionalidades são explicadas com mais detalhes no [guia de tópicos avançados](./guias/TOPICOS_AVANCADOS.md).
 
-_Ps: alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja desenergizado._
+> [!NOTE]
+> Alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja desenergizado.
 
 ## Atalhos no teclado
 
@@ -266,7 +267,7 @@ Visite o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA
 ## Atualizar firmware
 
 A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado e você deve ser notificado disso. 
-Para atualizar o firmware, consulte o [guia de como atualizar o firmware](./guias/COMO_ATUALIZAR_FIRMWARE.md).
+Para atualizar o firmware, consulte o [guia de como atualizar o firmware](./guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md).
 
 ## Modificar manualmente o _firmware_
 
@@ -276,7 +277,7 @@ Existem modificações mais específicas que a interface Vial ainda não oferece
 
 Você pode entender mais a fundo algumas funcionalidades do teclado no [Manual de Funcionalidades](./guias/TOPICOS_AVANCADOS.md.md).
 
-Para se aventurar no mundo de modificação do _firmware_, use o [Manual de Modificação do Firmware](./guias/COMO_MODIFICAR_CODIGO_FONTE.md).
+Para se aventurar no mundo de modificação do _firmware_, use o [Manual de Modificação do Firmware](./guias/especifico_versao_padrao/COMO_MODIFICAR_CODIGO_FONTE.md).
 
 Algumas dessas modificações são: mudar o conteúdo nas telas OLED, mudar o comportamento _tap-hold_ por tecla, entre outros.
 
