@@ -18,7 +18,7 @@ Nós fornecemos também um layout no padrão ABNT para quem está mais familiari
 
 Para fazer isso, você precisa primeiro entender como abrir o software de configuração Vial, explicado no [Manual do Usuário](../MANUAL_DO_USUARIO.md), e então seguir o passo a passo aqui descrito.
 
-1 -  Baixe o layout brasileiro presente [nesta página](https://github.com/TergoTeclados/vial-qmk-firmware/releases/tag/Tergo-Sofle-v1.2). Basta clicar no arquivo para baixá-lo. 
+1 -  Baixe o layout brasileiro presente [nesta página](https://github.com/TergoTeclados/vial-qmk-firmware/releases/). Basta clicar no arquivo para baixá-lo. 
 
 _Exemplo de nome de arquivo que você encontrará: `layout_brasileiro_v1_03.vil`_
 
