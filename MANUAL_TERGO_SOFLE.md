@@ -4,36 +4,9 @@
 
 Neste manual você vai saber os aspectos importantes para utilizar seu teclado Tergo Sofle.
 
-## Sumário
-
-  * [Resumo](#resumo)
-  * [Aproveite sua jornada!](#aproveite-sua-jornada)
-  * [Instalação](#instalação)
-  * [Layout de teclas](#layout-de-teclas)
-    + [Padrão (Internacional)](#padrão-internacional)
-    + [Como fazer acentos e teclas especiais](#como-fazer-acentos-e-teclas-especiais)
-    + [Mudar para o padrão brasileiro ABNT](#mudar-para-o-padrão-brasileiro-abnt)
-  * [Vial: Software para configuração](#vial-software-para-configuração)
-  * [Telas OLED](#telas-oled)
-  * [Camadas de teclas](#camadas-de-teclas)
-    + [Utilize as telas OLED para se guiar](#utilize-as-telas-oled-para-se-guiar)
-    + [Modo básico e adepto](#modo-básico-e-adepto)
-    + [Funcionalidades que já vem configuradas no modo adepto (camada 1)](#funcionalidades-que-já-vem-configuradas-no-modo-adepto-camada-1)
-  * [Atalhos no teclado](#atalhos-no-teclado)
-    + [Ligar/Desligar OLED](#ligar-desligar-oled)
-    + [Alterar camada base](#alterar-camada-base)
-    + [Configurar RGB](#configurar-rgb)
-  * [Cuidados com seu teclado](#cuidados-com-seu-teclado)
-    + [Cuidado com líquidos perto do seu teclado](#cuidado-com-líquidos-perto-do-seu-teclado)
-    + [Cuidado ao colocar e retirar os cabos USBs](#cuidado-ao-colocar-e-retirar-os-cabos-usbs)
-    + [Não conecte o USB do computador ao conector lateral](#não-conecte-o-usb-do-computador-ao-conector-lateral)
-  * [Cuidados com modificações físicas](#cuidados-com-modificações-físicas)
-  * [Como digitar com o teclado Tergo](#como-digitar-com-o-teclado-tergo)
-  * [Atualizar firmware](#atualizar-firmware)
-  * [Modificar manualmente o _firmware_](#modificar-manualmente-o-firmware)
-  * [Próximos passos](#próximos-passos)
-  * [Contato](#contato)
-
+> [!TIP]
+>
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="./imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
 
 ## Aproveite sua jornada!
 
@@ -55,7 +28,7 @@ A imagem abaixo mostra um exemplo da disposição dos cabos:
 
 ### Adicione o teclado ao seu sistema operacional
 
-O teclado por padrão segue o padrão internacional, mas pode ser usado também no padrão ABNT (mais abaixo te mostraremos).
+O teclado por padrão segue o padrão internacional, mas pode ser usado também no padrão ABNT2 (mais abaixo te mostraremos).
 
 Para que seja reconhecido no seu computador, você precisa adicionar o layout de teclado internacional.
 
@@ -67,29 +40,29 @@ Para que seja reconhecido no seu computador, você precisa adicionar o layout de
 
 <img src="./imagens/base_internacional.svg" alt="Exemplo" width="800">
 
-As teclas com a letra `L` seguida de um número (como o `L2`) mudam a camada de teclas do seu teclado.
+As teclas com a letra `L` seguida de um número (como o `L2`) indicam teclas que ao serem seguradas mudam a camada de teclas do seu teclado.
 
-Este conceito será explicado mais abaixo neste guia.
+O conceito de camada de teclas será explicado mais abaixo neste manual.
 
 ### Como fazer acentos e teclas especiais?
 
-É bem tranquilo!
-
-Para acentos agudos, basta clicar a tecla de aspas e então a letra que quer.
+Para acentos agudos, no padrão internacional, basta clicar a tecla de aspas e então a letra que quer.
 
 Para o `Ç`, clique na tecla de aspas e na letra `C`.
 
-Para o símbolo de `~`, por padrão está na camada secundária. Clique nele e então na letra que quer.
+Para o símbolo de til (`~`), segure a tecla `Fn` (tecla do dedão esquerdo) e clique `A`. Em seguida, você pode largar a tecla segurada e clicar na letra que deseja.
 
-[Clique aqui](https://youtu.be/r9vUzQyXdps?t=142) para ver um breve vídeo que mostra isso.
+Para o símbolo grave (``` ` ```), segure a tecla `Fn` (tecla do dedão esquerdo) e clique `Q`. Em seguida, você pode largar a tecla segurada e clicar na letra que deseja.
 
-### Mudar para o padrão brasileiro ABNT
+[Clique aqui](https://youtu.be/r9vUzQyXdps?t=142) para ver um breve vídeo que demonstra como usar teclas no padrão internacional.
 
-Caso prefira, você pode mudar para o padrão ABNT.
+### Mudar para o padrão brasileiro ABNT2
+
+Caso prefira, você pode mudar para o padrão ABNT2.
 
 Note que o layout de teclas padrão do seu teclado é o Internacional.
 
-Caso queira usar o seu teclado com layout no padrão Português (Brasil) ABNT, [clique aqui](./guias/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) para saber como.
+Caso queira usar o seu teclado com layout no padrão Português (Brasil) ABNT2, [clique aqui](./guias/especifico_versao_padrao/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) para saber como.
 
 Mudando para o padrão brasileiro, as teclas abaixo em vermelho são as que mudam em relação ao layout internacional que vem por padrão.
 
@@ -158,12 +131,9 @@ As camadas que já vem com o seu teclado são:
 - teclado numérico
 - ajustes
 
-<details>
-    <summary><strong>Clique aqui para ver as teclas das camadas que já vem com seu teclado</strong></summary>
+Veja o exemplo abaixo:
 
-![Exemplo camadas](./imagens/todas_camadas.svg)
-
-</details>
+<img src="./imagens/todas_camadas.svg" alt="Exemplo" width="800">
 
 ### Utilize as telas OLED para se guiar
 
@@ -171,7 +141,7 @@ Você também pode, a partir da camada de "ajustes", clicar a tecla "B" para mud
 
 ### Modo básico e adepto
 
-O modo básico e adepto é simplesmente uma aplicação do sistema de camada de teclas.
+O modo básico e adepto são simplesmente aplicações do sistema de camada de teclas.
 
 O Tergo Sofle vem configurado de forma que você pode escolher entre 3 camadas base, ou seja, a camada que fica ativa quando você não está com nenhuma outra camada ativa, ou seja, onde estão suas letras e números convencionais.
 
@@ -201,7 +171,8 @@ Recomenda-se que você explore o restante do manual e, em seguida, o [guia de co
 
 Essas funcionalidades são explicadas com mais detalhes no [guia de tópicos avançados](./guias/TOPICOS_AVANCADOS.md).
 
-_Ps: alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja desenergizado._
+> [!NOTE]
+> Alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja reiniciado.
 
 ## Atalhos no teclado
 
@@ -233,29 +204,26 @@ Use o Vial para facilmente visualizar o mapeamento das teclas que ajustam o RGB.
 
 ## Cuidados com seu teclado
 
-O teclado Tergo foi feito para ser durável e facilmente renovável.
+> [!IMPORTANT]
+>
+> Tome cuidado em relação a:
+> - Forçar os conectores USB **superiores** ou **laterais** ao conectar cabos
+> - Líquidos perto do seu teclado
+> - Desmontar o teclado sozinho (consulte o [manual de montagem e manutenção](./guias/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
 
-Inclusive, temos o [manual de montagem e manutenção](./guias/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) que ensina diversas questões e resoluções de problema para o longo prazo do seu teclado.
+> [!CAUTION]
+>
+> Os conectores USB laterais servem apenas para comunicação entre os lados do teclado, por meio de USB C para C.
+>
+> Jamais conecte um cabo em um dos conectores USB laterais para qualquer outro propósito, como conectar um cabo entre o computador e o USB da lateral. Sujeito a perda de garantia.
 
- Entretanto, ninguém quer presenciar defeitos no seu produto por conta de mal uso. Dado isso, seguem dicas para o seu teclado ter uma ótima durabilidade:
+> [!TIP]
+> Evite remover quando possível o cabo USB que conecta as laterais para evitar estressar os conectores e maximizar a durabilidade do seu teclado.
 
-### Cuidado com líquidos perto do seu teclado
-
-Deixe seu cafézinho em locais que não vá esbarrar 😉
-
-### Cuidado ao colocar e retirar os cabos USBs
-
-Forçar ou empurrar em ângulos inadequados pode estressar os conectores. Para o conector superior que conecta ao computador, você pode adquirir um cabo magnético para desconectar facilmente de forma rápida seu teclado, caso faça isso com frequência.
-
-### Não conecte o USB do computador ao conector lateral
-
-Os conectores laterais (USB C) são apenas para conectar os lados do teclado. Não conecte o USB C que vem do computador ao conector lateral, pois isso pode danificar seu produto.
-
-## Cuidados com modificações físicas
-
-Caso pretenda realizar modificações físicas no seu teclado como trocar o cover ou switches, recomendo que consulte o [manual de montagem e manutenção](./guias/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md).
-
-Em especial, entenda como é a montagem da estrutura do seu teclado na [sessão sobre como montar e desmontar a estrutura do seu teclado](./guias/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md/#montar-e-desmontar-a-estrutura-do-teclado).
+> [!NOTE]
+> O teclado Tergo foi feito para ser durável e facilmente renovável.
+>
+> Entretanto, ninguém quer presenciar defeitos no seu produto por conta de potenciais mal usos.
 
 ## Como digitar com o teclado Tergo
 
@@ -266,7 +234,7 @@ Visite o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA
 ## Atualizar firmware
 
 A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado e você deve ser notificado disso. 
-Para atualizar o firmware, consulte o [guia de como atualizar o firmware](./guias/COMO_ATUALIZAR_FIRMWARE.md).
+Para atualizar o firmware, consulte o [guia de como atualizar o firmware](./guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md).
 
 ## Modificar manualmente o _firmware_
 
@@ -276,7 +244,7 @@ Existem modificações mais específicas que a interface Vial ainda não oferece
 
 Você pode entender mais a fundo algumas funcionalidades do teclado no [Manual de Funcionalidades](./guias/TOPICOS_AVANCADOS.md.md).
 
-Para se aventurar no mundo de modificação do _firmware_, use o [Manual de Modificação do Firmware](./guias/COMO_MODIFICAR_CODIGO_FONTE.md).
+Para se aventurar no mundo de modificação do _firmware_, use o [Manual de Modificação do Firmware](./guias/especifico_versao_padrao/COMO_MODIFICAR_CODIGO_FONTE.md).
 
 Algumas dessas modificações são: mudar o conteúdo nas telas OLED, mudar o comportamento _tap-hold_ por tecla, entre outros.
 

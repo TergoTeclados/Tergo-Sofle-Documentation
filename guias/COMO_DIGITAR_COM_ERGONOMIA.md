@@ -2,59 +2,22 @@
 
 Este manual visa discutir aspectos de ergonomia focados na digitação e maneiras recomendadas de aprender a digitar com o Tergo.
 
-## Sumário
+> [!TIP]
+>
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
 
-  * [Atenção](#atenção)
-    + [Parte da ergonomia é entender o que é confortável para seu corpo](#parte-da-ergonomia-é-entender-o-que-é-confortável-para-seu-corpo)
-    + [Isenção de Responsabilidade](#isenção-de-responsabilidade)
-  * [Postura no Uso do Computador](#postura-no-uso-do-computador)
-  * [Qual a melhor forma de posicionar cada lado do teclado Tergo?](#qual-a-melhor-forma-de-posicionar-cada-lado-do-teclado-tergo)
-    + [Desvio Ulnar e Radial: evitar!](#desvio-ulnar-e-radial-evitar)
-    + [Exemplos de posicionamento das mãos](#exemplos-de-posicionamento-das-mãos)
-    + [Lados próximos](#lados-próximos)
-    + [Lados afastados](#lados-afastados)
-      - [Onde coloco o mouse?](#onde-coloco-o-mouse)
-  * [Posicionamento para digitação com o Tergo](#posicionamento-para-digitação-com-o-tergo)
-    + [Posicionamento dos braços](#posicionamento-dos-braços)
-    + [Posicionamento dos dedos e mãos](#posicionamento-dos-dedos-e-mãos)
-      - [Polegares](#polegares)
-  * [Como digitar](#como-digitar)
-    + [Touch Typing](#touch-typing)
-    + [Pratique Touch Typing!](#pratique-touch-typing)
-  * [Dicas e curva de aprendizado](#dicas-e-curva-de-aprendizado)
-    + [O Uso do Mindinho em Touch Typing](#o-uso-do-mindinho-em-touch-typing)
-    + [Experimente flutuar as mãos](#experimente-flutuar-as-mãos)
-      - [Isso não vai deixar meus braços cansados?](#isso-não-vai-deixar-meus-braços-cansados)
-    + [Curva de aprendizado](#curva-de-aprendizado)
-      - [Como treinar](#como-treinar)
-    + [Vou esquecer como usar um teclado tradicional?](#vou-esquecer-como-usar-um-teclado-tradicional)
-    + [Sistema de Camada de Teclas](#sistema-de-camada-de-teclas)
-  * [Inclinação dos Lados](#inclinação-dos-lados)
-    + [Fica mais dificil de digitar?](#fica-mais-dificil-de-digitar)
-  * [Apoios de pulso](#apoios-de-pulso)
-    + [Apoiar os pulsos ao invés de digitar flutuando](#apoiar-os-pulsos-ao-invés-de-digitar-flutuando)
-    + [Pressão causada no pulso](#pressão-causada-no-pulso)
-    + [Usar ou não usar](#usar-ou-não-usar)
-  * [Ergonomia e bons hábitos em geral](#ergonomia-e-bons-hábitos-em-geral)
-    + [Alongamentos e descansos!](#alongamentos-e-descansos)
-      - [Alongamento rápido para minimizar problemas de síndrome do túnel de carpo e tendinite](#alongamento-rápido-para-minimizar-problemas-de-síndrome-do-túnel-de-carpo-e-tendinite)
-    + [Controvérsia do Uso do Apoio de Braço da Cadeira](#controvérsia-do-uso-do-apoio-de-braço-da-cadeira)
-  * [Modificações e Funcionalidades que Contribuem para Ergonomia](#modificações-e-funcionalidades-que-contribuem-para-ergonomia)
-    + [Busque entender o que funciona para você](#busque-entender-o-que-funciona-para-você)
+## Parte da ergonomia é entender o que é confortável para seu corpo
 
-
-
-## Atenção
-
-### Parte da ergonomia é entender o que é confortável para seu corpo
-
-Todos temos corpos e equipamentos diferentes. Caso os conselhos que você encontra aqui possam parecer não fazer sentido, procure entender o porquê deles e soluções que melhor se adequem ao seu corpo.
+> [!IMPORTANT]
+> Todos temos corpos e equipamentos diferentes. Caso os conselhos que você encontra aqui possam parecer não fazer sentido, procure entender o porquê deles e soluções que melhor se adequem ao seu corpo.
 
 ### Isenção de Responsabilidade
 
-Antes de qualquer dica e informação sobre ergonomia que eu possa te passar, é importante destacar que não possuimos especialista com formação em área médica nem fisioterapia. Recomenda-se que se consulte um especialista na presença de qualquer problema de saúde para o devido laudo médico.
-
-As explicações e dicas que podemos te oferecer neste momento são baseadas em leituras, relatos e experiências de pessoas com problemas de dores, dentre eles que consultaram médicos e encontraram a solução de seus problemas na melhoria de hábitos, melhores periféricos (como o teclado Tergo), e fisioterapia.
+> [!WARNING]
+>
+> Antes de qualquer dica e informação sobre ergonomia que passaremos, é importante destacar que não possuimos especialista com formação em área médica nem fisioterapia. Recomenda-se que se consulte um especialista na presença de qualquer problema de saúde para o devido laudo médico.
+>
+> As explicações e dicas que podemos oferecer a você neste momento são baseadas em leituras, relatos e experiências de pessoas com problemas de dores, dentre eles que consultaram médicos e encontraram a solução de seus problemas na melhoria de hábitos, melhores periféricos (como o teclado Tergo), e fisioterapia.
 
 ## Postura no Uso do Computador
 
@@ -117,12 +80,12 @@ Considerando que você entendeu como se posicionar corretamente na sua cadeira, 
 
 A maneira recomendada de posicionar seus braços é com:
 - Ombros relaxados;
-- Seus braços devem estar posicionado de forma parecida com a imagem anterior de modo que você não sinta que seus músculos do ombro estejam sustentando seus braços abertos (o que deve gerar fadiga);
+- Seus braços devem estar posicionado de forma parecida com a imagem anterior de modo que você não sinta que seus músculos do ombro estejam sustentando seus braços abertos (o que pode gerar fadiga);
 - Aproximadamente 90 graus entre o braço e antebraço.
 
 ### Posicionamento dos dedos e mãos
 
-Posicione seus dedos na "home row", ou seja, seus indicadores nas teclas com relevo: F e J. Isto é, mão esquerda com dedos nas teclas A, S, D, F, e a direta nas teclas J, K, L, ;.
+Posicione seus dedos na "home row", ou seja, seus indicadores nas teclas com relevo: `F` e `J`. Isto é, mão esquerda com dedos nas teclas `A`, `S`, `D`, `F`, e a direta nas teclas `J`, `K`, `L`, `;`.
 
 Perceba que ao posicionar idealmente os dedos nessas teclas, especialmente o mindinho, você estará com a ponta dos dedos tocando a superfície das teclas e com a mão curvada para dentro, como se fosse uma garra.
 
@@ -140,21 +103,26 @@ Exemplo da mão mais estendida. Note a posição em que o mindinho ficou.
 
 Dependendo do tamanho das suas mãos o polegar irá cair naturalmente sob uma das teclas dos dedões. Em especial, a penúltima.
 
-Experimente pressionar essa tecla com o seu dedão. Experimente pressioná-la com diversas regiões do dedão (da lateral próximo da ponta até a junta) para entender qual exige menos força e qual se adapta melhor para você.
+Experimente pressionar essa tecla com o seu dedão. Experimente pressioná-la com diversas regiões do dedão para entender qual exige menos força e qual se adapta melhor para você. 
 
-Abaixo é um exemplo de onde meu dedão fica normalmente.
+Utilizar a lateral da ponta do dedão é o mais comum e mais fácil de se adaptar.
 
-Repare que uso a região do meio do dedo, próximo à articulação, para pressionar a tecla, pois sinto que é o mais confortável para mim.
+Abaixo encontra-se um exemplo ilustrativo de um possível posicionamento.
 
 <img src="../imagens/mao_dedao.jpg" alt="Exemplo Dedão" width="800">
 
-Uma outra dica para evitar que você perca referência de qual tecla seu dedão está durante a fase de adaptação à digitação nele é substituir a keycap dessa tecla pela tecla "5" que vem em kits de keycaps que incluem teclado numérico, pois essa tecla possui um relevo (assim com as teclas F e J) que ajudará você a se guiar.
+> [!TIP]
+> Uma dica para evitar que você perca referência de qual tecla seu dedão está durante a fase de adaptação à digitação nele é substituir a keycap dessa tecla pela tecla "5" que vem em kits de keycaps que incluem teclado numérico, pois essa tecla possui um **relevo** (assim com as teclas `F` e `J`) que ajudará você a se guiar.
 
 ## Como digitar
 
 ### Touch Typing
 
-"Touch Typing" é vista como a maneira recomendada de digitar mesmo em teclados convencionais. Resume-se a digitar sem olhar para o teclado e com 1 ou 2 colunas dedicadas para cada dedo da mão (exceto polegares). É um equilibrio entre aproveitar a maiora dos dedos das mãos e ter velocidade.
+<img src="../imagens/touch-typing.png" alt="Exemplo" width="800">
+
+"Touch Typing" é vista como a maneira recomendada de digitar mesmo em teclados convencionais.
+
+Resume-se a digitar sem olhar para o teclado e com 1 ou 2 colunas dedicadas para cada dedo da mão (exceto polegares). É um equilibrio entre aproveitar a maiora dos dedos das mãos e ter velocidade.
 
 Ao mesmo tempo, é importante destacar que variações dessa técnica podem funcionar até melhor para cada um. Você verá mais detalhes nas dicas mais abaixo.
 
@@ -170,13 +138,17 @@ Você pode experimentar alguns exemplos básicos e também pular direto para mai
 
 ### O Uso do Mindinho em Touch Typing
 
-Dependendo da maneira que você posiciona seus dedos nas teclas, você vai reparar que os mindinhos podem ter dificuldade de alcançar certas teclas, como o "Q" e "P". Isto é notável na foto mais acima que mostra a mão posicionada de forma extendida, na sessão de [posicionamento dos dedos e mãos](#posicionamento-dos-dedos-e-mãos).
+Dependendo da maneira que você posiciona seus dedos nas teclas, você vai reparar que os mindinhos podem ter dificuldade de alcançar certas teclas, como o `Q` e `P`.
 
-Uma alternativa é optar pelos dedos anelares para alcançarem essas teclas, reposicionar as mãos no teclado, ou digitar com flutuação das mãos.
+Isto é notável na foto mais acima que mostra a mão posicionada de forma estendida, na sessão de [posicionamento dos dedos e mãos](#posicionamento-dos-dedos-e-mãos).
+
+Uma alternativa recomendada é optar pelos dedos anelares para alcançarem essas teclas, reposicionar as mãos no teclado, ou digitar com flutuação das mãos.
 
 ### Experimente flutuar as mãos
 
-Mesmo o teclado sendo pensado para que as teclas fiquem todas ao alcance das mãos, você pode reparar que, para alcançar certas teclas, caso você mantenha os pulsos apoiados na mesa e dependendo do posicionamento da sua mão nas teclas, seus dedos podem fazer movimentos estranhos e seus pulsos rotações. Por exemplo: você pode ter que esticar muito ou retrair muito o dedo para alcançar as teclas mais a cima e mais abaixo em uma mesma coluna.
+Mesmo o teclado sendo pensado para que as teclas fiquem todas ao alcance das mãos, você pode reparar que, para alcançar certas teclas, caso você mantenha os pulsos apoiados na mesa e dependendo do posicionamento da sua mão nas teclas, seus dedos podem fazer movimentos estranhos e seus pulsos rotações. 
+
+Por exemplo: você pode ter que esticar muito ou retrair muito o dedo para alcançar as teclas mais a cima e mais abaixo em uma mesma coluna.
 
 Quando você digita flutuando as mãos, ou seja, sem apoiar os pulsos na mesa enquanto digita, o movimento dos pulsos se torna mínimo e você passa a responsabilidade para alcançar certas teclas para o movimento dos braços.
 
@@ -192,7 +164,7 @@ Além disso, na prática, passamos boa parte do tempo pensando e deixando os bra
 
 ### Curva de aprendizado
 
-Minha experiência e de diversos outros usuários em relação a se adaptar ao design do Tergo Sofle costuma relatar que em cerca de 1 mês você volta a digitar na velocidade que digitava antes de começar a utilizar o teclado ergonômico.
+Minha experiência e de diversos outros usuários em relação a se adaptar ao design do Tergo Sofle costuma relatar que **em cerca de 1 mês** você volta a digitar na velocidade que digitava antes de começar a utilizar o teclado ergonômico.
 
 Você não precisa fazer a mudança imediata de parar de usar o seu teclado convencional e usar 100% do tempo o Tergo. Na primeira semana é normal que você tenha uma velocidade de digitação mais lenta.
 
@@ -204,9 +176,10 @@ O sistema de camadas de teclas também requer prática para seu cérebro se acos
 
 Há diversos relatos de usuários que começaram a usar teclados ergonômicos divididos e aprenderam a digitar corretamente. Um exemplo recente que vi foi o seguinte:
 
-_"Quando mudei (de teclado), coloquei algo para ouvir em segundo plano e fiz testes de digitação de 20 a 40 minutos por dia. Eu sei que parece chato pra caramba, mas é meio pacífico e meditativo. Em cerca de duas semanas, eu estava totalmente proficiente. Pode levar mais ou menos tempo, mas compare isso com o tempo que você levou para aprender a digitar quando era criança e usou um computador pela primeira vez. Um pouco de dedicação no início compensa muito rapidamente."_
-
-_Comentário traduzido [dessa postagem](https://www.reddit.com/r/ErgoMechKeyboards/comments/1ed0i6j/this_is_embarrassing/)._
+> [!NOTE]
+> _"Quando mudei (de teclado), coloquei algo para ouvir em segundo plano e fiz testes de digitação de 20 a 40 minutos por dia. Eu sei que parece chato pra caramba, mas é meio pacífico e meditativo. Em cerca de duas semanas, eu estava totalmente proficiente. Pode levar mais ou menos tempo, mas compare isso com o tempo que você levou para aprender a digitar quando era criança e usou um computador pela primeira vez. Um pouco de dedicação no início compensa muito rapidamente."_
+>
+> _Comentário traduzido [dessa postagem](https://www.reddit.com/r/ErgoMechKeyboards/comments/1ed0i6j/this_is_embarrassing/)._
 
 #### Como treinar
 
@@ -214,17 +187,24 @@ Uma sugestão é fazer diariamente treinos de digitação com Touch Typing como 
 
 ### Vou esquecer como usar um teclado tradicional?
 
-Não! Seu cérebro cria memória muscular de como utilizar ambos teclados. A mudança entre eles requer um pequeno momento para ele relembrar como utilizar corretamente cada layout.
+Não! 
+
+Seu cérebro cria memória muscular de como utilizar ambos teclados. A mudança entre eles requer um pequeno momento para ele relembrar como utilizar corretamente cada layout.
 
 Mas mesmo assim você pode levar seu Tergo para onde quiser e sempre ter as vantagens de utilizá-lo com você, dado ser compacto e compatível com qualquer sistema.
 
 ### Sistema de Camada de Teclas
 
-Lembre-se de que você pode configurar as teclas de todas camadas usando o Vial. Assim, adapte as camadas de teclas para o que ficar mais confortável para você.
+Lembre-se de que você pode configurar as teclas de todas camadas usando o software do seu teclado. Assim, adapte as camadas de teclas para o que ficar mais confortável para você.
+
+> [!TIP]
+> Serão dadas mais dicas e sugestões sobre isso no próximo guia, o de customizações.
 
 Mas quando criar ou modificar alguma camada de teclas tenha em mente a seguinte dica: é interessante deixar os botões utilizados com mais frequência o mais próximo possível da home row, pois assim você minimizará o movimento das mãos e dedos para alcançar essas teclas.
 
 ## Inclinação dos Lados
+
+<img src="../imagens/laterais-inclinadas.jpg" alt="Exemplo" width="500">
 
 Inclinar os lados diminui a tensão nos antebraços e pulso causadas pela pronação das mãos. É muito interessante de experimentar. Segundo relatos lidos, também pode fornecer alivio imediato para quem já possui problemas ou dores decorrentes da digitação tradicional, assim como mouses verticais.
 
@@ -234,19 +214,49 @@ Não necessariamente. A maior diferença é que inclinar os lados faz com que de
 
 Além disso, caso você não queira digitar flutuando as mãos, os apoios de pulsos oferecem um ótimo suporte e altura.
 
+### Inclinação frontal utilizando inclinadores laterais
+
+Inclinar o teclado na direção do usuário é o método de inclinação mais convencional para teclados tradicionais.
+
+Isso pode facilitar o alcance das teclas e melhorar o angulo de digitação.
+
+Experimente posicionar o inclinador lateral menor na parte frontal do seu teclado, próximo à região do USB, de forma que o teclado se acomode nele e forneça uma inclinação estável e confortável, conforme exemplo abaixo.
+
+<img src="../imagens/inclinacao-frontal.jpg" alt="Exemplo" width="400">
+
 ## Apoios de pulso
 
-Apoios de pulso podem ser um tópico controverso.
+<img src="../imagens/almofadas.jpg" alt="Exemplo" width="800">
+
+Os apoios de pulso podem te ajudar em diversos quesitos:
+- ter uma superfície macia para apoiar parte da mão/braço
+- elevar sua mão a uma posição mais alta, potencialmente fornecendo uma **inclinação negativa** para a mão
+
+### "Inclinação Negativa"
+
+<img src="../imagens/negative-tilt.jpg" alt="Exemplo" width="600">
+
+Muitas vezes em teclados tradicionais, especialmente os inclinados para frente, temos que inclinar nossa mão para cima para alcançar as teclas.
+
+Isso pode gerar algum grau de pressão no pulso ou já ser desconfortável para alguns usuários.
+
+A inclinação negativa é quando, ao invés de ter que inclinar a mão para cima no caso do teclado ser inclinado para o usuário, você mantém sem inclinação ou com uma inclinação negativa, ou seja, levemente para baixo, deixando a **parte superior da mão alinhada à parte superior do antebraço.
+
+Com um ponto de apoio mais alto em relação ao teclado, como as almofadas laterais, você consegue obter esse efeito. Experimente!
+
+### Potenciais controvérsias do uso do apoio de pulso
+
+Entretanto, apoios de pulso podem ser um tópico controverso.
 
 Os maiores pontos são relacionados às consequências de como você usa eles:
 - apoiar os pulsos ao invés de digitar flutuando
-- pressão causada no pulso
+- possível pressão causada no pulso
 
 ### Apoiar os pulsos ao invés de digitar flutuando
 
 Isso pode ter as mesmas consequências que simplesmente apoiar os pulsos na mesa, que é você se acostumar a não mover as mãos e alcançar teclas distantes de modo que geram desvio ultar e radial.
 
-### Pressão causada no pulso
+### Pressão causada no pulso?
 
 Caso você use os apoios diretamente sob o pulso, pode ser que você esteja aplicando pressão no nervo que fica no pulso, que é algo que pode vir a gerar problemas.
 
@@ -260,7 +270,7 @@ Experimente posicionar os apoios nas palmas, no pulso ou nos antebraços e enten
 
 ### Alongamentos e descansos!
 
-Um bom equipamento ergonomico contribui para o conforto do seu trabalho durante as longas jornadas do dia-a-dia, porém não deixa de haver a necessidade de pausas para alongamentos e descansos.
+Um bom equipamento ergonomico contribui para o conforto do seu trabalho durante as longas jornadas do dia a dia, porém não deixa de haver a necessidade de pausas para alongamentos e descansos.
 
 Faça pausas, alonge seu corpo. Faça alogamentos para os tendões das suas mãos e braços. Procure massagens para aumentar o fluxo sanguíneo nas suas mãos e pulso.
 
@@ -270,9 +280,11 @@ Não me aprofundarei neste tópico dado não ser especialista da área médica, 
 
 #### Alongamento rápido para minimizar problemas de síndrome do túnel de carpo e tendinite
 
-[Este video que mostra um alongamento de 2 minutos a ser feito diariamente](https://youtu.be/fdD7CgN5FGg?t=129) se demonstra popular nas comunidades de ergonomia. É simples de fazer, basta criar o hábito e compromisso. Porém existem muito mais vídeos como esse que valem ser assistidos.
+[Este video que mostra um alongamento de 2 minutos a ser feito diariamente](https://youtu.be/fdD7CgN5FGg?t=129) se demonstra popular nas comunidades de ergonomia. É simples de fazer, basta criar o hábito e compromisso. Porém existem muito mais vídeos como esse que valem a pena serem assistidos.
 
 ### Controvérsia do Uso do Apoio de Braço da Cadeira
+
+<img src="../imagens/apoio-braco.jpg" alt="Exemplo" width="500">
 
 É comum o apoio de braço das cadeiras ser vendido como algo ideal para apoiar os braços durante a digitação. Porém pode ser muito pelo contrário.
 

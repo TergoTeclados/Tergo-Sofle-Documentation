@@ -2,30 +2,13 @@
 
 Neste é um manual mais avançado onde você descobrirá mais a fundo funcionalidades do teclado Tergo Sofle.
 
-Para uma visão geral das funcionalidades, consulte o [Manual do Usuário](../MANUAL_DO_USUARIO.md).
-
-## Sumário
-  * [Vial](#vial)
-    + [O que encontro no Vial](#o-que-encontro-no-vial)
-    + [Como aprender a usar o Vial](#como-aprender-a-usar-o-vial)
-    + [Keycodes](#keycodes)
-    + [Aba QMK Settings](#aba-qmk-settings)
-  * [Detalhes avançados das telas OLED](#detalhes-avançados-das-telas-oled)
-    + [Configurações do OLED](#configurações-do-oled)
-  * [Sistema de Camadas de Teclas](#sistema-de-camadas-de-teclas)
-    + [Visão geral](#visão-geral)
-    + [Dica para entender as camadas](#dica-para-entender-as-camadas)
-  * [Tap-Hold](#tap-hold)
-    + [Tap-Hold para mudança de camadas](#tap-hold-para-mudança-de-camadas)
-    + [Modificadores](#modificadores)
-      - [Home Row Mod](#home-row-mod)
-    + [Configurações do Tap Hold](#configurações-do-tap-hold)
-      - [Tapping Term](#tapping-term)
-      - [Comportamento do Tap Hold padrão do Tergo Sofle](#comportamento-do-tap-hold-padr-o-do-tergo-sofle)
-      - [Tecnologia usada para diferenciar o comportamento](#tecnologia-usada-para-diferenciar-o-comportamento)
-  * [Caps Word](#caps-word)
+Para uma visão geral das funcionalidades, consulte o manual do usuário.
 
 Com o [Vial](https://get.vial.today/), você pode desfrutar do poder de diversas funcionalidades do seu teclado de forma rápida.
+
+> [!TIP]
+>
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
 
 ### O que encontro no Vial
 
@@ -148,7 +131,7 @@ A peculiaridade dela é que é ela que permite o último caso dado como exemplo 
 
 ### Configurações do OLED
 
-Você pode modificar o conteúdo das telas OLED e outras variáveis modificando diretamente o firmware do teclado. Veja o [guia de como modificar o código-fonte](./COMO_MODIFICAR_CODIGO_FONTE.md.md) para isso.
+Você pode modificar o conteúdo das telas OLED e outras variáveis modificando diretamente o firmware do teclado. Veja o guia de como modificar o código-fonte para isso.
 
 ## Caps Word
 

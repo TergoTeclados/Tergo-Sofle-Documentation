@@ -2,29 +2,35 @@
 
 Neste repositório você encontrará a documentação completa do <a href="https://tecladoergonomico.com.br" target="_blank">teclado Tergo Sofle</a> e diversos guias.
 
+> [!TIP]
+>
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="./imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
+
 ## Primeiros Passos
 
 Recomenda-se seguir em ordem a leitura dos guias:
 
-- [Manual do usuário](MANUAL_DO_USUARIO.md), que fornece uma visão geral de funcionalidades básicas e referencia outros guias;
+- Manual do usuário ( [Clique aqui](MANUAL_TERGO_SOFLE.md) ): fornece uma visão geral do teclado e de funcionalidades básicas;
 - [Guia de Como Digitar com Ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), que mostra técnicas de digitação e recomendações;
 - [Guia de Modificações e Funcionalidades que Contribuem para Ergonomia](./guias/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md), que mostra como usar funcionalidades avançadas do teclado ao seu favor;
 - [Guia de Tópicos Avançados](./guias/TOPICOS_AVANCADOS.md), para você entender profundamente de detalhes do seu teclado especial e entender seu potencial máximo.
 
-Outros guias úteis a serem consultados quando necessário:
+### Outros guias
 
-- [Como usar layout de teclas em português ABNT](./guias/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md)
-- [Como atualizar firmware](./guias/COMO_ATUALIZAR_FIRMWARE.md)
+Consulte-os quando necessário. São mencionados nos guias acima.
+
+- Como usar layout de teclas em português ABNT2: [Clique aqui](./guias/especifico_versao_padrao/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md)
+- Como atualizar o _firmware_: [Clique aqui](./guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md)
+- Como modificar código fonte: [Clique aqui](./guias/especifico_versao_padrao/COMO_MODIFICAR_CODIGO_FONTE.md)
 - [Manual de montagem e manutenção](./guias/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md)
-- [Como modificar código fonte](./guias/COMO_MODIFICAR_CODIGO_FONTE.md)
 
-Além disso, estamos sempre abertos a receber sugestões de conteúdos que podemos adicionar aqui para te ajudar ou melhorias!
+Estamos sempre abertos a receber sugestões de conteúdos que podemos adicionar aqui para te ajudar ou melhorias!
 
 # Comunidades
 
-[Inscreva-se no Youtube](https://www.youtube.com/@tecladoergonomico?sub_confirmation=1) e acompanhe futuros vídeos.
+Agradecemos pelo suporte em seguir nosso [Instagram @tergoteclados](https://www.instagram.com/tergoteclados). Acompanhe atualizações, conteúdos, e mais.
 
-[Instagram @tergoteclados](https://www.instagram.com/tergoteclados) e acompanhane fotos e conteúdos.
+[Inscreva-se no Youtube](https://www.youtube.com/@tecladoergonomico?sub_confirmation=1) e acompanhe futuros vídeos.
 
 # Contato
 
