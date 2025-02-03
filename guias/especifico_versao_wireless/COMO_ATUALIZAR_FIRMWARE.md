@@ -23,6 +23,10 @@ Basta clicar em cada arquivo do tipo `.uf2` para baixar cada um.
 
 O processo de gravação do _firmware_ no teclado consiste em copiar e colar o arquivo do firmware do teclado em cada parte do teclado que precisa ser atualizada.
 
+> [!NOTE]
+>
+> Atualizar o _firmware_ não irá remover as customizações que você realizou no teclado pelo ZMK Studio.
+
 ### Gravar o firmware no receptor
 
 1 - Copie o arquivo que será gravado no receptor
@@ -45,7 +49,7 @@ Após isso, a pasta sumirá automaticamente e seu dispositivo estará utilizando
 >
 > Caso o teclado pare de responder a comandos após atualização, desconecte e conecte novamente o receptor ao seu computador. Caso o teclado ainda não responda, desligue e ligue novamente as metades do teclado.
 >
-> Caso ainda assim, após tentar reiniciar todas as partes, o teclado não responda,
+> Caso ainda assim, após tentar reiniciar todas as partes, o teclado não responda, consulte mais abaixo neste guia [como ativar o modo de gravação fisicamente](#ativar-modo-de-gravação-de-cada-parte-fisicamente).
 
 ### Gravar as metades do teclado
 
@@ -95,10 +99,10 @@ Para isso, siga os passos abaixo:
 
 **Para o receptor**
 
-Caso seu receptor seja o simples, ou seja, sem tela, você notará que ele possui um pequeno buraco. 
+Ao olhar para o seu receptor, você notará que ele possui um pequeno buraco. 
 
-- Pegue um objeto metálico fino que possa ser inserido no buraco, como um _clipe_ ou uma pinça metálica
-- Com o receptor conectado ao computador, toque brevemente 2 vezes na parte metálica (normalmente dourada) com o objeto metálico
+- Pegue um objeto metálico fino que possa ser inserido no buraco, como um _clipe_, uma pinça metálica, ou um pininho metálico
+- Com o receptor conectado ao computador, toque brevemente 2 vezes na parte metálica vista nesse furo (normalmente dourada) com o objeto metálico
 
 Caso você tenha feito isso com sucesso, deverá abrir a pasta de gravação do seu dispositivo no seu sistema operacional, como visto nos tópicos anteriores.
 
@@ -112,7 +116,7 @@ Para isso, você deverá abrir o protetor da placa controladora, que é a peça 
 
 Assim, você encontrará um pequeno botão abaixo da chave de ligar/desligar.
 
-Então, com a metade do teclado conectado ao seu computador, pressione 2 vezes rapidamente o botão para o dispositivo entrar no modo de gravação.
+Então, com a metade do teclado conectada ao seu computador, pressione 2 vezes rapidamente o botão para o dispositivo entrar no modo de gravação.
 
 > [!TIP]
 >

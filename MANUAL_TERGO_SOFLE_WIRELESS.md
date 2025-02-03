@@ -175,6 +175,13 @@ Veja o exemplo abaixo:
 
 <img src="./imagens/camadas-wireless.svg" alt="Exemplo" width="800">
 
+### Restaurar configurações de fábrica
+
+Caso tenha realizado customizações pelo ZMK Studio, 
+você pode restaurar para as configurações originais no próprio ZMK Studio.
+
+Para isso, clique em `Tergo Sofle` (no topo da tela) e, em seguida, em `Restore Stock Settings`.
+
 ### Modo básico e adepto
 
 O modo básico e adepto são simplesmente aplicações do sistema de camada de teclas.
