@@ -36,11 +36,13 @@ Para que seja reconhecido no seu computador, você precisa adicionar o layout de
 
 ## Recarga e Baterias
 
-#ToDo revisar
-
 ### Duração
 
 A bateria de cada metade do teclado tem duração estimada em 6 meses (considerando uso diário de 8 horas).
+
+### Descanso automático
+
+Após 15 minutos sem ser usado, o teclado entra em modo de "sono profundo", que diminui o consumo de bateria. Ele é acordado na próxima interação com o teclado.
 
 ### Recarga
 
@@ -57,17 +59,13 @@ A carga total é atingida dentro de 1 hora.
 
 Recarregue ambas metades conforme necessário.
 
-### Descanso automático
-
-Após 15 minutos sem ser usado, o teclado entra em modo de "sono profundo", que diminui o consumo de bateria. Ele é acordado na próxima interação com o teclado.
-
 > [!TIP]
 >
 > Desligar as metades do teclado enquanto não estiver em uso pode contribuir com a duração da carga.
 
 > [!WARNING]
 >
-> Evite forçar a chave lateral de liga/deliga para não quebrá-la acidentalmente.
+> Tome cuidado para não forçar a chave lateral de liga/deliga para não quebrá-la acidentalmente.
 
 ## Layout de teclas
 
@@ -113,6 +111,22 @@ Você pode utilizar o [ZMK Studio no próprio navegador](https://zmk.studio/) ou
 
 Abra o ZMK Studio e selecione seu teclado para fazer customizações. As modificações são feitas em tempo real.
 
+### Acessar o ZMK Studio
+
+> [!IMPORTANT]
+>
+> Após abrir o ZMK Studio e selecionar seu teclado, você verá uma mensagem na sua tela pedindo para "desbloquear" seu teclado.
+>
+> Para isso:
+> - 1: Segure a tecla para acessar a camada de ajustes (conforme exemplo abaixo)
+> - 2: Clique na tecla `ESC` (tecla mais superior à esquerda no teclado)
+>
+> Consulte o exemplo abaixo.
+
+<img src="./imagens/wireless-desbloquear-zmk-studio.svg" alt="Exemplo" width="800">
+
+### Sobre o ZMK Studio
+
 Aproveite e já abra o ZMK Studio, e navegue pelas camadas de teclas para entender a posição de cada tecla em cada camada. Não se assuste, é mais simples do que parece.
 
 Com o [ZMK Studio](https://zmk.studio/), você tem funcionalidades diversas. Algumas das principais que você provavelmente utilizará são:
@@ -122,7 +136,6 @@ Com o [ZMK Studio](https://zmk.studio/), você tem funcionalidades diversas. Alg
 - Modificar camadas;
 - Entre outros.
 
-ToDo ver se fica direitinho esse markdown
 > [!NOTE]
 > O ZMK Studio é uma tecnologia muito recente e vem aos poucos lançando novidades.
 >
