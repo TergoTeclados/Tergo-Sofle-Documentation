@@ -206,10 +206,17 @@ Use o Vial para facilmente visualizar o mapeamento das teclas que ajustam o RGB.
 
 > [!IMPORTANT]
 >
-> Tome cuidado em relação a:
-> - Forçar os conectores USB **superiores** ou **laterais** ao conectar cabos
-> - Líquidos perto do seu teclado
-> - Desmontar o teclado sozinho (consulte o [manual de montagem e manutenção](./guias/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+> Tenha atenção em relação aos seguintes pontos:
+> - Não force os conectores USB **superiores** ou **laterais** ao conectar cabos
+> - Cuidado com líquidos perto do seu teclado
+> - Atenção ao desmontar o teclado sozinho ou realizar manutenções (consulte o [manual de montagem e manutenção](./guias/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+
+> [!IMPORTANT]
+>
+> Cuidados gerais:
+> - Não deixe o teclado exposto ao sol diretamente
+> - Evite usar álcool para limpar a estrutura do teclado, pois as peças superiores (exceto teclas) podem ser pintadas e isso pode afetar a tinta
+> - Dê preferência por limpá-lo a seco, com um pano ou a vassourinha que enviamos juntamente ao teclado
 
 > [!CAUTION]
 >

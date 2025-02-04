@@ -38,7 +38,7 @@ Para que seja reconhecido no seu computador, você precisa adicionar o layout de
 
 ### Duração
 
-A bateria de cada metade do teclado tem duração estimada em 6 meses (considerando uso diário de 8 horas).
+A bateria de cada metade do teclado tem recarga com duração estimada em 3 a 6 meses (considerando uso diário de 8 horas).
 
 ### Descanso automático
 
@@ -59,13 +59,21 @@ A carga total é atingida dentro de 1 hora.
 
 Recarregue ambas metades conforme necessário.
 
-> [!TIP]
->
-> Desligar as metades do teclado enquanto não estiver em uso pode contribuir com a duração da carga.
-
 > [!WARNING]
 >
 > Tome cuidado para não forçar a chave lateral de liga/deliga para não quebrá-la acidentalmente.
+
+> [!TIP]
+>
+> Por mais que desligar as metades do teclado enquanto não estiver em uso possa contribuir com a duração da carga,
+> a diferença tende a ser pouco relevante dado a presença do descanso automático do teclado.
+>
+> Nesse caso, torna-se dispensável desligar as metades do teclado no dia a dia durante o uso recorrente.
+>
+> Recomenda-se desligar as metades para os casos de:
+> - Deixar o teclado parado ou guardado por um tempo
+> - Levar o teclado para viajens ou enviá-lo pelo correio
+> - Realizar manutenções e o abrir
 
 ## Layout de teclas
 
@@ -241,7 +249,7 @@ Entenda a funcionalidade e como utilizá-la vendo o guia de [como conectar multi
 
 > [!IMPORTANT]
 >
-> Tome cuidado em relação a:
+> Tenha atenção em relação aos seguintes pontos:
 > - Forçar as chaves laterais de ligar/desligar
 > - Forçar os conectores USB superiores ao conectar cabos
 > - Líquidos perto do seu teclado
