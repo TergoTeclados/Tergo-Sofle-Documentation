@@ -175,7 +175,7 @@ Veja o exemplo abaixo:
 
 <img src="./imagens/camadas-wireless.svg" alt="Exemplo" width="800">
 
-### Restaurar configurações de fábrica
+### Restaurar configurações originais
 
 Caso tenha realizado customizações pelo ZMK Studio, 
 você pode restaurar para as configurações originais no próprio ZMK Studio.
