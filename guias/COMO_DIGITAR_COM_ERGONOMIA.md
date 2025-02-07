@@ -21,9 +21,39 @@ Este manual visa discutir aspectos de ergonomia focados na digitação e maneira
 
 ## Postura no Uso do Computador
 
-Se você chegou até aqui, provavelmente já viu aquelas imagens que demonstram a maneira ideal de se sentar em frente ao computador. A imagem abaixo (retirada [daqui](https://fisiomedcuiaba.com.br/dicas-importantes-para-sentar-corretamente-em-frente-do-computador/)) é só um exemplo de inúmeras páginas que mostram maneiras recomendadas de se posicionar.
+Se você chegou até aqui, provavelmente já viu aquelas imagens que demonstram a maneira ideal de se sentar em frente ao computador. 
+
+A imagem abaixo (retirada [daqui](https://fisiomedcuiaba.com.br/dicas-importantes-para-sentar-corretamente-em-frente-do-computador/)) é só um exemplo de inúmeras páginas que mostram maneiras recomendadas de se posicionar.
 
 <img src="../imagens/exemplo_sentado.png" alt="Exemplo Cabos" width="800">
+
+Ao mesmo tempo, a imagem acima é só um exemplo de como isso pode ser feito.
+
+> [!IMPORTANT]
+>
+> Preste atenção nas dicas abaixo para conseguir uma melhor experiência de conforto e digitação.
+
+### Posicionamento dos braços
+
+A maneira recomendada de posicionar seus braços é com:
+- Ombros relaxados;
+- Seus braços devem estar posicionado de forma parecida com a imagem anterior de modo que você não sinta que seus músculos do ombro estejam sustentando seus braços abertos (o que pode gerar fadiga);
+- Aproximadamente 90 graus entre o braço e antebraço.
+
+Para obter isso, você pode seguir as seguintes dicas:
+- Elevar a altura da cadeira (ou diminuir a altura da mesa)
+- Se aproximar da mesa com a cadeira
+- Colocar um apoio para os pés caso não estejam apoiados no chão devidamente
+
+> [!TIP]
+>
+> Para elevar a altura da cadeira ou se aproximar da mesa, é provável que o apoio de braço da sua cadeira venha a atrapalhar.
+>
+> Nesse caso, conforme será discutido em um dos últimos tópicos deste guia, recomendamos que considere removê-los da sua cadeira.
+
+> [!TIP]
+>
+> Para os pés, você pode empilhar livros velhos ou qualquer outro objeto para obter uma superfície mais alta para apoiar seus pés.
 
 ## Qual a melhor forma de posicionar cada lado do teclado Tergo?
 
@@ -75,13 +105,6 @@ Com os lados afastados, uma metade pode ficar onde estaria normalmente o mouse. 
 ## Posicionamento para digitação com o Tergo
 
 Considerando que você entendeu como se posicionar corretamente na sua cadeira, vamos discutir maneiras recomendadas de utilizar o teclado Tergo Sofle.
-
-### Posicionamento dos braços
-
-A maneira recomendada de posicionar seus braços é com:
-- Ombros relaxados;
-- Seus braços devem estar posicionado de forma parecida com a imagem anterior de modo que você não sinta que seus músculos do ombro estejam sustentando seus braços abertos (o que pode gerar fadiga);
-- Aproximadamente 90 graus entre o braço e antebraço.
 
 ### Posicionamento dos dedos e mãos
 
