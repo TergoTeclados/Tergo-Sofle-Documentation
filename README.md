@@ -26,13 +26,17 @@ Consulte-os quando necessário. São mencionados nos guias acima.
 
 Estamos sempre abertos a receber sugestões de conteúdos que podemos adicionar aqui para te ajudar ou melhorias!
 
-# Comunidades
+## Blog
+
+Fique por dentro de atualizações, notícias e discussões no nosso blog, na página de [pós-venda](https://tecladoergonomico.com.br/pos-venda/).
+
+## Comunidades
 
 Agradecemos pelo suporte em seguir nosso [Instagram @tergoteclados](https://www.instagram.com/tergoteclados). Acompanhe atualizações, conteúdos, e mais.
 
 [Inscreva-se no Youtube](https://www.youtube.com/@tecladoergonomico?sub_confirmation=1) e acompanhe futuros vídeos.
 
-# Contato
+## Contato
 
 Caso não consiga suprir sua dúvida com a documentação ou esteja tendo dificuldade, a Tergo está sempre disponível para te ajudar.
 
