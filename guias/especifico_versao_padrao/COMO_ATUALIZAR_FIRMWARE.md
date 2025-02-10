@@ -8,15 +8,21 @@ A Tergo Teclados pretende continuar realizando melhorias no _firmware_ do teclad
 
 ## Visualizar versão atual
 
-Você pode ver a versão do firmware do seu teclado indo para a camada de ajustes e visualizando a tela OLED direita, na parte superior.
+Caso você possua telas OLED, você pode ver a versão do firmware do seu teclado indo para a camada de ajustes e visualizando a tela OLED direita, na parte superior.
 
-## Baixar firmware atualizado
+## Baixar firmware
 
-Sempre que houver um lançamento de uma nova versão do firwmare, ela será publicada no [repositório do Firwmare](https://github.com/TergoTeclados/vial-qmk-firmware/releases) e cada usuário notificado.
+Sempre que houver um lançamento de uma nova versão do firwmare, ela será publicada no [repositório do Firwmare](https://github.com/TergoTeclados/vial-qmk-firmware/releases).
 
 Baixe a versão mais recente do firwmare para garantir que você está em dia com as atualizações.
 
-Basta clicar no arquivo com final do tipo `.uf2` para baixá-lo. Por exemplo: `firmware_tergo_sofle_v1_xx.uf2`.
+Basta clicar no arquivo com final do tipo `.uf2` para baixá-lo.
+
+> [!IMPORTANT]
+>
+> Baixe o arquivo referente ao layout desejado de teclas: no padrão internacional ou no padrão ABNT2.
+>
+> Caso deseje utilizar o padrão ABNT2, consulte o guia de [como utilizar o layout brasileiro](./COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md).
 
 ## Salvar customizações atuais do Vial
 

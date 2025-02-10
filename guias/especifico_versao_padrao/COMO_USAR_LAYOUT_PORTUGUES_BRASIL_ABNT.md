@@ -21,39 +21,28 @@ Nós fornecemos também um layout no padrão ABNT2 para quem está mais familiar
 > [!IMPORTANT]
 >
 > Resume-se a realizar 2 configurações:
-> - Uma no teclado
-> - Uma no seu computador
+> - Gravar o _firmware_ da versão ABNT2 no seu teclado
+> - Garantir que o teclado do seu computador está configurado para o padrão ABNT2
+> - Garantir que o
 
-Para fazer isso, você precisa primeiro entender como abrir o software de configuração Vial, explicado no manual do Tergo Sofle, e então seguir o passo a passo aqui descrito.
+1 -  Baixe o _firmware_ da versão abnt2, presente [na página do firmware](https://github.com/TergoTeclados/vial-qmk-firmware/releases/). Basta clicar no arquivo para baixá-lo. 
 
-1 -  Baixe o layout brasileiro presente [nesta página](https://github.com/TergoTeclados/vial-qmk-firmware/releases/). Basta clicar no arquivo para baixá-lo. 
+> [!TIP]
+>
+> O arquivo terá um nome semelhante a `firmware_tergo_sofle_vxxx_abnt2.uf2`
 
-_Exemplo de nome de arquivo que você encontrará: `layout_brasileiro_v1_0x.vil`_
-
-2 - **Baixe** o aplicativo do Vial para seu dispositivo [nesta página](https://get.vial.today/download/). 
-
-_Somente a versão baixada do Vial (e não a de navegador) te permite realizar uma operação que será feita mais a frente, de carregar o layout._
+2 - Grave o _firmware_ no seu teclado. Para isso, basta seguir o guia de [como atualizar o firmware](./COMO_ATUALIZAR_FIRMWARE.md).
 
 3 - Abra o aplicativo do Vial com seu teclado conectado e selecione seu teclado.
 
-4 - Vá para o menu "File" e clique em "Load saved layout", e carregue seu arquivo recém baixado com o layout brasileiro (o arquivo comentado anteriomente que possui final `.vil`). 
+4 - Vá para o menu `Keyboard layout` e selecione a opção "Brazilian", para que o Vial mostre corretamente as teclas.
 
-5- **Importante!** Após carregá-lo, vá para o submenu "Keyboard layout" e selecione "Brazilian". Porém, não basta só seu teclado estar em português no Vial, mas também precisa estar no seu sistema operacional (que é o próximo passo).
+5 - Garanta que o layout de teclado do seu sistema operacional seja "Português (Brasil ABNT2)". 
 
-6 - Garanta que o layout de teclado do seu sistema operacional seja "Português (Brasil ABNT2)". No Windows, caso você tenha mais que um layout de teclado, você provavelmente verá o seguinte no canto inferior direito da sua tela, na barra de tarefas:
+Se o seu dispositivo por padrão já utiliza um teclado no padrão ABNT2, você provavelmente não precisará realizar esse passo.
+
+Além disso, no Windows, caso haja mais que um layout de teclado configurado, você provavelmente verá o seguinte no canto inferior direito da sua tela, na barra de tarefas:
 
 <img src="../../imagens/teclados_no_windows.png" alt="Exemplo" width="500">
 
 Está pronto! Experimente digitar e se guie pela interface do Vial para entender claramente o que cada tecla faz.
-
-### Por que botar em português duas vezes: uma no Vial e outra no sistema operacional?
-
-Os teclados traduzem a tecla que você apertou em um código e o enviam para o computador.
-
-O computador recebe uma mensagem do teclado e traduz baseado na linguagem do teclado configurado no sistema operacional.
-
-O que acontece é que normalmente teclados não permitem que você mude a linguagem dele, e sim apenas configurar no sistema operacional.
-
-No nosso caso, podemos configurar ambos.
-
-O que fazemos então é garantir que ambos teclado e sistema operacional estão se comunicando na mesma linguagem.
