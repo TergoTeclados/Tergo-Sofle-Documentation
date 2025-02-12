@@ -38,7 +38,7 @@ Para que seja reconhecido no seu computador, você precisa adicionar o layout de
 
 ### Duração
 
-A bateria de cada metade do teclado tem recarga com duração estimada em 3 a 6 meses (considerando uso diário de 8 horas).
+A bateria de cada metade do teclado tem recarga com duração estimada em 1 a 2 meses considerando uso diário de 8 horas e sem desligar.
 
 ### Descanso automático
 
