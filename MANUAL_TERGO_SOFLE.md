@@ -233,8 +233,9 @@ Visite o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA
 
 ## Atualizar firmware
 
-A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado e você deve ser notificado disso. 
-Para atualizar o firmware, consulte o [guia de como atualizar o firmware](./guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md).
+A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado e você deve ser notificado disso.
+
+Conforme lançamos novas atualizações, você pode consultar o [guia de como atualizar o firmware](./guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md) para manter seu teclado atualizado.
 
 ## Modificar manualmente o _firmware_
 
