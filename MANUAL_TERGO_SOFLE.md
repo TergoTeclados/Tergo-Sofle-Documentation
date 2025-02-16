@@ -68,6 +68,21 @@ Mudando para o padrão brasileiro, as teclas abaixo em vermelho são as que muda
 
 <img src="./imagens/base_abnt.svg" alt="Exemplo" width="800">
 
+## Inclinadores - Como encaixá-los
+
+As vantagens de ergonomia e maneiras recomendadas de usar os inclinadores serão detalhados no próximo guia - o de ergonomia.
+
+Para encaixar os inclinadores, fique atento ao recorte que cada inclinador possui em um dos cantos.
+
+Assim, o inclinador deve ficar com a parte com recorte para baixo, ou seja, na direção do usuário, e coincidindo com o buraco do LED.
+
+Consulte o exemplo abaixo.
+
+> [!TIP]
+> Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
+
+<img src="./imagens/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500">
+
 ## Vial: Software para configuração
 
 <img src="./imagens/vial_exemplo.png" alt="Exemplo Vial" width="800">
