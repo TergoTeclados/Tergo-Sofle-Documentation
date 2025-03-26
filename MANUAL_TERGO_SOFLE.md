@@ -54,7 +54,7 @@ No Mac, o fluxo pode ser diferente. A princípio, siga o seguinte fluxo para con
 
 ## Layout de teclas
 
-### Padrão (Internacional)
+### Padrão Internacional
 
 <img src="./imagens/base_internacional.svg" alt="Exemplo" width="800">
 
@@ -74,15 +74,13 @@ Para o símbolo grave (``` ` ```), segure a tecla `Fn` (tecla do dedão esquerdo
 
 [Clique aqui](https://youtu.be/r9vUzQyXdps?t=142) para ver um breve vídeo que demonstra como usar teclas no padrão internacional.
 
-### Mudar para o padrão brasileiro ABNT2
+### Mudar para o padrão brasileiro ABNT2 ou vice-versa
 
-Caso prefira, você pode mudar para o padrão ABNT2.
+Caso prefira, você pode mudar para o padrão ABNT2 ou para o Internacional.
 
-Note que o layout de teclas padrão do seu teclado é o Internacional.
+[Esse guia](./guias/especifico_versao_padrao/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) ensina detalhadamente como fazer isso.
 
-Caso queira usar o seu teclado com layout no padrão Português (Brasil) ABNT2, [clique aqui](./guias/especifico_versao_padrao/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) para saber como.
-
-Mudando para o padrão brasileiro, as teclas abaixo em vermelho são as que mudam em relação ao layout internacional que vem por padrão.
+A foto abaixo representa o padrão ABNT2. As teclas abaixo em vermelho são as que mudam em relação ao layout internacional.
 
 <img src="./imagens/base_abnt.svg" alt="Exemplo" width="800">
 
