@@ -23,7 +23,6 @@ Nós fornecemos também um layout no padrão ABNT2 para quem está mais familiar
 > Resume-se a realizar 2 configurações:
 > - Gravar o _firmware_ da versão ABNT2 no seu teclado
 > - Garantir que o teclado do seu computador está configurado para o padrão ABNT2
-> - Garantir que o
 
 1 -  Baixe o _firmware_ da versão abnt2, presente [na página do firmware](https://github.com/TergoTeclados/vial-qmk-firmware/releases/). Basta clicar no arquivo para baixá-lo. 
 

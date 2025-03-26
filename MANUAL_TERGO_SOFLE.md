@@ -28,11 +28,29 @@ A imagem abaixo mostra um exemplo da disposição dos cabos:
 
 ### Adicione o teclado ao seu sistema operacional
 
-O teclado por padrão segue o padrão internacional, mas pode ser usado também no padrão ABNT2 (mais abaixo te mostraremos).
+O seu teclado pode vir configurado no padrão internacional (ASNI) ou em português (ABNT2).
 
-Para que seja reconhecido no seu computador, você precisa adicionar o layout de teclado internacional.
+Entretanto, pode ser necessário realizar uma configuração adicional no seu computador.
 
-[Clique aqui](https://www.youtube.com/watch?v=UWwcIcwkPlA) para ver um breve vídeo de como fazer isso no Windows 11, por exemplo.
+> [!IMPORTANT]
+> Para o correto funcionamento do teclado, o layout de teclado configurado no seu computador precisa seguir o padrão do seu teclado.
+
+> [!TIP] 
+> Se o teclado que você utilizava no seu computador antes do Tergo Sofle era no padrão ABNT2 (teclados com a tecla `Ç` presente) e ele funcionava normalmente, o seu teclado Tergo Sofle que você adquiriu no padrão ABNT2 também deve também funcionar normalmente sem necessidade de modificações extras.
+>
+> Entretanto, se o seu teclado era ABNT2 e você adquiriu o teclado Tergo Sofle no padrão internacional (ou vice-versa), provavelmente terá que realizar a configuração adicional abaixo.
+
+No Windows 11, por exemplo, as imagens abaixo representam respectivamente o layout de teclado internacional (ASNI) e o ABNT2.
+
+<img src="imagens/teclados_no_windows.png" alt="Exemplo" width="500">
+
+[Clique aqui](https://www.youtube.com/watch?v=UWwcIcwkPlA) para ver um breve vídeo de como configurar isso no Windows 11.
+
+#### No sistema operacional Mac (Apple)
+
+No Mac, o fluxo pode ser diferente. A princípio, siga o seguinte fluxo para configurar o teclado no padrão internacional (ASNI):
+
+`System Settings > Change Keyboard Type > ANSI (U.S.)`
 
 ## Layout de teclas
 
