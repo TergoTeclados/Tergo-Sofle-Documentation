@@ -52,7 +52,10 @@ Há um exemplo disso aplicado na camada de símbolos e navegação. Repare nas t
 <img src="../imagens/exemplo_tecla_control_seta.png" alt="Exemplo Cabos" width="500">
 
 > [!NOTE]
-> No Vial, para fazer o que foi feito no exemplo acima, você pode usar as teclas especiais disponível no submenu "Quantum". Para entender o que cada tecla desse menu faz, você pode [consultar este trecho da documentação oficial do firmware QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md#modifiers-modifiers).
+> No Vial (software da versão com fio), para fazer o que foi feito no exemplo acima, você pode usar as teclas especiais disponível no submenu "Quantum". Para entender o que cada tecla desse menu faz, você pode [consultar este trecho da documentação oficial do firmware QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md#modifiers-modifiers).
+
+> [!NOTE]
+> Já é suportado pelo ZMK Studio (software da versão sem fio) esta funcionalidade.
 
 ### Macros
 
@@ -68,6 +71,11 @@ Um exemplo mostrado é abrir o gerenciador de tarefas do Windows, por exemplo, p
 > No Vial (software da versão com fio), há vários exemplos de aplicações que você pode ver na [documentação do Vial sobre macros](https://get.vial.today/manual/macros.html#examples).
 >
 > Você pode criar macros pelo submenu "Macros" no software Vial.
+
+> [!NOTE]
+> No ZMK Studio (software da versão sem fio), até a data de escrita desta documentação, ainda não é possível customizar isso pelo software. É necessário modificar o código-fonte. Para isso, você pode consultar o guia de [como modificar o código fonte (ZMK)](./especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
+>
+> É previsto que o ZMK Studio venha a suportar isso no futuro. Isso pode ser visto na [lista de funcionalidades previstas do ZMK Studio](https://zmk.dev/docs/features/studio).
 
 ### Combos
 
@@ -86,7 +94,13 @@ Ou então,
 que tal `W`+`E`+`R` para ativar o `espaço` e `U`+`I`+`O` para ativar o `backspace`?
 
 > [!NOTE]
-> No Vial, você pode criar combos pelo submenu "Combos". Saiba mais vendo a [documentação do Vial sobre combos](https://get.vial.today/manual/combos.html).
+> No Vial (software da versão com fio), você pode criar combos pelo submenu "Combos". Saiba mais vendo a [documentação do Vial sobre combos](https://get.vial.today/manual/combos.html).
+
+
+> [!NOTE]
+> No ZMK Studio (software da versão sem fio), até a data de escrita desta documentação, ainda não é possível customizar isso pelo software. É necessário modificar o código-fonte. Para isso, você pode consultar o guia de [como modificar o código fonte (ZMK)](./especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
+>
+> É previsto que o ZMK Studio venha a suportar isso no futuro. Isso pode ser visto na [lista de funcionalidades previstas do ZMK Studio](https://zmk.dev/docs/features/studio).
 
 ## Sugestões de adaptações no layout do Tergo Sofle
 
@@ -132,7 +146,10 @@ Para isso, ficamos com o exemplo abaixo:
 <img src="../imagens/teclas-embaixo-da-tela-depois.png" alt="Exemplo" width="300">
 
 > [!NOTE]
-> No Vial, para fazer isso, basta ir para o submenu de teclas `layers` e colocar no lugar das teclas a tecla `LT` seguida do número da camada de destino que você quer que seja ativada ao segurar a tecla. Em seguida, você poderá escolher qual tecla por padrão será ativada ao simplesmente clicar a tecla.
+> No Vial (software da versão com fio), para fazer isso, basta ir para o submenu de teclas `layers` e colocar no lugar das teclas a tecla `LT` seguida do número da camada de destino que você quer que seja ativada ao segurar a tecla. Em seguida, você poderá escolher qual tecla por padrão será ativada ao simplesmente clicar a tecla.
+
+> [!NOTE]
+> Já é suportado pelo ZMK Studio (software da versão sem fio) esta funcionalidade. Entenda a funcionalidade vendo a documentação do ZMK sobre [Mod-Tap](https://zmk.dev/docs/keymaps/behaviors/mod-tap), [Layer-Tap](https://zmk.dev/docs/keymaps/behaviors/layers#layer-tap) e [Hold-Tap](https://zmk.dev/docs/keymaps/behaviors/hold-tap).
 
 ### Colocar duplo comportamento nas teclas do dedão para mudar de camada
 
@@ -145,7 +162,7 @@ Repare nessas teclas comentadas no exemplo abaixo.
 Há 2 exemplos disso na camada especial do modo adepto, nas teclas do dedão esquerdo. Use-os como referência no software de customização.
 
 > [!NOTE]
-> No Vial, para fazer isso, resumidamente, abra o submenu de teclas "Layers" e coloque no lugar da tecla que você quer substituir o botão com nome `LT` seguido de um número que representa a camada de destino que você quer ativar ao segurar a tecla. Em seguida, escolha a tecla que será ativada caso você simplesmente clique a tecla.
+> No Vial (software da versão com fio), para fazer isso, resumidamente, abra o submenu de teclas "Layers" e coloque no lugar da tecla que você quer substituir o botão com nome `LT` seguido de um número que representa a camada de destino que você quer ativar ao segurar a tecla. Em seguida, escolha a tecla que será ativada caso você simplesmente clique a tecla.
 
 ## layouts de teclas além do QWERTY
 

@@ -106,6 +106,13 @@ Com os lados afastados, uma metade pode ficar onde estaria normalmente o mouse. 
 
 Considerando que você entendeu como se posicionar corretamente na sua cadeira, vamos discutir maneiras recomendadas de utilizar o teclado Tergo Sofle.
 
+### Posicionamento dos braços
+
+A maneira recomendada de posicionar seus braços é com:
+- Ombros relaxados;
+- Seus braços devem estar posicionado de forma parecida com a imagem anterior de modo que você não sinta que seus músculos do ombro estejam sustentando seus braços abertos (o que pode gerar fadiga);
+- Aproximadamente 90 graus entre o braço e antebraço.
+
 ### Posicionamento dos dedos e mãos
 
 Posicione seus dedos na "home row", ou seja, seus indicadores nas teclas com relevo: `F` e `J`. Isto é, mão esquerda com dedos nas teclas `A`, `S`, `D`, `F`, e a direta nas teclas `J`, `K`, `L`, `;`.

@@ -1,5 +1,9 @@
 # Tergo Sofle - Funcionalidades
 
+> [!WARNING]
+> Este guia ainda não foi adaptado para a versão sem fio do teclado Tergo.
+> Logo, é focado para a versão com fio, que usa tecnologias diferentes, mas que compartilham de conceitos semelhantes.
+
 Neste é um manual mais avançado onde você descobrirá mais a fundo funcionalidades do teclado Tergo Sofle.
 
 Para uma visão geral das funcionalidades, consulte o manual do usuário.

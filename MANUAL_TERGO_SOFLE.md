@@ -237,10 +237,17 @@ Use o Vial para facilmente visualizar o mapeamento das teclas que ajustam o RGB.
 
 > [!IMPORTANT]
 >
-> Tome cuidado em relação a:
-> - Forçar os conectores USB **superiores** ou **laterais** ao conectar cabos
-> - Líquidos perto do seu teclado
-> - Desmontar o teclado sozinho (consulte o [manual de montagem e manutenção](./guias/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+> Tenha atenção em relação aos seguintes pontos:
+> - Não force os conectores USB **superiores** ou **laterais** ao conectar cabos
+> - Cuidado com líquidos perto do seu teclado
+> - Atenção ao desmontar o teclado sozinho ou realizar manutenções (consulte o [manual de montagem e manutenção](./guias/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+
+> [!IMPORTANT]
+>
+> Cuidados gerais:
+> - Não deixe o teclado exposto ao sol diretamente
+> - Evite usar álcool para limpar a estrutura do teclado, pois as peças superiores (exceto teclas) podem ser pintadas e isso pode afetar a tinta
+> - Dê preferência por limpá-lo a seco, com um pano ou a vassourinha que enviamos juntamente ao teclado
 
 > [!CAUTION]
 >
@@ -264,9 +271,9 @@ Visite o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA
 
 ## Atualizar firmware
 
-A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado e você deve ser notificado disso.
+A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado e você deve ser notificado disso. 
 
-Conforme lançamos novas atualizações, você pode consultar o [guia de como atualizar o firmware](./guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md) para manter seu teclado atualizado.
+Para atualizar o firmware, consulte o [guia de como atualizar o firmware](./guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md).
 
 ## Modificar manualmente o _firmware_
 
