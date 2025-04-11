@@ -50,6 +50,15 @@ O processo de gravação do _firmware_ no teclado consiste em copiar e colar o a
 
 4 - Cole o arquivo copiado na pasta que abriu
 
+> [!IMPORTANT]
+>
+> Em diversos casos é necessário gravar primeiro o _firmware_ de _reset_ e então o _firmware_ da parte do teclado.
+>
+> Isso acontece principalmente nos seguintes casos:
+>
+> - Se você estiver fazendo essa operação para configurar um novo receptor diferente do que você usava
+> - Você tentou instalar a atualização sem aplicar o firmware de reset e ela não funcionou
+
 <img src="../../imagens/exemplo_modo_boot_wireless.png" alt="Exemplo" width="800">
 
 Após isso, a pasta sumirá automaticamente e seu dispositivo estará utilizando a nova versão do _firmware_.
@@ -70,7 +79,11 @@ Agora, para cada metade do teclado, você gravará a versão mais recente do _fi
 
 Repita os passos abaixo para cada metade:
 
-5 - Copie o arquivo do _firmware_ corresponde à metade do teclado que será atualizada (esquerda ou direita)
+5 - Copie o arquivo do _firmware_ corresponde à metade do teclado que será atualizada (esquerda e então direita)
+
+> [!IMPORTANT]
+>
+> Grave primeiro a metade esquerda de preferência.
 
 6 - Com o teclado em funcionamento, conecte um cabo USB extra do seu computador à metade do teclado que será atualizada
 
@@ -86,15 +99,13 @@ Ambas teclas estão localizadas respectivamente no canto inferior esquerdo e can
 >
 > Caso você tenha alterado a camada de ajustes e/ou a localização da tecla `Bootloader` (que é a tecla que ativa o modo de gravação), você pode acessar o software ZMK Studio e alocar a tecla `Bootloader` temporariamente na metade do teclado que você pretende colocar no modo de gravação.
 
-## Solução de problemas - teclado não responde a gravação
+## Solução de problemas - teclado não responde após gravação
 
 Caso seu teclado tenha parado de responder após atualizar alguma parte e você já tentou reiniciar individualmente cada parte, é provável que tenha acontecido algum dos itens abaixo:
 
-- A atualização fornecida pela Tergo é disruptiva e **foi destacado nas notas da atualização** que ela requer a gravação prévia do _firmware_ de _reset_ ou ativação do modo de gravação manualmente
-- Você comprou uma placa controladora nova sozinho e tentou gravar pela primeira vez o _firmware_ nela
+- A atualização aplicada é disruptiva e ela requer a gravação prévia do _firmware_ de _reset_ ou ativação do modo de gravação fisicamente
 - Você gravou o firmware de _reset_ na parte do teclado que parou de funcionar e ainda não gravou o firmware da parte após isso
 - Você usou uma versão customizada por você do _firmware_ que contém algum erro
-- Você usou uma versão customizada por você do _firmware_ que contém alguma mudança disruptiva que requer previamente a gravação do _firmware_ de reset
 
 Para solucionar o problema, vamos ativar o modo de gravação de cada parte do teclado **fisicamente**.
 

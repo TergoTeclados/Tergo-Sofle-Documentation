@@ -213,6 +213,16 @@ Com o [ZMK Studio](https://zmk.studio/), você tem funcionalidades diversas. Alg
 >
 > Fique por dentro de atualizações que a Tergo Teclados lançar para ter a versão mais atual do seu software sempre disponível.
 
+### Salve ou dispense suas customizações
+
+Após realizar a customização, no canto superior direito você pode salvar ou descartar as customizações.
+
+Se você não salvar, elas serão resetadas na próxima reinicialização do teclado.
+
+### Como resetar configurações
+
+Para resetar suas customizações para a configuração de fábrica, clique em `Tergo Sofle` no topo da tela e então em `Restore Stock Settings`.
+
 ## Camadas de teclas
 
 O sistema de camada de teclas faz com que todas as teclas do teclado estejam acessíveis em outras camadas.
