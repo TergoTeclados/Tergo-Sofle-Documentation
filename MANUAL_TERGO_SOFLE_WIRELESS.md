@@ -1,6 +1,6 @@
 # Tergo Sofle - Versão Wireless - Manual de Usuário
 
-## **Atenção: Versão sem fio**
+**O lançamento da versão sem fio é novidade para você? [Clique aqui](https://tecladoergonomico.com.br/blog/versao-sem-fio-ja-disponivel/) e leia sobre esse lançamento.**
 
 Este manual é especificamente para a versão sem fio do teclado Tergo Sofle.
 
