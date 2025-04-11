@@ -24,6 +24,12 @@ Nós fornecemos também um layout no padrão ABNT2 para quem está mais familiar
 
 ### Atualizar firmware do teclado
 
+> [!TIP]
+>
+> O processo de mudar a lingua padrão é o mesmo de atualizar o firmware:
+> 
+> [Clique aqui](./COMO_ATUALIZAR_FIRMWARE.md) para ver como isso é feito.
+
 1 - Baixe o arquivo de _firmware_ do receptor que contém o layout ABNT2 presente na [página do firmware da versão wireless](https://github.com/TergoTeclados/zmk-config-tergo-sofle/releases/). O nome do arquivo será algo semelhante a `sofle_receptor_abnt2.uf2`. Basta clicar no arquivo para baixá-lo. 
 
 2 - Coloque o receptor do teclado em modo de gravação.
@@ -47,15 +53,3 @@ Após isso está pronto! Experimente digitar e se guie pela interface do Vial pa
 > O software de customização ZMK Studio não mostrará como esperado teclas especiais como o `Ç`. Futuras atualizações devem corrigir isso.
 >
 > Use a imagem fornecida previamente do layout em português para se guiar.
-
-### Por que botar em português duas vezes: uma no teclado e outra no sistema operacional?
-
-Os teclados traduzem a tecla que você apertou em um código e o enviam para o computador.
-
-O computador recebe uma mensagem do teclado e traduz baseado na linguagem do teclado configurado no sistema operacional.
-
-O que acontece é que normalmente teclados não permitem que você mude a linguagem dele, e sim apenas configurar no sistema operacional.
-
-No nosso caso, podemos configurar ambos.
-
-O que fazemos então é garantir que ambos teclado e sistema operacional estão se comunicando na mesma linguagem.

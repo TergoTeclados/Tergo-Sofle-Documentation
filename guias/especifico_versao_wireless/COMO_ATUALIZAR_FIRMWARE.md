@@ -6,6 +6,15 @@ A Tergo Teclados pretende continuar realizando melhorias no _firmware_ do teclad
 >
 > Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
 
+## Para que atualizar o firwmare?
+
+Alguns motivos do porquê você pode querer atualizar o firmware:
+
+- Trocar entre a versão ABNT2 ou Internacional
+- Instalar uma atualização nova do firmware fornecida pela Tergo Teclados
+- Colocar sua versão customizada do firmware
+- Usar um novo receptor para o teclado
+
 ## Baixar firmware atualizado
 
 Sempre que houver um lançamento de uma nova versão do firwmare, ela será publicada no [repositório do Firmware](https://github.com/TergoTeclados/zmk-config-tergo-sofle/releases) e cada usuário notificado.
@@ -91,7 +100,9 @@ Para solucionar o problema, vamos ativar o modo de gravação de cada parte do t
 
 ## Ativar modo de gravação de cada parte fisicamente
 
-Ao invés de ativar o modo de gravação das partes por meio de atalhos no teclado, você pode querer ativar de forma física, para os casos, por exemplo, onde a atualização faz com que o teclado pare de responder.
+Ao invés de ativar o modo de gravação das partes por meio de atalhos no teclado, você pode querer ativar de forma física.
+
+Isso é bem comum para casos, por exemplo, onde a atualização faz com que o teclado pare de responder.
 
 Para isso, siga os passos abaixo:
 
@@ -99,14 +110,25 @@ Para isso, siga os passos abaixo:
 
 **Para o receptor**
 
-Ao olhar para o seu receptor, você notará que ele possui um pequeno buraco. 
+Ao olhar para o seu receptor, você notará que ele possui um pequeno buraco na parte debaixo. 
 
 - Pegue um objeto metálico fino que possa ser inserido no buraco, como um _clipe_, uma pinça metálica, ou um pininho metálico
+
+> [!TIP]
+>
+> Nós enviamos um _clipe_ com o teclado.
+
 - Com o receptor conectado ao computador, toque brevemente 2 vezes na parte metálica vista nesse furo (normalmente dourada) com o objeto metálico
+
+> [!NOTE]
+>
+> Às vezes 1 único toque basta para entrar em modo de gravação.
+>
+> É normal que você não consiga de primeira, então tente novamente.
 
 Caso você tenha feito isso com sucesso, deverá abrir a pasta de gravação do seu dispositivo no seu sistema operacional, como visto nos tópicos anteriores.
 
-É normal que você não consiga de primeira, então tente novamente.
+Grave o firwmare de reset, e então o firmware da partes específica do teclado.
 
 **Para as metades do teclado**
 
@@ -116,8 +138,11 @@ Para isso, você deverá abrir o protetor da placa controladora, que é a peça 
 
 Assim, você encontrará um pequeno botão abaixo da chave de ligar/desligar.
 
+
 Então, com a metade do teclado conectada ao seu computador, pressione 2 vezes rapidamente o botão para o dispositivo entrar no modo de gravação.
 
 > [!TIP]
 >
 > Use a chave philips que acompanha seu teclado para abrir os parafusos, e use a parte de trás da chave (plástica) para pressionar o botão com facilidade.
+
+Grave o firwmare de reset, e então o firmware da partes específica do teclado.

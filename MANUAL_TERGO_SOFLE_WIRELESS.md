@@ -28,11 +28,61 @@ Os guias te ajudarão e estão super detalhados, para que você desfrute do máx
 
 ### Adicione o teclado ao seu sistema operacional
 
-O teclado por padrão segue o padrão internacional, mas pode ser usado também no padrão ABNT2 (mais abaixo te mostraremos).
+O seu teclado pode vir configurado no padrão internacional (ASNI) ou em português (ABNT2).
 
-Para que seja reconhecido no seu computador, você precisa adicionar o layout de teclado internacional.
+Entretanto, pode ser necessário realizar uma configuração adicional no seu computador.
 
-[Clique aqui](https://www.youtube.com/watch?v=UWwcIcwkPlA) para ver um breve vídeo de como fazer isso no Windows 11, por exemplo.
+> [!IMPORTANT]
+> Para o correto funcionamento do teclado, o layout de teclado configurado no seu computador precisa seguir o padrão do seu teclado.
+
+> [!TIP] 
+> Se o teclado que você utilizava no seu computador antes do Tergo Sofle era no padrão ABNT2 (teclados com a tecla `Ç` presente) e ele funcionava normalmente, o seu teclado Tergo Sofle que você adquiriu no padrão ABNT2 também deve também funcionar normalmente sem necessidade de modificações extras.
+>
+> Entretanto, se o seu teclado era ABNT2 e você adquiriu o teclado Tergo Sofle no padrão internacional (ou vice-versa), provavelmente terá que realizar a configuração adicional abaixo.
+
+No Windows 11, por exemplo, as imagens abaixo representam respectivamente o layout de teclado internacional (ASNI) e o ABNT2.
+
+<img src="imagens/teclados_no_windows.png" alt="Exemplo" width="500">
+
+[Clique aqui](https://www.youtube.com/watch?v=UWwcIcwkPlA) para ver um breve vídeo de como configurar isso no Windows 11.
+
+#### No sistema operacional Mac (Apple)
+
+No Mac, o fluxo pode ser diferente. A princípio, siga o seguinte fluxo para configurar o teclado no padrão internacional (ASNI):
+
+`System Settings > Change Keyboard Type > ANSI (U.S.)`
+
+## Layout de teclas
+
+### Padrão Internacional
+
+<img src="./imagens/base_internacional.svg" alt="Exemplo" width="800">
+
+As teclas com a letra `L` seguida de um número (como o `L2`) indicam teclas que ao serem seguradas mudam a camada de teclas do seu teclado.
+
+O conceito de camada de teclas será explicado mais abaixo neste manual.
+
+### Como fazer acentos e teclas especiais?
+
+Para acentos agudos, no padrão internacional, basta clicar a tecla de aspas e então a letra que quer.
+
+Para o `Ç`, clique na tecla de aspas e na letra `C`.
+
+Para o símbolo de til (`~`), segure a tecla `Fn` (tecla do dedão esquerdo) e clique `A`. Em seguida, você pode largar a tecla segurada e clicar na letra que deseja.
+
+Para o símbolo grave (``` ` ```), segure a tecla `Fn` (tecla do dedão esquerdo) e clique `Q`. Em seguida, você pode largar a tecla segurada e clicar na letra que deseja.
+
+[Clique aqui](https://youtu.be/r9vUzQyXdps?t=142) para ver um breve vídeo que demonstra como usar teclas no padrão internacional.
+
+### Mudar para o padrão brasileiro ABNT2 ou vice-versa
+
+Caso prefira, você pode mudar para o padrão ABNT2 ou para o Internacional.
+
+[Esse guia](./guias/especifico_versao_wireless/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) ensina detalhadamente como fazer isso.
+
+A foto abaixo representa o padrão ABNT2. As teclas abaixo em vermelho são as que mudam em relação ao layout internacional.
+
+<img src="./imagens/base_abnt.svg" alt="Exemplo" width="800">
 
 ## Recarga e Baterias
 
@@ -75,39 +125,47 @@ Recarregue ambas metades conforme necessário.
 > - Levar o teclado para viajens ou enviá-lo pelo correio
 > - Realizar manutenções e o abrir
 
-## Layout de teclas
+> [!NOTE]
+>
+> Recomenda-se não deixar o teclado descarregar totalmente para recarregá-lo. Carregue-o eventualmente enquanto em uso a cada 15-20 dias.
 
-### Padrão (Internacional)
+## Inclinadores - Como encaixá-los
 
-<img src="./imagens/base_internacional.svg" alt="Exemplo" width="800">
+As vantagens de ergonomia e maneiras recomendadas de usar os inclinadores serão detalhados no próximo guia - o de ergonomia.
 
-As teclas com a letra `L` seguida de um número (como o `L2`) indicam teclas que ao serem seguradas mudam a camada de teclas do seu teclado.
+Para encaixar os inclinadores, fique atento ao recorte que cada inclinador possui em um dos cantos.
 
-O conceito de camada de teclas será explicado mais abaixo neste manual.
+Assim, o inclinador deve ficar com a parte com recorte para baixo, ou seja, na direção do usuário, e coincidindo com o buraco do LED.
 
-### Como fazer acentos e teclas especiais?
+Consulte o exemplo abaixo.
 
-Para acentos agudos, no padrão internacional, basta clicar a tecla de aspas e então a letra que quer.
+> [!TIP]
+> Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
 
-Para o `Ç`, clique na tecla de aspas e na letra `C`.
+<img src="./imagens/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500">
 
-Para o símbolo de til (`~`), segure a tecla `Fn` (tecla do dedão esquerdo) e clique `A`. Em seguida, você pode largar a tecla segurada e clicar na letra que deseja.
+## Receptor
 
-Para o símbolo grave (``` ` ```), segure a tecla `Fn` (tecla do dedão esquerdo) e clique `Q`. Em seguida, você pode largar a tecla segurada e clicar na letra que deseja.
+### Com tela
 
-[Clique aqui](https://youtu.be/r9vUzQyXdps?t=142) para ver um breve vídeo que demonstra como usar teclas no padrão internacional.
+<img src="./imagens/receptor_com_tela.jpg" alt="Exemplo" width="800">
 
-### Mudar para o padrão brasileiro ABNT2
+O receptor com tela te fornece ótimos feedbacks visuais sobre funcionalidades do teclado, como:
+- Nível de bateria das metades
+- Dongle conectado ao computador
+- Dispositivos bluetooth conectados (isso será explicado em um tópico mais abaixo)
+- Teclas especiais ativas (CMD, Alt, Ctrl, Shift, CapsLock, etc)
+- Camada ativa
 
-Caso prefira, você pode mudar para o padrão ABNT2.
-
-Note que o layout de teclas padrão do seu teclado é o Internacional.
-
-Caso queira usar o seu teclado com layout no padrão Português (Brasil) ABNT2, [clique aqui](./guias/especifico_versao_wireless/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) para saber como.
-
-Mudando para o padrão brasileiro, as teclas abaixo em vermelho são as que mudam em relação ao layout internacional que vem por padrão.
-
-<img src="./imagens/base_abnt.svg" alt="Exemplo" width="800">
+> [!NOTE]
+>
+> Você vai perceber que o nível de bateria mostrado na tela não baixa de forma linear. 
+>
+> É normal parecer que inicialmente baixa rápido (de 100% para 80%), mas é apenas uma limitação visual.
+>
+> Enquanto você estiver carregando uma metade do teclado, ele mostrará 100%. Guie-se pela luz azul explicada em tópicos anteriores para saber se sua bateria está carregada.
+>
+> Quando a bateria chegar, na tela, a 0%, o indicador sumirá. Mas seu teclado ainda terá carga para funcionar por certo tempo. Entretanto, recomenda-se colocá-lo para carregar assim que possível.
 
 ## ZMK Studio: Software para configuração
 
@@ -237,7 +295,7 @@ Além disso, você pode visualizar o mapeamento de todas essas teclas e modifica
 
 Enquanto na camada de ajustes, altere entre as 3 possíveis camadas base configuradas clicando X, C ou V.
 
-### Alterar entre dispositivos conectados
+### Conectar dispositivos Bluetooth e alterar entre dispositivos conectados
 
 O Tergo Sofle Wireless suporta conectar e controlar individualmente múltiplos dispositivos que possuem _Bluetooth_.
 
@@ -270,6 +328,14 @@ Visite o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA
 
 A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado e você deve ser notificado disso. 
 Para atualizar o firmware, consulte o [guia de como atualizar o firmware](./guias/especifico_versao_wireless/COMO_ATUALIZAR_FIRMWARE.md).
+
+### Trocar receptor
+
+O processo de trocar o receptor do teclado por um novo é o mesmo que o de atualizar o firmware.
+
+É importante notar que não há como ter 2 receptores prontos para uso a qualquer momento. O teclado requer passar pelo processo de uma nova gravação do firmware para funcionar com o novo receptor.
+
+Consulte o guia mensionado anteriormente.
 
 ## Modificar manualmente o _firmware_
 

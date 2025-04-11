@@ -6,6 +6,14 @@ A Tergo Teclados pretende continuar realizando melhorias no _firmware_ do teclad
 >
 > Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
 
+## Para que atualizar o firwmare?
+
+Alguns motivos do porquê você pode querer atualizar o firmware:
+
+- Trocar entre a versão ABNT2 ou Internacional
+- Instalar uma atualização nova do firmware fornecida pela Tergo Teclados
+- Colocar sua versão customizada do firmware
+
 ## Visualizar versão atual
 
 Caso você possua telas OLED, você pode ver a versão do firmware do seu teclado indo para a camada de ajustes e visualizando a tela OLED direita, na parte superior.
