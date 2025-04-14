@@ -65,7 +65,7 @@ O processo é o seguinte:
 >
 > Se for necessário aplicar o firmware de reset, ele será gravado primeiro, e depois o processo repetido com o firmware correto.
 
-2 - Com o receptor do teclado conectado ao seu computador e o teclado em funcionamento, coloque o receptor em modo de gravação clicando ao mesmo tempo as 4 teclas abaixo no seu teclado:
+2 - Com o receptor do teclado conectado ao seu computador e o teclado em pleno funcionamento, coloque o receptor em modo de gravação clicando ao mesmo tempo as 4 teclas abaixo no seu teclado:
 
 <img src="../../imagens/ativar-bootloader-receptor.svg" alt="Exemplo" width="800">
 
