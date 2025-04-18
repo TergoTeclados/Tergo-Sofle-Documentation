@@ -311,6 +311,8 @@ O Tergo Sofle Wireless suporta conectar e controlar individualmente múltiplos d
 
 Você pode, por exemplo, usar o teclado no seu computador e, eventualmente, trocar o foco dele para seu notebook ou smartphone para responder alguém.
 
+Isso acontece por meio da presença do receptor, que gerencia as comunicações do teclado.
+
 Entenda a funcionalidade e como utilizá-la vendo o guia de [como conectar multiplos dispositivos](./guias/especifico_versao_wireless/COMO_CONECTAR_MULTIPLOS_DISPOSITIVOS.md).
 
 ## Cuidados com seu teclado
