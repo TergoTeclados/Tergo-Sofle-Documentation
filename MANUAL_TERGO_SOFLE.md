@@ -176,6 +176,8 @@ O modo básico e adepto são simplesmente aplicações do sistema de camada de t
 
 O Tergo Sofle vem configurado de forma que você pode escolher entre 3 camadas base, ou seja, a camada que fica ativa quando você não está com nenhuma outra camada ativa, ou seja, onde estão suas letras e números convencionais.
 
+Você pode acessá-los por meio da camada de ajustes (segurando a tecla abaixo da tampa direita) e clicando `X` (modo básico), ou `C` (modo adepto), ou `V` (camada extra igual a do modo básico).
+
 Essas camadas são as de número 0, 1 e 2 (que podem ser visualizadas facilmente no Vial).
 
 A camada 0, também chamada de "Basic", é a padrão.
