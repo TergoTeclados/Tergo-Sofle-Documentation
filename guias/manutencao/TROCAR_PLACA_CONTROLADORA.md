@@ -6,6 +6,8 @@ Se você quiser trocar a placa controladora do seu teclado, por qualquer motivo 
 
 A placa controladora é a placa retangular que fica coberta pela tampa superior do seu teclado.
 
+<img src="../../imagens/trocando-placa-1.jpg" alt="Exemplo" width="400">
+
 ## Primeiro tenha certeza do problema
 
 Antes de resolver trocar a placa, já diagnosticou que o problema é nela mesmo?
@@ -38,7 +40,8 @@ Adquira por lá a sua nova placa controladora, que já vem testada, com pinos j�
 
 Para isso:
 - Desligue totalmente o teclado, desconectando cabos ou desligando chaves de liga/desliga;
-- Desparafuse e remova a tampa superior.
+- Desparafuse e remova a tampa superior;
+- Remova a estrutura do teclado, desparafusando a parte debaixo (5 parafusos).
 
 ## Remoção da placa antiga
 
@@ -49,6 +52,40 @@ Se você está trocando sua placa controladora, é porque provavelmente a antiga
 Entretanto, é necessário cuidado para não danificar o resto das partes do teclado.
 
 Assim, explicaremos passo a passo de forma detalhada como remover a placa controladora antiga.
+
+### Removendo com a chave philips
+
+Após remover a estrutura do teclado, pegue a chave philips do seu kit de manutenção.
+
+Para remover a placa controladora, você precisará usar a chave para empurrar a placa para cima aos poucos.
+
+Conforme a imagem abaixo, posicione a chave de baixo para cima, com a parte metálica encaixando no buraco ao lado do USB, que não possui nenhum pino soldado.
+
+Empurre um pouco cada um dos dois furos, para que a placa saia.
+
+<img src="../../imagens/trocando-placa-2.jpg" alt="Exemplo" width="400">
+
+Conforme você faz isso, a placa vai saindo e fica cada vez mais fácil de empurrá-la.
+
+<img src="../../imagens/trocando-placa-3.jpg" alt="Exemplo" width="400">
+
+A partir de certo ponto, conforme imagem abaixo, já não é mais necessário utilizar a chave e pode ser utilizada a própria mão.
+
+<img src="../../imagens/trocando-placa-4.jpg" alt="Exemplo" width="400">
+
+Assim, agarre a placa simultaneamente puxe para cima e continue empurrando para trás.
+
+Conforme imagem abaixo, quando a placa sair, os últimos pinos dela estarão tortos, o que não é problema, e a placa removida.
+
+Também, se tiver bateria, você irá vê-la.
+
+<img src="../../imagens/trocando-placa-5.jpg" alt="Exemplo" width="400">
+
+> [!NOTE]
+>
+> Pode também haver uma fina camada de plástico amarelado que sairá com a placa controladora.
+>
+> Essa é uma fita utilizada no processo de fabricação, e pode ser removida ou mantida sem problemas.
 
 ### Wireless: Cuidado com a bateria
 
@@ -72,7 +109,11 @@ Assim, posicione a placa controladora nos conectores (também conhecidos como "h
 
 Veja se todos os pinos parecem estar apropriadamente posicionados nos buracos, de forma que se você pressionar a placa para baixo eles entrarão corretamente.
 
-Se algum não estiver, você pode empurrá-los levemente com algum objeto (ou mesmo com os dedos) para que ele consiga entrar corretamente ao ser empurrado.
+A imagem abaixo ilustra isso.
+
+<img src="../../imagens/trocando-placa-6.jpg" alt="Exemplo" width="400">
+
+Se algum não estiver, você pode remover a placa e empurrá-los levemente com algum objeto (ou mesmo com os dedos e unhas) para que ele consiga entrar corretamente ao ser empurrado.
 
 Se tudo parecer certo, empurre a placa, apertando ela no meio com o dedo conforme necessário para que ela entre.
 
