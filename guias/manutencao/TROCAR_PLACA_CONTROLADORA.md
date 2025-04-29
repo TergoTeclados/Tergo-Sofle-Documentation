@@ -41,7 +41,18 @@ Adquira por lá a sua nova placa controladora, que já vem testada, com pinos j�
 Para isso:
 - Desligue totalmente o teclado, desconectando cabos ou desligando chaves de liga/desliga;
 - Desparafuse e remova a tampa superior;
-- Remova a estrutura do teclado, desparafusando a parte debaixo (5 parafusos).
+- Remova a estrutura do teclado, desparafusando a parte debaixo (5 parafusos);
+- Remova a tela OLED, caso tenha.
+
+### Remoção da tela OLED
+
+Basta puxá-la para cima, aos poucos, de forma que desencaixem os 4 pinos na qual ela é conectada.
+
+Deve haver certa resistência.
+
+Pode ser que alguns dos pinos, que são maleáveis, dobrem durante o processo.
+
+Não há problema, uma vez que ao final você pode ajeitá-los manualmente para encaixar novamente as telas.
 
 ## Remoção da placa antiga
 
@@ -80,6 +91,12 @@ Conforme imagem abaixo, quando a placa sair, os últimos pinos dela estarão tor
 Também, se tiver bateria, você irá vê-la.
 
 <img src="../../imagens/trocando-placa-5.jpg" alt="Exemplo" width="400">
+
+> [!IMPORTANT]
+>
+> Revise os pinos da placa controladora e os encaixes da placa-base para ver se algum engate dos encaixes da placa-base acabou saindo junto com o pino da placa controladora.
+>
+> É raro, mas se acontecer basta colocar esse engate de volta no lugar que ele estava na placa-base.
 
 > [!NOTE]
 >
@@ -128,6 +145,12 @@ Se não, remova a placa, ajuste os pinos que precisar, e tente novamente.
 > Pode ser que fique um pequeno vão entre os conectores e a placa controladora: é normal.
 >
 > Jamais forçe a placa a ponto de amassar a bateria.
+
+### Coloque as telas OLED novamente
+
+Coloque as telas caso tenha.
+
+Pode ser necessário mexer nos pinos para encaixarem adequadamente, assim como foi o caso da placa controladora.
 
 ## Tudo pronto! Hora de testar
 
