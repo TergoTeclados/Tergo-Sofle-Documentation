@@ -4,6 +4,8 @@ Neste guia você encontrará problemas e soluções que você pode ter com seu t
 
 Especificamente sobre problemas técnicos.
 
+## Possíveis problemas
+
 ## USB da placa controladora com mal contato
 
 ### Causas
