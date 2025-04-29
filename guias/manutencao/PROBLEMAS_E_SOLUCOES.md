@@ -20,6 +20,8 @@ Especificamente sobre problemas técnicos.
 
 ### Possíveis soluções
 
+Caso não seja nenhum dos problemas anteriores e sim a placa, sugerimos as seguintes soluções:
+
 #### Trocar placas controladoras entre si
 
 Como apenas uma das placas é a principal que é conectada ao computador, pode ser que trocar as placas entre si já solucione o seu problema.
