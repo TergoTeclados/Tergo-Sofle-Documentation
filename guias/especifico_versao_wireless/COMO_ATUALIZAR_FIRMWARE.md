@@ -50,7 +50,9 @@ O único caso que você não vai precisar gravar o firmware de reset é caso est
 
 ## Como gravar o firmware
 
-O processo é o seguinte:
+Primeiramente, desligue as metades do seu teclado.
+
+Então, o processo é o seguinte:
 
 1 - Copie o arquivo que será gravado no receptor: Primeiramente será o de reset, e, em uma segunda gravação, o do receptor.
 
