@@ -10,7 +10,7 @@ Por padrão, o Tergo Sofle suporta conectar até 5 dispositivos por meio de _Blu
 
 > [!TIP]
 >
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo" width="20">
 
 ## Camada de ajustes
 

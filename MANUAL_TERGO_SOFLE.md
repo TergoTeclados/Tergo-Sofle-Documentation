@@ -6,7 +6,7 @@ Neste manual você vai saber os aspectos importantes para utilizar seu teclado T
 
 > [!TIP]
 >
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="./imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="./imagens/icone-sumario.png" alt="Exemplo" width="20">
 
 ## Aproveite sua jornada!
 
@@ -24,7 +24,7 @@ Seu teclado já vem com os cabos necessários para o funcionamento.
 
 A imagem abaixo mostra um exemplo da disposição dos cabos:
 
-<img src="./imagens/exemplo_cabos.jpg" alt="Exemplo Cabos" width="800">
+<img src="./imagens/exemplo_cabos.jpg" alt="Exemplo" width="800">
 
 ### Adicione o teclado ao seu sistema operacional
 

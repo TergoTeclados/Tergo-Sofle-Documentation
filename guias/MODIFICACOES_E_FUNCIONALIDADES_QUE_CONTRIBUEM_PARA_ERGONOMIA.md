@@ -4,7 +4,7 @@ Neste guia você descobrirá como diversas funcionalidades como modificar o layo
 
 > [!TIP]
 >
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../imagens/icone-sumario.png" alt="Exemplo" width="20">
 
 ## Adapte o layout de teclas para suas necessidades
 
@@ -49,7 +49,7 @@ Se você usa com muita frequência alguma funcionalidade, como, por exemplo "Ctr
 
 Há um exemplo disso aplicado na camada de símbolos e navegação. Repare nas teclas abaixo de onde seriam as setas (Left e Right).
 
-<img src="../imagens/exemplo_tecla_control_seta.png" alt="Exemplo Cabos" width="500">
+<img src="../imagens/exemplo_tecla_control_seta.png" alt="Exemplo" width="500">
 
 > [!NOTE]
 > No Vial (software da versão com fio), para fazer o que foi feito no exemplo acima, você pode usar as teclas especiais disponível no submenu "Quantum". Para entender o que cada tecla desse menu faz, você pode [consultar este trecho da documentação oficial do firmware QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md#modifiers-modifiers).
@@ -112,7 +112,7 @@ Dessa forma, você pode colocá-lo(s), por exemplo, na coluna direita, de forma 
 
 O exemplo abaixo é uma aplicação disso.
 
-<img src="../imagens/exemplo_camada_base_diferente.svg" alt="Exemplo Cabos" width="800">
+<img src="../imagens/exemplo_camada_base_diferente.svg" alt="Exemplo" width="800">
 
 As teclas marcadas em vermelho foram as alteradas em relação ao layout original do Tergo Sofle.
 
@@ -157,12 +157,35 @@ Que tal adicionar duplo comportamento para as teclas mais próximas do seu dedã
 
 Repare nessas teclas comentadas no exemplo abaixo.
 
-<img src="../imagens/exemplo_tap_hold_layer.svg" alt="Exemplo Cabos" width="800">
+<img src="../imagens/exemplo_tap_hold_layer.svg" alt="Exemplo" width="800">
 
 Há 2 exemplos disso na camada especial do modo adepto, nas teclas do dedão esquerdo. Use-os como referência no software de customização.
 
 > [!NOTE]
 > No Vial (software da versão com fio), para fazer isso, resumidamente, abra o submenu de teclas "Layers" e coloque no lugar da tecla que você quer substituir o botão com nome `LT` seguido de um número que representa a camada de destino que você quer ativar ao segurar a tecla. Em seguida, escolha a tecla que será ativada caso você simplesmente clique a tecla.
+
+## Knob (opcional): Para que usar?
+
+Os knobs, também conhecidos como "encoders", "botões giratórios" ou "potenciômetros", permitem que você tenha funcionalidades ao girá-los no sentido horário ou anti-horário.
+
+Essas funcionalidades podem ser teclas ou combinações de teclas.
+
+Knobs vem configurados por padrão para ajustar volume ou rolar página (PageUp/PageDown).
+
+Algumas dicas de customizações para utilizar os encoders:
+- Volume
+- Rolar página (PgUp/PgDown ou então MouseScrollUp/MouseScrollDown)
+- Alternar abas no navegador (`shift+tab` e `ctrl+shift+tab`). Experimente esses atalhos no seu teclado
+- Regular brilho RGB
+- Avançar/Voltar coisas em geral, simulando setas ou botões de mídia
+
+> [!NOTE]
+> No Vial (software da versão com fio), você pode customizar isso na página principal.
+
+> [!NOTE]
+> No ZMK Studio (software da versão sem fio), até a data de escrita desta documentação, ainda não é possível customizar isso pelo software. É necessário modificar o código-fonte. Para isso, você pode consultar o guia de [como modificar o código fonte (ZMK)](./especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
+>
+> É previsto que o ZMK Studio venha a suportar isso no futuro. Isso pode ser visto na [lista de funcionalidades previstas do ZMK Studio](https://zmk.dev/docs/features/studio).
 
 ## layouts de teclas além do QWERTY
 

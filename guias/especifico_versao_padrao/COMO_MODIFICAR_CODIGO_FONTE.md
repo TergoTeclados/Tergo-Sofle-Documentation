@@ -4,7 +4,7 @@ Este manual vai te guiar em relação a como modificar o firmware presente no se
 
 > [!TIP]
 >
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo" width="20">
 
 ## Requisitos
 

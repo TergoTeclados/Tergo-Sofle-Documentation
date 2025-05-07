@@ -4,7 +4,7 @@ A Tergo Teclados pretende continuar realizando melhorias no _firmware_ do teclad
 
 > [!TIP]
 >
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo" width="20">
 
 ## Para que atualizar o firwmare?
 

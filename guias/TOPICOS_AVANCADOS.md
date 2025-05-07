@@ -12,7 +12,7 @@ Com o [Vial](https://get.vial.today/), você pode desfrutar do poder de diversas
 
 > [!TIP]
 >
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../imagens/icone-sumario.png" alt="Exemplo" width="20">
 
 ### O que encontro no Vial
 

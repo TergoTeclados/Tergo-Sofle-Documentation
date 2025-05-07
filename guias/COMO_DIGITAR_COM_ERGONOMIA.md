@@ -4,7 +4,7 @@ Este manual visa discutir aspectos de ergonomia focados na digitação e maneira
 
 > [!TIP]
 >
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../imagens/icone-sumario.png" alt="Exemplo Cabos" width="20">
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../imagens/icone-sumario.png" alt="Exemplo" width="20">
 
 ## Parte da ergonomia é entender o que é confortável para seu corpo
 
@@ -25,7 +25,7 @@ Se você chegou até aqui, provavelmente já viu aquelas imagens que demonstram 
 
 A imagem abaixo (retirada [daqui](https://fisiomedcuiaba.com.br/dicas-importantes-para-sentar-corretamente-em-frente-do-computador/)) é só um exemplo de inúmeras páginas que mostram maneiras recomendadas de se posicionar.
 
-<img src="../imagens/exemplo_sentado.png" alt="Exemplo Cabos" width="800">
+<img src="../imagens/exemplo_sentado.png" alt="Exemplo" width="800">
 
 Ao mesmo tempo, a imagem acima é só um exemplo de como isso pode ser feito.
 
@@ -71,13 +71,13 @@ Ao posicionar a mão no teclado para digitar, queremos mantê-la neutra em rela�
 
 Desvio ulnar e radial são os movimentos mostrados pela imagem abaixo.
 
-<img src="../imagens/desvio_ulnar_e_radial.png" alt="Exemplo Cabos" width="800">
+<img src="../imagens/desvio_ulnar_e_radial.png" alt="Exemplo" width="800">
 
 Abaixo estão exemplos de como não posicionar e outro de como posicionar.
 
-<img src="../imagens/exemplo_ruim_posicionamento.jpg" alt="Exemplo Cabos" width="800">
+<img src="../imagens/exemplo_ruim_posicionamento.jpg" alt="Exemplo" width="800">
 
-<img src="../imagens/exemplo_bom_posicionamento.jpg" alt="Exemplo Cabos" width="800">
+<img src="../imagens/exemplo_bom_posicionamento.jpg" alt="Exemplo" width="800">
 
 ### Exemplos de posicionamento das mãos
 
@@ -88,13 +88,13 @@ Abaixo estão exemplos de como não posicionar e outro de como posicionar.
 
 ### Lados próximos
 
-<img src="../imagens/teclados_proximos.png" alt="Exemplo Cabos" width="800">
+<img src="../imagens/teclados_proximos.png" alt="Exemplo" width="800">
 
 Acima os lados estão próximos. Repare que os curvei para dentro, pois assim evito desvio ulnar e radial. Além disso, ocupa pouco espaço.
 
 ### Lados afastados
 
-<img src="../imagens/teclados_afastados.png" alt="Exemplo Cabos" width="800">
+<img src="../imagens/teclados_afastados.png" alt="Exemplo" width="800">
 
 Acima os lados estão afastados. Dessa forma, consigo me encostar na cadeira e usar os apoios de braço, por exemplo.
 
