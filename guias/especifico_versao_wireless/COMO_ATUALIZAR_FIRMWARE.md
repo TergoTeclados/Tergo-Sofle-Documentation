@@ -30,32 +30,122 @@ Basta clicar em cada arquivo do tipo `.uf2` para baixar cada um.
 
 ## Colocar firmware no teclado
 
-O processo de gravação do _firmware_ no teclado consiste em colocar em modo de gravação e copiar e colar o arquivo do firmware do teclado em cada parte do teclado que precisa ser atualizada.
+O processo de gravação do _firmware_ no teclado consiste em colocar em modo de gravação e copiar e colar o arquivo do firmware de reset e então o arquivo de firmware dessa parte do teclado que precisa ser atualizada.
 
 > [!NOTE]
 >
 > Atualizar o _firmware_ não irá remover as customizações que você realizou no teclado pelo ZMK Studio. Isso é feito diretamente no painel do ZMK Studio.
 
-## Firmware de reset: o que é e quando usar
+### Grave primeiro o firmware de reset, e então o da parte do teclado
 
-É importante ficar atento a quando você deve utilizar o firmware de reset.
+Antes de gravar o _firwmare_ do teclado em sua respectiva parte, grave primeiro o firmware de reset.
 
-Você precisa utilizá-lo em alguns casos como:
-- Você tentou instalar a atualização sem aplicar o firmware de reset e o teclado não funcionou
-- Se você estiver fazendo essa operação para configurar um novo receptor diferente do que você usava
-- Alguma customização no firmware que você mesmo fez e que é disruptiva
+Ou seja, a sequência para gravar o firmware é:
 
-Ele pode ser aplicado a cada parte do teclado antes de gravar o firmware daquela parte.
+`Colocar em modo de gravação -> Colocar o firmware de reset -> Colocar novamente em modo de gravação -> Colocar firmware da parte`
 
-Ou seja, você pode:
-- Colocar a parte do teclado em modo de gravação
-- Colocar o firmware de reset
-- Após gravado, colocar em modo de gravação novamente
-- Colocar firmware da parte do teclado (receptor, esquerda ou direita)
+O único caso que você não vai precisar gravar o firmware de reset é caso esteja instalando uma customização que requer gravar apenas o firmware no receptor, como:
+- Customizações que você mesmo fez no firmware;
+- Atualizações no firwmare que a Tergo Teclados deixou explícito que basta atualizar o receptor.
+
+## Como gravar o firmware
+
+O processo é o seguinte:
+
+1 - Copie o arquivo que será gravado no receptor: Primeiramente será o de reset, e, em uma segunda gravação, o do receptor.
+
+2 - Com a parte do teclado a ser gravada conectada no computador, ative o modo de gravação dela.
+
+> [!TIP]
+>
+> Isso é mostrado no [próximo tópico](#ativar-modo-de-gravação-de-cada-parte-fisicamente).
+
+3 - Uma pasta chamada `NICENANO` se abrirá no seu sistema operacional. Caso não abra automaticamente na sua tela, você pode procurar no menu de dispositivos:
+
+<img src="../../imagens/exemplo_modo_boot_wireless.png" alt="Exemplo" width="800">
+
+4 - Cole o arquivo copiado na pasta que abriu.
+
+Após isso, a pasta sumirá automaticamente e seu dispositivo estará utilizando a nova versão do _firmware_.
+
+5 - Repita o processo após gravar o firmware de reset para gravar o firmware da parte do teclado.
+
+6 - Faça os mesmos passos para cada parte do teclado: receptor, metade esquerda e metade direita.
+
+> [!IMPORTANT]
+>
+> Caso o teclado pare de responder a comandos após atualização, recomenda-se desligar e ligar todas as partes do teclado novamente.
+>
+> Desconecte e conecte novamente o receptor ao seu computador. Caso o teclado ainda não responda, desligue e ligue novamente as metades do teclado.
+>
+> Caso ainda assim, após tentar reiniciar todas as partes, o teclado não responda, repita todo o processo.
+
+## Ativar modo de gravação de cada parte fisicamente
+
+Para cada parte do teclado você precisará ativar o modo de gravação dela para gravar o firmware nela.
+
+Há uma técnica para ativar o modo de gravação por meio de atalhos no teclado, mostrada [mais abaixo](#gravar-o-firmware-no-receptor---método-por-atalhos-no-teclado). Entretanto, ela é recomendada apenas para quem fez customizações no firmware e está atualizando apenas o receptor.
+
+### Ativar modo de gravação das partes do teclado
+
+**Para o receptor**
+
+Ao olhar para o seu receptor, você notará que ele possui um pequeno buraco na parte debaixo. 
+
+- Pegue um objeto metálico fino que possa ser inserido no buraco, como um _clipe_, uma pinça metálica, ou um pininho metálico
+
+> [!TIP]
+>
+> Nós enviamos um _clipe_ com o teclado.
+
+- Com o receptor conectado ao computador por cabo, toque brevemente 2 vezes na parte metálica vista nesse furo (normalmente dourada) com o objeto metálico
+
+> [!NOTE]
+>
+> Às vezes 1 único toque, curto ou longo, basta para entrar em modo de gravação.
+>
+> Espere um breve intervalo para ver se a pasta abrirá.
+>
+> É normal que você não consiga de primeira, então tente novamente.
+
+Caso você tenha feito isso com sucesso, deverá abrir a pasta de gravação do seu dispositivo no seu sistema operacional.
+
+Grave o firwmare de reset, e então o firmware da partes específica do teclado.
+
+**Para as metades do teclado**
+
+Você precisará de acesso ao botão que está na placa eletrônica do seu teclado.
+
+Para isso, você deverá abrir o protetor da placa controladora, que é a peça da parte de cima do teclado presa por 2 parafusos.
+
+> [!TIP]
+> Use a chave philips que acompanha seu teclado para abrir os parafusos.
+>
+> Remover apenas o parafuso que fica mais perto das teclas já te permite mover o protetor para o lado e ter acesso ao botão.
+
+Assim, você encontrará um pequeno botão abaixo da chave de ligar/desligar.
+
+Então, com a metade do teclado conectada ao seu computador por meio de cabo, pressione 2 vezes rapidamente o botão para o dispositivo entrar no modo de gravação.
+
+Grave o firwmare de reset, e então o firmware da parte específica do teclado.
+
+> [!TIP]
+>
+> Use a parte de trás da chave (parte plástica) para pressionar o botão com facilidade.
+
+> [!NOTE]
+>
+> Às vezes 1 único clique, curto ou longo, basta para entrar em modo de gravação.
+>
+> Espere um breve intervalo para ver se a pasta abrirá.
+>
+> É normal que você não consiga de primeira, então tente novamente.
 
 ### Gravar o firmware no receptor - método por atalhos no teclado
 
 Muitas vezes customizações ou atualizações requerem apenas atualizar o firmware do receptor.
+
+Esse método de mostra como fazer isso por meio de atalhos no teclado.
 
 O processo é o seguinte:
 
@@ -127,67 +217,4 @@ Caso seu teclado tenha parado de responder após atualizar alguma parte e você 
 - Você gravou o firmware de _reset_ na parte do teclado que parou de funcionar e ainda não gravou o firmware da parte após isso
 - Você usou uma versão customizada por você do _firmware_ que contém algum erro
 
-Para solucionar o problema, vamos ativar o modo de gravação de cada parte do teclado **fisicamente**.
-
-## Ativar modo de gravação de cada parte fisicamente
-
-Ao invés de ativar o modo de gravação das partes por meio de atalhos no teclado, você pode querer ativar de forma física.
-
-Isso é bem comum para casos, por exemplo, onde a atualização faz com que o teclado pare de responder e em casos que precisa gravar o firmware de reset.
-
-Para isso, siga os passos abaixo:
-
-### Ativar modo de gravação do receptor por meio do hardware
-
-**Para o receptor**
-
-Ao olhar para o seu receptor, você notará que ele possui um pequeno buraco na parte debaixo. 
-
-- Pegue um objeto metálico fino que possa ser inserido no buraco, como um _clipe_, uma pinça metálica, ou um pininho metálico
-
-> [!TIP]
->
-> Nós enviamos um _clipe_ com o teclado.
-
-- Com o receptor conectado ao computador, toque brevemente 2 vezes na parte metálica vista nesse furo (normalmente dourada) com o objeto metálico
-
-> [!NOTE]
->
-> Às vezes 1 único toque, curto ou longo, basta para entrar em modo de gravação.
->
-> Espere um breve intervalo para ver se a pasta abrirá.
->
-> É normal que você não consiga de primeira, então tente novamente.
-
-Caso você tenha feito isso com sucesso, deverá abrir a pasta de gravação do seu dispositivo no seu sistema operacional, como visto nos tópicos anteriores.
-
-Grave o firwmare de reset, e então o firmware da partes específica do teclado.
-
-**Para as metades do teclado**
-
-Você precisará de acesso ao botão que está na placa eletrônica do seu teclado.
-
-Para isso, você deverá abrir o protetor da placa controladora, que é a peça da parte de cima do teclado presa por 2 parafusos.
-
-> [!TIP]
-> Use a chave philips que acompanha seu teclado para abrir os parafusos.
->
-> Remover apenas o parafuso que fica mais perto das teclas já te permite mover o protetor para o lado e ter acesso ao botão.
-
-Assim, você encontrará um pequeno botão abaixo da chave de ligar/desligar.
-
-Então, com a metade do teclado conectada ao seu computador por meio de cabo, pressione 2 vezes rapidamente o botão para o dispositivo entrar no modo de gravação.
-
-Grave o firwmare de reset, e então o firmware da parte específica do teclado.
-
-> [!TIP]
->
-> Use a parte de trás da chave (parte plástica) para pressionar o botão com facilidade.
-
-> [!NOTE]
->
-> Às vezes 1 único clique, curto ou longo, basta para entrar em modo de gravação.
->
-> Espere um breve intervalo para ver se a pasta abrirá.
->
-> É normal que você não consiga de primeira, então tente novamente.
+Para solucionar o problema, refaça o processo de gravação do firwmare fisicamente.
