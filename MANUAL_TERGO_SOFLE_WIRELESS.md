@@ -169,14 +169,6 @@ O receptor com tela te fornece ótimos feedbacks visuais sobre funcionalidades d
 
 ## ZMK Studio: Software para configuração
 
-<img src="./imagens/zmk-studio.png" alt="Exemplo" width="800">
-
-O teclado usa a interface para configurações em tempo real [ZMK Studio](https://zmk.studio/).
-
-Você pode utilizar o [ZMK Studio no próprio navegador](https://zmk.studio/) ou [baixar o aplicativo](https://github.com/zmkfirmware/zmk-studio/releases) para seu sistema operacional. 
-
-Abra o ZMK Studio e selecione seu teclado para fazer customizações. As modificações são feitas em tempo real.
-
 ### Acessar o ZMK Studio
 
 > [!IMPORTANT]
@@ -190,6 +182,15 @@ Abra o ZMK Studio e selecione seu teclado para fazer customizações. As modific
 > Consulte o exemplo abaixo.
 
 <img src="./imagens/wireless-desbloquear-zmk-studio.svg" alt="Exemplo" width="800">
+
+
+<img src="./imagens/zmk-studio.png" alt="Exemplo" width="800">
+
+O teclado usa a interface para configurações em tempo real [ZMK Studio](https://zmk.studio/).
+
+Você pode utilizar o [ZMK Studio no próprio navegador](https://zmk.studio/) ou [baixar o aplicativo](https://github.com/zmkfirmware/zmk-studio/releases) para seu sistema operacional. 
+
+Abra o ZMK Studio e selecione seu teclado para fazer customizações. As modificações são feitas em tempo real.
 
 ### Sobre o ZMK Studio
 
