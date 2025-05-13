@@ -6,6 +6,16 @@ A Tergo Teclados pretende continuar realizando melhorias no _firmware_ do teclad
 >
 > Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo" width="20">
 
+## Vídeo sobre o processo
+
+Fizemos um vídeo que resume parte do passo a passo abaixo que pode ajudar você:
+
+<a href="https://youtu.be/1R6661NIb30" target="_blank">
+<img src="../../imagens/youtube-icon.png" alt="Exemplo" width="100">
+</a>
+
+[Veja no Youtube](https://youtu.be/1R6661NIb30)
+
 ## Para que atualizar o firwmare?
 
 Alguns motivos do porquê você pode querer atualizar o firmware:
