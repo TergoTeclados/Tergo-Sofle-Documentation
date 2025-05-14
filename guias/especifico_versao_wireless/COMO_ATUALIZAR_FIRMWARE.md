@@ -8,7 +8,11 @@ A Tergo Teclados pretende continuar realizando melhorias no _firmware_ do teclad
 
 ## Vídeo sobre o processo
 
-Fizemos um vídeo que resume parte do passo a passo abaixo que pode ajudar você:
+Fizemos um vídeo que resume parte do passo a passo abaixo que pode ajudar você.
+
+Ainda assim, recomendamos a leitura desse guia conforme necessário por possuir maior nível de detalhamento e ser mais atualizado.
+
+Vídeo abaixo:
 
 <a href="https://youtu.be/1R6661NIb30" target="_blank">
 <img src="../../imagens/youtube-icon.png" alt="Exemplo" width="100">
@@ -54,7 +58,7 @@ Ou seja, a sequência para gravar o firmware é:
 
 `Colocar em modo de gravação -> Colocar o firmware de reset -> Colocar novamente em modo de gravação -> Colocar firmware da parte`
 
-O único caso que você não vai precisar gravar o firmware de reset é caso esteja instalando uma customização que requer gravar apenas o firmware no receptor, como:
+Alguns casos em que você não vai precisar gravar o firmware de reset é caso esteja instalando uma customização que requer gravar apenas o firmware no receptor, como:
 - Customizações que você mesmo fez no firmware;
 - Atualizações no firwmare que a Tergo Teclados deixou explícito que basta atualizar o receptor.
 
@@ -79,6 +83,18 @@ Então, o processo é o seguinte:
 4 - Cole o arquivo copiado na pasta que abriu.
 
 Após isso, a pasta sumirá automaticamente e seu dispositivo estará utilizando a nova versão do _firmware_.
+
+> [!NOTE]
+>
+> Em alguns dispositivos, pode ser que, ao colocar o arquivo na pasta, a pasta suma antes mesmo do sistema avisar que o arquivo foi transferido com sucesso, e assim aparecer na sua tela um erro de falha na transferência.
+>
+> Isso é algo comum e que pode ser ignorado. Normalmente, o firmware foi gravado com sucesso e o que acontece é apenas uma falha de comunicação entre o sistema operacional e a placa do seu teclado, que fecha com o novo firwmare antes de avisar seu computador.
+
+> [!NOTE]
+>
+> Sempre que você colocar o teclado em modo de gravação e abrir a pasta NICENANO, você não verá nela o arquivo do firmware que você colocou nela.
+>
+> Isso é normal, pois na verdade o seu teclado "consome" o arquivo do firmware.
 
 5 - Repita o processo após gravar o firmware de reset para gravar o firmware da parte do teclado.
 
