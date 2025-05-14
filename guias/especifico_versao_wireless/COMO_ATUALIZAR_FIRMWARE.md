@@ -89,6 +89,8 @@ Após isso, a pasta sumirá automaticamente e seu dispositivo estará utilizando
 > Em alguns dispositivos, pode ser que, ao colocar o arquivo na pasta, a pasta suma antes mesmo do sistema avisar que o arquivo foi transferido com sucesso, e assim aparecer na sua tela um erro de falha na transferência.
 >
 > Isso é algo comum e que pode ser ignorado. Normalmente, o firmware foi gravado com sucesso e o que acontece é apenas uma falha de comunicação entre o sistema operacional e a placa do seu teclado, que fecha com o novo firwmare antes de avisar seu computador.
+>
+> Se tiver algum outro problema tente [ver a documentação oficial do ZMK](https://zmk.dev/docs/troubleshooting/flashing-issues) ou nos notifique.
 
 > [!NOTE]
 >
