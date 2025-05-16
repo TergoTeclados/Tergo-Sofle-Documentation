@@ -77,3 +77,28 @@ Faça os mesmos passos que o lado esquerdo, porém agora para o lado direito, se
 ## Importar configuração do Vial
 
 Por fim, opcionalmente, importe de volta seu layout salvo para o Vial clicando em "File > Load saved layout"
+
+## Alternativa: abrir modo de gravação de forma física
+
+Se você não consegue mais ativar o modo de gravação (bootloader) por meio dos atalhos do teclado, pode ser que você:
+
+- Gravou firmware customizado que não foi configurado para ativar o modo de gravação.
+
+A solução para isso é ativar o modo de gravação de forma física:
+
+- Abra a tampa superior do seu teclado;
+- Procure pelo botão de reset: entre as colunas que ficam os parafusos;
+- Com o teclado conectado por cabo, clique brevemente 2 vezes nesse botão para ativar modo de gravação.
+
+> [!TIP]
+>
+> Utilize a chave philips do kit de manutenção para abrir a tampa e a parte de trás dela para pressionar o botão.
+
+### Não tenho o botão! E agora?
+
+Algumas versões mais antigas do teclado Tergo Sofle (antes da 1.2.2) não possuem o botão.
+
+Nesse caso, procure pelos 2 furos acima da região do USB **lateral**. Eles estarão marcados pela letra **R**, simbolizando "Reset".
+
+- Pegue um clips metálico (o que usa para prender papel mesmo);
+- Segue ele e, com a ponta dele, toque o clips metálico brevemente 2 vezes no **furo de cima**.
