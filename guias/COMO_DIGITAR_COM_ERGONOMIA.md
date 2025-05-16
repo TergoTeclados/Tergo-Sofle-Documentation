@@ -98,6 +98,12 @@ Acima os lados estão próximos. Repare que os curvei para dentro, pois assim ev
 
 Acima os lados estão afastados. Dessa forma, consigo me encostar na cadeira e usar os apoios de braço, por exemplo.
 
+### Ainda mais próximos e horizontal
+
+Você pode também deixá-los muito próximos que nem um teclado convencional.
+
+Pode ser mais fácil para você se adaptar inicialmente e ainda assim ser confortável, por mais que pode não oferecer as mesmas vantagens de ergonomia.
+
 #### Onde coloco o mouse?
 
 Com os lados afastados, uma metade pode ficar onde estaria normalmente o mouse. Nesse caso, você pode experimentar usá-lo entre os lados ou mais para fora, por exemplo.
