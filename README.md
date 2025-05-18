@@ -18,13 +18,20 @@ Recomenda-se seguir em ordem a leitura dos guias:
 
 Consulte-os quando necessário. São mencionados nos guias acima.
 
-- Como usar layout de teclas em português ABNT2: [Versão padrão](./guias/especifico_versao_padrao/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) | [Versão Wireless](./guias/especifico_versao_wireless/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md)
 - Como atualizar o _firmware_: [Versão padrão](./guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md) | [Versão Wireless](./guias/especifico_versao_wireless/COMO_ATUALIZAR_FIRMWARE.md)
+- Como usar layout de teclas em português ABNT2: [Versão padrão](./guias/especifico_versao_padrao/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) | [Versão Wireless](./guias/especifico_versao_wireless/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md)
 - Como modificar código fonte: [Versão padrão](./guias/especifico_versao_padrao/COMO_MODIFICAR_CODIGO_FONTE.md) | [Versão Wireless](./guias/especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md)
-- [Manual de montagem e manutenção](./guias/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md)
+- [Manual de montagem e manutenção](./guias/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md)
+- [Problemas e Soluções](./guias/manutencao/PROBLEMAS_E_SOLUCOES.md)
 - [Guia de Tópicos Avançados](./guias/TOPICOS_AVANCADOS.md), para você entender profundamente de detalhes do seu teclado especial e entender seu potencial máximo.
 
 Estamos sempre abertos a receber sugestões de conteúdos que podemos adicionar aqui para te ajudar ou melhorias!
+
+## Suporte
+
+Precisa de ajuda? Não encontrou o que precisa na documentação? Está passando por dificuldades técnicas?
+
+Visite a [página de suporte](https://tecladoergonomico.com.br/suporte) para saber como resolver o problema: sozinho ou com nossa ajuda!
 
 ## Blog
 
@@ -35,10 +42,3 @@ Fique por dentro de atualizações, notícias e discussões no nosso blog, na p�
 Agradecemos pelo suporte em seguir nosso [Instagram @tergoteclados](https://www.instagram.com/tergoteclados). Acompanhe atualizações, conteúdos, e mais.
 
 [Inscreva-se no Youtube](https://www.youtube.com/@tecladoergonomico?sub_confirmation=1) e acompanhe futuros vídeos.
-
-# Contato
-
-Caso não consiga suprir sua dúvida com a documentação ou esteja tendo dificuldade, a Tergo está sempre disponível para te ajudar.
-
-[Mande mensagem para o WhatsApp da Tergo (+5548992173491)](https://wa.me/5548992173491?text=Oi%2C+preciso+de+ajuda+em+rela%C3%A7%C3%A3o+%C3%A0+documenta%C3%A7%C3%A3o+do+teclado+Tergo.)
-

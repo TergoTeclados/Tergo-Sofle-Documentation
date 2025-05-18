@@ -242,7 +242,7 @@ Use o Vial para facilmente visualizar o mapeamento das teclas que ajustam o RGB.
 > Tenha atenção em relação aos seguintes pontos:
 > - Não force os conectores USB **superiores** ou **laterais** ao conectar cabos
 > - Cuidado com líquidos perto do seu teclado
-> - Atenção ao desmontar o teclado sozinho ou realizar manutenções (consulte o [manual de montagem e manutenção](./guias/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+> - Atenção ao desmontar o teclado sozinho ou realizar manutenções (consulte o [manual de montagem e manutenção](./guias/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
 
 > [!IMPORTANT]
 >

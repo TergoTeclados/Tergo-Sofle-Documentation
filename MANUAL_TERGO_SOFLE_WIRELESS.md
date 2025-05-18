@@ -330,7 +330,7 @@ Entenda a funcionalidade e como utilizá-la vendo o guia de [como conectar multi
 > - Forçar as chaves laterais de ligar/desligar
 > - Forçar os conectores USB superiores ao conectar cabos
 > - Líquidos perto do seu teclado
-> - Desmontar o teclado sozinho (consulte o [manual de montagem e manutenção](./guias/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+> - Desmontar o teclado sozinho (consulte o [manual de montagem e manutenção](./guias/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
 
 > [!NOTE]
 > O teclado Tergo foi feito para ser durável e facilmente renovável.

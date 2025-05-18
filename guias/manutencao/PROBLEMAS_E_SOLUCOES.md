@@ -2,9 +2,47 @@
 
 Neste guia você encontrará problemas e soluções que você pode ter com seu teclado.
 
-Especificamente sobre problemas técnicos.
+Seu problema pode variar desde simples uma confusão com alguma funcionalidade até serem problemas técnicos que necessitem de manutenção.
+
+> [!TIP]
+>
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo" width="20">
+
+## Primeiros passos
+
+A maioria dos problemas podem ser resolvidos realizando os seguintes passos.
+
+Experimente realizá-los primeiro, antes de buscar soluções mais avançadas.
+
+### Desligar e ligar teclado
+
+Desligue-o totalmente da energia, desconectando-o do USB e desligando chaves de liga/desliga (apenas na Wireless).
+
+### Restaurar configurações de fábrica
+
+Uma costumização realizada no teclado pode estar causando problemas inesperados para você.
+
+Caso pareça se aplicar ao seu caso, restaure o _firmware_ do teclado para as configurações de fábrica e veja se resolve.
+
+#### Versão Padrão (com fio)
+
+Veja o [guia de atualização do firmware (versão Padrão)](../especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md) e prossiga até a etapa de ativar o modo de gravacão (boot).
+
+No momento em que a pasta para gravar o _firmware_ abre, seu teclado terá restaurado as configurações de fábrica do _firmware_.
+
+Se você instalou um _firmware_ customizado seu, realize o processo completo do guia para gravar o _firmware_ fornecido pela Tergo Teclados para ver se resolve.
+
+#### Versão Wireless (sem fio)
+
+Um primeiro passo pode ser tentar limpar customizações realizadas no ZMK Studio.
+
+Abra o ZMK Studio, e clique em `Tergo Sofle > Restore Stock Settings`.
+
+Caso não tenha resolvido, veja o [guia de atualização do firmware (versão Wireless)](../especifico_versao_wireless/COMO_ATUALIZAR_FIRMWARE.md) e tente reinstalar o _firmware_ do seu teclado para o fornecido pela Tergo Teclados. Especialmente relevante caso tenha gravado uma versão sua customizada do _firmware_.
 
 ## Possíveis problemas
+
+Veja aqui eventuais problemas que você pode ter com o teclado Tergo Sofle.
 
 ## Teclado Wireless estava funcionando normalmente mas alguma parte parou
 
@@ -24,7 +62,7 @@ Uma metade do teclado estar desconectando com certa frequência pode indicar bat
 
 Recarregue-a.
 
-#### Teclado conectou-se ao dispositivo bluetooth e você não percebeu
+#### Teclado conectou-se a um dispositivo bluetooth e você não percebeu
 
 Se está tentando digitar no teclado para enviar texto ao computador e você tem algum dispositivo bluetooth por perto, pode ser que o teclado tenha tentado se conectar a ele, dado você clicar em algo por acidente ou não.
 

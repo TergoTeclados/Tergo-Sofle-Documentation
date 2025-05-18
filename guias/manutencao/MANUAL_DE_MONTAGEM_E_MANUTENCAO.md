@@ -1,8 +1,6 @@
 # Tergo Sofle - Manual de Montagem e Manutenção
 
-Neste manual você descobrirá como montar/desmontar seu teclado Tergo Sofle e como solucionar problemas diversos.
-
-Atenção: danos causados por tentativa de manutenção manual são sujeitos a perda de garantia.
+Neste manual você descobrirá como montar/desmontar seu teclado Tergo Sofle e realizar manutenções diversas.
 
 > [!TIP]
 >
@@ -12,13 +10,9 @@ Atenção: danos causados por tentativa de manutenção manual são sujeitos a p
 
 Caso tenha qualquer problema que não encontrou a solução na documentação, nos contate que te ajudaremos a descobrir qual é a causa e também podemos arrumar para você!
 
-## Voltar para configuração de fábrica
-
-Problemas que você tem relacionados ao firmware podem estar relacionados com alguma configuração que você fez.
-
-Resete para as configurações de fábrica do Tergo Sofle (e opcionalmente atualize para a versão mais recente) seguindo um dos guias de como atualizar o firmware. 
-
-Em especial, caso queira apenas resetar as configurações de fábrica, pode parar na parte que o seu teclado entra em modo de _boot_.
+> [!WARNING]
+>
+> Danos causados por tentativa de manutenção manual são sujeitos a perda de garantia.
 
 ## Trocar tampa superior (cover)
 
