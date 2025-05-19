@@ -175,16 +175,24 @@ O receptor com tela te fornece ótimos feedbacks visuais sobre funcionalidades d
 >
 > Após abrir o ZMK Studio e selecionar seu teclado, você verá uma mensagem na sua tela pedindo para "desbloquear" seu teclado.
 >
-> Para isso:
-> - 1: Segure a tecla para acessar a camada de ajustes (conforme exemplo abaixo)
-> - 2: Clique na tecla `ESC` (tecla mais superior à esquerda no teclado)
+> Há 2 formas de fazer isso.
 >
-> Consulte o exemplo abaixo.
+> A primeira é:
+> - Primeiro: Segure a tecla para acessar a camada de ajustes (conforme exemplo abaixo)
+> - Segundo: Clique na tecla `ESC` (tecla mais superior à esquerda no teclado)
+>
+> A segunda forma é:
+> - Clicar ao mesmo tempo as 2 teclas mostradas na imagem mais abaixo.
+>
+> Consulte as imagens abaixo.
+
+Forma 1 de desbloquear:
 
 <img src="./imagens/wireless-desbloquear-zmk-studio.svg" alt="Exemplo" width="800">
 
+Forma 2 de desbloquear (a partir da versão 1.2.0 do _firmware_):
 
-<img src="./imagens/zmk-studio.png" alt="Exemplo" width="800">
+<img src="./imagens/desbloquear_zmk_studio_2.svg" alt="Exemplo" width="800">
 
 O teclado usa a interface para configurações em tempo real [ZMK Studio](https://zmk.studio/).
 
