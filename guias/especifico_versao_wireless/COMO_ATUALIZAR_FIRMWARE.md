@@ -10,7 +10,11 @@ A Tergo Teclados pretende continuar realizando melhorias no _firmware_ do teclad
 
 Fizemos um vídeo que resume parte do passo a passo abaixo que pode ajudar você.
 
-Ainda assim, recomendamos a leitura desse guia conforme necessário por possuir maior nível de detalhamento e ser mais atualizado.
+Ele explica um dos processos de gravação, que grava completamente todas as partes do teclado.
+
+Entretanto, dependendo do seu objetivo, o processo pode ser mais simples que isso. Porém, o descrito no vídeo funcionará para todos.
+
+Assim, recomendamos a leitura desse guia conforme necessário por possuir maior nível de detalhamento e ser mais atualizado.
 
 Vídeo abaixo:
 
@@ -50,17 +54,22 @@ O processo de gravação do _firmware_ no teclado consiste em colocar em modo de
 >
 > Atualizar o _firmware_ não irá remover as customizações que você realizou no teclado pelo ZMK Studio. Isso é feito diretamente no painel do ZMK Studio.
 
-### Grave primeiro o firmware de reset, e então o da parte do teclado
+## Há 2 formas de colocar o teclado em modo de gravação
 
-Antes de gravar o _firwmare_ do teclado em sua respectiva parte, grave primeiro o firmware de reset.
+Você precisará colocar o teclado em modo de gravação para colocar o firmware.
 
-Ou seja, a sequência para gravar o firmware é:
+Há 2 maneiras:
+- Por meio de interações com componentes do seu teclado;
+- Ou por meio de clicar uma combinação de atalhos no teclado.
 
-`Colocar em modo de gravação -> Colocar o firmware de reset -> Colocar novamente em modo de gravação -> Colocar firmware da parte`
+A segunda é mais simples, mas apenas funcionará caso seu teclado esteja funcionando normalmente, como por exemplo:
+- Instalar atualização no seu teclado que adicionou funcionalidades novas.
 
-Alguns casos em que você não vai precisar gravar o firmware de reset é caso esteja instalando uma customização que requer gravar apenas o firmware no receptor, como:
-- Customizações que você mesmo fez no firmware;
-- Atualizações no firwmare que a Tergo Teclados deixou explícito que basta atualizar o receptor.
+A primeira maneira funcionará para todos os casos. Por exemplo:
+- Seu teclado parou de funcionar e precisa regravar o firmware;
+- Você está trocando o receptor do seu teclado por um novo e precisa reconfigurá-lo.
+
+Mais abaixo nesse guia te mostraremos isso.
 
 ## Como gravar o firmware
 
@@ -70,11 +79,27 @@ Então, o processo é o seguinte:
 
 1 - Copie o arquivo que será gravado no receptor: Primeiramente será o de reset, e, em uma segunda gravação, o do receptor.
 
+> [!IMPORTANT]
+>
+> Antes de gravar o _firwmare_ do teclado em sua respectiva parte, pode ser necessário gravar primeiro o firmware de reset.
+>
+> Ou seja, a sequência para gravar o firmware acabará sendo:
+>
+> `Colocar em modo de gravação -> Colocar o firmware de reset -> Colocar novamente em modo de gravação -> Colocar firmware da parte do teclado`
+>
+> Alguns casos em que você não vai precisar gravar o firmware de reset é caso esteja instalando uma customização que requer gravar apenas o firmware no receptor, como:
+> - Customizações que você mesmo fez no firmware;
+> - Atualizações no firwmare que a Tergo Teclados deixou explícito que basta atualizar o receptor.
+
 2 - Com a parte do teclado a ser gravada conectada no computador, ative o modo de gravação dela.
 
 > [!TIP]
 >
-> Isso é mostrado no [próximo tópico](#ativar-modo-de-gravação-de-cada-parte-fisicamente).
+> Isso é mostrado mais abaixo, em:
+>
+> [Como ativar modo de gravação (forma física)](#ativar-modo-de-gravação-de-cada-parte-fisicamente).
+> 
+> Ou em [como ativar modo de gravação por meio de atalhos no teclado.](#gravar-o-firmware-no-receptor---método-por-atalhos-no-teclado).
 
 3 - Uma pasta chamada `NICENANO` se abrirá no seu sistema operacional. Caso não abra automaticamente na sua tela, você pode procurar no menu de dispositivos:
 
