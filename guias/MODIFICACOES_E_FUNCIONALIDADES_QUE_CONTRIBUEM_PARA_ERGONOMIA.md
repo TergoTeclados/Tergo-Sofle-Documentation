@@ -193,9 +193,9 @@ Uma das aplicações da ideia de reposicionar as teclas como comentado [mais aci
 
 A ideia por trás é super interessante, mesmo que não pretenda experimentar.
 
-Já se perguntou o porquê do layout das suas teclas ser do jeito que ele é? Ou seja, por que os caracteres QWERT ficam um ao lado do outro, por exemplo?
+Já se perguntou o porquê do layout das suas teclas ser do jeito que ele é? Ou seja, por que os caracteres QWERTY ficam um ao lado do outro, por exemplo?
 
-### Layout de teclas QWERT
+### Layout de teclas QWERTY
 
 <img src="../imagens/layout_qwert.png" alt="Exemplo" width="500">
 
@@ -211,13 +211,13 @@ Visto isso, há diversos layouts criados pensando em otimizar a digitação. Vou
 
 <img src="../imagens/layout_dvorak.png" alt="Exemplo" width="500">
 
-Antigo, criado em 1930 por Dvorak, mas já trazia melhorias em relação QWERT, com a ideia de minimizar movimentos estranhos para combinações normalmente usadas de teclas.
+Antigo, criado em 1930 por Dvorak, mas já trazia melhorias em relação QWERTY, com a ideia de minimizar movimentos estranhos para combinações normalmente usadas de teclas.
 
 #### Layout de teclas Colemak
 
 <img src="../imagens/layout_colemak.png" alt="Exemplo" width="500">
 
-Criado em 2006. Pega pontos positivos do Dvorak e do QWERT, e otimiza posicionamento das teclas baseado na língua inglesa.
+Criado em 2006. Pega pontos positivos do Dvorak e do QWERTY, e otimiza posicionamento das teclas baseado na língua inglesa.
 
 _Fonte e mais detalhes comparando no site: https://typingdonewell.com/blog/dvorak-vs-colemak-in-depth-comparison-with-my-own-tests/_
 
