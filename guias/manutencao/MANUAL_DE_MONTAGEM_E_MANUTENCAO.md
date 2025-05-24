@@ -4,7 +4,7 @@ Neste manual você descobrirá como montar/desmontar seu teclado Tergo Sofle e r
 
 > [!TIP]
 >
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../imagens/icone-sumario.png" alt="Exemplo" width="20">
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo" width="20">
 
 ## Nós te ajudamos!
 
