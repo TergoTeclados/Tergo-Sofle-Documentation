@@ -21,7 +21,7 @@ Este manual visa discutir aspectos de ergonomia focados na digitação e maneira
 
 ## Postura no Uso do Computador
 
-Se você chegou até aqui, provavelmente já viu aquelas imagens que demonstram a maneira ideal de se sentar em frente ao computador. 
+Se você chegou até aqui, provavelmente já viu aquelas imagens que demonstram a maneira ideal de se sentar em frente ao computador.
 
 A imagem abaixo (retirada [daqui](https://fisiomedcuiaba.com.br/dicas-importantes-para-sentar-corretamente-em-frente-do-computador/)) é só um exemplo de inúmeras páginas que mostram maneiras recomendadas de se posicionar.
 
@@ -62,7 +62,7 @@ O incrível dos lados serem divididos é que você possui muitas possibilidades 
 Não há uma verdade absoluta de qual o melhor posicionamento. Varia conforme diversas variáveis, como a maneira que você está sentado, distância da mesa, entre outros.
 
 Mas o que você deve ficar atento quando posicionar os lados é:
-- Manter a mão reta em relação ao antebraço, ou seja, evitar desvio ulnar e radial que pode gerar fadiga e pressão nos nervos do pulso; 
+- Manter a mão reta em relação ao antebraço, ou seja, evitar desvio ulnar e radial que pode gerar fadiga e pressão nos nervos do pulso;
 - Garantir que consiga manter boa postura no computador ao digitar.
 
 ### Desvio Ulnar e Radial: evitar!
@@ -139,7 +139,7 @@ Exemplo da mão mais estendida. Note a posição em que o mindinho ficou.
 
 Dependendo do tamanho das suas mãos o polegar irá cair naturalmente sob uma das teclas dos dedões. Em especial, a penúltima.
 
-Experimente pressionar essa tecla com o seu dedão. Experimente pressioná-la com diversas regiões do dedão para entender qual exige menos força e qual se adapta melhor para você. 
+Experimente pressionar essa tecla com o seu dedão. Experimente pressioná-la com diversas regiões do dedão para entender qual exige menos força e qual se adapta melhor para você.
 
 Utilizar a lateral da ponta do dedão é o mais comum e mais fácil de se adaptar.
 
@@ -182,7 +182,7 @@ Uma alternativa recomendada é optar pelos dedos anelares para alcançarem essas
 
 ### Experimente flutuar as mãos
 
-Mesmo o teclado sendo pensado para que as teclas fiquem todas ao alcance das mãos, você pode reparar que, para alcançar certas teclas, caso você mantenha os pulsos apoiados na mesa e dependendo do posicionamento da sua mão nas teclas, seus dedos podem fazer movimentos estranhos e seus pulsos rotações. 
+Mesmo o teclado sendo pensado para que as teclas fiquem todas ao alcance das mãos, você pode reparar que, para alcançar certas teclas, caso você mantenha os pulsos apoiados na mesa e dependendo do posicionamento da sua mão nas teclas, seus dedos podem fazer movimentos estranhos e seus pulsos rotações.
 
 Por exemplo: você pode ter que esticar muito ou retrair muito o dedo para alcançar as teclas mais a cima e mais abaixo em uma mesma coluna.
 
@@ -223,7 +223,7 @@ Uma sugestão é fazer diariamente treinos de digitação com Touch Typing como 
 
 ### Vou esquecer como usar um teclado tradicional?
 
-Não! 
+Não!
 
 Seu cérebro cria memória muscular de como utilizar ambos teclados. A mudança entre eles requer um pequeno momento para ele relembrar como utilizar corretamente cada layout.
 
@@ -324,11 +324,11 @@ Não me aprofundarei neste tópico dado não ser especialista da área médica, 
 
 É comum o apoio de braço das cadeiras ser vendido como algo ideal para apoiar os braços durante a digitação. Porém pode ser muito pelo contrário.
 
-O ideal para seus braços é: ombros relaxados, braços próximos ao corpo, e aproximadamente 90 graus entre o braço e antebraço. 
+O ideal para seus braços é: ombros relaxados, braços próximos ao corpo, e aproximadamente 90 graus entre o braço e antebraço.
 
 Experimente fazer isso, sem os apoios de braço, apoiando suas mãos na mesa e deixando seu corpo e cadeira próximos à mesa. A princípio você deve perceber como isso parece natural.
 
-Os problemas principais que você pode perceber com apoios de braço são: 
+Os problemas principais que você pode perceber com apoios de braço são:
 - Impedem que você consiga aproximar sua cadeira para a mesa (eles podem bater na mesa);
 - São lateralmente distantes e forçam você a levantar um pouco horizontalmente seus braços para conseguir apoiar neles;
 - Você não consegue apoiar o antebraço inteiro nele e acaba botando mais pressão no cotovelo (potencial causador da Síndrome do Túnel Cubinal)

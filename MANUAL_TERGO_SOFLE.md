@@ -35,7 +35,7 @@ Entretanto, pode ser necessário realizar uma configuração adicional no seu co
 > [!IMPORTANT]
 > Para o correto funcionamento do teclado, o layout de teclado configurado no seu computador precisa seguir o padrão do seu teclado.
 
-> [!TIP] 
+> [!TIP]
 > Se o teclado que você utilizava no seu computador antes do Tergo Sofle era no padrão ABNT2 (teclados com a tecla `Ç` presente) e ele funcionava normalmente, o seu teclado Tergo Sofle que você adquiriu no padrão ABNT2 também deve também funcionar normalmente sem necessidade de modificações extras.
 >
 > Entretanto, se o seu teclado era ABNT2 e você adquiriu o teclado Tergo Sofle no padrão internacional (ou vice-versa), provavelmente terá que realizar a configuração adicional abaixo.
@@ -188,7 +188,7 @@ A camada 2 é uma camada extra para você modificar do jeito que quiser. É uma 
 
 ### Funcionalidades que já vem configuradas no modo adepto (camada 1)
 
-O modo adepto muda qual é a camada base. 
+O modo adepto muda qual é a camada base.
 
 Você pode colocar o que quiser na camada que corresponde ao modo adepto (camada 1), mas ela é chamada assim pois já vem com funcionalidades interessantes configuradas que devem tornar sua experiência de digitação ainda mais avançada.
 
@@ -273,7 +273,7 @@ Visite o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA
 
 ## Atualizar firmware
 
-A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado e você deve ser notificado disso. 
+A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado e você deve ser notificado disso.
 
 Para atualizar o firmware, consulte o [guia de como atualizar o firmware](./guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md).
 
