@@ -26,7 +26,7 @@ Ou seja, você não precisará executar nada no seu computador além de usar o s
 
 ## Preparar ambiente de programação
 
-1 - Com o GitHub, faça um fork do [nosso repositório do Tergo Sofle Wireless](https://github.com/TergoTeclados/zmk-config-tergo-sofle). 
+1 - Com o GitHub, faça um fork do [nosso repositório do Tergo Sofle Wireless](https://github.com/TergoTeclados/zmk-config-tergo-sofle).
 
 2 - No seu fork, visite a página "Actions" e garante que as "actions" estão ativadas. Será nessa aba que seu firmware será compilado.
 
@@ -62,7 +62,7 @@ Consulte o site da [documentação oficial do firmware ZMK](https://zmk.dev/docs
 
 Busque pelo seu problema no google e você provavelmente encontrará pessoas que tiveram o mesmo. Em especial, você encontra muitos usuários nos Reddits [r/olkb](https://www.reddit.com/r/olkb/) e [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/).
 
-[Tire dúvidas diretamente com a comunidade ZMK no Discord](https://discord.com/invite/sycytVQ). Eles são ótimas pessoas dispostas a ajudas. 
+[Tire dúvidas diretamente com a comunidade ZMK no Discord](https://discord.com/invite/sycytVQ). Eles são ótimas pessoas dispostas a ajudas.
 
 > [!NOTE]
 > A comunidade do ZMK fornece ótima ajuda. Saiba usar do tempo dos ajudantes com moderação e siga as regras corretamente.

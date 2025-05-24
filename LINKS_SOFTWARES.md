@@ -14,7 +14,7 @@ Além dos nosso manuais, você pode ter uma visão geral dele [clicando aqui](ht
 >
 > É necessário desbloquear o teclado por meio de uma combinação de teclas para acessar o software de customização.
 >
-> Consulte a [documentação](./MANUAL_TERGO_SOFLE_WIRELESS.md) 
+> Consulte a [documentação](./MANUAL_TERGO_SOFLE_WIRELESS.md)
 
 <a href="https://zmk.studio/"><img src="imagens/zmk-icon.png" alt="zmk studio" width="200"></a>
 

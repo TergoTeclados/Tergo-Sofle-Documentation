@@ -18,7 +18,7 @@ Busque por nossa lista de problemas e soluções (em desenvolvimento) ou entre e
 
 > [!WARNING]
 >
-> Realizar manutenções sozinho exige cuidado e atenção. 
+> Realizar manutenções sozinho exige cuidado e atenção.
 >
 > Caso prefira, você pode nos enviar seu teclado que realizamos o processo para você.
 >

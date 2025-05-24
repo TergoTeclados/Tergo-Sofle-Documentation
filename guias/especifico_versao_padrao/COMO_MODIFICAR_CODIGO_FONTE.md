@@ -24,7 +24,7 @@ Siga até o tópico 3 do guia [Setting Up Your QMK Environment](https://docs.qmk
 
 Com o GitHub faça um fork ou simplesmente clone o [fork do firmware Vial QMK](https://github.com/TergoTeclados/vial-qmk-firmware). Caso não tenha muita experiência com git por interface de comando, você pode experimentar o [GitHub Desktop](https://desktop.github.com/).
 
-Então, dentro da pasta do firmware, execute `qmk git-submodule`. 
+Então, dentro da pasta do firmware, execute `qmk git-submodule`.
 
 _Por garantia, caso ache que o comando não funcionou, execute `git submodule update --init --recursive`._
 
@@ -74,7 +74,7 @@ Bem vindo à comunidade do QMK!
 
 [Consulte o site da documentação oficial](https://docs.qmk.fm/#/) ou, como eu prefiro, essa mesma [documentação diretamente no github](https://github.com/qmk/qmk_firmware).
 
-No [repositório do QMK Firmware](https://github.com/qmk/qmk_firmware), pesquise nas issues e PRs pessoas que tiveram problemas semelhantes ou que implementaram funcionalidades semelhantes. 
+No [repositório do QMK Firmware](https://github.com/qmk/qmk_firmware), pesquise nas issues e PRs pessoas que tiveram problemas semelhantes ou que implementaram funcionalidades semelhantes.
 
 Busque pelo seu problema no google e você provavelmente encontrará pessoas que tiveram o mesmo. Em especial, você encontra muitos usuários nos Reddits [r/olkb](https://www.reddit.com/r/olkb/) e [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/).
 

@@ -62,7 +62,7 @@ Você pode consultar a versão da placa-base abrindo seu teclado e procurando pe
 
 #### Versão menor que 1.2.2
 
-Caso a versão do seu teclado seja menor que 1.2.2 (1.2.1 ou menos) o seu teclado não possuirá um botão de reset, o que facilitaria ativar o modo de gravação do teclado para gravação do firmware. 
+Caso a versão do seu teclado seja menor que 1.2.2 (1.2.1 ou menos) o seu teclado não possuirá um botão de reset, o que facilitaria ativar o modo de gravação do teclado para gravação do firmware.
 
 Mesmo assim, o processo pode ser feito de maneira alternativa, tocando com um clips em um pino específico do teclado, que deve ser detalhado futuramente.
 

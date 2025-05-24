@@ -11,7 +11,7 @@ Suponha que uma de suas camadas seja ativada ao apertar a tecla *Control*, caso 
 
 Se você for um usuário mais experiente pode ser que *Any* seja uma solução aceitável, mas para usuários iniciantes consultar [código de teclas](https://docs.qmk.fm/features/command) pode prejudicar o período de adaptação. Utilização de *Tap-Dance* é sensível a latência da sua digitação e combos são fáceis de errar o "timing" , assim como nos games de Luta 😞 [demonstração do combo ](https://www.youtube.com/shorts/MjQF17hFAzg).
 
-A solução para esses casos é utilizar a funcionalidade de [key overrides](https://docs.qmk.fm/features/key_overrides) 
+A solução para esses casos é utilizar a funcionalidade de [key overrides](https://docs.qmk.fm/features/key_overrides)
 
 <img src="../../imagens/funcionalidade_override.png" alt="Funcionalidade.png" width="800">
 
@@ -50,6 +50,6 @@ Clique na palavra LCtrl na linha que está localizado o nome Supressed mods.
 
 Pronto agora repita o procedimento para as outras teclas e sua "camada" está pronta para uso em qualquer app que utilize atalho envolvendo seta de teclado como por exemplo *Alt ➡️, Shift ⬆️*, **note que esse método exibe uma desvantagem que pode ser significativa, as teclas Control h, Control j, Control k e Control l ficarão inutilizadas, sendo sempre substítuidas pelas setas de teclado**.
 
-Como solução para o problema acima podemos aplicar um  **negative mod** evitando assim que um remapeamento aconteça se uma tecla modificadora esteja pressionada. 
+Como solução para o problema acima podemos aplicar um  **negative mod** evitando assim que um remapeamento aconteça se uma tecla modificadora esteja pressionada.
 
 Clique em qualquer tecla modificador na linha *Negative mods* que não seja *LCtrl*.

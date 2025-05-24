@@ -21,7 +21,7 @@ Você pode ter escolhido a tampa superior opaca ou em acrílico.
 Fique atento ao pontos abaixo:
 
 > [!IMPORTANT]
-> 
+>
 > Caso seu teclado tenha telas integradas (versão com fio), os pilares nos quais a tampa vai podem ter tamanhos diferentes:
 >
 > A tampa em acrílico espera um pilar com altura de 10mm, enquanto a tampa opaca espera um de 9mm.

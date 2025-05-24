@@ -39,7 +39,7 @@ Na camada de ajustes você possui teclas especiais para manipular essa funcional
 
 5 - Deve aparecer na tela do seu dispositivo um número ou senha que deve ser digitado **a partir do seu teclado Tergo** e, em seguida, clicado `Enter` para parear com sucesso.
 
-Exemplo disso: 
+Exemplo disso:
 - Seu dispositivo mostra a senha `9217349`
 - Você digita em sequência no seu teclado essa senha `9217349`
 - Você clica `Enter` no seu teclado para enviar a senha

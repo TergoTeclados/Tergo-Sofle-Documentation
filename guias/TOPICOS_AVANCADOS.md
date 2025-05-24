@@ -38,7 +38,7 @@ Um keycode relevante de ser entendido é o símbolo de um triângulo ao contrár
 
 A aba QMK Settings permite modificar aspectos mais profundos de funcionalidades oferecidas pelo QMK.
 
-Algumas relevantes são: 
+Algumas relevantes são:
 - Tap-Hold e Tapping Term
 - Variáveis de velocidade do simulador de mouse (Mouse keys);
 
@@ -71,9 +71,9 @@ Vejamos os casos
 
 Na camada 2 do Vial (Adept) você pode perceber que há uma tecla do dedão esquerdo com duplo comportamento: Espaço ou mudança de camada.
 
-Ao clicar ela, o botão se comporta como Espaço. 
+Ao clicar ela, o botão se comporta como Espaço.
 
-Ao segurar, ela muda a camada do teclado para a camada de simulador de mouse. 
+Ao segurar, ela muda a camada do teclado para a camada de simulador de mouse.
 
 Se você clicar duas vezes em um curto período de tempo e segurar, ele repetirá a tecla inicial várias vezes (nesse caso diversos espaços) que nem como se você segurasse a tecla normalmente para repetir o caractere.
 
@@ -101,7 +101,7 @@ Este tópico pode soar mais complexo, mas é muito interessante de entender aos 
 
 Essa é uma variável relacionada ao tempo necessário que você precisa manter a tecla pressinada para que ela seja interpretada como "tap" ou como "hold". Você pode experimentar aumentar o valor caso perceba que está ativando a função hold muitas vezes por acidente ou diminuir se sentir que ela demora para ser ativada. Isso depende do seu ritmo de digitação.
 
-Você encontra ela e pode modificá-la no Vial, na aba QMK Settings > Tap-Hold do Vial. 
+Você encontra ela e pode modificá-la no Vial, na aba QMK Settings > Tap-Hold do Vial.
 
 O tempo padrão que vem configurado é de 300ms.
 

@@ -23,14 +23,14 @@ Isso pode ser alcançado aplicando 3 conceitos:
 
 O exemplo mais básico para você aplicar esse ponto pode ser rearranjar o posicionamento de símbolos na camada de símbolos e navegação.
 
-Experimente trocar teclas da camada de forma que fique otimizado para que você tenha os símbolos que você usa com mais frequência pertos da home row, que é onde seus dedos descançam normalmente. 
+Experimente trocar teclas da camada de forma que fique otimizado para que você tenha os símbolos que você usa com mais frequência pertos da home row, que é onde seus dedos descançam normalmente.
 
 Assim, você minimiza a necessidade de ter que movê-los ao entrar na camada para digitar essas teclas.
 
 ### Home Row Mod
 
 Um exemplo de aplicação muito popular desse conceito é o "home row mod", que adiciona duplo comportamento às teclas da "home row" (que são as teclas `A, S, D, F` e `J, K, L, ;`), de forma que:
-- Clicá-la te fornece o caracter (como esperado normalmente) 
+- Clicá-la te fornece o caracter (como esperado normalmente)
 - E segurá-la faz com que ela funcione como um modificador: SHIFT, CTRL, ALT e WIN/CMD.
 
 <img src="../imagens/exemplo_home_row_mod.svg" alt="Exemplo" width="800">
@@ -106,7 +106,7 @@ que tal `W`+`E`+`R` para ativar o `espaço` e `U`+`I`+`O` para ativar o `backspa
 
 ### Tirar Backspace e Enter dos dedões
 
-Pode ser que você prefira utilizar a tecla "backspace" e/ou "enter" com algum dedo que não seja o dedão. 
+Pode ser que você prefira utilizar a tecla "backspace" e/ou "enter" com algum dedo que não seja o dedão.
 
 Dessa forma, você pode colocá-lo(s), por exemplo, na coluna direita, de forma que sejam alcançáveis pelo seu dedo mindinho ou anelar, e usar a nova tecla disponível do dedão, por exemplo, para acessar uma nova camada com símbolos e funcionalidades úteis pra você.
 
@@ -127,7 +127,7 @@ Com eles vagos, você pode colocar novas funcionalidades para cada uma dessas te
 
 Essa é uma das funcionalidades mais úteis e interessantes do teclado Tergo.
 
-Como funciona: ao clicar, você tem a tecla. Ao segurar, ela faz outra coisa, como, por exemplo, mudar de camada. 
+Como funciona: ao clicar, você tem a tecla. Ao segurar, ela faz outra coisa, como, por exemplo, mudar de camada.
 
 Veja os exemplos abaixo.
 
@@ -137,7 +137,7 @@ Por padrão, há 2 teclas abaixo da região das telas que servem para mudar a ca
 
 <img src="../imagens/teclas-embaixo-da-tela.png" alt="Exemplo" width="300">
 
-Que tal modificarmos para que, quando eu apenas clicar nelas (ao invés de segurar), elas façam alguma outra coisa? 
+Que tal modificarmos para que, quando eu apenas clicar nelas (ao invés de segurar), elas façam alguma outra coisa?
 
 Como, por exemplo, uma pode ser usada para ativar o CapsLock. A outra para tirar _print_ da tela.
 
@@ -193,9 +193,9 @@ Uma das aplicações da ideia de reposicionar as teclas como comentado [mais aci
 
 A ideia por trás é super interessante, mesmo que não pretenda experimentar.
 
-Já se perguntou o porquê do layout das suas teclas ser do jeito que ele é? Ou seja, por que os caracteres QWERT ficam um ao lado do outro, por exemplo?
+Já se perguntou o porquê do layout das suas teclas ser do jeito que ele é? Ou seja, por que os caracteres QWERTY ficam um ao lado do outro, por exemplo?
 
-### Layout de teclas QWERT
+### Layout de teclas QWERTY
 
 <img src="../imagens/layout_qwert.png" alt="Exemplo" width="500">
 
@@ -209,15 +209,15 @@ Visto isso, há diversos layouts criados pensando em otimizar a digitação. Vou
 
 #### Layout de teclas Dvorak
 
-<img src="../imagens/layout_dvorak.png" alt="Exemplo" width="500"> 
+<img src="../imagens/layout_dvorak.png" alt="Exemplo" width="500">
 
-Antigo, criado em 1930 por Dvorak, mas já trazia melhorias em relação QWERT, com a ideia de minimizar movimentos estranhos para combinações normalmente usadas de teclas.
+Antigo, criado em 1930 por Dvorak, mas já trazia melhorias em relação QWERTY, com a ideia de minimizar movimentos estranhos para combinações normalmente usadas de teclas.
 
 #### Layout de teclas Colemak
 
 <img src="../imagens/layout_colemak.png" alt="Exemplo" width="500">
 
-Criado em 2006. Pega pontos positivos do Dvorak e do QWERT, e otimiza posicionamento das teclas baseado na língua inglesa.
+Criado em 2006. Pega pontos positivos do Dvorak e do QWERTY, e otimiza posicionamento das teclas baseado na língua inglesa.
 
 _Fonte e mais detalhes comparando no site: https://typingdonewell.com/blog/dvorak-vs-colemak-in-depth-comparison-with-my-own-tests/_
 
