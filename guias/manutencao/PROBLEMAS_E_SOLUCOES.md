@@ -97,3 +97,13 @@ Nesse caso, siga [esse guia](./TROCAR_PLACA_CONTROLADORA.md) de forma que você 
 #### Trocar placa controladora por nova
 
 Siga [esse guia](./TROCAR_PLACA_CONTROLADORA.md) para saber como adquirir uma e trocar.
+
+## Não consigo mais dar unlock no meu teclado Wireless
+
+### Causas
+
+- Trocou as teclas usadas para desbloquear o firmware
+
+### Solução
+
+- Atualize o firmware para a versão 1.2.0 ou maior e utilize a segunda forma de desbloquear o firmware (pressionar teclas dos cantos do teclado simultaneamente).
