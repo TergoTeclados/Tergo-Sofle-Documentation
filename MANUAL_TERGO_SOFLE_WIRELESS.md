@@ -35,7 +35,7 @@ Entretanto, pode ser necessário realizar uma configuração adicional no seu co
 > [!IMPORTANT]
 > Para o correto funcionamento do teclado, o layout de teclado configurado no seu computador precisa seguir o padrão do seu teclado.
 
-> [!TIP] 
+> [!TIP]
 > Se o teclado que você utilizava no seu computador antes do Tergo Sofle era no padrão ABNT2 (teclados com a tecla `Ç` presente) e ele funcionava normalmente, o seu teclado Tergo Sofle que você adquiriu no padrão ABNT2 também deve também funcionar normalmente sem necessidade de modificações extras.
 >
 > Entretanto, se o seu teclado era ABNT2 e você adquiriu o teclado Tergo Sofle no padrão internacional (ou vice-versa), provavelmente terá que realizar a configuração adicional abaixo.
@@ -101,11 +101,11 @@ Após 15 minutos sem ser usado, o teclado entra em modo de "sono profundo", que 
 > - Deixe a chave na posição de ligado (para frente)
 > - Conecte o USB à metade do teclado que será carregada
 >
-> Enquanto estiver carregando corretamente, uma luz azul próxima à entrada do USB permanecerá ligada. 
+> Enquanto estiver carregando corretamente, uma luz azul próxima à entrada do USB permanecerá ligada.
 >
 > Quando a carga total for atingida, ela irá desligar.
 
-A carga total é atingida dentro de 1 hora. 
+A carga total é atingida dentro de 1 hora.
 
 Recarregue ambas metades conforme necessário.
 
@@ -159,7 +159,7 @@ O receptor com tela te fornece ótimos feedbacks visuais sobre funcionalidades d
 
 > [!NOTE]
 >
-> Você vai perceber que o nível de bateria mostrado na tela não baixa de forma linear. 
+> Você vai perceber que o nível de bateria mostrado na tela não baixa de forma linear.
 >
 > É normal parecer que inicialmente baixa rápido (de 100% para 80%), mas é apenas uma limitação visual.
 >
@@ -196,7 +196,7 @@ Forma 2 de desbloquear (a partir da versão 1.2.0 do _firmware_):
 
 O teclado usa a interface para configurações em tempo real [ZMK Studio](https://zmk.studio/).
 
-Você pode utilizar o [ZMK Studio no próprio navegador](https://zmk.studio/) ou [baixar o aplicativo](https://github.com/zmkfirmware/zmk-studio/releases) para seu sistema operacional. 
+Você pode utilizar o [ZMK Studio no próprio navegador](https://zmk.studio/) ou [baixar o aplicativo](https://github.com/zmkfirmware/zmk-studio/releases) para seu sistema operacional.
 
 Abra o ZMK Studio e selecione seu teclado para fazer customizações. As modificações são feitas em tempo real.
 
@@ -262,7 +262,7 @@ Veja o exemplo abaixo:
 
 ### Restaurar configurações originais
 
-Caso tenha realizado customizações pelo ZMK Studio, 
+Caso tenha realizado customizações pelo ZMK Studio,
 você pode restaurar para as configurações originais no próprio ZMK Studio.
 
 Para isso, clique em `Tergo Sofle` (no topo da tela) e, em seguida, em `Restore Stock Settings`.
@@ -273,7 +273,7 @@ O teclado vem configurado com uma funcionalidade que chamamos de "modo do teclad
 - Modo básico;
 - Modo adepto: que é o modo básico com funcionalidades adicionais.
 
-Você pode acessá-los por meio da camada de ajustes (segurando a tecla abaixo da tampa direita) e clicando `X` (modo básico), ou `C` (modo adepto). 
+Você pode acessá-los por meio da camada de ajustes (segurando a tecla abaixo da tampa direita) e clicando `X` (modo básico), ou `C` (modo adepto).
 
 Além disso, reservamos um "modo" extra, para você mesmo customizar para seu uso. Nesse caso, clique `V` (é uma cópia idêntica do modo básico).
 
@@ -297,7 +297,7 @@ Pela imagem abaixo você encontra essas teclas para alterar entre os modos:
 
 ### Funcionalidades que já vem configuradas no modo adepto (camada 1)
 
-O modo adepto muda qual é a camada base. 
+O modo adepto muda qual é a camada base.
 
 Você pode colocar o que quiser na camada que corresponde ao modo adepto (camada 1), mas ela é chamada assim pois já vem com funcionalidades interessantes configuradas que devem tornar sua experiência de digitação ainda mais avançada.
 
@@ -361,7 +361,7 @@ Visite o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA
 
 ## Atualizar firmware
 
-A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado e você deve ser notificado disso. 
+A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado e você deve ser notificado disso.
 Para atualizar o firmware, consulte o [guia de como atualizar o firmware](./guias/especifico_versao_wireless/COMO_ATUALIZAR_FIRMWARE.md).
 
 ### Trocar receptor

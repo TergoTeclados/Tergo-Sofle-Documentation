@@ -98,7 +98,7 @@ Então, o processo é o seguinte:
 > Isso é mostrado mais abaixo, em:
 >
 > [Como ativar modo de gravação (forma física)](#ativar-modo-de-gravação-de-cada-parte-fisicamente).
-> 
+>
 > Ou em [como ativar modo de gravação por meio de atalhos no teclado.](#gravar-o-firmware-no-receptor---método-por-atalhos-no-teclado).
 
 3 - Uma pasta chamada `NICENANO` se abrirá no seu sistema operacional. Caso não abra automaticamente na sua tela, você pode procurar no menu de dispositivos:
@@ -145,7 +145,7 @@ Há uma técnica para ativar o modo de gravação por meio de atalhos no teclado
 
 **Para o receptor**
 
-Ao olhar para o seu receptor, você notará que ele possui um pequeno buraco na parte debaixo. 
+Ao olhar para o seu receptor, você notará que ele possui um pequeno buraco na parte debaixo.
 
 - Pegue um objeto metálico fino que possa ser inserido no buraco, como um _clipe_, uma pinça metálica, ou um pininho metálico
 
