@@ -58,7 +58,7 @@ Cada metade do teclado conta com uma placa controladora independente, que pode s
 
 - Copie ou mova o arquivo do _firmware_ para a pasta que abriu.
 
-<img src="../imagens/exemplo_modo_boot.png" alt="Exemplo" width="800">
+<img src="../../imagens/exemplo_modo_boot.png" alt="Exemplo" width="800">
 
 Após isso, a pasta deve sumir automaticamente, indicando que a placa controladora reiniciou.
 
