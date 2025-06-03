@@ -36,7 +36,7 @@ Fique atento ao pontos abaixo:
 
 ## Montar e desmontar switches e keycaps
 
-Para isso, veja [esse guia](./manutencao/COLOCAR_E_REMOVER_SWITCHES.md).
+Para isso, veja [esse guia](./COLOCAR_E_REMOVER_SWITCHES.md).
 
 ## Montar e desmontar a estrutura do teclado
 
