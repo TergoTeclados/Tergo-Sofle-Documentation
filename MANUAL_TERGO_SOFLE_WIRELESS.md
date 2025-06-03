@@ -273,7 +273,7 @@ O teclado vem configurado com uma funcionalidade que chamamos de "modo do teclad
 - Modo básico;
 - Modo adepto: que é o modo básico com funcionalidades adicionais.
 
-Você pode acessá-los por meio da camada de ajustes (segurando a tecla abaixo da tampa direita) e clicando `X` (modo básico), ou `C` (modo adepto). 
+Você pode acessá-los por meio da camada de ajustes (segurando a tecla abaixo da tampa direita) e clicando `X` (modo básico), ou `C` (modo adepto).
 
 Além disso, reservamos um "modo" extra, para você mesmo customizar para seu uso. Nesse caso, clique `V` (é uma cópia idêntica do modo básico).
 
