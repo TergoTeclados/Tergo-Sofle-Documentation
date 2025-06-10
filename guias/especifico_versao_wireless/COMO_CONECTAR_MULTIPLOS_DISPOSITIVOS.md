@@ -63,3 +63,10 @@ A tecla `🛜Clear All` limpa todas as configurações de todos dispositivos con
 
 > [!NOTE]
 > Você pode entender mais sobre a funcionalidade de conectar múltiplos dispositivos oferecida pelo _firmware_ ZMK diretamente na [documentação oficial do ZMK](https://zmk.dev/docs/keymaps/behaviors/bluetooth#bluetooth-pairing-and-profiles).
+
+
+## Receptor pode ser conectado a qualquer fonte 5V
+
+- Você pode conectar o receptor do seu teclado a qualquer alimentação de 5V, como uma fonte de carregador de celular ou uma porta USB que está energizada;
+- A partir disso, você pode conectar seus dispositivos por meio de bluetooth para o teclado, pois é o receptor que gerencia as conexões;
+- Por fim, pelo próprio teclado, você pode alternar entre qual é o dispositivo que você quer digitar.
