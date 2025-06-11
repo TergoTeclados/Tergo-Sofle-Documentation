@@ -69,6 +69,9 @@ A partir de agora você está preparado para modificar o código-fonte.
 > [!TIP]
 > Caso o job tenha completado com sucesso mas você não esteja vendo o arquivo com nome `firmware`, atualize a página e olhe novamente.
 
+> [!IMPORTANT]
+> Caso ocorra algum erro durante o processo, clique no evento que deu erro e localize a origem lendo o registro da compilação.
+
 8 - Baixe o arquivo e extraia o conteúdo dele para uma pasta. Você verá diversos arquivos que serão usados para gravar o firmware do seu teclado.
 
 Pronto! Agora você já pode utilizar os arquivos para gravar seu teclado. Para isso, consulte o guia de [como atualizar o firmware](./COMO_ATUALIZAR_FIRMWARE.md).
