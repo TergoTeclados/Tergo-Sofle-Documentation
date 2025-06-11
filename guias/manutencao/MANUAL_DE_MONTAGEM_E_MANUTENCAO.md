@@ -48,8 +48,16 @@ Cada metade do teclado consiste de:
 
 Para cada metade do teclado, ele possui 14 parafusos, 5 espaçadores de 7mm e 2 espaçadores de 9mm:
 
-- 5 parafusos na bottom plate (embaixo do teclado), prendendo a bottom plate aos espaçadores de 7mm que vão à top plate;
-- 5 parafusos na top plate, escondidos entre os switches, prendendo a top plate aos espaçadores de 7mm que vão à bottom plate;
+> [!IMPORTANT]
+>
+> Atenção ao tamanho dos espaçadores.
+>
+> Versões iniciais do Tergo Sofle utilizavam espaçador de 6mm ao invés do de 6mm.
+>
+> Você pode saber qual o seu usa desmontando e medindo ou vendo se a estrutura possui uma profundidade extra de 1mm ao redor da região onde o parafuso passa.
+
+- 5 parafusos na bottom plate (embaixo do teclado), prendendo a bottom plate aos espaçadores de 6mm que vão à top plate;
+- 5 parafusos na top plate, escondidos entre os switches, prendendo a top plate aos espaçadores de 6mm que vão à bottom plate;
 - 2 parafusos na PCI, prendendo a PCI aos espaçadores de 9mm que vão ao cover;
 - 2 parafusos no cover, prendendo o cover aos espaçadores de 9mm que vão para a PCI.
 
