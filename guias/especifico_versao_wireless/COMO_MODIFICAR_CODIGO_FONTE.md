@@ -6,6 +6,12 @@ Este manual vai te guiar em relação a como modificar o firmware presente no se
 >
 > Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo" width="20">
 
+## Para que você pode querer modificar o código-fonte
+
+- Alterar o tempo para o teclado entrar em modo de descanso;
+- Customizações no layout que o software ZMK ainda não permite realizar diretamente;
+- Entre outros.
+
 ## Requisitos
 
 Espera-se que você tenha conhecimento em programação para modificar diretamente o firmware. Ficará facilitado caso você tenha experiência com sistema de versionamento Git.
@@ -30,16 +36,29 @@ Ou seja, você não precisará executar nada no seu computador além de usar o s
 
 2 - No seu fork, visite a página "Actions" e garante que as "actions" estão ativadas. Será nessa aba que seu firmware será compilado.
 
-3 - Faça um clone local do seu fork.
+> [!TIP]
+>
+> Após isso você pode mandar manualmente executar a "action" que constrói o firmware do seu teclado clicando na que aparece nessa aba.
+
+3 - Faça um clone do fork para seu computador, para começar a realizar modificações.
 
 > [!TIP]
+>
 > Caso não tenha muita experiência com git por interface de comando, sugerimos o uso do [GitHub Desktop](https://desktop.github.com/).
 
 A partir de agora você está preparado para modificar o código-fonte.
 
-## Modificar código fonte
+> [!TIP]
+>
+> Tenha um editor de texto para modificar com eficácia o firmware, como o [VSCode](https://code.visualstudio.com/).
+
+## Modificar código-fonte
 
 4 - Faça as alterações que quiser no código-fonte
+
+> [!TIP]
+>
+> O próximo tópico deste guia vai te indicar customizações que você pode querer fazer.
 
 5 - Salve as alterações no código, faça commit e então faça push ao seu repositório
 
@@ -54,11 +73,24 @@ A partir de agora você está preparado para modificar o código-fonte.
 
 Pronto! Agora você já pode utilizar os arquivos para gravar seu teclado. Para isso, consulte o guia de [como atualizar o firmware](./COMO_ATUALIZAR_FIRMWARE.md).
 
-## Se aventure na documentação e nos fóruns
+## Começar a modificar
 
-Bem vindo à comunidade do QMK!
+> [!IMPORTANT]
+>
+> A documentação no próprio [repositório do _firmware_](https://github.com/TergoTeclados/zmk-config-tergo-sofle) (arquivo README.md) te mostra:
+> - Sugestão de customizações comuns que você pode querer;
+> - Sobre as pastas do firmware;
+> - Visão geral de como ele funciona.
+>
+> Além disso, o código possui comentários nos pontos relevantes.
 
-Consulte o site da [documentação oficial do firmware ZMK](https://zmk.dev/docs) e descubra funcionalidades do teclado e como implementá-las.
+### Se aventure na documentação e nos fóruns
+
+Bem vindo à comunidade do ZMK!
+
+Visite nosso [repositório do _firmware_](https://github.com/TergoTeclados/zmk-config-tergo-sofle) para entender o nosso código-fonte e sugestões do que customizar.
+
+Consulte também o site da [documentação oficial do firmware ZMK](https://zmk.dev/docs) e descubra funcionalidades do teclado e como implementá-las.
 
 Busque pelo seu problema no google e você provavelmente encontrará pessoas que tiveram o mesmo. Em especial, você encontra muitos usuários nos Reddits [r/olkb](https://www.reddit.com/r/olkb/) e [r/ErgoMechKeyboards](https://www.reddit.com/r/ErgoMechKeyboards/).
 
