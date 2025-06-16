@@ -50,7 +50,7 @@ No Windows 11, por exemplo, as imagens abaixo representam respectivamente o layo
 
 No Mac, o fluxo pode ser diferente. A princípio, siga o seguinte fluxo para configurar o teclado no padrão internacional (ASNI):
 
-`System Settings > Change Keyboard Type > ANSI (U.S.)`
+`System Settings > Keyword > Change Keyboard Type > ANSI (U.S.)`
 
 ## Layout de teclas
 
