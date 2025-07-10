@@ -10,21 +10,33 @@ Neste repositório você encontrará a documentação completa do <a href="https
 
 Recomenda-se seguir em ordem a leitura dos guias:
 
-- 1️⃣Manual do usuário ( [Versão padrão](MANUAL_TERGO_SOFLE.md) | [Versão Wireless](MANUAL_TERGO_SOFLE_WIRELESS.md) ): fornece uma visão geral do teclado e de funcionalidades básicas;
-- 2️⃣[Guia de Como Digitar com Ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), que mostra técnicas de digitação e recomendações;
-- 3️⃣[Guia de Modificações e Funcionalidades que Contribuem para Ergonomia](./guias/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md), que mostra como usar funcionalidades avançadas do teclado ao seu favor;
+- 1️⃣ Manual do usuário ( [Versão padrão](MANUAL_TERGO_SOFLE.md) | [Versão Wireless](MANUAL_TERGO_SOFLE_WIRELESS.md) ): fornece uma visão geral do teclado e de funcionalidades básicas;
+- 2️⃣ [Guia de Como Digitar com Ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), que mostra técnicas de digitação e recomendações;
+- 3️⃣ [Guia de Modificações e Funcionalidades que Contribuem para Ergonomia](./guias/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md), que mostra como usar funcionalidades avançadas do teclado ao seu favor;
 
-### Outros guias
+## Guias diversos
 
 Consulte-os quando necessário. São mencionados nos guias acima.
 
-- 🔃Como atualizar o _firmware_: [Versão padrão](./guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md) | [Versão Wireless](./guias/especifico_versao_wireless/COMO_ATUALIZAR_FIRMWARE.md)
-- ↔️Como usar layout de teclas em português ABNT2: [Versão padrão](./guias/especifico_versao_padrao/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) | [Versão Wireless](./guias/especifico_versao_wireless/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md)
-- ⚙️Como modificar código fonte: [Versão padrão](./guias/especifico_versao_padrao/COMO_MODIFICAR_CODIGO_FONTE.md) | [Versão Wireless](./guias/especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md)
-- 🧹[Guia de limpeza](./guias/manutencao/LIMPEZA_DO_TECLADO.md)
-- 🪛[Manual de montagem e manutenção](./guias/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md)
-- 🛠️[Problemas e Soluções](./guias/manutencao/PROBLEMAS_E_SOLUCOES.md)
-- 🔬[Guia de Tópicos Avançados](./guias/TOPICOS_AVANCADOS.md), para entender detalhes mais técnicos do seu teclado.
+### Cuidados e manutenção
+
+- 🛠️ [Problemas e Soluções](./guias/manutencao/PROBLEMAS_E_SOLUCOES.md)
+- 🧹 [Guia de limpeza](./guias/manutencao/LIMPEZA_DO_TECLADO.md)
+- 🪛 [Manual de montagem e manutenção](./guias/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md)
+
+### Configurações e customizações
+
+- 🔃 Como atualizar o _firmware_: [Versão padrão](./guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md) | [Versão Wireless](./guias/especifico_versao_wireless/COMO_ATUALIZAR_FIRMWARE.md)
+- ⚙️ Como modificar código fonte: [Versão padrão](./guias/especifico_versao_padrao/COMO_MODIFICAR_CODIGO_FONTE.md) | [Versão Wireless](./guias/especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md)
+- ↔️ Como usar layout de teclas em português ABNT2: [Versão padrão](./guias/especifico_versao_padrao/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) | [Versão Wireless](./guias/especifico_versao_wireless/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md)
+
+### Outros
+
+- 🔬 [Guia de Tópicos Avançados](./guias/TOPICOS_AVANCADOS.md), para entender detalhes mais técnicos do seu teclado.
+
+### Mini guias extras
+
+Você encontra guias extras sobre outros pontos da experiência do teclado [clicando aqui](./guias/extras/README.md).
 
 Estamos sempre abertos a receber sugestões de conteúdos que podemos adicionar aqui para te ajudar ou melhorias!
 
