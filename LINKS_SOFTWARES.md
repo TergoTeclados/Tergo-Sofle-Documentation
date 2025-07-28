@@ -18,6 +18,6 @@ Além dos nosso manuais, você pode ter uma visão geral dele [clicando aqui](ht
 
 <a href="https://zmk.studio/"><img src="imagens/zmk-icon.png" alt="zmk studio" width="200"></a>
 
-Disponível para uso [diretamente no navegador](https://zmk.studio/) ou [download](https://github.com/zmkfirmware/zmk-studio/releases/).
+Disponível para uso [diretamente no navegador](https://zmk.studio/) ou [download](https://zmk.studio/download).
 
 Além dos nosso manuais, você pode ter uma visão geral dele [clicando aqui](https://zmk.dev/docs/features/studio).
