@@ -39,8 +39,6 @@ Esta é uma funcionalidade que já vem configurada na camada do modo Adepto (cam
 
 Com isso, você não precisa mover os dedos para alcançar esses modificadores que normalmente ficam nas laterais do teclado.
 
-_Como isto funciona é explicado com mais detalhes no próximo guia (o de [funcionalidades avançadas](./TOPICOS_AVANCADOS.md#home-row-mod))._
-
 ## Minimizar o número de passos necessários para realizar uma ação
 
 ### Tecla + modificador em um só clique
@@ -234,6 +232,8 @@ Ele aplica diversos conceitos:
 - Entre outros.
 
 Caso queira ver cada camada individualmente para se inspirar e entender melhor, [clique aqui](https://github.com/manna-harbour/miryoku/tree/master/docs/reference#layers).
+
+Para utilizar ele, sugerimos modificar manualmente uma das camadas base do seu teclado para que imite o layout desejado.
 
 > [!TIP]
 > Para entender a imagem abaixo, recomendo vê-las separadas [clicando aqui](https://github.com/manna-harbour/miryoku/tree/master/docs/reference#layers). Mas interpretá-la, repare nos textos que ficam na parte debaixo das **teclas do dedão**. O texto indica qual camada será ativada ao segurar a tecla. Assim, por exemplo, ao segurar a "Nav" (que tem cor azul claro), as funcionalidades das teclas mudarão para teclas de navegação (marcadas também na cor azul claro).
