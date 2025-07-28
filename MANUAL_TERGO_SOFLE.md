@@ -214,8 +214,6 @@ Não se assuste! Te explicamos tudo. Um passo por vez.
 
 Recomenda-se que você explore o restante do manual e, em seguida, o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), e que se adapte ao teclado antes de você experimentar essas funcionalidades do modo adepto.
 
-Essas funcionalidades são explicadas com mais detalhes no [guia de tópicos avançados](./guias/TOPICOS_AVANCADOS.md).
-
 > [!NOTE]
 > Alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja reiniciado.
 
@@ -294,8 +292,6 @@ Para atualizar o firmware, consulte o [guia de como atualizar o firmware](./guia
 Isto aqui é considerado um tópico avançado, para você que tem interesse em programar e modificar diretamente o código-fonte do seu teclado.
 
 Existem modificações mais específicas que a interface Vial ainda não oferece mas que podem ser modificadas no próprio _firmware_. Isso vai requerer conhecimento em programação e baixar softwares.
-
-Você pode entender mais a fundo algumas funcionalidades do teclado no [Manual de Funcionalidades](./guias/TOPICOS_AVANCADOS.md.md).
 
 Para se aventurar no mundo de modificação do _firmware_, use o [Manual de Modificação do Firmware](./guias/especifico_versao_padrao/COMO_MODIFICAR_CODIGO_FONTE.md).
 
