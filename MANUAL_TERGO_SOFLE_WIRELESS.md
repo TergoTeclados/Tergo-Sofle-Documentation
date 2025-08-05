@@ -88,7 +88,7 @@ A foto abaixo representa o padrão ABNT2. As teclas abaixo em vermelho são as q
 
 ### Duração
 
-A bateria de cada metade do teclado tem recarga com duração estimada em 1 a 2 meses considerando uso diário de 8 horas e sem desligar.
+A bateria de cada metade do teclado tem recarga com duração estimada em 1 mês considerando uso diário de 8 horas e sem desligar.
 
 ### Descanso automático
 
