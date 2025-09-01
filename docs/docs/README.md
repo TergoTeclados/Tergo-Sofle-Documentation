@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Comece aqui!'
+sidebar_position: 1
+---
+
 # Teclado Tergo Sofle - Documentação
 
 Neste repositório você encontrará a documentação completa do <a href="https://tecladoergonomico.com.br" target="_blank">teclado Tergo Sofle</a> e diversos guias.

@@ -12,7 +12,7 @@ Neste manual você vai saber os aspectos importantes para utilizar seu teclado T
 
 > [!TIP]
 >
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="./imagens/icone-sumario.png" alt="Exemplo" width="20">
+> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="./imagens/icone-sumario.png" alt="Exemplo" width="20" / />
 
 ## Aproveite sua jornada!
 
@@ -42,7 +42,7 @@ Entretanto, pode ser necessário realizar uma configuração adicional no seu co
 
 No Windows 11, por exemplo, as imagens abaixo representam respectivamente o layout de teclado internacional (ASNI) e o ABNT2.
 
-<img src="imagens/teclados_no_windows.png" alt="Exemplo" width="500">
+<img src="imagens/teclados_no_windows.png" alt="Exemplo" width="500" />
 
 [Clique aqui](https://www.youtube.com/watch?v=UWwcIcwkPlA) para ver um breve vídeo de como configurar isso no Windows 11.
 
@@ -56,7 +56,7 @@ No Mac, o fluxo pode ser diferente. A princípio, siga o seguinte fluxo para con
 
 ### Padrão Internacional
 
-<img src="./imagens/base_internacional.svg" alt="Exemplo" width="800">
+<img src="./imagens/base_internacional.svg" alt="Exemplo" width="800" />
 
 As teclas com a letra `L` seguida de um número (como o `L2`) indicam teclas que ao serem seguradas mudam a camada de teclas do seu teclado.
 
@@ -82,7 +82,7 @@ Caso prefira, você pode mudar para o padrão ABNT2 ou para o Internacional.
 
 A foto abaixo representa o padrão ABNT2. As teclas abaixo em vermelho são as que mudam em relação ao layout internacional.
 
-<img src="./imagens/base_abnt.svg" alt="Exemplo" width="800">
+<img src="./imagens/base_abnt.svg" alt="Exemplo" width="800" />
 
 ## Recarga e Baterias
 
@@ -142,13 +142,13 @@ Consulte o exemplo abaixo.
 > [!TIP]
 > Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
 
-<img src="./imagens/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500">
+<img src="./imagens/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500" />
 
 ## Receptor
 
 ### Com tela
 
-<img src="./imagens/receptor_com_tela.jpg" alt="Exemplo" width="800">
+<img src="./imagens/receptor_com_tela.jpg" alt="Exemplo" width="800" />
 
 O receptor com tela te fornece ótimos feedbacks visuais sobre funcionalidades do teclado, como:
 - Nível de bateria das metades
@@ -188,11 +188,11 @@ O receptor com tela te fornece ótimos feedbacks visuais sobre funcionalidades d
 
 Forma 1 de desbloquear:
 
-<img src="./imagens/wireless-desbloquear-zmk-studio.svg" alt="Exemplo" width="800">
+<img src="./imagens/wireless-desbloquear-zmk-studio.svg" alt="Exemplo" width="800" />
 
 Forma 2 de desbloquear (a partir da versão 1.2.0 do _firmware_):
 
-<img src="./imagens/desbloquear_zmk_studio_2.svg" alt="Exemplo" width="800">
+<img src="./imagens/desbloquear_zmk_studio_2.svg" alt="Exemplo" width="800" />
 
 O teclado usa a interface para configurações em tempo real [ZMK Studio](https://zmk.studio/).
 
@@ -258,7 +258,7 @@ As camadas que já vem com o seu teclado são:
 
 Veja o exemplo abaixo:
 
-<img src="./imagens/camadas-wireless.svg" alt="Exemplo" width="800">
+<img src="./imagens/camadas-wireless.svg" alt="Exemplo" width="800" />
 
 ### Restaurar configurações originais
 
@@ -279,7 +279,7 @@ Além disso, reservamos um "modo" extra, para você mesmo customizar para seu us
 
 Pela imagem abaixo você encontra essas teclas para alterar entre os modos:
 
-<img src="./imagens/alternar_modos.svg" alt="Exemplo" width="800">
+<img src="./imagens/alternar_modos.svg" alt="Exemplo" width="800" />
 
 > [!TIP]
 >
@@ -322,7 +322,7 @@ Estando na camada de ajustes (por padrão segurando a tecla do lado direito abai
 
 Além disso, você pode visualizar o mapeamento de todas essas teclas e modificar pela interface do ZMK Studio.
 
-<img src="./imagens/camada-ajustes-wireless.svg" alt="Exemplo" width="800">
+<img src="./imagens/camada-ajustes-wireless.svg" alt="Exemplo" width="800" />
 
 ### Alterar camada base
 
