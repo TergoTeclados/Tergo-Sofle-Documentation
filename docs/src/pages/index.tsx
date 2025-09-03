@@ -17,17 +17,19 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          <img src={colorMode === "light" ? "/logo/logo_white.png" : "/logo/logo_black.png"} alt="Tergo Logo" className={styles.logo} />
+          <img src={colorMode === "light" ? "/logo/logo_black.png" : "/logo/logo_white.png"} alt="Tergo Logo" className={styles.logo} />
           Tergo {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
+            className={clsx("button", "button--secondary", "button--lg", styles.homeLinkBtn)}
             to="/docs/intro">
-            Comece aqui!
+            📄 Comece aqui!
           </Link>
-          <a href="https://tecladoergonomico.com.br" className="button button--secondary button--lg">
+          <a href="https://tecladoergonomico.com.br" 
+            className={clsx("button", "button--secondary", "button--lg", styles.homeLinkBtn)}
+          >
             Voltar ao site oficial
           </a>
         </div>

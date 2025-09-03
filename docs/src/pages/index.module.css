@@ -3,7 +3,7 @@
  * and scoped locally.
  */
 
-.logo {
+ .logo {
   width: 200px;
 }
 
@@ -14,6 +14,16 @@
   overflow: hidden;
   flex-grow: inherit;
   min-height: 80vh;
+}
+
+/* Gradientes por tema */
+:global(html[data-theme='light']) .heroBanner {
+  /* mais escuro no light */
+  background: linear-gradient(to bottom, #bfceff 0%, #dfc9ff 100%);
+}
+:global(html[data-theme='dark']) .heroBanner {
+  /* levemente mais claro no dark */
+  background: linear-gradient(to top, #3d529e 0%, #3d2e61 100%);
 }
 
 @media screen and (max-width: 996px) {
@@ -28,4 +38,48 @@
   justify-content: center;
   flex-direction: column;
   gap: 0.8rem;
+}
+
+/* Força cores do texto dentro do hero--primary por tema */
+:global(html[data-theme='light'] .hero--primary .hero__title),
+:global(html[data-theme='light'] .hero--primary .hero__subtitle) {
+  color: #000 !important;
+}
+:global(html[data-theme='dark']  .hero--primary .hero__title),
+:global(html[data-theme='dark']  .hero--primary .hero__subtitle) {
+  color: #fff !important;
+}
+
+/* Botão temático reaproveitando o padrão do Docusaurus */
+.homeLinkBtn {
+  composes: button button--lg from global;
+  transition: transform 0.06s ease, box-shadow 0.12s ease;
+}
+
+/* Tema claro: botão escuro/primário */
+:global(html[data-theme='light']) .homeLinkBtn {
+  background: var(--ifm-color-primary);
+  color: var(--ifm-color-white);
+  border-color: transparent;
+}
+
+/* Tema escuro: botão mais claro para contraste */
+:global(html[data-theme='dark']) .homeLinkBtn {
+  /* background: var(--ifm-color-emphasis-200); */
+  /* color: var(--ifm-font-color-base); */
+  /* border: 1px solid var(--ifm-color-emphasis-300); */
+}
+
+.homeLinkBtn:hover { transform: translateY(-1px); }
+.homeLinkBtn:active { transform: translateY(0); }
+
+.homeLinkBtn {
+  composes: button button--lg from global;
+  transition: transform 0.06s ease, box-shadow 0.12s ease;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.homeLinkBtn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
 }
