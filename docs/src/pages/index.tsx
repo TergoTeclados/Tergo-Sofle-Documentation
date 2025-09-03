@@ -27,6 +27,9 @@ function HomepageHeader() {
             to="/docs/intro">
             Comece aqui!
           </Link>
+          <a href="https://tecladoergonomico.com.br" className="button button--secondary button--lg">
+            Voltar ao site oficial
+          </a>
         </div>
       </div>
     </header>
@@ -40,9 +43,9 @@ export default function Home(): ReactNode {
       title={`Tergo Teclados`}
       description="Documentação oficial do Tergo Sofle">
       <HomepageHeader />
-      <main>
+      {/* <main>
         <HomepageFeatures />
-      </main>
+      </main> */}
     </Layout>
   );
 }
