@@ -4,11 +4,6 @@
 
 Este guia vai te ensinar a como utilizar o layout de teclas do seu teclado no padrão Português (Brasil) ABNT2, ou seja, com teclas como "Ç" e outros acentos na camada base.
 
-:::tip
-
-Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
-:::
-
 ## Exemplo layout ABNT2
 
 Nós fornecemos também um layout no padrão ABNT2 para quem está mais familiarizado. As teclas em vermelho são as que mudam em relação ao layout internacional.

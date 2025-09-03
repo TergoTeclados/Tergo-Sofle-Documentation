@@ -2,11 +2,6 @@
 
 Este manual vai te guiar em relação a como modificar o firmware presente no seu teclado para ter controle total de todos aspectos do seu teclado e funcionalidades disponibilizadas pelo [firmware ZMK](https://zmk.dev/).
 
-:::tip
-
-Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
-:::
-
 ## Para que você pode querer modificar o código-fonte
 
 - Alterar o tempo para o teclado entrar em modo de descanso;

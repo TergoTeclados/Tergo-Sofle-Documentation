@@ -9,10 +9,6 @@ sidebar_position: 2
 
 Neste manual você vai saber os aspectos importantes para utilizar seu teclado Tergo Sofle.
 
-:::tip
-Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
-:::
-
 ## Aproveite sua jornada!
 
 Com um passo de cada vez, entenda cada aspecto do seu teclado.

@@ -8,11 +8,6 @@ Você pode, por exemplo, usar o teclado no seu computador e, eventualmente, troc
 
 Por padrão, o Tergo Sofle suporta conectar até 5 dispositivos por meio de _Bluetooth_ + o seu dispositivo no qual o receptor está conectado.
 
-:::tip
-
-Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
-:::
-
 ## Camada de ajustes
 
 Na camada de ajustes você possui teclas especiais para manipular essa funcionalidade.

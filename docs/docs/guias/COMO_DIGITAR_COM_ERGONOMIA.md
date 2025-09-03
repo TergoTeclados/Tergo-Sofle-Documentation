@@ -7,10 +7,6 @@ sidebar_position: 1
 
 Este manual visa discutir aspectos de ergonomia focados na digitação e maneiras recomendadas de aprender a digitar com o Tergo.
 
-:::tip
-Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
-:::
-
 ## Parte da ergonomia é entender o que é confortável para seu corpo
 
 :::note

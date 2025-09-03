@@ -7,10 +7,6 @@ sidebar_position: 2
 
 Neste guia você descobrirá como diversas funcionalidades como modificar o layout de teclas ou teclas especiais da tecnologia utilizada pelo Tergo Sofle podem te fornecer uma experiência de digitação mais otimizada e aplicando ideias de ergonomia.
 
-:::tip
-Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
-:::
-
 ## Adapte o layout de teclas para suas necessidades
 
 Procure entender que teclas você usa com mais frequência e posicioná-las estrategicamente de forma que seja confortável de usá-las.

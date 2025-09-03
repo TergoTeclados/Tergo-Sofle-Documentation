@@ -4,10 +4,6 @@ Neste guia você encontrará problemas e soluções que você pode ter com seu t
 
 Seu problema pode variar desde simples uma confusão com alguma funcionalidade até serem problemas técnicos que necessitem de manutenção.
 
-:::tip
-Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
-:::
-
 ## Primeiros passos
 
 A maioria dos problemas podem ser resolvidos realizando os seguintes passos.

@@ -2,10 +2,6 @@
 
 Neste manual você descobrirá como montar/desmontar seu teclado Tergo Sofle e realizar manutenções diversas.
 
-:::tip
-Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
-:::
-
 ## Nós te ajudamos!
 
 Caso tenha qualquer problema que não encontrou a solução na documentação, nos contate que te ajudaremos a descobrir qual é a causa e também podemos arrumar para você!

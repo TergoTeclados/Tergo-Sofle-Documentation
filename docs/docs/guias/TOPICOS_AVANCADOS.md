@@ -16,10 +16,6 @@ Para uma visão geral das funcionalidades, consulte o manual do usuário.
 
 Com o [Vial](https://get.vial.today/), você pode desfrutar do poder de diversas funcionalidades do seu teclado de forma rápida.
 
-:::tip
-Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
-:::
-
 ### O que encontro no Vial
 
 O Vial te permite desfrutar da maioria das funcionalidades possibilitadas pelo _firmware_ do seu teclado, que é o QMK, no seu próprio navegador ou desktop, sem necessidade de saber programar.

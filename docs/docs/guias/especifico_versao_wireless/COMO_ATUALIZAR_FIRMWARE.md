@@ -2,10 +2,6 @@
 
 A Tergo Teclados pretende continuar realizando melhorias no _firmware_ do teclado. Para atualizá-lo é fácil, basta seguir as instruções aqui presentes.
 
-:::tip
-Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
-:::
-
 ## Vídeo sobre o processo
 
 Fizemos um vídeo que resume parte do passo a passo abaixo que pode ajudar você.
