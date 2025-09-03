@@ -6,8 +6,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Wiki',
-  tagline: 'Documentação oficial do Tergo Sofle',
-  favicon: 'logo/logo_black.png',
+  tagline: 'Documentação do teclado Tergo Sofle',
+  favicon: 'logo/logo_icon_l_png.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -71,7 +71,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/logo_full_png_v2_branco.png',
     navbar: {
       title: 'Tergo Wiki',
       logo: {
@@ -84,18 +84,18 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Guias',
+          label: 'Documentação',
         },
         {
           href: 'https://tecladoergonomico.com.br/',
-          label: 'Site',
+          label: 'Site oficial',
         },
         // {to: '/blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/TergoTeclados',
-          label: 'GitHub',
-          position: 'right',
-        },
+        // {
+        //   href: 'https://github.com/TergoTeclados',
+        //   label: 'GitHub',
+        //   position: 'right',
+        // },
       ],
     },
     footer: {
@@ -105,7 +105,7 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Guia',
+              label: 'Documentação',
               to: '/docs/intro',
             },
           ],
@@ -137,7 +137,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Tergo Tecnologias LTDA. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Tergo Tecnologias LTDA`,
     },
     prism: {
       theme: prismThemes.github,
