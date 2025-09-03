@@ -6,7 +6,7 @@ Se você quiser trocar a placa controladora do seu teclado, por qualquer motivo 
 
 A placa controladora é a placa retangular que fica coberta pela tampa superior do seu teclado.
 
-<img src="../../../imagens/trocando-placa-1.jpg" alt="Exemplo" width="400" />
+<img src="/img/trocando-placa-1.jpg" alt="Exemplo" width="400" />
 
 ## Primeiro tenha certeza do problema
 
@@ -16,19 +16,17 @@ Busque por nossa lista de problemas e soluções (em desenvolvimento) ou entre e
 
 ## Quer trocar sozinho ou prefere ter nossa ajuda?
 
-> [!WARNING]
->
-> Realizar manutenções sozinho exige cuidado e atenção.
->
-> Caso prefira, você pode nos enviar seu teclado que realizamos o processo para você.
->
-> Problemas ou danos causados decorrentes do processo de troca manual por parte do cliente podem prejudicar a cobertura da sua garantia.
+:::warning
+Realizar manutenções sozinho exige cuidado e atenção.
+Caso prefira, você pode nos enviar seu teclado que realizamos o processo para você.
+Problemas ou danos causados decorrentes do processo de troca manual por parte do cliente podem prejudicar a cobertura da sua garantia.
+:::
 
 ### Cuidados com o Wireless
 
-> [!WARNING]
->
-> Pela versão Wireless possuir baterias, elas requerem cuidados especiais que serão mostrados nas seções abaixo.
+:::warning
+Pela versão Wireless possuir baterias, elas requerem cuidados especiais que serão mostrados nas seções abaixo.
+:::
 
 ## Adquira uma placa controladora nova da Tergo
 
@@ -76,15 +74,15 @@ Conforme a imagem abaixo, posicione a chave de baixo para cima, com a parte met�
 
 Empurre um pouco cada um dos dois furos, para que a placa saia.
 
-<img src="../../../imagens/trocando-placa-2.jpg" alt="Exemplo" width="400" />
+<img src="/img/trocando-placa-2.jpg" alt="Exemplo" width="400" />
 
 Conforme você faz isso, a placa vai saindo e fica cada vez mais fácil de empurrá-la.
 
-<img src="../../../imagens/trocando-placa-3.jpg" alt="Exemplo" width="400" />
+<img src="/img/trocando-placa-3.jpg" alt="Exemplo" width="400" />
 
 A partir de certo ponto, conforme imagem abaixo, já não é mais necessário utilizar a chave e pode ser utilizada a própria mão.
 
-<img src="../../../imagens/trocando-placa-4.jpg" alt="Exemplo" width="400" />
+<img src="/img/trocando-placa-4.jpg" alt="Exemplo" width="400" />
 
 Assim, agarre a placa simultaneamente puxe para cima e continue empurrando para trás.
 
@@ -92,31 +90,26 @@ Conforme imagem abaixo, quando a placa sair, os últimos pinos dela estarão tor
 
 Também, se tiver bateria, você irá vê-la.
 
-<img src="../../../imagens/trocando-placa-5.jpg" alt="Exemplo" width="400" />
+<img src="/img/trocando-placa-5.jpg" alt="Exemplo" width="400" />
 
-> [!IMPORTANT]
->
-> Revise os pinos da placa controladora e os encaixes da placa-base para ver se algum engate dos encaixes da placa-base acabou saindo junto com o pino da placa controladora.
->
-> É raro, mas se acontecer basta colocar esse engate de volta no lugar que ele estava na placa-base.
+:::warning
+Revise os pinos da placa controladora e os encaixes da placa-base para ver se algum engate dos encaixes da placa-base acabou saindo junto com o pino da placa controladora.
+É raro, mas se acontecer basta colocar esse engate de volta no lugar que ele estava na placa-base.
+:::
 
-> [!NOTE]
->
-> Pode também haver uma fina camada de plástico amarelado que sairá com a placa controladora.
->
-> Essa é uma fita utilizada no processo de fabricação, e pode ser removida ou mantida sem problemas.
+:::note
+Pode também haver uma fina camada de plástico amarelado que sairá com a placa controladora.
+Essa é uma fita utilizada no processo de fabricação, e pode ser removida ou mantida sem problemas.
+:::
 
 ### Wireless: Cuidado com a bateria
 
-> [!CAUTION]
->
-> A versão Wireless acomoda a bateria embaixo da placa controladora.
->
-> Baterias requerem alta atenção para não serem danificadas, pois são macias.
->
-> Caso danifique a bateria, recomenda-se a troca imediata, diretamente pela Tergo Teclados.
->
-> Caso tenha dúvidas sobre o dano, nos mande foto.
+:::danger
+A versão Wireless acomoda a bateria embaixo da placa controladora.
+Baterias requerem alta atenção para não serem danificadas, pois são macias.
+Caso danifique a bateria, recomenda-se a troca imediata, diretamente pela Tergo Teclados.
+Caso tenha dúvidas sobre o dano, nos mande foto.
+:::
 
 ## Colocar nova placa
 
@@ -130,7 +123,7 @@ Veja se todos os pinos parecem estar apropriadamente posicionados nos buracos, d
 
 A imagem abaixo ilustra isso.
 
-<img src="../../../imagens/trocando-placa-6.jpg" alt="Exemplo" width="400" />
+<img src="/img/trocando-placa-6.jpg" alt="Exemplo" width="400" />
 
 Se algum não estiver, você pode remover a placa e empurrá-los levemente com algum objeto (ou mesmo com os dedos e unhas) para que ele consiga entrar corretamente ao ser empurrado.
 
@@ -140,13 +133,11 @@ Confira se todos os pinos estão entrando corretamente. Se estiverem, está tudo
 
 Se não, remova a placa, ajuste os pinos que precisar, e tente novamente.
 
-> [!CAUTION]
->
-> Na versão Wireless, aperte o quanto for suficiente para que a placa controladora entre e não amasse a bateria.
->
-> Pode ser que fique um pequeno vão entre os conectores e a placa controladora: é normal.
->
-> Jamais forçe a placa a ponto de amassar a bateria.
+:::danger
+Na versão Wireless, aperte o quanto for suficiente para que a placa controladora entre e não amasse a bateria.
+Pode ser que fique um pequeno vão entre os conectores e a placa controladora: é normal.
+Jamais forçe a placa a ponto de amassar a bateria.
+:::
 
 ### Coloque as telas OLED novamente
 

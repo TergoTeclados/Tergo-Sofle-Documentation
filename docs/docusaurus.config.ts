@@ -5,9 +5,9 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Wiki',
+  tagline: 'Documentação oficial do Tergo Sofle',
+  favicon: 'logo/logo_black.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -73,21 +73,26 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Tergo Wiki',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Tergo Teclados Logo',
+        src: 'logo/logo_black.png',
+        srcDark: 'logo/logo_white.png',
       },
       items: [
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Guias',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://tecladoergonomico.com.br/',
+          label: 'Site',
+        },
+        // {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          href: 'https://github.com/TergoTeclados',
           label: 'GitHub',
           position: 'right',
         },
@@ -100,43 +105,39 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Guia',
               to: '/docs/intro',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Links',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Github',
+              href: 'https://github.com/TergoTeclados/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Site',
+              href: 'https://tecladoergonomico.com.br/',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Comprar',
+              href: 'https://tecladoergonomico.com.br/loja/tergo-sofle/',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Mais',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Instagram',
+              href: 'https://www.instagram.com/tergoteclados/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Tergo Tecnologias LTDA. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

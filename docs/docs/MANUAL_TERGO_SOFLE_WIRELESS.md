@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Manual da Versão Wireless'
+sidebar_position: 3
+---
+
 # Tergo Sofle - Versão Wireless - Manual de Usuário
 
 **O lançamento da versão sem fio é novidade para você? [Clique aqui](https://tecladoergonomico.com.br/blog/versao-sem-fio-ja-disponivel/) e leia sobre esse lançamento.**
@@ -10,9 +15,10 @@ Se você adquiriu a versão com fio, veja o [manual da versão com fio](./MANUAL
 
 Neste manual você vai saber os aspectos importantes para utilizar seu teclado Tergo Sofle.
 
-> [!TIP]
->
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="./imagens/icone-sumario.png" alt="Exemplo" width="20" / />
+
+:::note
+Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
+:::
 
 ## Aproveite sua jornada!
 
@@ -32,13 +38,14 @@ O seu teclado pode vir configurado no padrão internacional (ASNI) ou em portugu
 
 Entretanto, pode ser necessário realizar uma configuração adicional no seu computador.
 
-> [!IMPORTANT]
-> Para o correto funcionamento do teclado, o layout de teclado configurado no seu computador precisa seguir o padrão do seu teclado.
+:::warning
+Para o correto funcionamento do teclado, o layout de teclado configurado no seu computador precisa seguir o padrão do seu teclado.
 
-> [!TIP]
-> Se o teclado que você utilizava no seu computador antes do Tergo Sofle era no padrão ABNT2 (teclados com a tecla `Ç` presente) e ele funcionava normalmente, o seu teclado Tergo Sofle que você adquiriu no padrão ABNT2 também deve também funcionar normalmente sem necessidade de modificações extras.
->
-> Entretanto, se o seu teclado era ABNT2 e você adquiriu o teclado Tergo Sofle no padrão internacional (ou vice-versa), provavelmente terá que realizar a configuração adicional abaixo.
+
+Se o teclado que você utilizava no seu computador antes do Tergo Sofle era no padrão ABNT2 (teclados com a tecla `Ç` presente) e ele funcionava normalmente, o seu teclado Tergo Sofle que você adquiriu no padrão ABNT2 também deve também funcionar normalmente sem necessidade de modificações extras.
+
+Entretanto, se o seu teclado era ABNT2 e você adquiriu o teclado Tergo Sofle no padrão internacional (ou vice-versa), provavelmente terá que realizar a configuração adicional abaixo.
+:::
 
 No Windows 11, por exemplo, as imagens abaixo representam respectivamente o layout de teclado internacional (ASNI) e o ABNT2.
 
@@ -56,7 +63,7 @@ No Mac, o fluxo pode ser diferente. A princípio, siga o seguinte fluxo para con
 
 ### Padrão Internacional
 
-<img src="./imagens/base_internacional.svg" alt="Exemplo" width="800" />
+<img src="/img/base_internacional.svg" alt="Exemplo" width="800" />
 
 As teclas com a letra `L` seguida de um número (como o `L2`) indicam teclas que ao serem seguradas mudam a camada de teclas do seu teclado.
 
@@ -82,7 +89,7 @@ Caso prefira, você pode mudar para o padrão ABNT2 ou para o Internacional.
 
 A foto abaixo representa o padrão ABNT2. As teclas abaixo em vermelho são as que mudam em relação ao layout internacional.
 
-<img src="./imagens/base_abnt.svg" alt="Exemplo" width="800" />
+<img src="/img/base_abnt.svg" alt="Exemplo" width="800" />
 
 ## Recarga e Baterias
 
@@ -96,38 +103,39 @@ Após 15 minutos sem ser usado, o teclado entra em modo de "sono profundo", que 
 
 ### Recarga
 
-> [!IMPORTANT]
-> Para recarregar:
-> - Deixe a chave na posição de ligado (para frente)
-> - Conecte o USB à metade do teclado que será carregada
->
-> Enquanto estiver carregando corretamente, uma luz azul próxima à entrada do USB permanecerá ligada.
->
-> Quando a carga total for atingida, ela irá desligar.
+:::warning
+Para recarregar:
+- Deixe a chave na posição de ligado (para frente)
+- Conecte o USB à metade do teclado que será carregada
+
+Enquanto estiver carregando corretamente, uma luz azul próxima à entrada do USB permanecerá ligada.
+
+Quando a carga total for atingida, ela irá desligar.
+:::
 
 A carga total é atingida dentro de 1 hora.
 
 Recarregue ambas metades conforme necessário.
 
-> [!WARNING]
->
-> Tome cuidado para não forçar a chave lateral de liga/deliga para não quebrá-la acidentalmente.
+:::warning
+Tome cuidado para não forçar a chave lateral de liga/deliga para não quebrá-la acidentalmente.
+:::
 
-> [!TIP]
->
-> Por mais que desligar as metades do teclado enquanto não estiver em uso possa contribuir com a duração da carga,
-> a diferença tende a ser pouco relevante dado a presença do descanso automático do teclado.
->
-> Nesse caso, torna-se dispensável desligar as metades do teclado no dia a dia durante o uso recorrente.
->
-> Recomenda-se desligar as metades para os casos de:
-> - Deixar o teclado parado ou guardado por um tempo
-> - Levar o teclado para viajens ou enviá-lo pelo correio
-> - Realizar manutenções e o abrir
+:::tip
+Por mais que desligar as metades do teclado enquanto não estiver em uso possa contribuir com a duração da carga,
+a diferença tende a ser pouco relevante dado a presença do descanso automático do teclado.
 
-> [!NOTE]
->
-> Recomenda-se não deixar o teclado descarregar totalmente para recarregá-lo. Carregue-o eventualmente enquanto em uso a cada 15-20 dias.
+Nesse caso, torna-se dispensável desligar as metades do teclado no dia a dia durante o uso recorrente.
+
+Recomenda-se desligar as metades para os casos de:
+- Deixar o teclado parado ou guardado por um tempo
+- Levar o teclado para viajens ou enviá-lo pelo correio
+- Realizar manutenções e o abrir
+:::
+
+:::note
+Recomenda-se não deixar o teclado descarregar totalmente para recarregá-lo. Carregue-o eventualmente enquanto em uso a cada 15-20 dias.
+:::
 
 ## Inclinadores - Como encaixá-los
 
@@ -139,16 +147,17 @@ Assim, o inclinador deve ficar com a parte com recorte para baixo, ou seja, na d
 
 Consulte o exemplo abaixo.
 
-> [!TIP]
-> Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
+:::tip
+Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
+:::
 
-<img src="./imagens/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500" />
+<img src="/img/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500" />
 
 ## Receptor
 
 ### Com tela
 
-<img src="./imagens/receptor_com_tela.jpg" alt="Exemplo" width="800" />
+<img src="/img/receptor_com_tela.jpg" alt="Exemplo" width="800" />
 
 O receptor com tela te fornece ótimos feedbacks visuais sobre funcionalidades do teclado, como:
 - Nível de bateria das metades
@@ -157,42 +166,42 @@ O receptor com tela te fornece ótimos feedbacks visuais sobre funcionalidades d
 - Teclas especiais ativas (CMD, Alt, Ctrl, Shift, CapsLock, etc)
 - Camada ativa
 
-> [!NOTE]
->
-> Você vai perceber que o nível de bateria mostrado na tela não baixa de forma linear.
->
-> É normal parecer que inicialmente baixa rápido (de 100% para 80%), mas é apenas uma limitação visual.
->
-> Enquanto você estiver carregando uma metade do teclado, ele mostrará 100%. Guie-se pela luz azul explicada em tópicos anteriores para saber se sua bateria está carregada.
->
-> Quando a bateria chegar, na tela, a 0%, o indicador sumirá. Mas seu teclado ainda terá carga para funcionar por certo tempo. Entretanto, recomenda-se colocá-lo para carregar assim que possível.
+:::note
+Você vai perceber que o nível de bateria mostrado na tela não baixa de forma linear.
+
+É normal parecer que inicialmente baixa rápido (de 100% para 80%), mas é apenas uma limitação visual.
+
+Enquanto você estiver carregando uma metade do teclado, ele mostrará 100%. Guie-se pela luz azul explicada em tópicos anteriores para saber se sua bateria está carregada.
+
+Quando a bateria chegar, na tela, a 0%, o indicador sumirá. Mas seu teclado ainda terá carga para funcionar por certo tempo. Entretanto, recomenda-se colocá-lo para carregar assim que possível.
+:::
 
 ## ZMK Studio: Software para configuração
 
 ### Acessar o ZMK Studio
 
-> [!IMPORTANT]
->
-> Após abrir o ZMK Studio e selecionar seu teclado, você verá uma mensagem na sua tela pedindo para "desbloquear" seu teclado.
->
-> Há 2 formas de fazer isso.
->
-> A primeira é:
-> - Primeiro: Segure a tecla para acessar a camada de ajustes (conforme exemplo abaixo)
-> - Segundo: Clique na tecla `ESC` (tecla mais superior à esquerda no teclado)
->
-> A segunda forma é:
-> - Clicar ao mesmo tempo as 2 teclas mostradas na imagem mais abaixo.
->
-> Consulte as imagens abaixo.
+:::warning
+Após abrir o ZMK Studio e selecionar seu teclado, você verá uma mensagem na sua tela pedindo para "desbloquear" seu teclado.
+
+Há 2 formas de fazer isso.
+
+A primeira é:
+- Primeiro: Segure a tecla para acessar a camada de ajustes (conforme exemplo abaixo)
+- Segundo: Clique na tecla `ESC` (tecla mais superior à esquerda no teclado)
+
+A segunda forma é:
+- Clicar ao mesmo tempo as 2 teclas mostradas na imagem mais abaixo.
+
+Consulte as imagens abaixo.
+:::
 
 Forma 1 de desbloquear:
 
-<img src="./imagens/wireless-desbloquear-zmk-studio.svg" alt="Exemplo" width="800" />
+<img src="/img/wireless-desbloquear-zmk-studio.svg" alt="Exemplo" width="800" />
 
 Forma 2 de desbloquear (a partir da versão 1.2.0 do _firmware_):
 
-<img src="./imagens/desbloquear_zmk_studio_2.svg" alt="Exemplo" width="800" />
+<img src="/img/desbloquear_zmk_studio_2.svg" alt="Exemplo" width="800" />
 
 O teclado usa a interface para configurações em tempo real [ZMK Studio](https://zmk.studio/).
 
@@ -211,16 +220,17 @@ Com o [ZMK Studio](https://zmk.studio/), você tem funcionalidades diversas. Alg
 - Modificar camadas;
 - Entre outros.
 
-> [!NOTE]
-> O ZMK Studio é uma tecnologia muito recente e vem aos poucos lançando novidades.
->
-> Algumas customizações ainda não podem ser feitas diretamente por ele e requerem programação.
->
-> Você pode aprender a como modificar o código-fonte do seu teclado consultando o guia de [customização do código-fonte](./guias/especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
->
-> O que o ZMK Studio suporta hoje e o que está previsto de funcionalidades pode ser visto [clicando aqui](https://zmk.dev/docs/features/studio#capabilities).
->
-> Fique por dentro de atualizações que a Tergo Teclados lançar para ter a versão mais atual do seu software sempre disponível.
+:::note
+O ZMK Studio é uma tecnologia muito recente e vem aos poucos lançando novidades.
+
+Algumas customizações ainda não podem ser feitas diretamente por ele e requerem programação.
+
+Você pode aprender a como modificar o código-fonte do seu teclado consultando o guia de [customização do código-fonte](./guias/especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
+
+O que o ZMK Studio suporta hoje e o que está previsto de funcionalidades pode ser visto [clicando aqui](https://zmk.dev/docs/features/studio#capabilities).
+
+Fique por dentro de atualizações que a Tergo Teclados lançar para ter a versão mais atual do seu software sempre disponível.
+:::
 
 ### Salve ou dispense suas customizações
 
@@ -258,7 +268,7 @@ As camadas que já vem com o seu teclado são:
 
 Veja o exemplo abaixo:
 
-<img src="./imagens/camadas-wireless.svg" alt="Exemplo" width="800" />
+<img src="/img/camadas-wireless.svg" alt="Exemplo" width="800" />
 
 ### Restaurar configurações originais
 
@@ -279,21 +289,16 @@ Além disso, reservamos um "modo" extra, para você mesmo customizar para seu us
 
 Pela imagem abaixo você encontra essas teclas para alterar entre os modos:
 
-<img src="./imagens/alternar_modos.svg" alt="Exemplo" width="800" />
+<img src="/img/alternar_modos.svg" alt="Exemplo" width="800" />
 
-> [!TIP]
->
-> O modo básico e adepto são simplesmente aplicações do sistema de camada de teclas.
->
-> Essas camadas são as de número 0, 1 e 2 (que podem ser visualizadas facilmente no software de customização).
->
-> A camada 0, também chamada de "Basic", é a padrão.
->
-> A camada 1, também chamada de "Adept", é uma extensão da camada 0, que vem configurada com novas funcionalidades especiais mais avançadas.
->
-> A camada 2 é uma camada extra para você modificar do jeito que quiser. É uma cópia da camada 0.
->
-> Quando você alterna entre os modos, o que você está fazendo é trocar qual a camada base que fica ativa do seu teclado. Ou seja, definindo quais são as teclas da base do seu teclado, que estarão ativas enquanto você não está acessando nenhuma outra camada.
+:::tip
+O modo básico e adepto são simplesmente aplicações do sistema de camada de teclas.
+Essas camadas são as de número 0, 1 e 2 (que podem ser visualizadas facilmente no software de customização).
+A camada 0, também chamada de "Basic", é a padrão.
+A camada 1, também chamada de "Adept", é uma extensão da camada 0, que vem configurada com novas funcionalidades especiais mais avançadas.
+A camada 2 é uma camada extra para você modificar do jeito que quiser. É uma cópia da camada 0.
+Quando você alterna entre os modos, o que você está fazendo é trocar qual a camada base que fica ativa do seu teclado. Ou seja, definindo quais são as teclas da base do seu teclado, que estarão ativas enquanto você não está acessando nenhuma outra camada.
+:::
 
 ### Funcionalidades que já vem configuradas no modo adepto (camada 1)
 
@@ -311,8 +316,9 @@ Não se assuste! Te explicamos tudo. Um passo por vez.
 
 Recomenda-se que você explore o restante do manual e, em seguida, o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), e que se adapte ao teclado antes de você experimentar essas funcionalidades do modo adepto.
 
-> [!NOTE]
-> Alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja reiniciado.
+:::note
+Alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja reiniciado.
+:::
 
 ## Atalhos no teclado
 
@@ -322,7 +328,7 @@ Estando na camada de ajustes (por padrão segurando a tecla do lado direito abai
 
 Além disso, você pode visualizar o mapeamento de todas essas teclas e modificar pela interface do ZMK Studio.
 
-<img src="./imagens/camada-ajustes-wireless.svg" alt="Exemplo" width="800" />
+<img src="/img/camada-ajustes-wireless.svg" alt="Exemplo" width="800" />
 
 ### Alterar camada base
 
@@ -340,18 +346,19 @@ Entenda a funcionalidade e como utilizá-la vendo o guia de [como conectar multi
 
 ## Cuidados com seu teclado
 
-> [!IMPORTANT]
->
-> Tenha atenção em relação aos seguintes pontos:
-> - Forçar as chaves laterais de ligar/desligar
-> - Forçar os conectores USB superiores ao conectar cabos
-> - Líquidos perto do seu teclado
-> - Desmontar o teclado sozinho (consulte o [manual de montagem e manutenção](./guias/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+:::warning
+Tenha atenção em relação aos seguintes pontos:
+- Forçar as chaves laterais de ligar/desligar
+- Forçar os conectores USB superiores ao conectar cabos
+- Líquidos perto do seu teclado
+- Desmontar o teclado sozinho (consulte o [manual de montagem e manutenção](./guias/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+:::
 
-> [!NOTE]
-> O teclado Tergo foi feito para ser durável e facilmente renovável.
->
-> Entretanto, ninguém quer presenciar defeitos no seu produto por conta de potenciais mal usos.
+:::note
+O teclado Tergo foi feito para ser durável e facilmente renovável.
+
+Entretanto, ninguém quer presenciar defeitos no seu produto por conta de potenciais mal usos.
+:::
 
 ## Como digitar com o teclado Tergo
 

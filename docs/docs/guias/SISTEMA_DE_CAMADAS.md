@@ -1,3 +1,8 @@
+---
+sidebar_label: 'Sistema de Camadas de Teclas'
+sidebar_position: 3
+---
+
 # Manual sobre Sistema de Camadas de Teclas
 
 Este manual visa te ajudar a entender o sistema de camadas.
@@ -18,4 +23,4 @@ As camadas que já vem com o seu teclado são:
 
 Use a interface do Vial para entender facilmente o conteúdo de cada camada, e modifique como ficar mais confortável para você!
 
-![Exemplo camadas](../../imagens/todas_camadas.svg)
+![Exemplo camadas](/img/todas_camadas.svg)

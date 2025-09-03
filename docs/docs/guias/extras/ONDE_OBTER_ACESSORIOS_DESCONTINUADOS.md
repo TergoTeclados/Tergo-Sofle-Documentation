@@ -12,25 +12,25 @@ Assim, até garantirmos conseguir oferecer o produto com máxima qualidade, não
 
 Mostraremos a você onde obtê-lo.
 
-> [!IMPORTANT]
->
-> Há 3 modelos diferentes de cabos que oferecemos. Tenha atenção e identifique qual é o seu.
+:::warning
+Há 3 modelos diferentes de cabos que oferecemos. Tenha atenção e identifique qual é o seu.
+:::
 
 ### Opção 1
 
-<img src="../../../imagens/exemplo-cabo-magnetico-1.png" alt="Exemplo" width="300" />
+<img src="/img/exemplo-cabo-magnetico-1.png" alt="Exemplo" width="300" />
 
 Esse cabo foi o primeiro oferecido.
 
 Tem o lado que conecta ao computador apenas na opção USB A e **o lado da conexão magnética possui 3 anéis metálicos**, conforme exemplo abaixo
 
-<img src="../../../imagens/exemplo-cabo-magnetico-1-1.png" alt="Exemplo" width="200" />
+<img src="/img/exemplo-cabo-magnetico-1-1.png" alt="Exemplo" width="200" />
 
 Você pode encontrá-lo no Aliexpress. [Clique aqui](https://pt.aliexpress.com/item/1005005325764969.html?spm=a2g0o.order_list.order_list_main.66.27ebcaa4cosEmh&gatewayAdapt=glo2bra) para um link exemplo.
 
 ### Opção 2
 
-<img src="../../../imagens/exemplo-cabo-magnetico-2.png" alt="Exemplo" width="300" />
+<img src="/img/exemplo-cabo-magnetico-2.png" alt="Exemplo" width="300" />
 <!-- ![alt text](image.png) -->
 
 Possui adaptador para USB A e o lado magnético é fixo.
@@ -39,7 +39,7 @@ Você pode encontrá-lo no Aliexpress. [Clique aqui](https://pt.aliexpress.com/i
 
 ### Opção 3
 
-<img src="../../../imagens/exemplo-cabo-magnetico-3.png" alt="Exemplo" width="300" />
+<img src="/img/exemplo-cabo-magnetico-3.png" alt="Exemplo" width="300" />
 
 Possui adaptador para USB A e o lado magnético possui maior mobilidade. Une o melhor das duas opções anteriores.
 

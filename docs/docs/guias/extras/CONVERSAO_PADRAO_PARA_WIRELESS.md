@@ -1,13 +1,12 @@
 # Conversão versão Padrão para Wireless
 
-> [!WARNING]
->
-> Guia em desenvolvimento.
->
-> Até então, fornece uma visão geral do processo de conversão.
->
-> O serviço de conversão será oferecido em breve pela Tergo Teclados.
+:::warning
+Guia em desenvolvimento.
 
+Até então, fornece uma visão geral do processo de conversão.
+
+O serviço de conversão será oferecido em breve pela Tergo Teclados.
+:::
 
 Esse guia explicará sobre o processo de conversão da versão com fio para a sem fio do teclado Tergo Sofle
 
@@ -68,12 +67,12 @@ Mesmo assim, o processo pode ser feito de maneira alternativa, tocando com um cl
 
 ## Atenção: em desenvolvimento
 
-> [!WARNING]
->
-> A Tergo Teclados busca soluções para tornar o processo de conversão o mais amigável e simples possível.
->
-> Ainda não fornecemos o serviço de conversão pois estamos buscando resolver as limitações descritas anteriomente.
->
-> Nosso objetivo é fornecer um serviço de conversão rápido e eficaz, que envolvam o mínimo de alterações no seu teclado.
->
-> Também, ainda não fornecemos de forma detalhada o processo de conversão, por estarmos estudando ele.
+:::warning
+A Tergo Teclados busca soluções para tornar o processo de conversão o mais amigável e simples possível.
+
+Ainda não fornecemos o serviço de conversão pois estamos buscando resolver as limitações descritas anteriomente.
+
+Nosso objetivo é fornecer um serviço de conversão rápido e eficaz, que envolvam o mínimo de alterações no seu teclado.
+
+Também, ainda não fornecemos de forma detalhada o processo de conversão, por estarmos estudando ele.
+:::

@@ -1,12 +1,17 @@
+---
+sidebar_label: 'Manual da Versão com Fio'
+sidebar_position: 2
+---
+
 # Tergo Sofle - Manual de Usuário
 
 ## Resumo
 
 Neste manual você vai saber os aspectos importantes para utilizar seu teclado Tergo Sofle.
 
-> [!TIP]
->
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="./imagens/icone-sumario.png" alt="Exemplo" width="20" />
+:::tip
+Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
+:::
 
 ## Aproveite sua jornada!
 
@@ -24,7 +29,7 @@ Seu teclado já vem com os cabos necessários para o funcionamento.
 
 A imagem abaixo mostra um exemplo da disposição dos cabos:
 
-<img src="./imagens/exemplo_cabos.jpg" alt="Exemplo" width="800" />
+<img src="/img/exemplo_cabos.jpg" alt="Exemplo" width="800" />
 
 ### Adicione o teclado ao seu sistema operacional
 
@@ -32,17 +37,19 @@ O seu teclado pode vir configurado no padrão internacional (ASNI) ou em portugu
 
 Entretanto, pode ser necessário realizar uma configuração adicional no seu computador.
 
-> [!IMPORTANT]
-> Para o correto funcionamento do teclado, o layout de teclado configurado no seu computador precisa seguir o padrão do seu teclado.
+:::warning
+Para o correto funcionamento do teclado, o layout de teclado configurado no seu computador precisa seguir o padrão do seu teclado.
+:::
 
-> [!TIP]
-> Se o teclado que você utilizava no seu computador antes do Tergo Sofle era no padrão ABNT2 (teclados com a tecla `Ç` presente) e ele funcionava normalmente, o seu teclado Tergo Sofle que você adquiriu no padrão ABNT2 também deve também funcionar normalmente sem necessidade de modificações extras.
->
-> Entretanto, se o seu teclado era ABNT2 e você adquiriu o teclado Tergo Sofle no padrão internacional (ou vice-versa), provavelmente terá que realizar a configuração adicional abaixo.
+:::tip
+Se o teclado que você utilizava no seu computador antes do Tergo Sofle era no padrão ABNT2 (teclados com a tecla `Ç` presente) e ele funcionava normalmente, o seu teclado Tergo Sofle que você adquiriu no padrão ABNT2 também deve também funcionar normalmente sem necessidade de modificações extras.
+
+Entretanto, se o seu teclado era ABNT2 e você adquiriu o teclado Tergo Sofle no padrão internacional (ou vice-versa), provavelmente terá que realizar a configuração adicional abaixo.
+:::
 
 No Windows 11, por exemplo, as imagens abaixo representam respectivamente o layout de teclado internacional (ASNI) e o ABNT2.
 
-<img src="imagens/teclados_no_windows.png" alt="Exemplo" width="500" />
+<img src="/img/teclados_no_windows.png" alt="Exemplo" width="500" />
 
 [Clique aqui](https://www.youtube.com/watch?v=UWwcIcwkPlA) para ver um breve vídeo de como configurar isso no Windows 11.
 
@@ -56,7 +63,7 @@ No Mac, o fluxo pode ser diferente. A princípio, siga o seguinte fluxo para con
 
 ### Padrão Internacional
 
-<img src="./imagens/base_internacional.svg" alt="Exemplo" width="800" />
+<img src="/img/base_internacional.svg" alt="Exemplo" width="800" />
 
 As teclas com a letra `L` seguida de um número (como o `L2`) indicam teclas que ao serem seguradas mudam a camada de teclas do seu teclado.
 
@@ -82,7 +89,7 @@ Caso prefira, você pode mudar para o padrão ABNT2 ou para o Internacional.
 
 A foto abaixo representa o padrão ABNT2. As teclas abaixo em vermelho são as que mudam em relação ao layout internacional.
 
-<img src="./imagens/base_abnt.svg" alt="Exemplo" width="800" />
+<img src="/img/base_abnt.svg" alt="Exemplo" width="800" />
 
 ## Inclinadores - Como encaixá-los
 
@@ -94,14 +101,15 @@ Assim, o inclinador deve ficar com a parte com recorte para baixo, ou seja, na d
 
 Consulte o exemplo abaixo.
 
-> [!TIP]
-> Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
+:::tip
+Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
+:::
 
-<img src="./imagens/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500" />
+<img src="/img/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500" />
 
 ## Vial: Software para configuração
 
-<img src="./imagens/vial_exemplo.png" alt="Exemplo Vial" width="800" />
+<img src="/img/vial_exemplo.png" alt="Exemplo Vial" width="800" />
 
 O teclado usa a interface para configurações em tempo real [Vial](https://get.vial.today/).
 
@@ -130,13 +138,13 @@ As telas OLED não só oferecem um visual único mas também possuem utilidades.
 
 Na tela esquerda, é possível visualizar qual é a camada base do teclado, a camada atual ativa, e se teclas especiais como o capslock estão ativas.
 
-<img src="./imagens/exemplo_telas.jpg" alt="Exemplo Telas" width="800" />
+<img src="/img/exemplo_telas.jpg" alt="Exemplo Telas" width="800" />
 
 Desfrute delas para te ajudar principalmente a entender o sistema de camadas.
 
 Também, na tela direita, quando você está na camada de ajuste, você verá variáveis relacionadas ao RGB e a versão do firmware do teclado.
 
-<img src="./imagens/exemplo_tela_config.jpg" alt="Exemplo Tela Config" width="800" />
+<img src="/img/exemplo_tela_config.jpg" alt="Exemplo Tela Config" width="800" />
 
 ## Camadas de teclas
 
@@ -164,7 +172,7 @@ As camadas que já vem com o seu teclado são:
 
 Veja o exemplo abaixo:
 
-<img src="./imagens/todas_camadas.svg" alt="Exemplo" width="800" />
+<img src="/img/todas_camadas.svg" alt="Exemplo" width="800" />
 
 ### Utilize as telas OLED para se guiar
 
@@ -182,21 +190,21 @@ Além disso, reservamos um "modo" extra, para você mesmo customizar para seu us
 
 Pela imagem abaixo você encontra essas teclas para alterar entre os modos:
 
-<img src="./imagens/alternar_modos.svg" alt="Exemplo" width="800" />
+<img src="/img/alternar_modos.svg" alt="Exemplo" width="800" />
 
-> [!TIP]
->
-> O modo básico e adepto são simplesmente aplicações do sistema de camada de teclas.
->
-> Essas camadas são as de número 0, 1 e 2 (que podem ser visualizadas facilmente no software de customização).
->
-> A camada 0, também chamada de "Basic", é a padrão.
->
-> A camada 1, também chamada de "Adept", é uma extensão da camada 0, que vem configurada com novas funcionalidades especiais mais avançadas.
->
-> A camada 2 é uma camada extra para você modificar do jeito que quiser. É uma cópia da camada 0.
->
-> Quando você alterna entre os modos, o que você está fazendo é trocar qual a camada base que fica ativa do seu teclado. Ou seja, definindo quais são as teclas da base do seu teclado, que estarão ativas enquanto você não está acessando nenhuma outra camada.
+:::tip
+O modo básico e adepto são simplesmente aplicações do sistema de camada de teclas.
+
+Essas camadas são as de número 0, 1 e 2 (que podem ser visualizadas facilmente no software de customização).
+
+A camada 0, também chamada de "Basic", é a padrão.
+
+A camada 1, também chamada de "Adept", é uma extensão da camada 0, que vem configurada com novas funcionalidades especiais mais avançadas.
+
+A camada 2 é uma camada extra para você modificar do jeito que quiser. É uma cópia da camada 0.
+
+Quando você alterna entre os modos, o que você está fazendo é trocar qual a camada base que fica ativa do seu teclado. Ou seja, definindo quais são as teclas da base do seu teclado, que estarão ativas enquanto você não está acessando nenhuma outra camada.
+:::
 
 ### Funcionalidades que já vem configuradas no modo adepto (camada 1)
 
@@ -214,8 +222,9 @@ Não se assuste! Te explicamos tudo. Um passo por vez.
 
 Recomenda-se que você explore o restante do manual e, em seguida, o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), e que se adapte ao teclado antes de você experimentar essas funcionalidades do modo adepto.
 
-> [!NOTE]
-> Alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja reiniciado.
+:::note
+Alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja reiniciado.
+:::
 
 ## Atalhos no teclado
 
@@ -247,33 +256,35 @@ Use o Vial para facilmente visualizar o mapeamento das teclas que ajustam o RGB.
 
 ## Cuidados com seu teclado
 
-> [!IMPORTANT]
->
-> Tenha atenção em relação aos seguintes pontos:
-> - Não force os conectores USB **superiores** ou **laterais** ao conectar cabos
-> - Cuidado com líquidos perto do seu teclado
-> - Atenção ao desmontar o teclado sozinho ou realizar manutenções (consulte o [manual de montagem e manutenção](./guias/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+:::warning
+Tenha atenção em relação aos seguintes pontos:
+- Não force os conectores USB **superiores** ou **laterais** ao conectar cabos
+- Cuidado com líquidos perto do seu teclado
+- Atenção ao desmontar o teclado sozinho ou realizar manutenções (consulte o [manual de montagem e manutenção](./guias/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+:::
 
-> [!IMPORTANT]
->
-> Cuidados gerais:
-> - Não deixe o teclado exposto ao sol diretamente
-> - Evite usar álcool para limpar a estrutura do teclado, pois as peças superiores (exceto teclas) podem ser pintadas e isso pode afetar a tinta
-> - Dê preferência por limpá-lo a seco, com um pano ou a vassourinha que enviamos juntamente ao teclado
+:::warning
+Cuidados gerais:
+- Não deixe o teclado exposto ao sol diretamente
+- Evite usar álcool para limpar a estrutura do teclado, pois as peças superiores (exceto teclas) podem ser pintadas e isso pode afetar a tinta
+- Dê preferência por limpá-lo a seco, com um pano ou a vassourinha que enviamos juntamente ao teclado
+:::
 
-> [!CAUTION]
->
-> Os conectores USB laterais servem apenas para comunicação entre os lados do teclado, por meio de USB C para C.
->
-> Jamais conecte um cabo em um dos conectores USB laterais para qualquer outro propósito, como conectar um cabo entre o computador e o USB da lateral. Sujeito a perda de garantia.
+:::danger
+Os conectores USB laterais servem apenas para comunicação entre os lados do teclado, por meio de USB C para C.
 
-> [!TIP]
-> Evite remover quando possível o cabo USB que conecta as laterais para evitar estressar os conectores e maximizar a durabilidade do seu teclado.
+Jamais conecte um cabo em um dos conectores USB laterais para qualquer outro propósito, como conectar um cabo entre o computador e o USB da lateral. Sujeito a perda de garantia.
+:::
 
-> [!NOTE]
-> O teclado Tergo foi feito para ser durável e facilmente renovável.
->
-> Entretanto, ninguém quer presenciar defeitos no seu produto por conta de potenciais mal usos.
+:::tip
+Evite remover quando possível o cabo USB que conecta as laterais para evitar estressar os conectores e maximizar a durabilidade do seu teclado.
+:::
+
+:::note
+O teclado Tergo foi feito para ser durável e facilmente renovável.
+
+Entretanto, ninguém quer presenciar defeitos no seu produto por conta de potenciais mal usos.
+:::
 
 ## Como digitar com o teclado Tergo
 

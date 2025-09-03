@@ -6,7 +6,7 @@ A imagem abaixo é o teclado de um cliente que fez isso.
 
 Nesse guia falaremos sobre pontos positivos e negativos e como você pode ter as suas próprias teclas customizadas.
 
-<img src="../../../imagens/keycaps_custom.jpeg" alt="Exemplo" width="500" />
+<img src="/img/keycaps_custom.jpeg" alt="Exemplo" width="500" />
 
 ## O que é possível de fazer com teclas customizadas
 
@@ -45,18 +45,15 @@ Você pode usar ela como um inicio e customizar de acordo com seu gosto, ou adqu
 
 [Clique aqui](https://fkcaps.com/custom/ABC8H5) para visitar o layout customizado.
 
-> [!WARNING]
->
-> Revise o layout para ver se todas as teclas estão de acordo com o esperado e customize conforme necessário.
->
-> O layout de teclas no site FK Caps não é mantido pela Tergo Teclados.
+:::warning
+Revise o layout para ver se todas as teclas estão de acordo com o esperado e customize conforme necessário.
+O layout de teclas no site FK Caps não é mantido pela Tergo Teclados.
+:::
 
-> [!IMPORTANT]
->
-> Ao comprar, o valor no site não incluirá impostos.
->
-> Quando chegar no Brasil, será retido na alfândega e cobrados impostos para liberação.
->
-> Recomendo acompanhar o código de rastreio ou até baixar o aplicativo do Correios para monitorar sua encomenda e pagar os impostos assim que notificado.
+:::warning
+Ao comprar, o valor no site não incluirá impostos.
+Quando chegar no Brasil, será retido na alfândega e cobrados impostos para liberação.
+Recomendo acompanhar o código de rastreio ou até baixar o aplicativo do Correios para monitorar sua encomenda e pagar os impostos assim que notificado.
+:::
 
-<img src="../../../imagens/fkcustom.png" alt="Exemplo" width="500" />
+<img src="/img/fkcustom.png" alt="Exemplo" width="500" />

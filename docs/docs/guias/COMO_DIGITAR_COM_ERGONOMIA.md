@@ -7,22 +7,23 @@ sidebar_position: 1
 
 Este manual visa discutir aspectos de ergonomia focados na digitação e maneiras recomendadas de aprender a digitar com o Tergo.
 
-> [!TIP]
->
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo" width="20" />
+:::tip
+Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
+:::
 
 ## Parte da ergonomia é entender o que é confortável para seu corpo
 
-> [!IMPORTANT]
-> Todos temos corpos e equipamentos diferentes. Caso os conselhos que você encontra aqui possam parecer não fazer sentido, procure entender o porquê deles e soluções que melhor se adequem ao seu corpo.
+:::note
+Todos temos corpos e equipamentos diferentes. Caso os conselhos que você encontra aqui possam parecer não fazer sentido, procure entender o porquê deles e soluções que melhor se adequem ao seu corpo.
+:::
 
 ### Isenção de Responsabilidade
 
-> [!WARNING]
->
-> Antes de qualquer dica e informação sobre ergonomia que passaremos, é importante destacar que não possuimos especialista com formação em área médica nem fisioterapia. Recomenda-se que se consulte um especialista na presença de qualquer problema de saúde para o devido laudo médico.
->
-> As explicações e dicas que podemos oferecer a você neste momento são baseadas em leituras, relatos e experiências de pessoas com problemas de dores, dentre eles que consultaram médicos e encontraram a solução de seus problemas na melhoria de hábitos, melhores periféricos (como o teclado Tergo), e fisioterapia.
+:::warning
+Antes de qualquer dica e informação sobre ergonomia que passaremos, é importante destacar que não possuimos especialista com formação em área médica nem fisioterapia. Recomenda-se que se consulte um especialista na presença de qualquer problema de saúde para o devido laudo médico.
+
+As explicações e dicas que podemos oferecer a você neste momento são baseadas em leituras, relatos e experiências de pessoas com problemas de dores, dentre eles que consultaram médicos e encontraram a solução de seus problemas na melhoria de hábitos, melhores periféricos (como o teclado Tergo), e fisioterapia.
+:::
 
 ## Postura no Uso do Computador
 
@@ -30,13 +31,13 @@ Se você chegou até aqui, provavelmente já viu aquelas imagens que demonstram 
 
 A imagem abaixo (retirada [daqui](https://fisiomedcuiaba.com.br/dicas-importantes-para-sentar-corretamente-em-frente-do-computador/)) é só um exemplo de inúmeras páginas que mostram maneiras recomendadas de se posicionar.
 
-<img src="../../imagens/exemplo_sentado.png" alt="Exemplo" width="800" />
+<img src="/img/exemplo_sentado.png" alt="Exemplo" width="800" />
 
 Ao mesmo tempo, a imagem acima é só um exemplo de como isso pode ser feito.
 
-> [!IMPORTANT]
->
-> Preste atenção nas dicas abaixo para conseguir uma melhor experiência de conforto e digitação.
+:::warning
+Preste atenção nas dicas abaixo para conseguir uma melhor experiência de conforto e digitação.
+:::
 
 ### Posicionamento dos braços
 
@@ -50,15 +51,15 @@ Para obter isso, você pode seguir as seguintes dicas:
 - Se aproximar da mesa com a cadeira
 - Colocar um apoio para os pés caso não estejam apoiados no chão devidamente
 
-> [!TIP]
->
-> Para elevar a altura da cadeira ou se aproximar da mesa, é provável que o apoio de braço da sua cadeira venha a atrapalhar.
->
-> Nesse caso, conforme será discutido em um dos últimos tópicos deste guia, recomendamos que considere removê-los da sua cadeira.
+:::tip
+Para elevar a altura da cadeira ou se aproximar da mesa, é provável que o apoio de braço da sua cadeira venha a atrapalhar.
 
-> [!TIP]
->
-> Para os pés, você pode empilhar livros velhos ou qualquer outro objeto para obter uma superfície mais alta para apoiar seus pés.
+Nesse caso, conforme será discutido em um dos últimos tópicos deste guia, recomendamos que considere removê-los da sua cadeira.
+:::
+
+:::tip
+Para os pés, você pode empilhar livros velhos ou qualquer outro objeto para obter uma superfície mais alta para apoiar seus pés.
+:::
 
 ## Qual a melhor forma de posicionar cada lado do teclado Tergo?
 
@@ -76,13 +77,13 @@ Ao posicionar a mão no teclado para digitar, queremos mantê-la neutra em rela�
 
 Desvio ulnar e radial são os movimentos mostrados pela imagem abaixo.
 
-<img src="../../imagens/desvio_ulnar_e_radial.png" alt="Exemplo" width="800" />
+<img src="/img/desvio_ulnar_e_radial.png" alt="Exemplo" width="800" />
 
 Abaixo estão exemplos de como não posicionar e outro de como posicionar.
 
-<img src="../../imagens/exemplo_ruim_posicionamento.jpg" alt="Exemplo" width="800" />
+<img src="/img/exemplo_ruim_posicionamento.jpg" alt="Exemplo" width="800" />
 
-<img src="../../imagens/exemplo_bom_posicionamento.jpg" alt="Exemplo" width="800" />
+<img src="/img/exemplo_bom_posicionamento.jpg" alt="Exemplo" width="800" />
 
 ### Exemplos de posicionamento das mãos
 
@@ -93,13 +94,13 @@ Abaixo estão exemplos de como não posicionar e outro de como posicionar.
 
 ### Lados próximos
 
-<img src="../../imagens/teclados_proximos.png" alt="Exemplo" width="800" />
+<img src="/img/teclados_proximos.png" alt="Exemplo" width="800" />
 
 Acima os lados estão próximos. Repare que os curvei para dentro, pois assim evito desvio ulnar e radial. Além disso, ocupa pouco espaço.
 
 ### Lados afastados
 
-<img src="../../imagens/teclados_afastados.png" alt="Exemplo" width="800" />
+<img src="/img/teclados_afastados.png" alt="Exemplo" width="800" />
 
 Acima os lados estão afastados. Dessa forma, consigo me encostar na cadeira e usar os apoios de braço, por exemplo.
 
@@ -132,13 +133,13 @@ Perceba que ao posicionar idealmente os dedos nessas teclas, especialmente o min
 
 Exemplo dos dedos nas teclas conforme sugerido anteriormente.
 
-<img src="../../imagens/mao_garra.jpg" alt="Exemplo Mão Garra" width="800" />
+<img src="/img/mao_garra.jpg" alt="Exemplo Mão Garra" width="800" />
 
 Por outro lado, pode ser que você prefira deixar a mão mais alongada e pressionar as teclas com a região da digital dos dedos. A consequência disso é que o mindinho, em especial, ficará mais para baixo da tecla onde ele deveria normalmente estar, ou seja, provavelmente ficando mais perto da tecla com letra Z do que da letra A.
 
 Exemplo da mão mais estendida. Note a posição em que o mindinho ficou.
 
-<img src="../../imagens/mao_estentida.jpg" alt="Exemplo Mão Estendida" width="800" />
+<img src="/img/mao_estentida.jpg" alt="Exemplo Mão Estendida" width="800" />
 
 #### Polegares
 
@@ -150,16 +151,17 @@ Utilizar a lateral da ponta do dedão é o mais comum e mais fácil de se adapta
 
 Abaixo encontra-se um exemplo ilustrativo de um possível posicionamento.
 
-<img src="../../imagens/mao_dedao.jpg" alt="Exemplo Dedão" width="800" />
+<img src="/img/mao_dedao.jpg" alt="Exemplo Dedão" width="800" />
 
-> [!TIP]
-> Uma dica para evitar que você perca referência de qual tecla seu dedão está durante a fase de adaptação à digitação nele é substituir a keycap dessa tecla pela tecla "5" que vem em kits de keycaps que incluem teclado numérico, pois essa tecla possui um **relevo** (assim com as teclas `F` e `J`) que ajudará você a se guiar.
+:::tip
+Uma dica para evitar que você perca referência de qual tecla seu dedão está durante a fase de adaptação à digitação nele é substituir a keycap dessa tecla pela tecla "5" que vem em kits de keycaps que incluem teclado numérico, pois essa tecla possui um **relevo** (assim com as teclas `F` e `J`) que ajudará você a se guiar.
+:::
 
 ## Como digitar
 
 ### Touch Typing
 
-<img src="../../imagens/touch-typing.png" alt="Exemplo" width="800" />
+<img src="/img/touch-typing.png" alt="Exemplo" width="800" />
 
 "Touch Typing" é vista como a maneira recomendada de digitar mesmo em teclados convencionais.
 
@@ -217,10 +219,11 @@ O sistema de camadas de teclas também requer prática para seu cérebro se acos
 
 Há diversos relatos de usuários que começaram a usar teclados ergonômicos divididos e aprenderam a digitar corretamente. Um exemplo recente que vi foi o seguinte:
 
-> [!NOTE]
-> _"Quando mudei (de teclado), coloquei algo para ouvir em segundo plano e fiz testes de digitação de 20 a 40 minutos por dia. Eu sei que parece chato pra caramba, mas é meio pacífico e meditativo. Em cerca de duas semanas, eu estava totalmente proficiente. Pode levar mais ou menos tempo, mas compare isso com o tempo que você levou para aprender a digitar quando era criança e usou um computador pela primeira vez. Um pouco de dedicação no início compensa muito rapidamente."_
->
-> _Comentário traduzido [dessa postagem](https://www.reddit.com/r/ErgoMechKeyboards/comments/1ed0i6j/this_is_embarrassing/)._
+:::note
+_"Quando mudei (de teclado), coloquei algo para ouvir em segundo plano e fiz testes de digitação de 20 a 40 minutos por dia. Eu sei que parece chato pra caramba, mas é meio pacífico e meditativo. Em cerca de duas semanas, eu estava totalmente proficiente. Pode levar mais ou menos tempo, mas compare isso com o tempo que você levou para aprender a digitar quando era criança e usou um computador pela primeira vez. Um pouco de dedicação no início compensa muito rapidamente."_
+
+_Comentário traduzido [dessa postagem](https://www.reddit.com/r/ErgoMechKeyboards/comments/1ed0i6j/this_is_embarrassing/)._
+:::
 
 #### Como treinar
 
@@ -238,14 +241,15 @@ Mas mesmo assim você pode levar seu Tergo para onde quiser e sempre ter as vant
 
 Lembre-se de que você pode configurar as teclas de todas camadas usando o software do seu teclado. Assim, adapte as camadas de teclas para o que ficar mais confortável para você.
 
-> [!TIP]
-> Serão dadas mais dicas e sugestões sobre isso no próximo guia, o de customizações.
+:::tip
+Serão dadas mais dicas e sugestões sobre isso no próximo guia, o de customizações.
+:::
 
 Mas quando criar ou modificar alguma camada de teclas tenha em mente a seguinte dica: é interessante deixar os botões utilizados com mais frequência o mais próximo possível da home row, pois assim você minimizará o movimento das mãos e dedos para alcançar essas teclas.
 
 ## Inclinação dos Lados
 
-<img src="../../imagens/laterais-inclinadas.jpg" alt="Exemplo" width="500" />
+<img src="/img/laterais-inclinadas.jpg" alt="Exemplo" width="500" />
 
 Inclinar os lados diminui a tensão nos antebraços e pulso causadas pela pronação das mãos. É muito interessante de experimentar. Segundo relatos lidos, também pode fornecer alivio imediato para quem já possui problemas ou dores decorrentes da digitação tradicional, assim como mouses verticais.
 
@@ -263,11 +267,11 @@ Isso pode facilitar o alcance das teclas e melhorar o angulo de digitação.
 
 Experimente posicionar o inclinador lateral menor na parte frontal do seu teclado, próximo à região do USB, de forma que o teclado se acomode nele e forneça uma inclinação estável e confortável, conforme exemplo abaixo.
 
-<img src="../../imagens/inclinacao-frontal.jpg" alt="Exemplo" width="400" />
+<img src="/img/inclinacao-frontal.jpg" alt="Exemplo" width="400" />
 
 ## Apoios de pulso
 
-<img src="../../imagens/almofadas.jpg" alt="Exemplo" width="800" />
+<img src="/img/almofadas.jpg" alt="Exemplo" width="800" />
 
 Os apoios de pulso podem te ajudar em diversos quesitos:
 - ter uma superfície macia para apoiar parte da mão/braço
@@ -275,7 +279,7 @@ Os apoios de pulso podem te ajudar em diversos quesitos:
 
 ### "Inclinação Negativa"
 
-<img src="../../imagens/negative-tilt.jpg" alt="Exemplo" width="600" />
+<img src="/img/negative-tilt.jpg" alt="Exemplo" width="600" />
 
 Muitas vezes em teclados tradicionais, especialmente os inclinados para frente, temos que inclinar nossa mão para cima para alcançar as teclas.
 
@@ -325,7 +329,7 @@ Não me aprofundarei neste tópico dado não ser especialista da área médica, 
 
 ### Controvérsia do Uso do Apoio de Braço da Cadeira
 
-<img src="../../imagens/apoio-braco.jpg" alt="Exemplo" width="500" />
+<img src="/img/apoio-braco.jpg" alt="Exemplo" width="500" />
 
 É comum o apoio de braço das cadeiras ser vendido como algo ideal para apoiar os braços durante a digitação. Porém pode ser muito pelo contrário.
 

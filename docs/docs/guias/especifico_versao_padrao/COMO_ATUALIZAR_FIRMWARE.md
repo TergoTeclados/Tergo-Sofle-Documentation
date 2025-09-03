@@ -2,9 +2,9 @@
 
 A Tergo Teclados pretende continuar realizando melhorias no _firmware_ do teclado. Para atualizá-lo é fácil, basta seguir as instruções aqui presentes.
 
-> [!TIP]
->
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../../imagens/icone-sumario.png" alt="Exemplo" width="20" />
+:::tip
+Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
+:::
 
 ## Para que atualizar o firwmare?
 
@@ -26,11 +26,10 @@ Baixe a versão mais recente do firwmare para garantir que você está em dia co
 
 Basta clicar no arquivo com final do tipo `.uf2` para baixá-lo.
 
-> [!IMPORTANT]
->
-> Baixe o arquivo referente ao layout desejado de teclas: no padrão internacional ou no padrão ABNT2.
->
-> Caso deseje utilizar o padrão ABNT2, consulte o guia de [como utilizar o layout brasileiro](./COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md).
+:::warning
+Baixe o arquivo referente ao layout desejado de teclas: no padrão internacional ou no padrão ABNT2.
+Caso deseje utilizar o padrão ABNT2, consulte o guia de [como utilizar o layout brasileiro](./COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md).
+:::
 
 ## Salvar customizações atuais do Vial
 
@@ -44,9 +43,10 @@ Clique em "File > Save current layout" (ou use o atalho `Ctrl+S`), e o salve em 
 
 Cada metade do teclado conta com uma placa controladora independente, que pode ser acessada a partir do USB **superior** de cada metade. É a partir dele que atualizaremos cada metade para uma nova versão do _firmware_.
 
-> [!IMPORTANT]
-> Atenção às entradas USB que serão usadas para atualizar o firmware: são as entradas superiores de cada metade do teclado.
-> As entradas USBs das laterais servem puramente para a comunicação entre as metades do teclado.
+:::warning
+Atenção às entradas USB que serão usadas para atualizar o firmware: são as entradas superiores de cada metade do teclado.
+As entradas USBs das laterais servem puramente para a comunicação entre as metades do teclado.
+:::
 
 ### Gravar o lado esquerdo
 
@@ -58,7 +58,7 @@ Cada metade do teclado conta com uma placa controladora independente, que pode s
 
 - Copie ou mova o arquivo do _firmware_ para a pasta que abriu.
 
-<img src="../../../imagens/exemplo_modo_boot.png" alt="Exemplo" width="800" />
+<img src="/img/exemplo_modo_boot.png" alt="Exemplo" width="800" />
 
 Após isso, a pasta deve sumir automaticamente, indicando que a placa controladora reiniciou.
 
@@ -70,9 +70,10 @@ Dessa vez, ele será conectado na entrada USB superior da metdade direita do tec
 
 Faça os mesmos passos que o lado esquerdo, porém agora para o lado direito, sendo que dessa vez a tecla a ser pressionada é a mais superior à direita.
 
-> [!IMPORTANT]
-> O USB para atualizar o lado direito, assim como é para o esquerdo, é o que fica na parte superior do teclado, e não os laterais.
-> Os USBs laterais servem apenas para a comunicação entre as metades do teclado.
+:::warning
+O USB para atualizar o lado direito, assim como é para o esquerdo, é o que fica na parte superior do teclado, e não os laterais.
+Os USBs laterais servem apenas para a comunicação entre as metades do teclado.
+:::
 
 ## Importar configuração do Vial
 
@@ -90,9 +91,9 @@ A solução para isso é ativar o modo de gravação de forma física:
 - Procure pelo botão de reset: entre as colunas que ficam os parafusos;
 - Com o teclado conectado por cabo, clique brevemente 2 vezes nesse botão para ativar modo de gravação.
 
-> [!TIP]
->
-> Utilize a chave philips do kit de manutenção para abrir a tampa e a parte de trás dela para pressionar o botão.
+:::tip
+Utilize a chave philips do kit de manutenção para abrir a tampa e a parte de trás dela para pressionar o botão.
+:::
 
 ### Não tenho o botão! E agora?
 

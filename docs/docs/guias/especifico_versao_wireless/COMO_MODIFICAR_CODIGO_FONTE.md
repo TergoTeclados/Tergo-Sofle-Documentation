@@ -2,9 +2,10 @@
 
 Este manual vai te guiar em relação a como modificar o firmware presente no seu teclado para ter controle total de todos aspectos do seu teclado e funcionalidades disponibilizadas pelo [firmware ZMK](https://zmk.dev/).
 
-> [!TIP]
->
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../../imagens/icone-sumario.png" alt="Exemplo" width="20" />
+:::tip
+
+Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
+:::
 
 ## Para que você pode querer modificar o código-fonte
 
@@ -36,29 +37,32 @@ Ou seja, você não precisará executar nada no seu computador além de usar o s
 
 2 - No seu fork, visite a página "Actions" e garante que as "actions" estão ativadas. Será nessa aba que seu firmware será compilado.
 
-> [!TIP]
->
-> Após isso você pode mandar manualmente executar a "action" que constrói o firmware do seu teclado clicando na que aparece nessa aba.
+:::tip
+Após isso você pode mandar manualmente executar a "action" que constrói o firmware do seu teclado clicando na que aparece nessa aba.
+:::
 
 3 - Faça um clone do fork para seu computador, para começar a realizar modificações.
 
-> [!TIP]
->
-> Caso não tenha muita experiência com git por interface de comando, sugerimos o uso do [GitHub Desktop](https://desktop.github.com/).
+:::tip
+
+Caso não tenha muita experiência com git por interface de comando, sugerimos o uso do [GitHub Desktop](https://desktop.github.com/).
+:::
 
 A partir de agora você está preparado para modificar o código-fonte.
 
-> [!TIP]
->
-> Tenha um editor de texto para modificar com eficácia o firmware, como o [VSCode](https://code.visualstudio.com/).
+:::tip
+
+Tenha um editor de texto para modificar com eficácia o firmware, como o [VSCode](https://code.visualstudio.com/).
+:::
 
 ## Modificar código-fonte
 
 4 - Faça as alterações que quiser no código-fonte
 
-> [!TIP]
->
-> O próximo tópico deste guia vai te indicar customizações que você pode querer fazer.
+:::tip
+
+O próximo tópico deste guia vai te indicar customizações que você pode querer fazer.
+:::
 
 5 - Salve as alterações no código, faça commit e então faça push ao seu repositório
 
@@ -66,11 +70,13 @@ A partir de agora você está preparado para modificar o código-fonte.
 
 7 - Abra o job e perceba que **quando ele completar com sucesso** ele deixará um arquivo compactado com nome `firmware` ao final da página, na sessão "Artifacts".
 
-> [!TIP]
-> Caso o job tenha completado com sucesso mas você não esteja vendo o arquivo com nome `firmware`, atualize a página e olhe novamente.
+:::tip
+Caso o job tenha completado com sucesso mas você não esteja vendo o arquivo com nome `firmware`, atualize a página e olhe novamente.
+:::
 
-> [!IMPORTANT]
-> Caso ocorra algum erro durante o processo, clique no evento que deu erro e localize a origem lendo o registro da compilação.
+:::warning
+Caso ocorra algum erro durante o processo, clique no evento que deu erro e localize a origem lendo o registro da compilação.
+:::
 
 8 - Baixe o arquivo e extraia o conteúdo dele para uma pasta. Você verá diversos arquivos que serão usados para gravar o firmware do seu teclado.
 
@@ -78,14 +84,15 @@ Pronto! Agora você já pode utilizar os arquivos para gravar seu teclado. Para 
 
 ## Começar a modificar
 
-> [!IMPORTANT]
->
-> A documentação no próprio [repositório do _firmware_](https://github.com/TergoTeclados/zmk-config-tergo-sofle) (arquivo README.md) te mostra:
-> - Sugestão de customizações comuns que você pode querer;
-> - Sobre as pastas do firmware;
-> - Visão geral de como ele funciona.
->
-> Além disso, o código possui comentários nos pontos relevantes.
+:::warning
+
+A documentação no próprio [repositório do _firmware_](https://github.com/TergoTeclados/zmk-config-tergo-sofle) (arquivo README.md) te mostra:
+- Sugestão de customizações comuns que você pode querer;
+- Sobre as pastas do firmware;
+- Visão geral de como ele funciona.
+
+Além disso, o código possui comentários nos pontos relevantes.
+:::
 
 ### Se aventure na documentação e nos fóruns
 
@@ -99,8 +106,9 @@ Busque pelo seu problema no google e você provavelmente encontrará pessoas que
 
 [Tire dúvidas diretamente com a comunidade ZMK no Discord](https://discord.com/invite/sycytVQ). Eles são ótimas pessoas dispostas a ajudas.
 
-> [!NOTE]
-> A comunidade do ZMK fornece ótima ajuda. Saiba usar do tempo dos ajudantes com moderação e siga as regras corretamente.
+:::note
+A comunidade do ZMK fornece ótima ajuda. Saiba usar do tempo dos ajudantes com moderação e siga as regras corretamente.
+:::
 
 ## Contribua também!
 

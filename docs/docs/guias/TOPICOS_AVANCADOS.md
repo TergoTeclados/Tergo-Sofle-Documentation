@@ -1,8 +1,14 @@
+---
+sidebar_label: 'Tópicos Avançados'
+sidebar_position: 4
+---
+
 # Tergo Sofle - Funcionalidades
 
-> [!WARNING]
-> Este guia ainda não foi adaptado para a versão sem fio do teclado Tergo.
-> Logo, é focado para a versão com fio, que usa tecnologias diferentes, mas que compartilham de conceitos semelhantes.
+:::warning
+Este guia ainda não foi adaptado para a versão sem fio do teclado Tergo.
+Logo, é focado para a versão com fio, que usa tecnologias diferentes, mas que compartilham de conceitos semelhantes.
+:::
 
 Neste é um manual mais avançado onde você descobrirá mais a fundo funcionalidades do teclado Tergo Sofle.
 
@@ -10,9 +16,9 @@ Para uma visão geral das funcionalidades, consulte o manual do usuário.
 
 Com o [Vial](https://get.vial.today/), você pode desfrutar do poder de diversas funcionalidades do seu teclado de forma rápida.
 
-> [!TIP]
->
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../imagens/icone-sumario.png" alt="Exemplo" width="20" />
+:::tip
+Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
+:::
 
 ### O que encontro no Vial
 

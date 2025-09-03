@@ -2,17 +2,17 @@
 
 Neste manual você descobrirá como montar/desmontar seu teclado Tergo Sofle e realizar manutenções diversas.
 
-> [!TIP]
->
-> Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="../../../imagens/icone-sumario.png" alt="Exemplo" width="20" />
+:::tip
+Veja o sumário de cada guia clicando no ícone de lista na parte superior direita da página - <img src="/img/icone-sumario.png" alt="Exemplo" width="20" />
+:::
 
 ## Nós te ajudamos!
 
 Caso tenha qualquer problema que não encontrou a solução na documentação, nos contate que te ajudaremos a descobrir qual é a causa e também podemos arrumar para você!
 
-> [!WARNING]
->
-> Danos causados por tentativa de manutenção manual são sujeitos a perda de garantia.
+:::warning
+Danos causados por tentativa de manutenção manual são sujeitos a perda de garantia.
+:::
 
 ## Trocar tampa superior (cover)
 
@@ -20,19 +20,14 @@ Você pode ter escolhido a tampa superior opaca ou em acrílico.
 
 Fique atento ao pontos abaixo:
 
-> [!IMPORTANT]
->
-> Caso seu teclado tenha telas integradas (versão com fio), os pilares nos quais a tampa vai podem ter tamanhos diferentes:
->
-> A tampa em acrílico espera um pilar com altura de 10mm, enquanto a tampa opaca espera um de 9mm.
->
-> A tampa em acrílico pode ser colocada no pilar de 9mm, mas acabará ficando meio inclinada devido a presença da tela.
->
-> O pilar de 10mm suporta também o cover opaco, porém deve ficar um fino vão na lateral da tampa que pode não agradar alguns usuários.
->
-> Se você encomendou as 2 tampas, você deve ter pares extras de pilares com essa altura diferente.
->
-> Para trocar os pilares, consulte o tópico mais abaixo para aprender a montar e desmontar seu teclado.
+:::warning
+Caso seu teclado tenha telas integradas (versão com fio), os pilares nos quais a tampa vai podem ter tamanhos diferentes:
+A tampa em acrílico espera um pilar com altura de 10mm, enquanto a tampa opaca espera um de 9mm.
+A tampa em acrílico pode ser colocada no pilar de 9mm, mas acabará ficando meio inclinada devido a presença da tela.
+O pilar de 10mm suporta também o cover opaco, porém deve ficar um fino vão na lateral da tampa que pode não agradar alguns usuários.
+Se você encomendou as 2 tampas, você deve ter pares extras de pilares com essa altura diferente.
+Para trocar os pilares, consulte o tópico mais abaixo para aprender a montar e desmontar seu teclado.
+:::
 
 ## Montar e desmontar switches e keycaps
 
@@ -48,13 +43,11 @@ Cada metade do teclado consiste de:
 
 Para cada metade do teclado, ele possui 14 parafusos, 5 espaçadores de 7mm e 2 espaçadores de 9mm:
 
-> [!IMPORTANT]
->
-> Atenção ao tamanho dos espaçadores.
->
-> Versões iniciais do Tergo Sofle utilizavam espaçador de 6mm ao invés do de 6mm.
->
-> Você pode saber qual o seu usa desmontando e medindo ou vendo se a estrutura possui uma profundidade extra de 1mm ao redor da região onde o parafuso passa.
+:::warning
+Atenção ao tamanho dos espaçadores.
+Versões iniciais do Tergo Sofle utilizavam espaçador de 6mm ao invés do de 6mm.
+Você pode saber qual o seu usa desmontando e medindo ou vendo se a estrutura possui uma profundidade extra de 1mm ao redor da região onde o parafuso passa.
+:::
 
 - 5 parafusos na bottom plate (embaixo do teclado), prendendo a bottom plate aos espaçadores de 6mm que vão à top plate;
 - 5 parafusos na top plate, escondidos entre os switches, prendendo a top plate aos espaçadores de 6mm que vão à bottom plate;
