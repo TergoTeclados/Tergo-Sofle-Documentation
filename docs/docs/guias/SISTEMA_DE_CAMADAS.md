@@ -9,7 +9,7 @@ Este manual visa te ajudar a entender o sistema de camadas.
 
 É bem mais simples do que parece, mas possibilita infinitas possibilidades com seu teclado!
 
-Por agora, consulte o [Manual de Usuário](./MANUAL_USER.md#camadas-de-teclas).
+Por agora, consulte o manual do seu teclado.
 
 ## Camadas padrões que vem com seu teclado
 

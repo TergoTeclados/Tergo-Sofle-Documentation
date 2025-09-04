@@ -161,4 +161,4 @@ No software Vial, você encontra a tecla `CapsWord` no submenu de teclas "User".
 
 #### Sugestão de uso
 
-Você pode usá-la com um combo, assim como o combo sugerido para ativar o Caps Lock [no guia de modificações e funcionalidades](./MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md/#ideias-de-combos).
+Você pode usá-la com um combo, assim como o combo sugerido para ativar o Caps Lock [no guia de modificações e funcionalidades](./MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md#ideias-de-combos).

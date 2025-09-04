@@ -42,7 +42,7 @@ Para isso:
 - Remova a estrutura do teclado, desparafusando a parte debaixo (5 parafusos);
 - Remova a tela OLED, caso tenha.
 
-Caso tenha dificuldades ou queira entender melhor como desmontar a estrutura do teclado, consulte o [guia de montagem](../MANUAL_DE_MONTAGEM_E_MANUTENCAO.md).
+Caso tenha dificuldades ou queira entender melhor como desmontar a estrutura do teclado, consulte o [guia de montagem](./MANUAL_DE_MONTAGEM_E_MANUTENCAO.md).
 
 ### Remoção da tela OLED
 
