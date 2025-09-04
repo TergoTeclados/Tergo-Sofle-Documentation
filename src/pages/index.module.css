@@ -16,6 +16,12 @@
   min-height: 85vh;
 }
 
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    min-height: 80vh;
+  }
+}
+
 /* Gradientes por tema */
 :global(html[data-theme='light']) .heroBanner {
   /* mais escuro no light */

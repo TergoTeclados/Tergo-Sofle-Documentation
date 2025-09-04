@@ -72,6 +72,10 @@ const config: Config = {
   ],
 
   themeConfig: {
+    colorMode: {
+      respectPrefersColorScheme: true,
+      defaultMode: 'dark',
+    },
     // Replace with your project's social card
     image: 'img/logo_full_png_v2_branco.png',
     navbar: {
