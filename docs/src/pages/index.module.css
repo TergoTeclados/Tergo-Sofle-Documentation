@@ -37,7 +37,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  gap: 0.8rem;
+  gap: 1rem;
 }
 
 /* Força cores do texto dentro do hero--primary por tema */
