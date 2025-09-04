@@ -8,6 +8,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -17,7 +18,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          <img src={colorMode === "light" ? "/logo/logo_black.png" : "/logo/logo_white.png"} alt="Tergo Logo" className={styles.logo} />
+          <img src={colorMode === "light" ? useBaseUrl('/logo/logo_black.png') : useBaseUrl('/logo/logo_white.png')} alt="Tergo Logo" className={styles.logo} />
           Tergo {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>

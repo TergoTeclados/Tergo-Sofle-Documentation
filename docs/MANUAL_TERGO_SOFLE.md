@@ -25,7 +25,7 @@ Seu teclado já vem com os cabos necessários para o funcionamento.
 
 A imagem abaixo mostra um exemplo da disposição dos cabos:
 
-<img src="/img/exemplo_cabos.jpg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_cabos.jpg" alt="Exemplo" width="800" />
 
 ### Adicione o teclado ao seu sistema operacional
 
@@ -45,7 +45,7 @@ Entretanto, se o seu teclado era ABNT2 e você adquiriu o teclado Tergo Sofle no
 
 No Windows 11, por exemplo, as imagens abaixo representam respectivamente o layout de teclado internacional (ASNI) e o ABNT2.
 
-<img src="/img/teclados_no_windows.png" alt="Exemplo" width="500" />
+<img src="/Tergo-Sofle-Documentation/img/teclados_no_windows.png" alt="Exemplo" width="500" />
 
 [Clique aqui](https://www.youtube.com/watch?v=UWwcIcwkPlA) para ver um breve vídeo de como configurar isso no Windows 11.
 
@@ -59,7 +59,7 @@ No Mac, o fluxo pode ser diferente. A princípio, siga o seguinte fluxo para con
 
 ### Padrão Internacional
 
-<img src="/img/base_internacional.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/base_internacional.svg" alt="Exemplo" width="800" />
 
 As teclas com a letra `L` seguida de um número (como o `L2`) indicam teclas que ao serem seguradas mudam a camada de teclas do seu teclado.
 
@@ -85,7 +85,7 @@ Caso prefira, você pode mudar para o padrão ABNT2 ou para o Internacional.
 
 A foto abaixo representa o padrão ABNT2. As teclas abaixo em vermelho são as que mudam em relação ao layout internacional.
 
-<img src="/img/base_abnt.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/base_abnt.svg" alt="Exemplo" width="800" />
 
 ## Inclinadores - Como encaixá-los
 
@@ -101,11 +101,11 @@ Consulte o exemplo abaixo.
 Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
 :::
 
-<img src="/img/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500" />
+<img src="/Tergo-Sofle-Documentation/img/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500" />
 
 ## Vial: Software para configuração
 
-<img src="/img/vial_exemplo.png" alt="Exemplo Vial" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/vial_exemplo.png" alt="Exemplo Vial" width="800" />
 
 O teclado usa a interface para configurações em tempo real [Vial](https://get.vial.today/).
 
@@ -134,13 +134,13 @@ As telas OLED não só oferecem um visual único mas também possuem utilidades.
 
 Na tela esquerda, é possível visualizar qual é a camada base do teclado, a camada atual ativa, e se teclas especiais como o capslock estão ativas.
 
-<img src="/img/exemplo_telas.jpg" alt="Exemplo Telas" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_telas.jpg" alt="Exemplo Telas" width="800" />
 
 Desfrute delas para te ajudar principalmente a entender o sistema de camadas.
 
 Também, na tela direita, quando você está na camada de ajuste, você verá variáveis relacionadas ao RGB e a versão do firmware do teclado.
 
-<img src="/img/exemplo_tela_config.jpg" alt="Exemplo Tela Config" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_tela_config.jpg" alt="Exemplo Tela Config" width="800" />
 
 ## Camadas de teclas
 
@@ -168,7 +168,7 @@ As camadas que já vem com o seu teclado são:
 
 Veja o exemplo abaixo:
 
-<img src="/img/todas_camadas.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/todas_camadas.svg" alt="Exemplo" width="800" />
 
 ### Utilize as telas OLED para se guiar
 
@@ -186,7 +186,7 @@ Além disso, reservamos um "modo" extra, para você mesmo customizar para seu us
 
 Pela imagem abaixo você encontra essas teclas para alterar entre os modos:
 
-<img src="/img/alternar_modos.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/alternar_modos.svg" alt="Exemplo" width="800" />
 
 :::tip
 O modo básico e adepto são simplesmente aplicações do sistema de camada de teclas.

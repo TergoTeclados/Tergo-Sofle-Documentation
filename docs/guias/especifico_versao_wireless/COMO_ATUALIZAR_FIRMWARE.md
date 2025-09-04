@@ -15,7 +15,7 @@ Assim, recomendamos a leitura desse guia conforme necessário por possuir maior 
 Vídeo abaixo:
 
 <a href="https://youtu.be/1R6661NIb30" target="_blank">
-<img src="/img/youtube-icon.png" alt="Exemplo" width="100" />
+<img src="/Tergo-Sofle-Documentation/img/youtube-icon.png" alt="Exemplo" width="100" />
 </a>
 
 [Veja no Youtube](https://youtu.be/1R6661NIb30)
@@ -101,7 +101,7 @@ Ou em [como ativar modo de gravação por meio de atalhos no teclado.](#gravar-o
 
 3 - Uma pasta chamada `NICENANO` se abrirá no seu sistema operacional. Caso não abra automaticamente na sua tela, você pode procurar no menu de dispositivos:
 
-<img src="/img/exemplo_modo_boot_wireless.png" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_modo_boot_wireless.png" alt="Exemplo" width="800" />
 
 4 - Cole o arquivo copiado na pasta que abriu.
 
@@ -217,11 +217,11 @@ Se for necessário aplicar o firmware de reset, ele será gravado primeiro, e de
 
 2 - Com o receptor do teclado conectado ao seu computador e o teclado em pleno funcionamento, coloque o receptor em modo de gravação clicando ao mesmo tempo as 4 teclas abaixo no seu teclado:
 
-<img src="/img/ativar-bootloader-receptor.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/ativar-bootloader-receptor.svg" alt="Exemplo" width="800" />
 
 3 - Uma pasta chamada `NICENANO` se abrirá no seu sistema operacional. Caso não abra automaticamente na sua tela, você pode procurar no menu de dispositivos:
 
-<img src="/img/exemplo_modo_boot_wireless.png" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_modo_boot_wireless.png" alt="Exemplo" width="800" />
 
 4 - Cole o arquivo copiado na pasta que abriu
 
@@ -262,7 +262,7 @@ Grave primeiro a metade esquerda, pois facilita possíveis resoluções de probl
 
 Ambas teclas estão localizadas respectivamente no canto inferior esquerdo e canto inferior direito, conforme imagem abaixo:
 
-<img src="/img/camada-ajustes-wireless.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/camada-ajustes-wireless.svg" alt="Exemplo" width="800" />
 
 8 - Repita os passos (3) e (4), que é localizar a pasta que abriu e colar o arquivo do _firmware_ nela.
 

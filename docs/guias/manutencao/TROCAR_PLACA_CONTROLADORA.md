@@ -6,7 +6,7 @@ Se você quiser trocar a placa controladora do seu teclado, por qualquer motivo 
 
 A placa controladora é a placa retangular que fica coberta pela tampa superior do seu teclado.
 
-<img src="/img/trocando-placa-1.jpg" alt="Exemplo" width="400" />
+<img src="/Tergo-Sofle-Documentation/img/trocando-placa-1.jpg" alt="Exemplo" width="400" />
 
 ## Primeiro tenha certeza do problema
 
@@ -74,15 +74,15 @@ Conforme a imagem abaixo, posicione a chave de baixo para cima, com a parte met�
 
 Empurre um pouco cada um dos dois furos, para que a placa saia.
 
-<img src="/img/trocando-placa-2.jpg" alt="Exemplo" width="400" />
+<img src="/Tergo-Sofle-Documentation/img/trocando-placa-2.jpg" alt="Exemplo" width="400" />
 
 Conforme você faz isso, a placa vai saindo e fica cada vez mais fácil de empurrá-la.
 
-<img src="/img/trocando-placa-3.jpg" alt="Exemplo" width="400" />
+<img src="/Tergo-Sofle-Documentation/img/trocando-placa-3.jpg" alt="Exemplo" width="400" />
 
 A partir de certo ponto, conforme imagem abaixo, já não é mais necessário utilizar a chave e pode ser utilizada a própria mão.
 
-<img src="/img/trocando-placa-4.jpg" alt="Exemplo" width="400" />
+<img src="/Tergo-Sofle-Documentation/img/trocando-placa-4.jpg" alt="Exemplo" width="400" />
 
 Assim, agarre a placa simultaneamente puxe para cima e continue empurrando para trás.
 
@@ -90,7 +90,7 @@ Conforme imagem abaixo, quando a placa sair, os últimos pinos dela estarão tor
 
 Também, se tiver bateria, você irá vê-la.
 
-<img src="/img/trocando-placa-5.jpg" alt="Exemplo" width="400" />
+<img src="/Tergo-Sofle-Documentation/img/trocando-placa-5.jpg" alt="Exemplo" width="400" />
 
 :::warning
 Revise os pinos da placa controladora e os encaixes da placa-base para ver se algum engate dos encaixes da placa-base acabou saindo junto com o pino da placa controladora.
@@ -123,7 +123,7 @@ Veja se todos os pinos parecem estar apropriadamente posicionados nos buracos, d
 
 A imagem abaixo ilustra isso.
 
-<img src="/img/trocando-placa-6.jpg" alt="Exemplo" width="400" />
+<img src="/Tergo-Sofle-Documentation/img/trocando-placa-6.jpg" alt="Exemplo" width="400" />
 
 Se algum não estiver, você pode remover a placa e empurrá-los levemente com algum objeto (ou mesmo com os dedos e unhas) para que ele consiga entrar corretamente ao ser empurrado.
 

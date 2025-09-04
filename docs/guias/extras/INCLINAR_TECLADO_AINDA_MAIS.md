@@ -6,9 +6,9 @@ Entretanto, para alguns usuários, pode haver o desejo de experimentar niveis de
 
 Este guia vai sugerir uma outra maneira de inclinar seu teclado para atingir seu objetivo: utilizando suporte magnético de celular.
 
-<img src="..//img/exemplo_magsafe.jpeg" alt="Exemplo" />
+<img src="..//Tergo-Sofle-Documentation/img/exemplo_magsafe.jpeg" alt="Exemplo" />
 
-<img src="..//img/exemplo_magsafe2.jpeg" alt="Exemplo" />
+<img src="..//Tergo-Sofle-Documentation/img/exemplo_magsafe2.jpeg" alt="Exemplo" />
 
 ## Suporte magnético de celular
 
@@ -38,4 +38,4 @@ Lembrando que você precisará de 2 unidades.
 Uma vez por mês o Aliexpress costuma anunciar cupons de desconto na página principal, caso prefira aguardar por descontos.
 :::
 
-<img src="/img/ugreen.png" alt="Exemplo" width="400" />
+<img src="/Tergo-Sofle-Documentation/img/ugreen.png" alt="Exemplo" width="400" />

@@ -34,7 +34,7 @@ Um exemplo de aplicação muito popular desse conceito é o "home row mod", que 
 - Clicá-la te fornece o caracter (como esperado normalmente)
 - E segurá-la faz com que ela funcione como um modificador: SHIFT, CTRL, ALT e WIN/CMD.
 
-<img src="/img/exemplo_home_row_mod.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_home_row_mod.svg" alt="Exemplo" width="800" />
 
 Esta é uma funcionalidade que já vem configurada na camada do modo Adepto (camada 1). Experimente mudar o teclado para o modo adepto, como explicado no manual do Tergo Sofle. Então, por exemplo, segure a letra `F` (que assim se comportará como se você estivesse segurando o `Shift`) e clique em uma letra, como a `U`, para ter o caracter maiúsculo.
 
@@ -50,7 +50,7 @@ Se você usa com muita frequência alguma funcionalidade, como, por exemplo "Ctr
 
 Há um exemplo disso aplicado na camada de símbolos e navegação. Repare nas teclas abaixo de onde seriam as setas (Left e Right).
 
-<img src="/img/exemplo_tecla_control_seta.png" alt="Exemplo" width="500" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_tecla_control_seta.png" alt="Exemplo" width="500" />
 
 :::note
 No Vial (software da versão com fio), para fazer o que foi feito no exemplo acima, você pode usar as teclas especiais disponível no submenu "Quantum". Para entender o que cada tecla desse menu faz, você pode [consultar este trecho da documentação oficial do firmware QMK](https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md#modifiers-modifiers).
@@ -68,7 +68,7 @@ Macros simulam sequências de ações, como pressionar teclas específicas simul
 
 Um exemplo mostrado é abrir o gerenciador de tarefas do Windows, por exemplo, por meio de segurar o `Ctrl`+`Shift` e clicar `ESC`:
 
-<img src="/img/exemplo_macro.png" alt="Exemplo" width="500" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_macro.png" alt="Exemplo" width="500" />
 
 :::note
 No Vial (software da versão com fio), há vários exemplos de aplicações que você pode ver na [documentação do Vial sobre macros](https://get.vial.today/manual/macros.html#examples).
@@ -90,7 +90,7 @@ Um exemplo de aplicação é fazer com que pressionar 2 teclas ao mesmo tempo re
 
 Experimente, por exemplo, fazer um macro que ative Capslock ao clicar `R` e `U`, que são 2 teclas que sempre estão próximas aos seus dedos.
 
-<img src="/img/exemplo_combo.png" alt="Exemplo" width="250" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_combo.png" alt="Exemplo" width="250" />
 
 Ou então,
 
@@ -116,7 +116,7 @@ Dessa forma, você pode colocá-lo(s), por exemplo, na coluna direita, de forma 
 
 O exemplo abaixo é uma aplicação disso.
 
-<img src="/img/exemplo_camada_base_diferente.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_camada_base_diferente.svg" alt="Exemplo" width="800" />
 
 As teclas marcadas em vermelho foram as alteradas em relação ao layout original do Tergo Sofle.
 
@@ -139,7 +139,7 @@ Veja os exemplos abaixo.
 
 Por padrão, há 2 teclas abaixo da região das telas que servem para mudar a camada do seu teclado: uma vai para a camada de mídia ao ser segurada, e a outra para a camada de ajustes, conforme foto abaixo.
 
-<img src="/img/teclas-embaixo-da-tela.png" alt="Exemplo" width="300" />
+<img src="/Tergo-Sofle-Documentation/img/teclas-embaixo-da-tela.png" alt="Exemplo" width="300" />
 
 Que tal modificarmos para que, quando eu apenas clicar nelas (ao invés de segurar), elas façam alguma outra coisa?
 
@@ -147,7 +147,7 @@ Como, por exemplo, uma pode ser usada para ativar o CapsLock. A outra para tirar
 
 Para isso, ficamos com o exemplo abaixo:
 
-<img src="/img/teclas-embaixo-da-tela-depois.png" alt="Exemplo" width="300" />
+<img src="/Tergo-Sofle-Documentation/img/teclas-embaixo-da-tela-depois.png" alt="Exemplo" width="300" />
 
 :::note
 No Vial (software da versão com fio), para fazer isso, basta ir para o submenu de teclas `layers` e colocar no lugar das teclas a tecla `LT` seguida do número da camada de destino que você quer que seja ativada ao segurar a tecla. Em seguida, você poderá escolher qual tecla por padrão será ativada ao simplesmente clicar a tecla.
@@ -163,7 +163,7 @@ Que tal adicionar duplo comportamento para as teclas mais próximas do seu dedã
 
 Repare nessas teclas comentadas no exemplo abaixo.
 
-<img src="/img/exemplo_tap_hold_layer.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_tap_hold_layer.svg" alt="Exemplo" width="800" />
 
 Há 2 exemplos disso na camada especial do modo adepto, nas teclas do dedão esquerdo. Use-os como referência no software de customização.
 
@@ -206,7 +206,7 @@ Já se perguntou o porquê do layout das suas teclas ser do jeito que ele é? Ou
 
 ### Layout de teclas QWERTY
 
-<img src="/img/layout_qwert.png" alt="Exemplo" width="500" />
+<img src="/Tergo-Sofle-Documentation/img/layout_qwert.png" alt="Exemplo" width="500" />
 
 Não há uma resposta exata, mas foi algo que surgiu junto à máquina de escrever, e que foi historicamente herdado e é utilizado até hoje.
 
@@ -218,13 +218,13 @@ Visto isso, há diversos layouts criados pensando em otimizar a digitação. Vou
 
 #### Layout de teclas Dvorak
 
-<img src="/img/layout_dvorak.png" alt="Exemplo" width="500" />
+<img src="/Tergo-Sofle-Documentation/img/layout_dvorak.png" alt="Exemplo" width="500" />
 
 Antigo, criado em 1930 por Dvorak, mas já trazia melhorias em relação QWERTY, com a ideia de minimizar movimentos estranhos para combinações normalmente usadas de teclas.
 
 #### Layout de teclas Colemak
 
-<img src="/img/layout_colemak.png" alt="Exemplo" width="500" />
+<img src="/Tergo-Sofle-Documentation/img/layout_colemak.png" alt="Exemplo" width="500" />
 
 Criado em 2006. Pega pontos positivos do Dvorak e do QWERTY, e otimiza posicionamento das teclas baseado na língua inglesa.
 
@@ -248,7 +248,7 @@ Caso queira ver cada camada individualmente para se inspirar e entender melhor, 
 Para entender a imagem abaixo, recomendo vê-las separadas [clicando aqui](https://github.com/manna-harbour/miryoku/tree/master/docs/reference#layers). Mas interpretá-la, repare nos textos que ficam na parte debaixo das **teclas do dedão**. O texto indica qual camada será ativada ao segurar a tecla. Assim, por exemplo, ao segurar a "Nav" (que tem cor azul claro), as funcionalidades das teclas mudarão para teclas de navegação (marcadas também na cor azul claro).
 :::
 
-<img src="/img/miryoku.png" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/miryoku.png" alt="Exemplo" width="800" />
 
 ## Próximos passos
 

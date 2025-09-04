@@ -8,7 +8,7 @@ Este guia vai te ensinar a como utilizar o layout de teclas do seu teclado no pa
 
 Nós fornecemos também um layout no padrão ABNT2 para quem está mais familiarizado. As teclas em vermelho são as que mudam em relação ao layout internacional.
 
-<img src="/img/base_abnt.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/base_abnt.svg" alt="Exemplo" width="800" />
 
 ## Como mudar para o padrão ABNT2
 
@@ -42,7 +42,7 @@ Caso não esteja corretamente configurado, você pode seguir [esse tutorial](htt
 
 No Windows, caso você tenha mais que um layout de teclado, você provavelmente verá o seguinte no canto inferior direito da sua tela, na barra de tarefas:
 
-<img src="/img/teclados_no_windows.png" alt="Exemplo" width="500" />
+<img src="/Tergo-Sofle-Documentation/img/teclados_no_windows.png" alt="Exemplo" width="500" />
 
 Após isso está pronto! Experimente digitar e se guie pela interface do Vial para entender claramente o que cada tecla faz.
 
