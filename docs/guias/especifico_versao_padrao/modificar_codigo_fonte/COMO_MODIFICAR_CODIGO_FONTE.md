@@ -43,7 +43,7 @@ Ele tem a extensão `.uf2`, e o nome será algo semelhante a `tergo_sofle_rev1_d
 
 Copie esse arquivo e use ele para gravar seu teclado.
 
-Para fazer isso, basta seguir os passos do [guia de como atualizar o firmware](./COMO_ATUALIZAR_FIRMWARE.md).
+Para fazer isso, basta seguir os passos do [guia de como atualizar o firmware](../COMO_ATUALIZAR_FIRMWARE.md).
 
 ## Começar as modificações
 
