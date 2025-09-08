@@ -300,7 +300,7 @@ Isto aqui é considerado um tópico avançado, para você que tem interesse em p
 
 Existem modificações mais específicas que a interface Vial ainda não oferece mas que podem ser modificadas no próprio _firmware_. Isso vai requerer conhecimento em programação e baixar softwares.
 
-Para se aventurar no mundo de modificação do _firmware_, use o [Manual de Modificação do Firmware](./guias/especifico_versao_padrao/COMO_MODIFICAR_CODIGO_FONTE.md).
+Para se aventurar no mundo de modificação do _firmware_, use o [Manual de Modificação do Firmware](./guias/modificar_codigo_fonte/COMO_MODIFICAR_CODIGO_FONTE.md).
 
 Algumas dessas modificações são: mudar o conteúdo nas telas OLED, mudar o comportamento _tap-hold_ por tecla, entre outros.
 

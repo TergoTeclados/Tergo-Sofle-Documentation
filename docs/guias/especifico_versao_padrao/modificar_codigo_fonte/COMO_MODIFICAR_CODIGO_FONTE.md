@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Manual de Modificação do Firmware'
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Tergo Sofle - Manual de Modificação do Firmware
