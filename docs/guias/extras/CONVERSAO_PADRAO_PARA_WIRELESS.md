@@ -1,16 +1,14 @@
 # Conversão versão Padrão para Wireless
 
-:::warning
-Guia em desenvolvimento.
-
-Até então, fornece uma visão geral do processo de conversão.
-
-O serviço de conversão será oferecido em breve pela Tergo Teclados.
-:::
-
 Esse guia explicará sobre o processo de conversão da versão com fio para a sem fio do teclado Tergo Sofle
 
-## Diferenças
+## O processo de conversão com o kit
+
+Consiste em substituir as placas controladoras das metades pelas novas placas do kit de conversão
+
+## Diferenças da versão com fio
+
+É importante notar a diferença entre as vesões com fio e sem fio.
 
 As diferenças vão além de apenas possuir cabos ou não:
 
@@ -37,42 +35,40 @@ Também são comentadas em notas no [guia de customizações](../MODIFICACOES_E_
 
 O firmware da versão Padrão é o QMK e da Wireless é o ZMK. Ambos suportam as mesmas funcionalidades.
 
-## Resumo do processo de conversão
-
-Consiste em:
-- Substituir placas controladoras
-- Adicionar baterias
-- Pequenas modificações na placa base
-- Gravar firmware nas placas
-
-## Limitações atuais do processo de conversão
-
-### Requer algum nível de solda
-
-Mesmo que enviemos a placa controladora já com o firmware gravado e com os devidos pinos soldados, é necessário realizar pequenas soldas na placa-base.
-
-São muito simples, mas requerem ferro de solda.
-
-### Versão da placa-base do seu teclado
-
-As placas-base do teclado Tergo Sofle vieram recebendo melhorias e cada uma possui diferenças sutis.
-
-Você pode consultar a versão da placa-base abrindo seu teclado e procurando pelo texto Tergo Sofle em alguma região próxima à borda da placa.
-
-#### Versão menor que 1.2.2
-
-Caso a versão do seu teclado seja menor que 1.2.2 (1.2.1 ou menos) o seu teclado não possuirá um botão de reset, o que facilitaria ativar o modo de gravação do teclado para gravação do firmware.
-
-Mesmo assim, o processo pode ser feito de maneira alternativa, tocando com um clips em um pino específico do teclado, que deve ser detalhado futuramente.
-
-## Atenção: em desenvolvimento
+## Como fazer a conversão sozinho
 
 :::warning
-A Tergo Teclados busca soluções para tornar o processo de conversão o mais amigável e simples possível.
-
-Ainda não fornecemos o serviço de conversão pois estamos buscando resolver as limitações descritas anteriomente.
-
-Nosso objetivo é fornecer um serviço de conversão rápido e eficaz, que envolvam o mínimo de alterações no seu teclado.
-
-Também, ainda não fornecemos de forma detalhada o processo de conversão, por estarmos estudando ele.
+Caso tenha optado por realizar o processo sozinho, seja cuidadoso e fique atento às intruções do nosso guia.
 :::
+
+Para converter o seu teclado, basta seguir o guia de [como trocar as placas controladoras do seu teclado](../manutencao/TROCAR_PLACA_CONTROLADORA.md).
+
+Ele te ensinará a remover as placas atuais do seu teclado e colocar placas novas.
+
+:::warning
+É importante que antes de tentar ligar o teclado você se atente ao restante desse guia.
+
+Em especial, ao próximo tópico, de [Diferenças do teclado convertido para Wireless e de um teclado que nasceu como Wireless](#diferenças-do-teclado-convertido-para-wireless-e-de-um-teclado-que-nasceu-como-wireless).
+:::
+
+Após isso, você pode ver o [manual da versão Wireless](../../MANUAL_TERGO_SOFLE_WIRELESS.md) para entender como a versão Wireless do teclado funciona.
+
+## Diferenças do teclado convertido para Wireless e de um teclado que nasceu como Wireless
+
+### Não conecte os USBs entre as metades
+
+:::danger
+No seu teclado convertido, os USBs entre as metades **não** devem ser conectados. Conectá-los pode causar danos inesperados no seu teclado.
+:::
+
+### Como ligar o teclado
+
+No seu teclado convertido, a chave de liga/desliga fica na parte da frente do teclado, próxima à entrada USB, enquanto em teclados que nasceram Wireless fica nas laterais, no lugar do USB.
+
+### Fazer o teclado entrar em modo de gravação para versões da placa-base menores que 1.2.2
+
+Caso a versão do seu teclado seja menor que 1.2.2 (1.2.1 ou menos) o seu teclado não possuirá um botão de reset.
+
+Não há problemas com isso. O seu kit de conversão já virá com o firmware gravado e para ativar o modo de gravação do teclado no futuro você consegue clicando uma combinação de teclas no teclado.
+
+Caso haja necessidade de ativar o modo de gravação das placas fisicamente, o processo pode ser feito de maneira alternativa, tocando um clips metálico em um pino específico do teclado, que será detalhado logo mais nesse guia.

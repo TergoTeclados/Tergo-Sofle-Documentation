@@ -56,6 +56,12 @@ Não há problema, uma vez que ao final você pode ajeitá-los manualmente para 
 
 ## Remoção da placa antiga
 
+:::warning
+Caso pretenda colocar as placas de volta, atente-se a qual metade ela pertencia, para evitar trocar elas de lado.
+
+Essencial na versão sem fio, no qual cada placa tem um firmware próprio respectivo à qual metade do teclado ela pertence.
+:::
+
 As placas controladoras possuem certa resistência para serem removidas e cuidado para não serem danificadas.
 
 Se você está trocando sua placa controladora, é porque provavelmente a antiga está defeituosa. Assim, é pouco relevante danificá-la durante a remoção.
@@ -112,6 +118,12 @@ Caso tenha dúvidas sobre o dano, nos mande foto.
 :::
 
 ## Colocar nova placa
+
+:::warning
+Caso pretenda colocar as placas de volta, atente-se a qual metade ela pertencia, para evitar trocar elas de lado.
+
+Essencial na versão sem fio, no qual cada placa tem um firmware próprio respectivo à qual metade do teclado ela pertence.
+:::
 
 Para colocar a nova placa é mais simples, mas também requer atenção aos detalhes.
 
