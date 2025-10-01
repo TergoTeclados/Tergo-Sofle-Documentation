@@ -26,9 +26,9 @@ function HomepageHeader() {
           <Link
             className={clsx("button", "button--secondary", "button--lg", styles.homeLinkBtn)}
             to="/docs/intro">
-            📄 Comece aqui!
+            👋 Comece aqui!
           </Link>
-          <a href="https://tecladoergonomico.com.br" 
+          <a href="https://tecladoergonomico.com.br"
             className={clsx("button", "button--secondary", "button--lg", styles.homeLinkBtn)}
           >
             Voltar ao site oficial
