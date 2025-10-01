@@ -36,7 +36,9 @@ As entradas USBs das laterais servem puramente para a comunicação entre as met
 
 - Ao largar a tecla, uma pasta deve se abrir no seu computador, conforme exemplo mais abaixo, indicando que seu teclado entrou em modo de _boot_.
 
-- **Para restaurar a configuração de fábrica, simplesmente aguarde alguns segundos sem copiar nenhum arquivo.** A pasta deve sumir automaticamente, indicando que a placa controladora reiniciou com as configurações de fábrica.
+- **A partir desse momento seu teclado já foi restaurado para as configurações de fábrica**.
+
+- Agora, basta desconectar o teclado do seu computador e conectá-lo novamente para que ele volte a funcionar normalmente.
 
 <img src="/Tergo-Sofle-Documentation/img/exemplo_modo_boot.png" alt="Exemplo" width="800" />
 
