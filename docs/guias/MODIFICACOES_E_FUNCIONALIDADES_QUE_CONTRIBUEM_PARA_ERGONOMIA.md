@@ -30,7 +30,7 @@ Dessa forma, você pode colocá-lo(s), por exemplo, na coluna direita, de forma 
 
 O exemplo abaixo é uma aplicação disso.
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_camada_base_diferente.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_camada_base_diferente.svg" alt="Exemplo"  />
 
 As teclas marcadas em vermelho foram as alteradas em relação ao layout original do Tergo Sofle.
 
@@ -77,7 +77,7 @@ Que tal adicionar duplo comportamento para as teclas mais próximas do seu dedã
 
 Repare nessas teclas comentadas no exemplo abaixo.
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_tap_hold_layer.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_tap_hold_layer.svg" alt="Exemplo"  />
 
 Há 2 exemplos disso na camada especial do modo adepto, nas teclas do dedão esquerdo. Use-os como referência no software de customização.
 
@@ -99,7 +99,7 @@ Um exemplo de aplicação muito popular desse conceito é o "home row mod", que 
 - Clicá-la te fornece o caracter (como esperado normalmente)
 - E segurá-la faz com que ela funcione como um modificador: SHIFT, CTRL, ALT e WIN/CMD.
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_home_row_mod.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_home_row_mod.svg" alt="Exemplo"  />
 
 Esta é uma funcionalidade que já vem configurada na camada do modo Adepto (camada 1). Experimente mudar o teclado para o modo adepto, como explicado no manual do Tergo Sofle. Então, por exemplo, segure a letra `F` (que assim se comportará como se você estivesse segurando o `Shift`) e clique em uma letra, como a `U`, para ter o caracter maiúsculo.
 
@@ -248,7 +248,7 @@ Caso queira ver cada camada individualmente para se inspirar e entender melhor, 
 Para entender a imagem abaixo, recomendo vê-las separadas [clicando aqui](https://github.com/manna-harbour/miryoku/tree/master/docs/reference#layers). Mas interpretá-la, repare nos textos que ficam na parte debaixo das **teclas do dedão**. O texto indica qual camada será ativada ao segurar a tecla. Assim, por exemplo, ao segurar a "Nav" (que tem cor azul claro), as funcionalidades das teclas mudarão para teclas de navegação (marcadas também na cor azul claro).
 :::
 
-<img src="/Tergo-Sofle-Documentation/img/miryoku.png" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/miryoku.png" alt="Exemplo"  />
 
 ## Próximos passos
 

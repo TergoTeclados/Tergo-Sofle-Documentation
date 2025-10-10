@@ -10,7 +10,7 @@ Este guia vai te ensinar a como utilizar o layout de teclas do seu teclado no pa
 
 Nós fornecemos também um layout no padrão ABNT2 para quem está mais familiarizado. As teclas em vermelho são as que mudam em relação ao layout internacional.
 
-<img src="/Tergo-Sofle-Documentation/img/base_abnt.svg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/base_abnt.svg" alt="Exemplo"  />
 
 ### Como mudar para o padrão ABNT2
 

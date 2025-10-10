@@ -13,7 +13,7 @@ Se você for um usuário mais experiente pode ser que *Any* seja uma solução a
 
 A solução para esses casos é utilizar a funcionalidade de [key overrides](https://docs.qmk.fm/features/key_overrides)
 
-<img src="/Tergo-Sofle-Documentation/img/funcionalidade_override.png" alt="Funcionalidade.png" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/funcionalidade_override.png" alt="Funcionalidade.png"  />
 
 #### Compreendendo *trigger, suspended e negative mods*
 

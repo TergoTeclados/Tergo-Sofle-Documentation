@@ -27,7 +27,7 @@ Se você chegou até aqui, provavelmente já viu aquelas imagens que demonstram 
 
 A imagem abaixo (retirada [daqui](https://fisiomedcuiaba.com.br/dicas-importantes-para-sentar-corretamente-em-frente-do-computador/)) é só um exemplo de inúmeras páginas que mostram maneiras recomendadas de se posicionar.
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_sentado.png" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_sentado.png" alt="Exemplo"  />
 
 Ao mesmo tempo, a imagem acima é só um exemplo de como isso pode ser feito.
 
@@ -73,13 +73,13 @@ Ao posicionar a mão no teclado para digitar, queremos mantê-la neutra em rela�
 
 Desvio ulnar e radial são os movimentos mostrados pela imagem abaixo.
 
-<img src="/Tergo-Sofle-Documentation/img/desvio_ulnar_e_radial.png" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/desvio_ulnar_e_radial.png" alt="Exemplo"  />
 
 Abaixo estão exemplos de como não posicionar e outro de como posicionar.
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_ruim_posicionamento.jpg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_ruim_posicionamento.jpg" alt="Exemplo"  />
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_bom_posicionamento.jpg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_bom_posicionamento.jpg" alt="Exemplo"  />
 
 ### Exemplos de posicionamento das mãos
 
@@ -90,13 +90,13 @@ Abaixo estão exemplos de como não posicionar e outro de como posicionar.
 
 ### Lados próximos
 
-<img src="/Tergo-Sofle-Documentation/img/teclados_proximos.png" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/teclados_proximos.png" alt="Exemplo"  />
 
 Acima os lados estão próximos. Repare que os curvei para dentro, pois assim evito desvio ulnar e radial. Além disso, ocupa pouco espaço.
 
 ### Lados afastados
 
-<img src="/Tergo-Sofle-Documentation/img/teclados_afastados.png" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/teclados_afastados.png" alt="Exemplo"  />
 
 Acima os lados estão afastados. Dessa forma, consigo me encostar na cadeira e usar os apoios de braço, por exemplo.
 
@@ -129,13 +129,13 @@ Perceba que ao posicionar idealmente os dedos nessas teclas, especialmente o min
 
 Exemplo dos dedos nas teclas conforme sugerido anteriormente.
 
-<img src="/Tergo-Sofle-Documentation/img/mao_garra.jpg" alt="Exemplo Mão Garra" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/mao_garra.jpg" alt="Exemplo Mão Garra"  />
 
 Por outro lado, pode ser que você prefira deixar a mão mais alongada e pressionar as teclas com a região da digital dos dedos. A consequência disso é que o mindinho, em especial, ficará mais para baixo da tecla onde ele deveria normalmente estar, ou seja, provavelmente ficando mais perto da tecla com letra Z do que da letra A.
 
 Exemplo da mão mais estendida. Note a posição em que o mindinho ficou.
 
-<img src="/Tergo-Sofle-Documentation/img/mao_estentida.jpg" alt="Exemplo Mão Estendida" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/mao_estentida.jpg" alt="Exemplo Mão Estendida"  />
 
 #### Polegares
 
@@ -147,7 +147,7 @@ Utilizar a lateral da ponta do dedão é o mais comum e mais fácil de se adapta
 
 Abaixo encontra-se um exemplo ilustrativo de um possível posicionamento.
 
-<img src="/Tergo-Sofle-Documentation/img/mao_dedao.jpg" alt="Exemplo Dedão" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/mao_dedao.jpg" alt="Exemplo Dedão"  />
 
 :::tip
 Uma dica para evitar que você perca referência de qual tecla seu dedão está durante a fase de adaptação à digitação nele é substituir a keycap dessa tecla pela tecla "5" que vem em kits de keycaps que incluem teclado numérico, pois essa tecla possui um **relevo** (assim com as teclas `F` e `J`) que ajudará você a se guiar.
@@ -157,7 +157,7 @@ Uma dica para evitar que você perca referência de qual tecla seu dedão está 
 
 ### Touch Typing
 
-<img src="/Tergo-Sofle-Documentation/img/touch-typing.png" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/touch-typing.png" alt="Exemplo"  />
 
 "Touch Typing" é vista como a maneira recomendada de digitar mesmo em teclados convencionais.
 
@@ -267,7 +267,7 @@ Experimente posicionar o inclinador lateral menor na parte frontal do seu teclad
 
 ## Apoios de pulso
 
-<img src="/Tergo-Sofle-Documentation/img/almofadas.jpg" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/almofadas.jpg" alt="Exemplo"  />
 
 Os apoios de pulso podem te ajudar em diversos quesitos:
 - ter uma superfície macia para apoiar parte da mão/braço

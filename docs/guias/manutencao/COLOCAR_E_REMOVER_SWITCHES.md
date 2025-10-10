@@ -5,7 +5,7 @@ Com a tecnologia _hotswap_ é muito fácil trocar os switches mecânicos.
 
 Cada switch tem a vida útil estimada de 50 milhões de cliques. Se você deseja trocá-lo é provavelmente porque encontrou algum problema ou quer experimentar outros tipos de switch.
 
-<img src="/Tergo-Sofle-Documentation/img/tirar_keycaps_e_switch.png" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/tirar_keycaps_e_switch.png" alt="Exemplo"  />
 
 ## Remover Keycap
 

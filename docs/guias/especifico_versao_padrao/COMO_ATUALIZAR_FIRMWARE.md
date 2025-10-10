@@ -54,7 +54,7 @@ As entradas USBs das laterais servem puramente para a comunicação entre as met
 
 - Copie ou mova o arquivo do _firmware_ para a pasta que abriu.
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_modo_boot.png" alt="Exemplo" width="800" />
+<img src="/Tergo-Sofle-Documentation/img/exemplo_modo_boot.png" alt="Exemplo"  />
 
 Após isso, a pasta deve sumir automaticamente, indicando que a placa controladora reiniciou.
 
