@@ -27,24 +27,46 @@ Os guias te ajudarão e estão super detalhados, para que você desfrute do máx
 
 - Ligue as metades do teclado empurrando as chaves laterais para frente.
 
-### Adicione o teclado ao seu sistema operacional
+### Inclinadores - Como encaixá-los
+
+As vantagens de ergonomia e maneiras recomendadas de usar os inclinadores serão detalhados no próximo guia - o de ergonomia.
+
+Os inclinadores são enviados em pares que chegam encaixados entre si.
+- Separe os inclinadores puxando-os em direções opostas
+- Para acoplar eles no teclado, fique atento ao recorte que cada inclinador possui em um dos cantos: ele deve ficar com a parte com recorte para baixo, ou seja, na direção do usuário, e coincidindo com o buraco do LED, conforme imagem abaixo
+
+:::tip
+Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
+:::
+
+<img src="/Tergo-Sofle-Documentation/img/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500" />
+
+### Garanta que o layout do teclado está correto no seu dispositivo
 
 O seu teclado pode vir configurado no padrão internacional (ASNI) ou em português (ABNT2).
 
-Entretanto, pode ser necessário realizar uma configuração adicional no seu computador.
+Faça o seguinte teste para garantir que seu dispositivo já está corretamente configurado para o teclado:
+- Se o seu é  **em português (ABNT2)**, experimente digitar a tecla `Ç` e veja se ela aparece corretamente
+- Se o seu é **no padrão internacional (ANSI)**, experimente digitar a tecla `;` e veja se ela aparece corretamente
 
-:::warning
+Caso **não funcione como esperado**, você pode consultar abaixo como configurar o teclado corretamente para seu sistema.
+
+<details>
+<summary>Configuração de Layout do Teclado (Clique para expandir)</summary>
+
+Pode ser necessário realizar uma configuração adicional no seu computador. Entenda isso abaixo.
+
+:::note
 Para o correto funcionamento do teclado, o layout de teclado configurado no seu computador precisa seguir o padrão do seu teclado.
-
 
 Se o teclado que você utilizava no seu computador antes do Tergo Sofle era no padrão ABNT2 (teclados com a tecla `Ç` presente) e ele funcionava normalmente, o seu teclado Tergo Sofle que você adquiriu no padrão ABNT2 também deve também funcionar normalmente sem necessidade de modificações extras.
 
 Entretanto, se o seu teclado era ABNT2 e você adquiriu o teclado Tergo Sofle no padrão internacional (ou vice-versa), provavelmente terá que realizar a configuração adicional abaixo.
 :::
 
-No Windows 11, por exemplo, as imagens abaixo representam respectivamente o layout de teclado internacional (ASNI) e o ABNT2.
+No Windows 11, a imagem abaixo representam respectivamente o computador com 2 layouts de teclado configurados: internacional (ASNI) e o ABNT2.
 
-<img src="imagens/teclados_no_windows.png" alt="Exemplo" width="500" />
+<img src="/Tergo-Sofle-Documentation/img/teclados_no_windows.png" alt="Exemplo" width="500" />
 
 [Clique aqui](https://www.youtube.com/watch?v=UWwcIcwkPlA) para ver um breve vídeo de como configurar isso no Windows 11.
 
@@ -54,11 +76,20 @@ No Mac, o fluxo pode ser diferente. A princípio, siga o seguinte fluxo para con
 
 `System Settings > Change Keyboard Type > ANSI (U.S.)`
 
+</details>
+
 ## Layout de teclas
 
-### Padrão Internacional
+O seu teclado pode vir configurado no [padrão internacional (ASNI)](#padrão-internacional-ansi) ou em [português (ABNT2)](#padrão-abnt2).
+
+### Padrão Internacional (ANSI)
+
+Nesse padrão, esse é o layout de teclas da camada base do seu teclado.
 
 <img src="/Tergo-Sofle-Documentation/img/base_internacional.svg" alt="Exemplo" width="800" />
+
+<details>
+<summary>Como fazer caracteres especiais no padrão internacional (ANSI) (Clique para expandir)</summary>
 
 As teclas com a letra `L` seguida de um número (como o `L2`) indicam teclas que ao serem seguradas mudam a camada de teclas do seu teclado.
 
@@ -82,94 +113,39 @@ Caso prefira, você pode mudar para o padrão ABNT2 ou para o Internacional.
 
 [Esse guia](./guias/especifico_versao_wireless/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) ensina detalhadamente como fazer isso.
 
-A foto abaixo representa o padrão ABNT2. As teclas abaixo em vermelho são as que mudam em relação ao layout internacional.
+</details>
+
+### Padrão ABNT2
+
+Nesse padrão, esse é o layout de teclas da camada base do seu teclado.
+
+As teclas abaixo em vermelho são as que são diferentes em relação ao layout internacional.
 
 <img src="/Tergo-Sofle-Documentation/img/base_abnt.svg" alt="Exemplo" width="800" />
 
-## Recarga e Baterias
+## Camadas de teclas
 
-### Duração
+**Onde estão as outras teclas do meu teclado?**
 
-A bateria de cada metade do teclado tem recarga com duração estimada em 1 mês considerando uso diário de 8 horas e sem desligar.
+Seu teclado tem mais teclas do que você vê na camada principal!
 
-### Descanso automático
+**Como usar:** Segure uma tecla especial de mudança de camada (como `L2` na imagem abaixo) e pressione outra tecla para acessar funções da camada 2.
 
-Após 15 minutos sem ser usado, o teclado entra em modo de "sono profundo", que diminui o consumo de bateria. Ele é acordado na próxima interação com o teclado.
+Funciona de forma parecida como a tecla **Shift** em teclados normais: quando você segura o Shift, as teclas mudam de função (números viram símbolos, letras ficam maiúsculas).
 
-### Recarga
+No Tergo Sofle, você tem **6 camadas** diferentes:
+- **Base**: Letras, números e teclas básicas
+- **Símbolos**: Símbolos especiais, F1-F12, setas
+- **Mídia**: Controle de volume, play/pause
+- **Mouse**: Simula movimentos do mouse
+- **Numérico**: Teclado numérico completo
+- **Ajustes**: Configurações do teclado
 
-:::warning
-Para recarregar:
-- Deixe a chave na posição de ligado (para frente)
-- Conecte o USB à metade do teclado que será carregada
+Além de utilizar a imagem abaixo como referência, você pode se guiar e customizar pelo software do teclado, que será mostrado logo em seguida.
 
-Enquanto estiver carregando corretamente, uma luz azul próxima à entrada do USB permanecerá ligada.
+Veja todas as camadas na imagem abaixo:
 
-Quando a carga total for atingida, ela irá desligar.
-:::
-
-A carga total é atingida dentro de 1 hora.
-
-Recarregue ambas metades conforme necessário.
-
-:::warning
-Tome cuidado para não forçar a chave lateral de liga/deliga para não quebrá-la acidentalmente.
-:::
-
-:::tip
-Por mais que desligar as metades do teclado enquanto não estiver em uso possa contribuir com a duração da carga,
-a diferença tende a ser pouco relevante dado a presença do descanso automático do teclado.
-
-Nesse caso, torna-se dispensável desligar as metades do teclado no dia a dia durante o uso recorrente.
-
-Recomenda-se desligar as metades para os casos de:
-- Deixar o teclado parado ou guardado por um tempo
-- Levar o teclado para viajens ou enviá-lo pelo correio
-- Realizar manutenções e o abrir
-:::
-
-:::note
-Recomenda-se não deixar o teclado descarregar totalmente para recarregá-lo. Carregue-o eventualmente enquanto em uso a cada 15-20 dias.
-:::
-
-## Inclinadores - Como encaixá-los
-
-As vantagens de ergonomia e maneiras recomendadas de usar os inclinadores serão detalhados no próximo guia - o de ergonomia.
-
-Para encaixar os inclinadores, fique atento ao recorte que cada inclinador possui em um dos cantos.
-
-Assim, o inclinador deve ficar com a parte com recorte para baixo, ou seja, na direção do usuário, e coincidindo com o buraco do LED.
-
-Consulte o exemplo abaixo.
-
-:::tip
-Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
-:::
-
-<img src="/Tergo-Sofle-Documentation/img/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500" />
-
-## Receptor
-
-### Com tela
-
-<img src="/Tergo-Sofle-Documentation/img/receptor_com_tela.jpg" alt="Exemplo" width="800" />
-
-O receptor com tela te fornece ótimos feedbacks visuais sobre funcionalidades do teclado, como:
-- Nível de bateria das metades
-- Dongle conectado ao computador
-- Dispositivos bluetooth conectados (isso será explicado em um tópico mais abaixo)
-- Teclas especiais ativas (CMD, Alt, Ctrl, Shift, CapsLock, etc)
-- Camada ativa
-
-:::note
-Você vai perceber que o nível de bateria mostrado na tela não baixa de forma linear.
-
-É normal parecer que inicialmente baixa rápido (de 100% para 80%), mas é apenas uma limitação visual.
-
-Enquanto você estiver carregando uma metade do teclado, ele mostrará 100%. Guie-se pela luz azul explicada em tópicos anteriores para saber se sua bateria está carregada.
-
-Quando a bateria chegar, na tela, a 0%, o indicador sumirá. Mas seu teclado ainda terá carga para funcionar por certo tempo. Entretanto, recomenda-se colocá-lo para carregar assim que possível.
-:::
+<img src="/Tergo-Sofle-Documentation/img/camadas-wireless.svg" alt="Exemplo" width="800" />
 
 ## ZMK Studio: Software para configuração
 
@@ -204,6 +180,72 @@ Você pode utilizar o [ZMK Studio no próprio navegador](https://zmk.studio/) ou
 
 Abra o ZMK Studio e selecione seu teclado para fazer customizações. As modificações são feitas em tempo real.
 
+### Customizar teclado ABNT2 no ZMK Studio
+
+Se você usa o teclado no padrão ABNT2 (padrão brasileiro), é importante ler esta seção para entender como customizá-lo pelo ZMK Studio, pois há algumas particularidades importantes.
+
+<details>
+<summary>Customizar teclado ABNT2 no ZMK Studio (Clique para expandir)</summary>
+
+#### Por que esta seção é importante?
+
+O ZMK Studio ainda não exibe as teclas no layout brasileiro (ABNT2). Em vez disso, ele mostra o layout internacional. Isso pode confundir usuários brasileiros que esperam ver as teclas como `Ç`, `~`, `[`, `]`, entre outras.
+
+**Exemplo prático:** Onde deveria aparecer a tecla `Ç`, você verá um `;` (ponto e vírgula), como mostrado na imagem abaixo.
+
+<img src="/Tergo-Sofle-Documentation/img/zmk-studio-semicolon.jpg" alt="Exemplo de como o ZMK Studio mostra teclas ABNT2" />
+
+#### Como funciona o mapeamento
+
+Para que o teclado funcione corretamente no padrão brasileiro, é necessário especificar no software a tecla do padrão internacional correta que se traduz para a tecla em ABNT2.
+
+Isso significa que quando você pressiona uma tecla física, o seu computador traduz para o caractere correto do layout ABNT2.
+
+#### Tabela de mapeamento das teclas especiais
+
+A tabela abaixo mostra como algumas teclas especiais do layout brasileiro são mapeadas no ZMK Studio:
+
+| Tecla que você vê no ZMK Studio | Tecla real no ABNT2 | Descrição |
+|----------------------------------|---------------------|-----------|
+| `;` (ponto e vírgula) | `Ç` | Cê cedilha |
+| `[` (colchete esquerdo) | `~` | Tilde (acento) |
+| `]` (colchete direito) | `[` | Colchete esquerdo |
+| `Shift + ]` | `{` | Chave esquerda |
+| `\` (barra invertida) | `]` | Colchete direito |
+| `Shift + \` | `}` | Chave direita |
+
+Assim, busque pela tecla no padrão internacional correta no software.
+
+#### Teclas que são combinações de outras
+
+Algumas teclas especiais do layout brasileiro são criadas através de combinações de teclas no teclado tradicional. No ZMK Studio, você pode configurar uma única tecla para executar essas combinações automaticamente.
+
+**Exemplo prático:** A tecla `{` (chave esquerda) é obtida tradicionalmente em teclados ABNT2 pressionando `Shift + ]` ao mesmo tempo.
+
+#### Como configurar combinações no ZMK Studio
+
+No ZMK Studio, você pode configurar uma tecla para executar automaticamente uma combinação. Vamos usar os parênteses como exemplo:
+
+**No teclado tradicional:**
+- Para digitar `(`: pressione `Shift + 9`
+- Para digitar `)`: pressione `Shift + 0`
+
+**No Tergo Sofle configurado:**
+- Uma única tecla já executa a combinação `Shift + 9`, resultando em `(`
+- Uma única tecla já executa a combinação `Shift + 0`, resultando em `)`
+
+**Dica:** Você pode encontrar exemplos de como isso é feito na camada SymNv (símbolos e navegação) do seu teclado, onde os parênteses já estão configurados desta forma.
+
+#### Resumo
+
+Quando você estiver customizando seu teclado no ZMK Studio:
+
+1. **Lembre-se:** As teclas mostradas são do layout internacional
+2. **Consulte a tabela:** Para saber qual tecla física corresponde ao caractere brasileiro desejado
+3. **Teste sempre:** Após fazer alterações, teste o teclado para confirmar que as teclas funcionam como esperado
+
+</details>
+
 ### Sobre o ZMK Studio
 
 Aproveite e já abra o ZMK Studio, e navegue pelas camadas de teclas para entender a posição de cada tecla em cada camada. Não se assuste, é mais simples do que parece.
@@ -236,34 +278,6 @@ Se você não salvar, elas serão resetadas na próxima reinicialização do tec
 ### Como resetar configurações
 
 Para resetar suas customizações para a configuração de fábrica, clique em `Tergo Sofle` no topo da tela e então em `Restore Stock Settings`.
-
-## Camadas de teclas
-
-O sistema de camada de teclas faz com que todas as teclas do teclado estejam acessíveis em outras camadas.
-
-Perceba que diversas teclas especiais, a princípio, não se encontram na camada base do seu teclado, mas sim em outras camadas. Essas teclas podem ser: símbolos especiais, F1-F12, botões de navegação e setas.
-
-Isso justamente porque esses botões costumam ficar em posições mais distantes, que requerem bastante movimento para serem alcançadas.
-
-Com o sistema de camada de teclas, elas ficam mais próximas de você, a uma camada de distância.
-
-É parecido como a tecla Shift funciona no seu teclado tradicional. Quando você segura o Shift, as teclas que são números assumem uma nova funcionalidade: símbolos. E as letras normais viram maiúsculas.
-
-A diferença é que você pode programar o que quer ver em cada camada: configure uma tecla para mudar de camada e configure o que você quer de teclas nessa camada.
-
-Use a interface do ZMK Studio para entender facilmente o conteúdo de cada camada e use a foto de exemplo abaixo para se guiar!
-
-As camadas que já vem com o seu teclado são:
-- camada base
-- símbolos e navegação
-- controle de mídia
-- simulador de mouse
-- teclado numérico
-- ajustes
-
-Veja o exemplo abaixo:
-
-<img src="/Tergo-Sofle-Documentation/img/camadas-wireless.svg" alt="Exemplo" width="800" />
 
 ### Restaurar configurações originais
 
@@ -313,6 +327,76 @@ Recomenda-se que você explore o restante do manual e, em seguida, o [guia de co
 
 :::note
 Alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja reiniciado.
+:::
+
+## Recarga e Baterias
+
+### Duração
+
+A bateria de cada metade do teclado tem recarga com duração estimada em 1 mês considerando uso diário de 8 horas e sem desligar.
+
+### Descanso automático
+
+Após 15 minutos sem ser usado, o teclado entra em modo de "sono profundo", que diminui o consumo de bateria. Ele é acordado na próxima interação com o teclado.
+
+### Recarga
+
+:::warning
+Para recarregar:
+- Deixe a chave na posição de ligado (para frente)
+- Conecte o USB à metade do teclado que será carregada
+
+Enquanto estiver carregando corretamente, uma luz azul próxima à entrada do USB permanecerá ligada.
+
+Quando a carga total for atingida, ela irá desligar.
+:::
+
+A carga total é atingida dentro de 1 hora.
+
+Recarregue ambas metades conforme necessário.
+
+:::warning
+Tome cuidado para não forçar a chave lateral de liga/deliga para não quebrá-la acidentalmente.
+:::
+
+:::tip
+Por mais que desligar as metades do teclado enquanto não estiver em uso possa contribuir com a duração da carga,
+a diferença tende a ser pouco relevante dado a presença do descanso automático do teclado.
+
+Nesse caso, torna-se dispensável desligar as metades do teclado no dia a dia durante o uso recorrente.
+
+Recomenda-se desligar as metades para os casos de:
+- Deixar o teclado parado ou guardado por um tempo
+- Levar o teclado para viajens ou enviá-lo pelo correio
+- Realizar manutenções e o abrir
+:::
+
+:::note
+Recomenda-se não deixar o teclado descarregar totalmente para recarregá-lo. Carregue-o eventualmente enquanto em uso a cada 15-20 dias.
+:::
+
+
+## Receptor
+
+### Com tela
+
+<img src="/Tergo-Sofle-Documentation/img/receptor_com_tela.jpg" alt="Exemplo" width="800" />
+
+O receptor com tela te fornece ótimos feedbacks visuais sobre funcionalidades do teclado, como:
+- Nível de bateria das metades
+- Dongle conectado ao computador
+- Dispositivos bluetooth conectados (isso será explicado em um tópico mais abaixo)
+- Teclas especiais ativas (CMD, Alt, Ctrl, Shift, CapsLock, etc)
+- Camada ativa
+
+:::note
+Você vai perceber que o nível de bateria mostrado na tela não baixa de forma linear.
+
+É normal parecer que inicialmente baixa rápido (de 100% para 80%), mas é apenas uma limitação visual.
+
+Enquanto você estiver carregando uma metade do teclado, ele mostrará 100%. Guie-se pela luz azul explicada em tópicos anteriores para saber se sua bateria está carregada.
+
+Quando a bateria chegar, na tela, a 0%, o indicador sumirá. Mas seu teclado ainda terá carga para funcionar por certo tempo. Entretanto, recomenda-se colocá-lo para carregar assim que possível.
 :::
 
 ## Atalhos no teclado

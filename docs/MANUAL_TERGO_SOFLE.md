@@ -27,23 +27,44 @@ A imagem abaixo mostra um exemplo da disposição dos cabos:
 
 <img src="/Tergo-Sofle-Documentation/img/exemplo_cabos.jpg" alt="Exemplo" width="800" />
 
-### Adicione o teclado ao seu sistema operacional
+### Inclinadores - Como encaixá-los
+
+As vantagens de ergonomia e maneiras recomendadas de usar os inclinadores serão detalhados no próximo guia - o de ergonomia.
+
+Os inclinadores são enviados em pares que chegam encaixados entre si.
+- Separe os inclinadores puxando-os em direções opostas
+- Para acoplar eles no teclado, fique atento ao recorte que cada inclinador possui em um dos cantos: ele deve ficar com a parte com recorte para baixo, ou seja, na direção do usuário, e coincidindo com o buraco do LED, conforme imagem abaixo
+
+:::tip
+Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
+:::
+
+<img src="/Tergo-Sofle-Documentation/img/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500" />
+
+### Garanta que o layout do teclado está correto no seu dispositivo
 
 O seu teclado pode vir configurado no padrão internacional (ASNI) ou em português (ABNT2).
 
-Entretanto, pode ser necessário realizar uma configuração adicional no seu computador.
+Faça o seguinte teste para garantir que seu dispositivo já está corretamente configurado para o teclado:
+- Se o seu é  **em português (ABNT2)**, experimente digitar a tecla `Ç` e veja se ela aparece corretamente
+- Se o seu é **no padrão internacional (ANSI)**, experimente digitar a tecla `;` e veja se ela aparece corretamente
 
-:::warning
+Caso **não funcione como esperado**, você pode consultar abaixo como configurar o teclado corretamente para seu sistema.
+
+<details>
+<summary>Configuração de Layout do Teclado (Clique para expandir)</summary>
+
+Pode ser necessário realizar uma configuração adicional no seu computador. Entenda isso abaixo.
+
+:::note
 Para o correto funcionamento do teclado, o layout de teclado configurado no seu computador precisa seguir o padrão do seu teclado.
-:::
 
-:::tip
 Se o teclado que você utilizava no seu computador antes do Tergo Sofle era no padrão ABNT2 (teclados com a tecla `Ç` presente) e ele funcionava normalmente, o seu teclado Tergo Sofle que você adquiriu no padrão ABNT2 também deve também funcionar normalmente sem necessidade de modificações extras.
 
 Entretanto, se o seu teclado era ABNT2 e você adquiriu o teclado Tergo Sofle no padrão internacional (ou vice-versa), provavelmente terá que realizar a configuração adicional abaixo.
 :::
 
-No Windows 11, por exemplo, as imagens abaixo representam respectivamente o layout de teclado internacional (ASNI) e o ABNT2.
+No Windows 11, a imagem abaixo representam respectivamente o computador com 2 layouts de teclado configurados: internacional (ASNI) e o ABNT2.
 
 <img src="/Tergo-Sofle-Documentation/img/teclados_no_windows.png" alt="Exemplo" width="500" />
 
@@ -55,7 +76,76 @@ No Mac, o fluxo pode ser diferente. A princípio, siga o seguinte fluxo para con
 
 `System Settings > Change Keyboard Type > ANSI (U.S.)`
 
+</details>
+
 ## Layout de teclas
+
+O seu teclado pode vir configurado no [padrão internacional (ASNI)](#padrão-internacional-ansi) ou em [português (ABNT2)](#padrão-abnt2).
+
+### Padrão Internacional (ANSI)
+
+Nesse padrão, esse é o layout de teclas da camada base do seu teclado.
+
+<img src="/Tergo-Sofle-Documentation/img/base_internacional.svg" alt="Exemplo" width="800" />
+
+<details>
+<summary>Como fazer caracteres especiais no padrão internacional (ANSI) (Clique para expandir)</summary>
+
+As teclas com a letra `L` seguida de um número (como o `L2`) indicam teclas que ao serem seguradas mudam a camada de teclas do seu teclado.
+
+O conceito de camada de teclas será explicado mais abaixo neste manual.
+
+### Como fazer acentos e teclas especiais?
+
+Para acentos agudos, no padrão internacional, basta clicar a tecla de aspas e então a letra que quer.
+
+Para o `Ç`, clique na tecla de aspas e na letra `C`.
+
+Para o símbolo de til (`~`), segure a tecla `Fn` (tecla do dedão esquerdo) e clique `A`. Em seguida, você pode largar a tecla segurada e clicar na letra que deseja.
+
+Para o símbolo grave (``` ` ```), segure a tecla `Fn` (tecla do dedão esquerdo) e clique `Q`. Em seguida, você pode largar a tecla segurada e clicar na letra que deseja.
+
+[Clique aqui](https://youtu.be/r9vUzQyXdps?t=142) para ver um breve vídeo que demonstra como usar teclas no padrão internacional.
+
+### Mudar para o padrão brasileiro ABNT2 ou vice-versa
+
+Caso prefira, você pode mudar para o padrão ABNT2 ou para o Internacional.
+
+[Esse guia](./guias/especifico_versao_padrao/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) ensina detalhadamente como fazer isso.
+
+</details>
+
+### Padrão ABNT2
+
+Nesse padrão, esse é o layout de teclas da camada base do seu teclado.
+
+As teclas abaixo em vermelho são as que são diferentes em relação ao layout internacional.
+
+<img src="/Tergo-Sofle-Documentation/img/base_abnt.svg" alt="Exemplo" width="800" />
+
+## Camadas de teclas
+
+**Onde estão as outras teclas do meu teclado?**
+
+Seu teclado tem mais teclas do que você vê na camada principal!
+
+**Como usar:** Segure uma tecla especial de mudança de camada (como `L2` na imagem abaixo) e pressione outra tecla para acessar funções da camada 2.
+
+Funciona de forma parecida como a tecla **Shift** em teclados normais: quando você segura o Shift, as teclas mudam de função (números viram símbolos, letras ficam maiúsculas).
+
+No Tergo Sofle, você tem **6 camadas** diferentes:
+- **Base**: Letras, números e teclas básicas
+- **Símbolos**: Símbolos especiais, F1-F12, setas
+- **Mídia**: Controle de volume, play/pause
+- **Mouse**: Simula movimentos do mouse
+- **Numérico**: Teclado numérico completo
+- **Ajustes**: Configurações do teclado
+
+Além de utilizar a imagem abaixo como referência, você pode se guiar e customizar pelo software do teclado, que será mostrado logo em seguida.
+
+Veja todas as camadas na imagem abaixo:
+
+<img src="/Tergo-Sofle-Documentation/img/camadas-wireless.svg" alt="Exemplo" width="800" />
 
 ### Padrão Internacional
 
@@ -86,22 +176,6 @@ Caso prefira, você pode mudar para o padrão ABNT2 ou para o Internacional.
 A foto abaixo representa o padrão ABNT2. As teclas abaixo em vermelho são as que mudam em relação ao layout internacional.
 
 <img src="/Tergo-Sofle-Documentation/img/base_abnt.svg" alt="Exemplo" width="800" />
-
-## Inclinadores - Como encaixá-los
-
-As vantagens de ergonomia e maneiras recomendadas de usar os inclinadores serão detalhados no próximo guia - o de ergonomia.
-
-Para encaixar os inclinadores, fique atento ao recorte que cada inclinador possui em um dos cantos.
-
-Assim, o inclinador deve ficar com a parte com recorte para baixo, ou seja, na direção do usuário, e coincidindo com o buraco do LED.
-
-Consulte o exemplo abaixo.
-
-:::tip
-Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
-:::
-
-<img src="/Tergo-Sofle-Documentation/img/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500" />
 
 ## Vial: Software para configuração
 
@@ -141,34 +215,6 @@ Desfrute delas para te ajudar principalmente a entender o sistema de camadas.
 Também, na tela direita, quando você está na camada de ajuste, você verá variáveis relacionadas ao RGB e a versão do firmware do teclado.
 
 <img src="/Tergo-Sofle-Documentation/img/exemplo_tela_config.jpg" alt="Exemplo Tela Config" width="800" />
-
-## Camadas de teclas
-
-O sistema de camada de teclas faz com que todas as teclas do teclado estejam acessíveis em outras camadas.
-
-Perceba que diversas teclas especiais, a princípio, não se encontram na camada base do seu teclado, mas sim em outras camadas. Essas teclas podem ser: símbolos especiais, F1-F12, botões de navegação e setas.
-
-Isso justamente porque esses botões costumam ficar em posições mais distantes, que requerem bastante movimento para serem alcançadas.
-
-Com o sistema de camada de teclas, elas ficam mais próximas de você, a uma camada de distância.
-
-É parecido como a tecla Shift funciona no seu teclado tradicional. Quando você segura o Shift, as teclas que são números assumem uma nova funcionalidade: símbolos. E as letras normais viram maiúsculas.
-
-A diferença é que você pode programar o que quer ver em cada camada: configure uma tecla para mudar de camada e configure o que você quer de teclas nessa camada.
-
-Use a interface do Vial para entender facilmente o conteúdo de cada camada e use a foto de exemplo abaixo para se guiar!
-
-As camadas que já vem com o seu teclado são:
-- camada base
-- símbolos e navegação
-- controle de mídia
-- simulador de mouse
-- teclado numérico
-- ajustes
-
-Veja o exemplo abaixo:
-
-<img src="/Tergo-Sofle-Documentation/img/todas_camadas.svg" alt="Exemplo" width="800" />
 
 ### Utilize as telas OLED para se guiar
 
