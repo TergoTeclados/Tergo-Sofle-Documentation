@@ -42,14 +42,14 @@ Se as soluções básicas não resolverem seu problema, consulte os guias espec�
 
 ### 🔧 [Problemas de Hardware](./hardware/README.md)
 Problemas físicos e de conectividade:
-- USB com mal contato
+- [USB com mal contato](./hardware/USB_MAL_CONTATO.md)
 - Problemas com placas controladoras
 - Problemas de montagem
 
 ### 💻 [Problemas de Software](./software/README.md)
 Problemas relacionados ao firmware e configuração:
-- Problemas wireless
-- Problemas de unlock
+- [Teclado Wireless parou de funcionar](./software/TECLADO_WIRELESS_PAROU.md)
+- [Não consigo dar unlock](./software/NAO_CONSIGO_UNLOCK.md)
 - Problemas de conectividade
 
 ## Guias Relacionados
