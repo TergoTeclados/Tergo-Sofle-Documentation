@@ -78,6 +78,12 @@ const config: Config = {
     },
     // Replace with your project's social card
     image: 'img/logo_full_png_v2_branco.png',
+    metadata: [
+      {
+        name: 'algolia-site-verification',
+        content: '4384C9508F6A5A1E',
+      },
+    ],
     navbar: {
       title: 'Tergo Wiki',
       logo: {
