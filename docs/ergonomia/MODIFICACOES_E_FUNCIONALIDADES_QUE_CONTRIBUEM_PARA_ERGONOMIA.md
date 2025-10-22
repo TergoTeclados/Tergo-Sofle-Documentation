@@ -105,7 +105,7 @@ Esta é uma funcionalidade que já vem configurada na camada do modo Adepto (cam
 
 Com isso, você não precisa mover os dedos para alcançar esses modificadores que normalmente ficam nas laterais do teclado.
 
-_Como isto funciona é explicado com mais detalhes no próximo guia (o de [funcionalidades avançadas](./TOPICOS_AVANCADOS.md#home-row-mod))._
+_Como isto funciona é explicado com mais detalhes no próximo guia._
 
 ## Minimizar o número de passos necessários para realizar uma ação
 
@@ -254,7 +254,7 @@ Para entender a imagem abaixo, recomendo vê-las separadas [clicando aqui](https
 
 Considera-se que você já leu o manual do usuário, entendeu como digitar com  ergonomia e leu este manual.
 
-Quando estiver ficando confiante com sua digitação ou caso queira entender melhor funcionalidades ainda mais avançadas, que podem inclusive contribuir para seu conforto, leia o [guia de tópicos avançados](./TOPICOS_AVANCADOS.md) para entender a fundo funcionalidades presentes especialmente no modo adepto do seu teclado.
+Quando estiver ficando confiante com sua digitação ou caso queira entender melhor funcionalidades ainda mais avançadas, que podem inclusive contribuir para seu conforto, explore as funcionalidades presentes especialmente no modo adepto do seu teclado.
 
 ### Guias da comunidade
 
