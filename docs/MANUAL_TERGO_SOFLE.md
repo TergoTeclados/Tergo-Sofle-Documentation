@@ -187,6 +187,13 @@ Você pode utilizar o [Vial no próprio navegador](https://vial.rocks/) ou [baix
 
 _Caso use Linux e o Vial não esteja conectando como esperado, pode ser necessário fazer [este](https://get.vial.today/manual/linux-udev.html) passo adicional._
 
+### Como usar o Vial
+
+Para modificar as teclas do seu teclado no Vial:
+1. **Selecione a tecla** que você quer substituir clicando nela no layout visual
+2. **Clique na nova função** que você quer que essa tecla tenha (letra, símbolo, função especial, etc.)
+3. **Troque entre as camadas** clicando nos números (0, 1, 2, etc.) na parte superior para navegar entre as diferentes camadas do teclado e customizar cada uma
+
 Aproveite e já abra o Vial, e navegue pelas camadas de teclas para entender a posição de cada tecla em cada camada. Não se assuste, é mais simples do que parece.
 
 Não se preocupe em entender agora o que cada menu do Vial faz. Te explicaremos aos poucos nos próximos guias, como o de [modificações e funcionalidades que contribuem para ergonomia](./ergonomia/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md).
