@@ -3,26 +3,50 @@ sidebar_label: 'Softwares de Customização'
 sidebar_position: 4
 ---
 
-# Softwares de Customização - Teclado Tergo Sofle
+# Softwares de Customização
 
-## Versão Padrão (com fio)
+Escolha o software correto para a versão do seu teclado Tergo Sofle:
 
-<a href="https://vial.rocks/"><img src="/Tergo-Sofle-Documentation/img/vial-icon.png" alt="Vial" width="200" /></a>
+## 🔌 Versão com Fio
 
-Disponível para uso [diretamente no navegador](https://vial.rocks/) ou [download](https://get.vial.today/download/).
+<div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '20px', border: '2px solid #e0e0e0', borderRadius: '10px', marginBottom: '20px'}}>
 
-Além dos nosso manuais, você pode ter uma visão geral dele [clicando aqui](https://get.vial.today/).
+<a href="https://vial.rocks/">
+<img src="/Tergo-Sofle-Documentation/img/vial-icon.png" alt="Vial" width="120" />
+</a>
 
-## Versão Wireless (sem fio)
+**Vial - Software de Customização**
 
-:::note
-É necessário desbloquear o teclado por meio de uma combinação de teclas para acessar o software de customização.
+- ✅ [Usar no navegador](https://vial.rocks/)
+- ✅ [Download do aplicativo](https://get.vial.today/download/)
+- ✅ [Documentação oficial](https://get.vial.today/)
 
-Consulte a [documentação](./MANUAL_TERGO_SOFLE_WIRELESS.md)
+</div>
+
+## 📡 Versão Wireless
+
+<div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '20px', border: '2px solid #e0e0e0', borderRadius: '10px', marginBottom: '20px'}}>
+
+<a href="https://zmk.studio/">
+<img src="/Tergo-Sofle-Documentation/img/zmk-icon.png" alt="ZMK Studio" width="120" />
+</a>
+
+**ZMK Studio - Software de Customização**
+
+- ✅ [Usar no navegador](https://zmk.studio/)
+- ✅ [Download do aplicativo](https://zmk.studio/download)
+- ✅ [Documentação oficial](https://zmk.dev/docs/features/studio)
+
+:::warning
+**Importante:** É necessário desbloquear o teclado antes de usar o ZMK Studio.
+
+Consulte a [documentação da versão wireless](./MANUAL_TERGO_SOFLE_WIRELESS.md) para saber como fazer isso.
 :::
 
-<a href="https://zmk.studio/"><img src="/Tergo-Sofle-Documentation/img/zmk-icon.png" alt="zmk studio" width="200" /></a>
+</div>
 
-Disponível para uso [diretamente no navegador](https://zmk.studio/) ou [download](https://zmk.studio/download).
+## Qual versão eu tenho?
 
-Além dos nosso manuais, você pode ter uma visão geral dele [clicando aqui](https://zmk.dev/docs/features/studio).
+**Versão com fio:** Teclado que se conecta ao computador via cabo USB.
+
+**Versão Wireless:** Teclado que funciona sem fio, com receptor USB e baterias recarregáveis.
