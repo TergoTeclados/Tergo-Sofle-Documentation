@@ -141,7 +141,7 @@ Você pode criar macros pelo submenu "Macros" no software Vial.
 :::
 
 :::note
-No ZMK Studio (software da versão sem fio), até a data de escrita desta documentação, ainda não é possível customizar isso pelo software. É necessário modificar o código-fonte. Para isso, você pode consultar o guia de [como modificar o código fonte (ZMK)](./especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
+No ZMK Studio (software da versão sem fio), até a data de escrita desta documentação, ainda não é possível customizar isso pelo software. É necessário modificar o código-fonte. Para isso, você pode consultar o guia de [como modificar o código fonte (ZMK)](../guias/especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
 É previsto que o ZMK Studio venha a suportar isso no futuro. Isso pode ser visto na [lista de funcionalidades previstas do ZMK Studio](https://zmk.dev/docs/features/studio).
 :::
 
@@ -166,7 +166,7 @@ No Vial (software da versão com fio), você pode criar combos pelo submenu "Com
 :::
 
 :::note
-No ZMK Studio (software da versão sem fio), até a data de escrita desta documentação, ainda não é possível customizar isso pelo software. É necessário modificar o código-fonte. Para isso, você pode consultar o guia de [como modificar o código fonte (ZMK)](./especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
+No ZMK Studio (software da versão sem fio), até a data de escrita desta documentação, ainda não é possível customizar isso pelo software. É necessário modificar o código-fonte. Para isso, você pode consultar o guia de [como modificar o código fonte (ZMK)](../guias/especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
 >
 É previsto que o ZMK Studio venha a suportar isso no futuro. Isso pode ser visto na [lista de funcionalidades previstas do ZMK Studio](https://zmk.dev/docs/features/studio).
 :::
@@ -191,7 +191,7 @@ No Vial (software da versão com fio), você pode customizar isso na página pri
 :::
 
 :::note
-No ZMK Studio (software da versão sem fio), até a data de escrita desta documentação, ainda não é possível customizar isso pelo software. É necessário modificar o código-fonte. Para isso, você pode consultar o guia de [como modificar o código fonte (ZMK)](./especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
+No ZMK Studio (software da versão sem fio), até a data de escrita desta documentação, ainda não é possível customizar isso pelo software. É necessário modificar o código-fonte. Para isso, você pode consultar o guia de [como modificar o código fonte (ZMK)](../guias/especifico_versao_wireless/COMO_MODIFICAR_CODIGO_FONTE.md).
 
 É previsto que o ZMK Studio venha a suportar isso no futuro. Isso pode ser visto na [lista de funcionalidades previstas do ZMK Studio](https://zmk.dev/docs/features/studio).
 :::
@@ -262,4 +262,4 @@ Deixamos abertos à nossa comunidade contribuir com guias e aprendizados! Você 
 
 Pode ser interessante na sua jornada ou resolver dúvidas que tenha no momento.
 
-[Substituir uma sequência de teclas por outra tecla](./guias_da_comunidade/SUBSTITUIR_SEQUENCIA_DE_TECLAS_POR_OUTRA.md), por EGmux.
+[Substituir uma sequência de teclas por outra tecla](../guias/guias_da_comunidade/SUBSTITUIR_SEQUENCIA_DE_TECLAS_POR_OUTRA.md), por EGmux.

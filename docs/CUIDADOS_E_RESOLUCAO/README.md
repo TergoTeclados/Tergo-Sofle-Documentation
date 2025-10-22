@@ -9,7 +9,7 @@ Aqui você pode encontrar desde guias de manutenção preventiva até soluções
 ### 🔧 [Manutenção](./manutencao/README.md)
 Guias para te ajudar a mexer fisicamente no teclado, trocar partes e outros detalhes.
 
-### 🛠️ [Problemas e Soluções](./problemas_e_solucoes/README.md)
+### 🛠️ [Problemas e Soluções](problemas_e_solucoes/README.md)
 Soluções para problemas e dúvidas que você pode encontrar na sua jornada.
 
 ## Primeiros passos

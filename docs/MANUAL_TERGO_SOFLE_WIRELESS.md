@@ -323,7 +323,7 @@ Essas funcionalidades consistem de teclas com comportamentos especiais que visam
 
 Não se assuste! Te explicamos tudo. Um passo por vez.
 
-Recomenda-se que você explore o restante do manual e, em seguida, o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), e que se adapte ao teclado antes de você experimentar essas funcionalidades do modo adepto.
+Recomenda-se que você explore o restante do manual e, em seguida, o [guia de como digitar com ergonomia](./ergonomia/COMO_DIGITAR_COM_ERGONOMIA.md), e que se adapte ao teclado antes de você experimentar essas funcionalidades do modo adepto.
 
 :::note
 Alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja reiniciado.
@@ -430,7 +430,7 @@ Tenha atenção em relação aos seguintes pontos:
 - Forçar as chaves laterais de ligar/desligar
 - Forçar os conectores USB superiores ao conectar cabos
 - Líquidos perto do seu teclado
-- Desmontar o teclado sozinho (consulte o [manual de montagem e manutenção](./guias/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+- Desmontar o teclado sozinho (consulte o [manual de montagem e manutenção](./CUIDADOS_E_RESOLUCAO/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
 :::
 
 :::note
@@ -443,7 +443,7 @@ Entretanto, ninguém quer presenciar defeitos no seu produto por conta de potenc
 
 Este guia é o próximo que você deve seguir após ler este atual.
 
-Visite o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md) e entenda as maneiras ideais de utilizar seu teclado Tergo.
+Visite o [guia de como digitar com ergonomia](./ergonomia/COMO_DIGITAR_COM_ERGONOMIA.md) e entenda as maneiras ideais de utilizar seu teclado Tergo.
 
 ## Atualizar firmware
 
@@ -470,7 +470,7 @@ Para se aventurar no mundo de modificação do _firmware_, use o [Manual de Modi
 
 ## Próximos passos
 
-Vá para o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md) e descubra a maneira recomendada para digitar.
+Vá para o [guia de como digitar com ergonomia](./ergonomia/COMO_DIGITAR_COM_ERGONOMIA.md) e descubra a maneira recomendada para digitar.
 
 ## Contato
 

@@ -19,5 +19,5 @@ Problemas de desbloqueio do firmware:
 
 ## Guias Relacionados
 
-- [Instruções Básicas](../README.md) - Volte aqui se as soluções básicas não foram tentadas
+- [Instruções Básicas](./README.md) - Volte aqui se as soluções básicas não foram tentadas
 - [Problemas de Hardware](../hardware/README.md) - Para problemas físicos e de conectividade

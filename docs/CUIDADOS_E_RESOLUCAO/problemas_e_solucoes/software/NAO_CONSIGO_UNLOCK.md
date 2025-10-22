@@ -23,5 +23,5 @@
 ## Guias Relacionados
 
 - [Voltar ao índice de problemas de software](./README.md)
-- [Instruções Básicas](../README.md) - Volte aqui se as soluções básicas não foram tentadas
+- [Instruções Básicas](./README.md) - Volte aqui se as soluções básicas não foram tentadas
 - [Problemas de Hardware](../hardware/README.md) - Para problemas físicos e de conectividade

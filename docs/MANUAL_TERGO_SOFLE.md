@@ -189,7 +189,7 @@ _Caso use Linux e o Vial não esteja conectando como esperado, pode ser necessá
 
 Aproveite e já abra o Vial, e navegue pelas camadas de teclas para entender a posição de cada tecla em cada camada. Não se assuste, é mais simples do que parece.
 
-Não se preocupe em entender agora o que cada menu do Vial faz. Te explicaremos aos poucos nos próximos guias, como o de [modificações e funcionalidades que contribuem para ergonomia](./guias/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md).
+Não se preocupe em entender agora o que cada menu do Vial faz. Te explicaremos aos poucos nos próximos guias, como o de [modificações e funcionalidades que contribuem para ergonomia](./ergonomia/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md).
 
 Com o [Vial](https://get.vial.today/), você tem funcionalidades diversas. Algumas das principais que você provavelmente utilizará são:
 
@@ -262,7 +262,7 @@ Essas funcionalidades consistem de teclas com comportamentos especiais que visam
 
 Não se assuste! Te explicamos tudo. Um passo por vez.
 
-Recomenda-se que você explore o restante do manual e, em seguida, o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md), e que se adapte ao teclado antes de você experimentar essas funcionalidades do modo adepto.
+Recomenda-se que você explore o restante do manual e, em seguida, o [guia de como digitar com ergonomia](./ergonomia/COMO_DIGITAR_COM_ERGONOMIA.md), e que se adapte ao teclado antes de você experimentar essas funcionalidades do modo adepto.
 
 :::note
 Alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja reiniciado.
@@ -302,7 +302,7 @@ Use o Vial para facilmente visualizar o mapeamento das teclas que ajustam o RGB.
 Tenha atenção em relação aos seguintes pontos:
 - Não force os conectores USB **superiores** ou **laterais** ao conectar cabos
 - Cuidado com líquidos perto do seu teclado
-- Atenção ao desmontar o teclado sozinho ou realizar manutenções (consulte o [manual de montagem e manutenção](./guias/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+- Atenção ao desmontar o teclado sozinho ou realizar manutenções (consulte o [manual de montagem e manutenção](./CUIDADOS_E_RESOLUCAO/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
 :::
 
 :::warning
@@ -332,7 +332,7 @@ Entretanto, ninguém quer presenciar defeitos no seu produto por conta de potenc
 
 Este guia é o próximo que você deve seguir após ler este atual.
 
-Visite o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md) e entenda as maneiras ideais de utilizar seu teclado Tergo.
+Visite o [guia de como digitar com ergonomia](./ergonomia/COMO_DIGITAR_COM_ERGONOMIA.md) e entenda as maneiras ideais de utilizar seu teclado Tergo.
 
 ## Atualizar firmware
 
@@ -352,7 +352,7 @@ Algumas dessas modificações são: mudar o conteúdo nas telas OLED, mudar o co
 
 ## Próximos passos
 
-Vá para o [guia de como digitar com ergonomia](./guias/COMO_DIGITAR_COM_ERGONOMIA.md) e descubra a maneira recomendada para digitar.
+Vá para o [guia de como digitar com ergonomia](./ergonomia/COMO_DIGITAR_COM_ERGONOMIA.md) e descubra a maneira recomendada para digitar.
 
 ## Contato
 

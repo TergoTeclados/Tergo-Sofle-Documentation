@@ -13,5 +13,5 @@ Problemas de conectividade USB:
 
 ## Guias Relacionados
 
-- [Instruções Básicas](../README.md) - Volte aqui se as soluções básicas não foram tentadas
+- [Instruções Básicas](./README.md) - Volte aqui se as soluções básicas não foram tentadas
 - [Problemas de Software](../software/README.md) - Para problemas relacionados ao firmware

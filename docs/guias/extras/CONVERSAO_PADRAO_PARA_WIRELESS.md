@@ -31,7 +31,7 @@ Entretanto, é possível modificar o código-fonte para implementar funcionalida
 Você pode ver o que é suportado atualmente no ZMK Studio no link:
 https://zmk.dev/docs/features/studio#capabilities.
 
-Também são comentadas em notas no [guia de customizações](../MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md).
+Também são comentadas em notas no [guia de customizações](../../ergonomia/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md).
 
 O firmware da versão Padrão é o QMK e da Wireless é o ZMK. Ambos suportam as mesmas funcionalidades.
 
@@ -41,7 +41,7 @@ O firmware da versão Padrão é o QMK e da Wireless é o ZMK. Ambos suportam as
 Caso tenha optado por realizar o processo sozinho, seja cuidadoso e fique atento às intruções do nosso guia.
 :::
 
-Para converter o seu teclado, basta seguir o guia de [como trocar as placas controladoras do seu teclado](../manutencao/TROCAR_PLACA_CONTROLADORA.md).
+Para converter o seu teclado, basta seguir o guia de [como trocar as placas controladoras do seu teclado](../../CUIDADOS_E_RESOLUCAO/manutencao/TROCAR_PLACA_CONTROLADORA.md).
 
 Ele te ensinará a remover as placas atuais do seu teclado e colocar placas novas.
 
