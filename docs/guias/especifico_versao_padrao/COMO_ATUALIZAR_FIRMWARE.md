@@ -1,4 +1,4 @@
-# Manual de Atualização do Firmware
+# Atualizar Firmware - Versão com fio
 
 A Tergo Teclados pretende continuar realizando melhorias no _firmware_ do teclado. Para atualizá-lo é fácil, basta seguir as instruções aqui presentes.
 

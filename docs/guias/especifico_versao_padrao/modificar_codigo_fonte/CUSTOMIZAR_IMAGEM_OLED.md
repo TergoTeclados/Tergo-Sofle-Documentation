@@ -1,4 +1,4 @@
-# Customizar arte na tela OLED
+# Customizar arte na tela OLED - Versão com fio
 
 Aqui te ensinaremos a customizar a arte ou animação que fica na tela OLED da versão com fio do teclado Tergo Sofle.
 

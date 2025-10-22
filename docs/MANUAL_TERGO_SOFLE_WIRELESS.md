@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Manual da Versão Wireless'
+sidebar_label: 'Manual Tergo Sofle Wireless'
 sidebar_position: 3
 ---
 
-# Tergo Sofle - Versão Wireless - Manual de Usuário
+# Manual Tergo Sofle Wireless
 
 **O lançamento da versão sem fio é novidade para você? [Clique aqui](https://tecladoergonomico.com.br/blog/versao-sem-fio-ja-disponivel/) e leia sobre esse lançamento.**
 

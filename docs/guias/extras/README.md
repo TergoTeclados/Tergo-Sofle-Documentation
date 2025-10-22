@@ -1,4 +1,4 @@
-# Guias extras
+# Extras
 
 Nesta pasta você encontrará guias diversos bônus que criamos:
 

@@ -3,7 +3,7 @@ sidebar_label: 'Tópicos Avançados'
 sidebar_position: 4
 ---
 
-# Tergo Sofle - Funcionalidades
+# Funcionalidades Avançadas
 
 :::warning
 Este guia ainda não foi adaptado para a versão sem fio do teclado Tergo.

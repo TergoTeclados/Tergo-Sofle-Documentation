@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Manual de Modificação do Firmware'
+sidebar_label: 'Modificar Firmware'
 sidebar_position: 1
 ---
 
-# Tergo Sofle - Manual de Modificação do Firmware
+# Modificar Firmware - Versão com fio
 
 Este manual vai te guiar em relação a como modificar o firmware presente no seu teclado para ter controle total de todos aspectos do seu teclado e funcionalidades disponibilizadas pelo [firmware QMK](https://docs.qmk.fm/#/).
 

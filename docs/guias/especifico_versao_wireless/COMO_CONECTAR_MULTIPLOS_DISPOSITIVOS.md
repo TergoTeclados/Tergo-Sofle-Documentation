@@ -1,4 +1,4 @@
-# Como conectar múltiplos dispositivos
+# Como conectar múltiplos dispositivos - Versão Wireless
 
 ## Visão Geral
 

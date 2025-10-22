@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Manual da Versão com Fio'
+sidebar_label: 'Manual Tergo Sofle (com fio)'
 sidebar_position: 2
 ---
 
-# Tergo Sofle - Manual de Usuário
+# Manual Tergo Sofle (com fio)
 
 ## Resumo
 

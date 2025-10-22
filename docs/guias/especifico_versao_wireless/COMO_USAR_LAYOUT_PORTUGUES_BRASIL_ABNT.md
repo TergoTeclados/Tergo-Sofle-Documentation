@@ -1,4 +1,4 @@
-# Como usar layout em Português (Brasil) ABNT2
+# Como usar layout em Português (Brasil) ABNT2 - Versão Wireless
 
 ## Resumo
 

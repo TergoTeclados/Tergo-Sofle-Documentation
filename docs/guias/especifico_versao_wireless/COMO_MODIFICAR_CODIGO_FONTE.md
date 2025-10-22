@@ -1,4 +1,4 @@
-# Tergo Sofle - Manual de Modificação do Firmware
+# Modificar Firmware - Versão Wireless
 
 Este manual vai te guiar em relação a como modificar o firmware presente no seu teclado para ter controle total de todos aspectos do seu teclado e funcionalidades disponibilizadas pelo [firmware ZMK](https://zmk.dev/).
 

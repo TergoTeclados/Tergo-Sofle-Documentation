@@ -1,4 +1,4 @@
-# Manual de Restauração da Configuração de Fábrica
+# Restaurar Configuração de Fábrica - Versão com fio
 
 Este guia explica como restaurar seu teclado Tergo Sofle para as configurações de fábrica, removendo todas as customizações que foram feitas através do Vial.
 

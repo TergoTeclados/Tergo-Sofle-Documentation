@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Sistema de Camadas de Teclas'
+sidebar_label: 'Usar Camadas de Teclas'
 sidebar_position: 3
 ---
 
-# Manual sobre Sistema de Camadas de Teclas
+# Usar Camadas de Teclas
 
 Este manual visa te ajudar a entender o sistema de camadas.
 

@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Modificações e Funcionalidades'
+sidebar_label: 'Personalizar funcionalidades'
 sidebar_position: 2
 ---
 
- # Guia - Modificações e Funcionalidades que Contribuem para Ergonomia
+# Personalizar funcionalidades
 
 Neste guia você descobrirá como diversas funcionalidades como modificar o layout de teclas ou teclas especiais da tecnologia utilizada pelo Tergo Sofle podem te fornecer uma experiência de digitação mais otimizada e aplicando ideias de ergonomia.
 

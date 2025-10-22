@@ -1,9 +1,9 @@
 ---
-sidebar_label: 'Manual de Ergonomia'
+sidebar_label: 'Digitar com Ergonomia'
 sidebar_position: 1
 ---
 
-# Tergo Sofle - Manual de Ergonomia
+# Digitar com Ergonomia
 
 Este manual visa discutir aspectos de ergonomia focados na digitação e maneiras recomendadas de aprender a digitar com o Tergo.
 
