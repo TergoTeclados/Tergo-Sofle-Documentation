@@ -1,8 +1,16 @@
-# Problemas e Soluções
+# Cuidados e Resolução
 
-Neste guia você encontrará problemas e soluções que você pode ter com seu teclado Tergo Sofle.
+Neste guia você encontrará informações sobre cuidados, manutenção e resolução de problemas com seu teclado Tergo Sofle.
 
-Seu problema pode variar desde simples uma confusão com alguma funcionalidade até serem problemas técnicos que necessitem de manutenção.
+Aqui você pode encontrar desde guias de manutenção preventiva até soluções para problemas específicos que podem surgir.
+
+## Subpastas
+
+### 🔧 [Manutenção](./manutencao/README.md)
+Guias para te ajudar a mexer fisicamente no teclado, trocar partes e outros detalhes.
+
+### 🛠️ [Problemas e Soluções](./problemas_e_solucoes/README.md)
+Soluções para problemas e dúvidas que você pode encontrar na sua jornada.
 
 ## Primeiros passos
 
@@ -40,21 +48,21 @@ Caso não tenha resolvido, veja o [guia de atualização do firmware (versão Wi
 
 Se as soluções básicas não resolverem seu problema, consulte os guias específicos organizados por categoria:
 
-### 🔧 [Problemas de Hardware](./hardware/README.md)
+### 🔧 [Problemas de Hardware](./problemas_e_solucoes/hardware/README.md)
 Problemas físicos e de conectividade:
-- [USB com mal contato](./hardware/USB_MAL_CONTATO.md)
+- [USB com mal contato](./problemas_e_solucoes/hardware/USB_MAL_CONTATO.md)
 - Problemas com placas controladoras
 - Problemas de montagem
 
-### 💻 [Problemas de Software](./software/README.md)
+### 💻 [Problemas de Software](./problemas_e_solucoes/software/README.md)
 Problemas relacionados ao firmware e configuração:
-- [Teclado Wireless parou de funcionar](./software/TECLADO_WIRELESS_PAROU.md)
-- [Não consigo dar unlock](./software/NAO_CONSIGO_UNLOCK.md)
+- [Teclado Wireless parou de funcionar](./problemas_e_solucoes/software/TECLADO_WIRELESS_PAROU.md)
+- [Não consigo dar unlock](./problemas_e_solucoes/software/NAO_CONSIGO_UNLOCK.md)
 - Problemas de conectividade
 
 ## Guias Relacionados
 
-- [Como trocar placa controladora](../guias/manutencao/TROCAR_PLACA_CONTROLADORA.md)
+- [Como trocar placa controladora](./manutencao/TROCAR_PLACA_CONTROLADORA.md)
 - [Guia de atualização do firmware (versão Padrão)](../guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md)
 - [Guia de atualização do firmware (versão Wireless)](../guias/especifico_versao_wireless/COMO_ATUALIZAR_FIRMWARE.md)
 - [Como conectar múltiplos dispositivos](../guias/especifico_versao_wireless/COMO_CONECTAR_MULTIPLOS_DISPOSITIVOS.md)
