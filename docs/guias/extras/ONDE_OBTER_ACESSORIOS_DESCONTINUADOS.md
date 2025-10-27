@@ -46,3 +46,13 @@ Possui adaptador para USB A e o lado magnético possui maior mobilidade. Une o m
 **Tenha atenção que o conector magnético possui mais anéis do que a opção 1, não sendo retrocompatível**
 
 Você pode encontrá-lo no Aliexpress. [Clique aqui](https://pt.aliexpress.com/item/1005005854668026.html?spm=a2g0o.order_list.order_list_main.21.27ebcaa4cosEmh&gatewayAdapt=glo2bra) para um link exemplo.
+
+## Inclinador antigo
+
+O inclinador anteriormente utilizado no teclado era colado na estrutura.
+
+Podia ser aberto e regulado em 3 níveis diferentes.
+
+Deixamos de utilizar este modelo dado diversos fatores.
+
+[Clique aqui](https://pt.aliexpress.com/item/1005007172664849.html?spm=a2g0o.order_list.order_list_main.9.4be3caa42jp8iq&gatewayAdapt=glo2bra) para ter um link para eles.
