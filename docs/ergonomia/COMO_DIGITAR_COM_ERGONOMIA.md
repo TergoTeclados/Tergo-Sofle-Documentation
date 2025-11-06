@@ -273,6 +273,11 @@ Os apoios de pulso podem te ajudar em diversos quesitos:
 - ter uma superfície macia para apoiar parte da mão/braço
 - elevar sua mão a uma posição mais alta, potencialmente fornecendo uma **inclinação negativa** para a mão
 
+Para usá-lo, experimente diversas configurações para entender o que funciona melhor para você:
+- Apoiar a palma da mão
+- Apoiar a base da mão
+- Apoiar o pulso
+
 ### "Inclinação Negativa"
 
 <img src="/Tergo-Sofle-Documentation/img/negative-tilt.jpg" alt="Exemplo" width="600" />
@@ -306,6 +311,26 @@ Caso você use os apoios diretamente sob o pulso, pode ser que você esteja apli
 Além de ótimos para descansar as mãos quando não está digitando, eles tem potencial de serem confortáveis caso você prefira digitar mantendo as mãos apoiadas de maneira fixa.
 
 Experimente posicionar os apoios nas palmas, no pulso ou nos antebraços e entender o que funciona para você.
+
+## Sugestão de como usar o teclado
+
+### Primeira forma mais fácil de se adaptar
+
+Uma forma inicial de usar o teclado caso queira realizar a mudança de forma gradual é a seguinte.
+
+Ela é pensada para ficar o mais parecida possível com teclados tradicionais, sendo menos disruptiva.
+
+- Metades do teclado paralelas e bem próximas, como se fossem um teclado só
+- [Inclinação frontal](#inclinação-frontal-utilizando-inclinadores-laterais), para ficar semelhante a teclados tradicionais
+- (opcional) almofadas como ponto de apoio para o pulso ou palma
+
+<img src="/Tergo-Sofle-Documentation/img/tergo-proximos.jpg" alt="Exemplo" />
+
+:::tip
+Essa configuração não terá todas vantagens de ergonomia que o teclado pode trazer, mas ainda assim deve ser confortável.
+
+Gradualmente experimente ir inclinando os lados e afantando-os.
+:::
 
 ## Ergonomia e bons hábitos em geral
 
