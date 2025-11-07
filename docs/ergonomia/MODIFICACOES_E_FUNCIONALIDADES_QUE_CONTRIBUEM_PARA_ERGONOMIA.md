@@ -181,6 +181,7 @@ Knobs vem configurados por padrão para ajustar volume ou rolar página (PageUp/
 
 Algumas dicas de customizações para utilizar os encoders:
 - Volume
+- Zoom (`Ctrl` + `+` e `Ctrl` + `-`)
 - Rolar página (PgUp/PgDown ou então MouseScrollUp/MouseScrollDown)
 - Alternar abas no navegador (`shift+tab` e `ctrl+shift+tab`). Experimente esses atalhos no seu teclado
 - Regular brilho RGB
