@@ -145,7 +145,7 @@ Além de utilizar a imagem abaixo como referência, você pode se guiar e custom
 
 Veja todas as camadas na imagem abaixo:
 
-<img src="/Tergo-Sofle-Documentation/img/camadas-wireless.svg" alt="Exemplo"  />
+<img src="/Tergo-Sofle-Documentation/img/todas_camadas.svg" alt="Exemplo"  />
 
 ### Padrão Internacional
 
