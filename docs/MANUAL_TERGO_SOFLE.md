@@ -25,7 +25,7 @@ Seu teclado já vem com os cabos necessários para o funcionamento.
 
 A imagem abaixo mostra um exemplo da disposição dos cabos:
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_cabos.jpg" alt="Exemplo"  />
+![Exemplo](/img/exemplo_cabos.jpg)
 
 ### Inclinadores - Como encaixá-los
 
@@ -39,7 +39,7 @@ Os inclinadores são enviados em pares que chegam encaixados entre si.
 Caso você esteja colocando errado, você sentirá resistência dos imãs para encaixar o inclinador.
 :::
 
-<img src="/Tergo-Sofle-Documentation/img/como_encaixar_inclinadores.jpg" alt="Exemplo" width="500" />
+![Exemplo](/img/como_encaixar_inclinadores.jpg)
 
 ### Garanta que o layout do teclado está correto no seu dispositivo
 
@@ -66,7 +66,7 @@ Entretanto, se o seu teclado era ABNT2 e você adquiriu o teclado Tergo Sofle no
 
 No Windows 11, a imagem abaixo representam respectivamente o computador com 2 layouts de teclado configurados: internacional (ASNI) e o ABNT2.
 
-<img src="/Tergo-Sofle-Documentation/img/teclados_no_windows.png" alt="Exemplo" width="500" />
+![Exemplo](/img/teclados_no_windows.png)
 
 [Clique aqui](https://www.youtube.com/watch?v=UWwcIcwkPlA) para ver um breve vídeo de como configurar isso no Windows 11.
 
@@ -86,7 +86,7 @@ O seu teclado pode vir configurado no [padrão internacional (ASNI)](#padrão-in
 
 Nesse padrão, esse é o layout de teclas da camada base do seu teclado.
 
-<img src="/Tergo-Sofle-Documentation/img/base_internacional.svg" alt="Exemplo"  />
+![Exemplo](/img/base_internacional.svg)
 
 <details>
 <summary>Como fazer caracteres especiais no padrão internacional (ANSI) (Clique para expandir)</summary>
@@ -121,7 +121,7 @@ Nesse padrão, esse é o layout de teclas da camada base do seu teclado.
 
 As teclas abaixo em vermelho são as que são diferentes em relação ao layout internacional.
 
-<img src="/Tergo-Sofle-Documentation/img/base_abnt.svg" alt="Exemplo"  />
+![Exemplo](/img/base_abnt.svg)
 
 ## Camadas de teclas
 
@@ -145,11 +145,11 @@ Além de utilizar a imagem abaixo como referência, você pode se guiar e custom
 
 Veja todas as camadas na imagem abaixo:
 
-<img src="/Tergo-Sofle-Documentation/img/todas_camadas.svg" alt="Exemplo"  />
+![Exemplo](/img/todas_camadas.svg)
 
 ### Padrão Internacional
 
-<img src="/Tergo-Sofle-Documentation/img/base_internacional.svg" alt="Exemplo"  />
+![Exemplo](/img/base_internacional.svg)
 
 As teclas com a letra `L` seguida de um número (como o `L2`) indicam teclas que ao serem seguradas mudam a camada de teclas do seu teclado.
 
@@ -175,11 +175,11 @@ Caso prefira, você pode mudar para o padrão ABNT2 ou para o Internacional.
 
 A foto abaixo representa o padrão ABNT2. As teclas abaixo em vermelho são as que mudam em relação ao layout internacional.
 
-<img src="/Tergo-Sofle-Documentation/img/base_abnt.svg" alt="Exemplo"  />
+![Exemplo](/img/base_abnt.svg)
 
 ## Vial: Software para configuração
 
-<img src="/Tergo-Sofle-Documentation/img/vial_exemplo.png" alt="Exemplo Vial"  />
+![Exemplo](/img/vial_exemplo.png)
 
 O teclado usa a interface para configurações em tempo real [Vial](https://get.vial.today/).
 
@@ -215,13 +215,13 @@ As telas OLED não só oferecem um visual único mas também possuem utilidades.
 
 Na tela esquerda, é possível visualizar qual é a camada base do teclado, a camada atual ativa, e se teclas especiais como o capslock estão ativas.
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_telas.jpg" alt="Exemplo Telas"  />
+![Exemplo](/img/exemplo_telas.jpg)
 
 Desfrute delas para te ajudar principalmente a entender o sistema de camadas.
 
 Também, na tela direita, quando você está na camada de ajuste, você verá variáveis relacionadas ao RGB e a versão do firmware do teclado.
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_tela_config.jpg" alt="Exemplo Tela Config"  />
+![Exemplo](/img/exemplo_tela_config.jpg)
 
 ### Utilize as telas OLED para se guiar
 
@@ -239,7 +239,7 @@ Além disso, reservamos um "modo" extra, para você mesmo customizar para seu us
 
 Pela imagem abaixo você encontra essas teclas para alterar entre os modos:
 
-<img src="/Tergo-Sofle-Documentation/img/alternar_modos.svg" alt="Exemplo"  />
+![Exemplo](/img/alternar_modos.svg)
 
 :::tip
 O modo básico e adepto são simplesmente aplicações do sistema de camada de teclas.

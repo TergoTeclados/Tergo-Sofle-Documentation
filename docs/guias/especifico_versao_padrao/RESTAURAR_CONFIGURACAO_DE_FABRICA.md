@@ -40,7 +40,7 @@ As entradas USBs das laterais servem puramente para a comunicação entre as met
 
 - Agora, basta desconectar o teclado do seu computador e conectá-lo novamente para que ele volte a funcionar normalmente.
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_modo_boot.png" alt="Exemplo"  />
+![Exemplo](/img/exemplo_modo_boot.png)
 
 ### E o lado direito?
 

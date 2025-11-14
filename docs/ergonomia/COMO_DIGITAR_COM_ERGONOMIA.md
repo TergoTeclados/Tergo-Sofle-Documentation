@@ -27,7 +27,7 @@ Se você chegou até aqui, provavelmente já viu aquelas imagens que demonstram 
 
 A imagem abaixo (retirada [daqui](https://fisiomedcuiaba.com.br/dicas-importantes-para-sentar-corretamente-em-frente-do-computador/)) é só um exemplo de inúmeras páginas que mostram maneiras recomendadas de se posicionar.
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_sentado.png" alt="Exemplo"  />
+![Exemplo](/img/exemplo_sentado.png)
 
 Ao mesmo tempo, a imagem acima é só um exemplo de como isso pode ser feito.
 
@@ -73,13 +73,13 @@ Ao posicionar a mão no teclado para digitar, queremos mantê-la neutra em rela�
 
 Desvio ulnar e radial são os movimentos mostrados pela imagem abaixo.
 
-<img src="/Tergo-Sofle-Documentation/img/desvio_ulnar_e_radial.png" alt="Exemplo"  />
+![Exemplo](/img/desvio_ulnar_e_radial.png)
 
 Abaixo estão exemplos de como não posicionar e outro de como posicionar.
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_ruim_posicionamento.jpg" alt="Exemplo"  />
+![Exemplo](/img/exemplo_ruim_posicionamento.jpg)
 
-<img src="/Tergo-Sofle-Documentation/img/exemplo_bom_posicionamento.jpg" alt="Exemplo"  />
+![Exemplo](/img/exemplo_bom_posicionamento.jpg)
 
 ### Exemplos de posicionamento das mãos
 
@@ -90,13 +90,13 @@ Abaixo estão exemplos de como não posicionar e outro de como posicionar.
 
 ### Lados próximos
 
-<img src="/Tergo-Sofle-Documentation/img/teclados_proximos.png" alt="Exemplo"  />
+![Exemplo](/img/teclados_proximos.png)
 
 Acima os lados estão próximos. Repare que os curvei para dentro, pois assim evito desvio ulnar e radial. Além disso, ocupa pouco espaço.
 
 ### Lados afastados
 
-<img src="/Tergo-Sofle-Documentation/img/teclados_afastados.png" alt="Exemplo"  />
+![Exemplo](/img/teclados_afastados.png)
 
 Acima os lados estão afastados. Dessa forma, consigo me encostar na cadeira e usar os apoios de braço, por exemplo.
 
@@ -129,13 +129,13 @@ Perceba que ao posicionar idealmente os dedos nessas teclas, especialmente o min
 
 Exemplo dos dedos nas teclas conforme sugerido anteriormente.
 
-<img src="/Tergo-Sofle-Documentation/img/mao_garra.jpg" alt="Exemplo Mão Garra"  />
+![Exemplo Mão Garra](/img/mao_garra.jpg)
 
 Por outro lado, pode ser que você prefira deixar a mão mais alongada e pressionar as teclas com a região da digital dos dedos. A consequência disso é que o mindinho, em especial, ficará mais para baixo da tecla onde ele deveria normalmente estar, ou seja, provavelmente ficando mais perto da tecla com letra Z do que da letra A.
 
 Exemplo da mão mais estendida. Note a posição em que o mindinho ficou.
 
-<img src="/Tergo-Sofle-Documentation/img/mao_estentida.jpg" alt="Exemplo Mão Estendida"  />
+![Exemplo Mão Estendida](/img/mao_estentida.jpg)
 
 #### Polegares
 
@@ -147,7 +147,7 @@ Utilizar a lateral da ponta do dedão é o mais comum e mais fácil de se adapta
 
 Abaixo encontra-se um exemplo ilustrativo de um possível posicionamento.
 
-<img src="/Tergo-Sofle-Documentation/img/mao_dedao.jpg" alt="Exemplo Dedão"  />
+![Exemplo Dedão](/img/mao_dedao.jpg)
 
 :::tip
 Uma dica para evitar que você perca referência de qual tecla seu dedão está durante a fase de adaptação à digitação nele é substituir a keycap dessa tecla pela tecla "5" que vem em kits de keycaps que incluem teclado numérico, pois essa tecla possui um **relevo** (assim com as teclas `F` e `J`) que ajudará você a se guiar.
@@ -157,7 +157,7 @@ Uma dica para evitar que você perca referência de qual tecla seu dedão está 
 
 ### Touch Typing
 
-<img src="/Tergo-Sofle-Documentation/img/touch-typing.png" alt="Exemplo"  />
+![Exemplo](/img/touch-typing.png)
 
 "Touch Typing" é vista como a maneira recomendada de digitar mesmo em teclados convencionais.
 
@@ -245,7 +245,7 @@ Mas quando criar ou modificar alguma camada de teclas tenha em mente a seguinte 
 
 ## Inclinação dos Lados
 
-<img src="/Tergo-Sofle-Documentation/img/laterais-inclinadas.jpg" alt="Exemplo" width="500" />
+![Exemplo](/img/laterais-inclinadas.jpg)
 
 Inclinar os lados diminui a tensão nos antebraços e pulso causadas pela pronação das mãos. É muito interessante de experimentar. Segundo relatos lidos, também pode fornecer alivio imediato para quem já possui problemas ou dores decorrentes da digitação tradicional, assim como mouses verticais.
 
@@ -263,11 +263,11 @@ Isso pode facilitar o alcance das teclas e melhorar o angulo de digitação.
 
 Experimente posicionar o inclinador lateral menor na parte frontal do seu teclado, próximo à região do USB, de forma que o teclado se acomode nele e forneça uma inclinação estável e confortável, conforme exemplo abaixo.
 
-<img src="/Tergo-Sofle-Documentation/img/inclinacao-frontal.jpg" alt="Exemplo" width="400" />
+![Exemplo](/img/inclinacao-frontal.jpg)
 
 ## Apoios de pulso
 
-<img src="/Tergo-Sofle-Documentation/img/almofadas.jpg" alt="Exemplo"  />
+![Exemplo](/img/almofadas.jpg)
 
 Os apoios de pulso podem te ajudar em diversos quesitos:
 - ter uma superfície macia para apoiar parte da mão/braço
@@ -280,7 +280,7 @@ Para usá-lo, experimente diversas configurações para entender o que funciona 
 
 ### "Inclinação Negativa"
 
-<img src="/Tergo-Sofle-Documentation/img/negative-tilt.jpg" alt="Exemplo" width="600" />
+![Exemplo](/img/negative-tilt.jpg)
 
 Muitas vezes em teclados tradicionais, especialmente os inclinados para frente, temos que inclinar nossa mão para cima para alcançar as teclas.
 
@@ -324,7 +324,7 @@ Ela é pensada para ficar o mais parecida possível com teclados tradicionais, s
 - [Inclinação frontal](#inclinação-frontal-utilizando-inclinadores-laterais), para ficar semelhante a teclados tradicionais
 - (opcional) almofadas como ponto de apoio para o pulso ou palma
 
-<img src="/Tergo-Sofle-Documentation/img/tergo-proximos.jpg" alt="Exemplo" />
+![Exemplo](/img/tergo-proximos.jpg)
 
 :::tip
 Essa configuração não terá todas vantagens de ergonomia que o teclado pode trazer, mas ainda assim deve ser confortável.
@@ -350,7 +350,7 @@ Não me aprofundarei neste tópico dado não ser especialista da área médica, 
 
 ### Controvérsia do Uso do Apoio de Braço da Cadeira
 
-<img src="/Tergo-Sofle-Documentation/img/apoio-braco.jpg" alt="Exemplo" width="500" />
+![Exemplo](/img/apoio-braco.jpg)
 
 É comum o apoio de braço das cadeiras ser vendido como algo ideal para apoiar os braços durante a digitação. Porém pode ser muito pelo contrário.
 

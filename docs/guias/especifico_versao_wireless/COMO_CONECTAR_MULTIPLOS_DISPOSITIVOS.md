@@ -12,7 +12,7 @@ Por padrão, o Tergo Sofle suporta conectar até 5 dispositivos por meio de _Blu
 
 Na camada de ajustes você possui teclas especiais para manipular essa funcionalidade.
 
-<img src="/Tergo-Sofle-Documentation/img/camada-ajustes-wireless.svg" alt="Exemplo"  />
+![Exemplo](/img/camada-ajustes-wireless.svg)
 
 ## Conectar dispositivo
 
@@ -55,7 +55,7 @@ Caso você tenha algum dispositivo _Bluetooth_ já pareado:
 - Você pode alternar o foco do seu teclado entre seu computador (dispositivo em que está conectado o repector) e dispositivos _Bluetooth_ clicando a tecla `🛜PC<->BT` no seu teclado, que consiste em acessar a camada de ajustes e clicar a letra `D`.
 - Você pode alterar entre dispositivos _Bluetooth_ conectados acessando a camada de ajustes e clicando no dispositivo desejado (1, 2, 3, 4 ou 5).
 
-<img src="/Tergo-Sofle-Documentation/img/camada-ajustes-wireless.svg" alt="Exemplo"  />
+![Exemplo](/img/camada-ajustes-wireless.svg)
 
 ### Outras funcionalidades
 

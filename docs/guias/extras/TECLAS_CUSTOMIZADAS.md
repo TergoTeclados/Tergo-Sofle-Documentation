@@ -6,7 +6,7 @@ A imagem abaixo é o teclado de um cliente que fez isso.
 
 Nesse guia falaremos sobre pontos positivos e negativos e como você pode ter as suas próprias teclas customizadas.
 
-<img src="/Tergo-Sofle-Documentation/img/keycaps_custom.jpeg" alt="Exemplo" width="500" />
+![Exemplo](/img/keycaps_custom.jpeg)
 
 ## O que é possível de fazer com teclas customizadas
 
@@ -56,4 +56,4 @@ Quando chegar no Brasil, será retido na alfândega e cobrados impostos para lib
 Recomendo acompanhar o código de rastreio ou até baixar o aplicativo do Correios para monitorar sua encomenda e pagar os impostos assim que notificado.
 :::
 
-<img src="/Tergo-Sofle-Documentation/img/fkcustom.png" alt="Exemplo" width="500" />
+![Exemplo](/img/fkcustom.png)
