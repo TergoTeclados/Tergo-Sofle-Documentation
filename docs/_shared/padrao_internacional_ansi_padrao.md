@@ -27,7 +27,7 @@ Para o símbolo grave (``` ` ```), segure a tecla `Fn` (tecla do dedão esquerdo
 
 Caso prefira, você pode mudar para o padrão ABNT2 ou para o Internacional.
 
-[Esse guia](./guias/especifico_versao_padrao/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) ensina detalhadamente como fazer isso.
+[Esse guia](../guias/especifico_versao_padrao/COMO_USAR_LAYOUT_PORTUGUES_BRASIL_ABNT.md) ensina detalhadamente como fazer isso.
 
 </details>
 

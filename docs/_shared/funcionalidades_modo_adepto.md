@@ -12,7 +12,7 @@ Essas funcionalidades consistem de teclas com comportamentos especiais que visam
 
 Não se assuste! Te explicamos tudo. Um passo por vez.
 
-Recomenda-se que você explore o restante do manual e, em seguida, o [guia de como digitar com ergonomia](./ergonomia/COMO_DIGITAR_COM_ERGONOMIA.md), e que se adapte ao teclado antes de você experimentar essas funcionalidades do modo adepto.
+Recomenda-se que você explore o restante do manual e, em seguida, o [guia de como digitar com ergonomia](../ergonomia/COMO_DIGITAR_COM_ERGONOMIA.md), e que se adapte ao teclado antes de você experimentar essas funcionalidades do modo adepto.
 
 :::note
 Alterar entre o modo básico e adepto não é persistente, voltando ao modo básico caso o teclado seja reiniciado.

@@ -51,7 +51,7 @@ Para converter o seu teclado, basta seguir o guia de [como trocar as placas cont
 
 O processo de conversão consiste em substituir as placas controladoras antigas pelas novas, da versão Wireless.
 
-Após isso, você pode ver o [manual da versão Wireless](../../MANUAL_TERGO_SOFLE_WIRELESS.md) para entender como a versão Wireless do teclado funciona.
+Após isso, você pode ver o [manual da versão Wireless](../../MANUAL_TERGO_SOFLE_WIRELESS.mdx) para entender como a versão Wireless do teclado funciona.
 
 ## Diferenças do teclado convertido para Wireless e de um teclado que nasceu como Wireless
 

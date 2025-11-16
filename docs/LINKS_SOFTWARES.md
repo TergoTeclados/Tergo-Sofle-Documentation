@@ -40,7 +40,7 @@ Escolha o software correto para a versão do seu teclado Tergo Sofle:
 :::warning
 **Importante:** É necessário desbloquear o teclado antes de usar o ZMK Studio.
 
-Consulte a [documentação da versão wireless](./MANUAL_TERGO_SOFLE_WIRELESS.md) para saber como fazer isso.
+Consulte a [documentação da versão wireless](./MANUAL_TERGO_SOFLE_WIRELESS.mdx) para saber como fazer isso.
 :::
 
 </div>
