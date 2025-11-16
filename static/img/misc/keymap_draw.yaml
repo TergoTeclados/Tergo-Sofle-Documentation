@@ -79,7 +79,7 @@ layers:
   - F10
   - F11
   - {t: ▽, type: trans}
-  - '`'
+  - "`"
   - '^'
   - '+'
   - '{'
@@ -187,7 +187,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  Ajustes:
+  Ajustes (versão Padrão):
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
