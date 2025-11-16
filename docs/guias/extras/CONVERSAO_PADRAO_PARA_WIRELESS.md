@@ -2,9 +2,15 @@
 
 Esse guia explicará sobre o processo de conversão da versão com fio para a sem fio do teclado Tergo Sofle
 
-## O processo de conversão com o kit
+## O processo de conversão
 
-Consiste em substituir as placas controladoras das metades pelas novas placas do kit de conversão
+Há 2 formas de realizar a conversão:
+- Sozinho em casa, com o kit de conversão da Tergo
+- Enviando o teclado para nós aplicarmos o kit de conversão
+
+Converta seu teclado ou entenda mais [clicando aqui para ir à loja da Tergo](https://tecladoergonomico.com.br/loja/conversao-tergo-sofle-com-fio-para-sem-fio/).
+
+O processo consiste em substituir as placas controladoras das metades pelas novas placas especiais do kit de conversão.
 
 ## Diferenças da versão com fio
 
@@ -43,13 +49,7 @@ Caso tenha optado por realizar o processo sozinho, seja cuidadoso e fique atento
 
 Para converter o seu teclado, basta seguir o guia de [como trocar as placas controladoras do seu teclado](../../CUIDADOS_E_RESOLUCAO/manutencao/TROCAR_PLACA_CONTROLADORA.md).
 
-Ele te ensinará a remover as placas atuais do seu teclado e colocar placas novas.
-
-:::warning
-É importante que antes de tentar ligar o teclado você se atente ao restante desse guia.
-
-Em especial, ao próximo tópico, de [Diferenças do teclado convertido para Wireless e de um teclado que nasceu como Wireless](#diferenças-do-teclado-convertido-para-wireless-e-de-um-teclado-que-nasceu-como-wireless).
-:::
+O processo de conversão consiste em substituir as placas controladoras antigas pelas novas, da versão Wireless.
 
 Após isso, você pode ver o [manual da versão Wireless](../../MANUAL_TERGO_SOFLE_WIRELESS.md) para entender como a versão Wireless do teclado funciona.
 
@@ -59,6 +59,8 @@ Após isso, você pode ver o [manual da versão Wireless](../../MANUAL_TERGO_SOF
 
 :::danger
 No seu teclado convertido, os USBs entre as metades **não** devem ser conectados. Conectá-los pode causar danos inesperados no seu teclado.
+
+Nós enviamos tampas para você encaixar nesses USBs laterais.
 :::
 
 ### Como ligar o teclado
