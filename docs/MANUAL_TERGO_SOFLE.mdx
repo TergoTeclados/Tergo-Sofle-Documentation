@@ -1,0 +1,191 @@
+---
+sidebar_label: 'Manual Tergo Sofle (com fio)'
+sidebar_position: 2
+---
+
+import Inclinadores from './_shared/inclinadores.md';
+import LayoutTeclado from './_shared/layout_teclado.md';
+import PadraoInternacional from './_shared/padrao_internacional_ansi_padrao.md';
+import PadraoABNT2 from './_shared/padrao_abnt2.md';
+import CamadasTeclas from './_shared/camadas_teclas.md';
+import ModoBasicoAdepto from './_shared/modo_basico_adepto.md';
+import FuncionalidadesModoAdepto from './_shared/funcionalidades_modo_adepto.md';
+import ComoDigitar from './_shared/como_digitar.md';
+import Contato from './_shared/contato.md';
+
+# Manual Tergo Sofle (com fio)
+
+## Resumo
+
+Neste manual você vai saber os aspectos importantes para utilizar seu teclado Tergo Sofle.
+
+## Aproveite sua jornada!
+
+Com um passo de cada vez, entenda cada aspecto do seu teclado.
+
+Os guias te ajudarão e estão super detalhados, para que você desfrute do máximo potencial de cada aspecto do seu teclado.
+
+## Instalação
+
+Seu teclado já vem com os cabos necessários para o funcionamento.
+
+- Conecte os lados com o cabo USB-C para C (conectores laterais);
+
+- Conecte o lado esquerdo do teclado ao computador com o outro cabo USB-C ao seu computador (conector fêmea da parte de cima);
+
+A imagem abaixo mostra um exemplo da disposição dos cabos:
+
+![Exemplo](/img/exemplo_cabos.jpg)
+
+<Inclinadores />
+
+<LayoutTeclado />
+
+## Layout de teclas
+
+O seu teclado pode vir configurado no [padrão internacional (ASNI)](#padrão-internacional-ansi) ou em [português (ABNT2)](#padrão-abnt2).
+
+<PadraoInternacional />
+
+<PadraoABNT2 />
+
+<CamadasTeclas />
+
+## Vial: Software para configuração
+
+![Exemplo](/img/vial_exemplo.png)
+
+O teclado usa a interface para configurações em tempo real [Vial](https://get.vial.today/).
+
+Você pode utilizar o [Vial no próprio navegador](https://vial.rocks/) ou [baixar o aplicativo do Vial](https://get.vial.today/download/) para seu sistema operacional. Em ambos os casos, espere seu teclado ser reconhecido no software e o selecione. As modificações são feitas em tempo real.
+
+_Caso use Linux e o Vial não esteja conectando como esperado, pode ser necessário fazer [este](https://get.vial.today/manual/linux-udev.html) passo adicional._
+
+### Como usar o Vial
+
+Para modificar as teclas do seu teclado no Vial:
+1. **Selecione a tecla** que você quer substituir clicando nela no layout visual
+2. **Clique na nova função** que você quer que essa tecla tenha (letra, símbolo, função especial, etc.)
+3. **Troque entre as camadas** clicando nos números (0, 1, 2, etc.) na parte superior para navegar entre as diferentes camadas do teclado e customizar cada uma
+
+Aproveite e já abra o Vial, e navegue pelas camadas de teclas para entender a posição de cada tecla em cada camada. Não se assuste, é mais simples do que parece.
+
+Não se preocupe em entender agora o que cada menu do Vial faz. Te explicaremos aos poucos nos próximos guias, como o de [modificações e funcionalidades que contribuem para ergonomia](./ergonomia/MODIFICACOES_E_FUNCIONALIDADES_QUE_CONTRIBUEM_PARA_ERGONOMIA.md).
+
+Com o [Vial](https://get.vial.today/), você tem funcionalidades diversas. Algumas das principais que você provavelmente utilizará são:
+
+- Ver o mapeamento de cada tecla;
+- Modificar o que cada tecla faz;
+- Modificar camadas;
+- Configurar o RGB;
+- Configurar variáveis específicas de funcionalidades do firmware QMK;
+- Entre outros.
+
+Se tem uma ideia em mente que não está documentada ou não encontrou, pode entrar em contato conosco que te ajudo e adiciono à documentação.
+
+## Telas OLED
+
+As telas OLED não só oferecem um visual único mas também possuem utilidades.
+
+Na tela esquerda, é possível visualizar qual é a camada base do teclado, a camada atual ativa, e se teclas especiais como o capslock estão ativas.
+
+![Exemplo](/img/exemplo_telas.jpg)
+
+Desfrute delas para te ajudar principalmente a entender o sistema de camadas.
+
+Também, na tela direita, quando você está na camada de ajuste, você verá variáveis relacionadas ao RGB e a versão do firmware do teclado.
+
+![Exemplo](/img/exemplo_tela_config.jpg)
+
+### Utilize as telas OLED para se guiar
+
+Você também pode, a partir da camada de "ajustes", clicar a tecla "B" para mudar o conteúdo das telas e ver exatamente o número das camadas ao invés dos textos, o que pode ajudar você a entender melhor em qual camada seu teclado está quando estiver configurando suas camadas.
+
+<ModoBasicoAdepto />
+
+<FuncionalidadesModoAdepto />
+
+## Atalhos no teclado
+
+Algumas configurações são feitas no próprio teclado.
+
+Estando na camada de ajustes (por padrão segurando a tecla do lado direito abaixo da tela OLED), você conta com atalhos para opções diversas.
+
+Além disso, você pode visualizar o mapeamento de todas essas teclas e modificar pela interface do Vial.
+
+### Ligar/Desligar OLED
+
+Enquanto na camada de ajustes, pressione "G" para ligar ou desligar o OLED.
+
+_Ps: a configuração não é persistente, então ao desligar e ligar o teclado por padrão a tela vem ligada._
+
+### Alterar camada base
+
+Enquanto na camada de ajustes, altere entre as 3 possíveis camadas base configuradas clicando X, C ou V.
+
+### Configurar RGB
+
+Você pode alterar todas variáveis relacionadas a RGB estando na camada de ajustes, mas também na própria interface do Vial.
+
+Enquanto na camada de ajustes, clique "T" para ligar ou desligar o RGB.
+
+As variaveis são relacionadas a brilho, efeito, saturação e velocidade do efeito.
+
+Use o Vial para facilmente visualizar o mapeamento das teclas que ajustam o RGB.
+
+## Cuidados com seu teclado
+
+:::warning
+Tenha atenção em relação aos seguintes pontos:
+- Não force os conectores USB **superiores** ou **laterais** ao conectar cabos
+- Cuidado com líquidos perto do seu teclado
+- Atenção ao desmontar o teclado sozinho ou realizar manutenções (consulte o [manual de montagem e manutenção](./CUIDADOS_E_RESOLUCAO/manutencao/MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) caso queira fazer isso)
+:::
+
+:::warning
+Cuidados gerais:
+- Não deixe o teclado exposto ao sol diretamente
+- Evite usar álcool para limpar a estrutura do teclado, pois as peças superiores (exceto teclas) podem ser pintadas e isso pode afetar a tinta
+- Dê preferência por limpá-lo a seco, com um pano ou a vassourinha que enviamos juntamente ao teclado
+:::
+
+:::danger
+Os conectores USB laterais servem apenas para comunicação entre os lados do teclado, por meio de USB C para C.
+
+Jamais conecte um cabo em um dos conectores USB laterais para qualquer outro propósito, como conectar um cabo entre o computador e o USB da lateral. Sujeito a perda de garantia.
+:::
+
+:::tip
+Evite remover quando possível o cabo USB que conecta as laterais para evitar estressar os conectores e maximizar a durabilidade do seu teclado.
+:::
+
+:::note
+O teclado Tergo foi feito para ser durável e facilmente renovável.
+
+Entretanto, ninguém quer presenciar defeitos no seu produto por conta de potenciais mal usos.
+:::
+
+<ComoDigitar />
+
+## Atualizar firmware
+
+A Tergo Teclados pretende lançar futuramente melhorias no Firmware do teclado e você deve ser notificado disso.
+
+Para atualizar o firmware, consulte o [guia de como atualizar o firmware](./guias/especifico_versao_padrao/COMO_ATUALIZAR_FIRMWARE.md).
+
+## Modificar manualmente o _firmware_
+
+Isto aqui é considerado um tópico avançado, para você que tem interesse em programar e modificar diretamente o código-fonte do seu teclado.
+
+Existem modificações mais específicas que a interface Vial ainda não oferece mas que podem ser modificadas no próprio _firmware_. Isso vai requerer conhecimento em programação e baixar softwares.
+
+Para se aventurar no mundo de modificação do _firmware_, use o [Manual de Modificação do Firmware](./guias/especifico_versao_padrao/modificar_codigo_fonte/COMO_MODIFICAR_CODIGO_FONTE.md).
+
+Algumas dessas modificações são: mudar o conteúdo nas telas OLED, mudar o comportamento _tap-hold_ por tecla, entre outros.
+
+## Próximos passos
+
+Vá para o [guia de como digitar com ergonomia](./ergonomia/COMO_DIGITAR_COM_ERGONOMIA.md) e descubra a maneira recomendada para digitar.
+
+<Contato />
+
