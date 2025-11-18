@@ -9,5 +9,5 @@ Veja desde guias de manutenção preventiva até soluções para problemas espec
 ### 🛠️ [Problemas e Soluções](problemas_e_solucoes/README.md)
 Soluções para problemas e dúvidas que você pode encontrar na sua jornada.
 
-### 🔧 [Manutenção](./manutencao/README.md)
+### 🔧 [Manutenção](/docs/category/cuidados-e-manutenção)
 Guias para te ajudar a mexer fisicamente no teclado, trocar partes e outros detalhes.
