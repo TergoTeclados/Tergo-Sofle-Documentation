@@ -19,9 +19,3 @@
 É importante gravar novamente o firmware do Tergo Sofle com o ZMK Studio bloqueado, pois tê-lo desbloqueado é uma vulnerabilidade de segurança para seu teclado e seu computador.
 
 :::
-
-## Guias Relacionados
-
-- [Voltar ao índice de problemas de software](./README.md)
-- [Instruções Básicas](./README.md) - Volte aqui se as soluções básicas não foram tentadas
-- [Problemas de Hardware](../hardware/README.md) - Para problemas físicos e de conectividade

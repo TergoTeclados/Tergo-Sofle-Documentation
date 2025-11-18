@@ -23,9 +23,3 @@ Se está tentando digitar no teclado para enviar texto ao computador e você tem
 Se você tiver tela no receptor, tente ver no canto superior esquerdo qual opção está selecionada para enviar os inputs: dispositivo no qual o receptor está conectado ou dispositivo bluetooth conectado.
 
 Solução: tente primeiro reiniciar todas as partes. Se não funcionar, consulte o [guia de como conectar múltiplos dispositivos](../../../guias/especifico_versao_wireless/COMO_CONECTAR_MULTIPLOS_DISPOSITIVOS.md) para ver como resetar as configurações de bluetooth do teclado.
-
-## Guias Relacionados
-
-- [Voltar ao índice de problemas de software](./README.md)
-- [Instruções Básicas](./README.md) - Volte aqui se as soluções básicas não foram tentadas
-- [Problemas de Hardware](../hardware/README.md) - Para problemas físicos e de conectividade

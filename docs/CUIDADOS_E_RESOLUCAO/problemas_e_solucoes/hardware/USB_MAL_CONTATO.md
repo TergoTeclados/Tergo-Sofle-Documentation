@@ -25,9 +25,3 @@ Nesse caso, siga [esse guia](../../manutencao/TROCAR_PLACA_CONTROLADORA.md) de f
 ### Trocar placa controladora por nova
 
 Siga [esse guia](../../manutencao/TROCAR_PLACA_CONTROLADORA.md) para saber como adquirir uma e trocar.
-
-## Guias Relacionados
-
-- [Voltar ao índice de problemas de hardware](./README.md)
-- [Instruções Básicas](./README.md) - Volte aqui se as soluções básicas não foram tentadas
-- [Problemas de Software](../software/README.md) - Para problemas relacionados ao firmware

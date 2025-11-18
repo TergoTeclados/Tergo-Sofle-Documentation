@@ -19,6 +19,6 @@ Se os passos acima não resolveram, encontre a solução para seu problema:
 
 - **Use a busca** - Pesquise pelo seu problema na barra de busca
 - **Navegue pelas categorias**:
-  - [Problemas de Hardware](./hardware/) - Problemas físicos, conectividade, componentes
-  - [Problemas de Software](./software/) - Firmware, configurações, funcionalidades
+  - [Problemas de Hardware](./hardware) - Problemas físicos, conectividade, componentes
+  - [Problemas de Software](./software) - Firmware, configurações, funcionalidades
 - **Entre em contato** - Se não encontrar a solução, entre em contato conosco
