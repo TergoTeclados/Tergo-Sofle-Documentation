@@ -14,8 +14,14 @@ Assim, recomendamos a leitura desse guia conforme necessário por possuir maior 
 
 Vídeo abaixo:
 
+:::tip O vídeo pode estar um pouco desatualizado
+
+Fique atento também aos textos deste guia que são mais atualizados.
+
+:::
+
 <a href="https://youtu.be/1R6661NIb30" target="_blank">
-<img src="/img/youtube-icon.png" alt="Exemplo" width="100" />
+<img src="/Tergo-Sofle-Documentation/img/youtube-icon.png" alt="Exemplo" width="100" />
 </a>
 
 [Veja no Youtube](https://youtu.be/1R6661NIb30)
@@ -29,25 +35,49 @@ Alguns motivos do porquê você pode querer atualizar o firmware:
 - Colocar sua versão customizada do firmware
 - Usar um novo receptor para o teclado
 
-## Baixar firmware atualizado
+## Onde baixar o firmware
+
+:::warning Atenção para baixar o arquivo correto para seu receptor
+
+Há 2 critérios a ter atenção ao baixar o arquivo para seu receptor, pois há 4 versões diferentes:
+- Linguagem desejada: **ABNT2** ou **ANSI**
+- Versão ta tela utilizada: **displayV1** ou **displayV2**
+
+Baixe o arquivo que o nome equivale ao seu.
+
+:::
+
+:::tip Qual versão da tela é a minha?
+
+Até o momento, todos teclados feitos usam o **displayV1**. Em breve usaremos a próxima.
+
+<!-- Para isso, basta verificar quando adquiriu o teclado ou o número do seu pedido.
+
+- Se foi antes da data **X** (ou pedido **Y**), você tem o **displayV1**
+- Se foi após da data **X** (ou pedido **Y**), você tem o **displayV1**
+ -->
+
+Obs.: Ambas versões de telas são fisicamente iguais, mas usam tecnologias diferentes, por isso a diferença.
+
+:::
 
 Sempre que houver um lançamento de uma nova versão do firwmare, ela será publicada no [repositório do Firmware](https://github.com/TergoTeclados/zmk-config-tergo-sofle/releases) e cada usuário notificado.
 
-Baixe a versão mais recente do firwmare para garantir que você está em dia com as atualizações.
-
 Basta clicar em cada arquivo do tipo `.uf2` para baixar cada um.
-
-:::warning
-Baixe o arquivo para o receptor com o padrão de linguagem desejado: internacional ou ABNT2.
-Escolha apenas um deles para gravar no seu receptor.
-:::
 
 ## Colocar firmware no teclado
 
-O processo de gravação do _firmware_ no teclado consiste em colocar em modo de gravação e copiar e colar o arquivo do firmware de reset e então o arquivo de firmware dessa parte do teclado que precisa ser atualizada.
+O processo de gravação do _firmware_ no teclado consiste em:
+- Colocar a parte do teclado em modo de gravação
+- Copiar e colar o arquivo de `reset-firmware` para a parte
+- Colocar novamente a parte em modo de gravação
+- Então copiar e colar o arquivo especifico do firmware para essa parte
+- Repetir o processo conforme necessário para cada parte: receptor, metade esquerda e metade direita
 
 :::note
-Atualizar o _firmware_ não irá remover as customizações que você realizou no teclado pelo ZMK Studio. Isso é feito diretamente no painel do ZMK Studio.
+Atualizar o _firmware_ pode acabar removendo as customizações que você realizou no teclado pelo ZMK Studio.
+
+Por padrão, para resetar essas customizações isso é feito diretamente no painel do ZMK Studio.
 :::
 
 ## Há 2 formas de colocar o teclado em modo de gravação
