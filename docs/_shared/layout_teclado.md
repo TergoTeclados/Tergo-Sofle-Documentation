@@ -31,7 +31,7 @@ No Windows 11, a imagem abaixo representam respectivamente o computador com 2 la
 
 No Mac, o fluxo pode ser diferente. A princípio, siga o seguinte fluxo para configurar o teclado no padrão internacional (ASNI):
 
-`System Settings > Change Keyboard Type > ANSI (U.S.)`
+`System Settings > Keyword > Change Keyboard Type > ANSI (U.S.)`
 
 </details>
 
