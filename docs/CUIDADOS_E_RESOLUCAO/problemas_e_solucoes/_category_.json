@@ -2,6 +2,7 @@
   "label": "Problemas e Soluções",
   "position": 1,
   "link": {
-    "type": "generated-index"
+    "type": "doc",
+    "id": "CUIDADOS_E_RESOLUCAO/problemas_e_solucoes/README"
   }
 }
