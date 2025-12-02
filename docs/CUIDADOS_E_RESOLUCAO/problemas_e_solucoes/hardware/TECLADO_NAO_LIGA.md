@@ -87,9 +87,38 @@ Se nenhum dos testes acima resolveu o problema:
 - **Anote todos os resultados** dos testes realizados
 - **Entre em contato**
 - Informe quais testes foram feitos e seus resultados
+- Experimente os testes avançados seguintes
 
-Isso ajudará a identificar se o problema é:
-- Falha na placa controladora
-- Problema no cabo USB (versão Padrão)
-- Problema na conexão USB (versão Padrão)
-- Problema na bateria ou carregamento (versão Wireless)
+Também há testes mais avançados que devem ser relevantes para descobrirmos a causa do problema.
+
+## Testes avançados
+
+Esses testes visam descobrir outras possíveis causas mais incomuns:
+- Mal contato da placa controladora
+- Tela OLED causando problema
+
+### Testar mal contato da placa controladora
+
+Primeiramente:
+- Abra a tampa da metade do teclado suspeita de problema
+- Levante a tela OLED conforme imagem abaixo para ter mais acesso à placa controladora
+
+![Exemplo](/img/oled-levantado.jpg)
+
+- Ligue o cabo USB à metade do teclado que será testada
+- Faça pressão com o dedo a placa controladora
+- Veja se alguma tecla responde ou se o teclado liga
+
+:::tip
+
+A foto abaixo não está com o cabo USB que liga ao computador conectado, mas deve ser conectado para energizar e ver se o teclado liga.
+
+:::
+
+![Exemplo](/img/apertando-placa.jpg)
+
+### Tela OLED com problema
+
+Por mais que extremamente raro, é válido testar:
+- Remova a tela OLED, puxando ela pelas laterais para cima aos poucos, aplicando a força necessária
+  - Veja [essa seção de outro guia nosso](../../manutencao/TROCAR_PLACA_CONTROLADORA.md#remoção-da-tela-oled) que explica isso com detalhes
