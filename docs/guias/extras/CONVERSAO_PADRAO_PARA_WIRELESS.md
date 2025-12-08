@@ -53,14 +53,31 @@ O processo de conversão consiste em substituir as placas controladoras antigas 
 
 Após isso, você pode ver o [manual da versão Wireless](../../MANUAL_TERGO_SOFLE_WIRELESS.mdx) para entender como a versão Wireless do teclado funciona.
 
-## Diferenças do teclado convertido para Wireless e de um teclado que nasceu como Wireless
+### Cuidados na conversão
+
+### Cuidado com a bateria e os fios
+
+:::warning Cuidado com a bateria
+Fique atento para:
+- Não amassar a bateria com força ao encaixar a placa controladora no teclado
+- Não colocar força nos fios da bateria
+- Atente-se a qual metade é a esquerda e a direita
+
+No guia de como trocar a placa controladora nós comentamos os pontos onde deve-se ter cuidado durante o processo.
+:::
+
+### Encaixe a controladora na metade certa
+
+Busque por indicadores visuais para saber qual placa vai em qual lado, como um adesivo indicando.
+
+Ele pode ser removido após isso.
 
 ### Não conecte os USBs entre as metades
 
 :::danger
 No seu teclado convertido, os USBs entre as metades **não** devem ser conectados. Conectá-los pode causar danos inesperados no seu teclado.
 
-Nós enviamos tampas para você encaixar nesses USBs laterais.
+Nós enviamos um par de tampas emborrachadas pretas para você encaixar nesses USBs laterais.
 :::
 
 ### Como ligar o teclado
