@@ -54,7 +54,7 @@ Para isso, basta verificar quando adquiriu o teclado ou o número do seu pedido.
 - Se foi **antes de 04/12/2025** (ou pedido **7261**), você tem o **displayV1**
 - Se foi **depois de 04/12/2025** (ou pedido **7261**), você tem o **displayV2**
 
-Obs.: Ambas versões de telas são fisicamente iguais, mas usam tecnologias diferentes, por isso a diferença.
+Obs.: Ambas versões de telas são fisicamente iguais, mas usam tecnologias diferentes, por isso a diferença. Caso não tenha telas, qualquer uma delas pode ser utilizada.
 
 :::
 
