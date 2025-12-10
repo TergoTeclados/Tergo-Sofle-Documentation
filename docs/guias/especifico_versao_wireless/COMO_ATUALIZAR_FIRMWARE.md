@@ -49,13 +49,10 @@ Baixe o arquivo que o nome equivale ao seu.
 
 :::tip Qual versão da tela é a minha?
 
-Até o momento, todos teclados feitos usam o **displayV1**. Em breve usaremos a próxima.
+Para isso, basta verificar quando adquiriu o teclado ou o número do seu pedido.
 
-<!-- Para isso, basta verificar quando adquiriu o teclado ou o número do seu pedido.
-
-- Se foi antes da data **X** (ou pedido **Y**), você tem o **displayV1**
-- Se foi após da data **X** (ou pedido **Y**), você tem o **displayV1**
- -->
+- Se foi **antes de 04/12/2025** (ou pedido **7261**), você tem o **displayV1**
+- Se foi **depois de 04/12/2025** (ou pedido **7261**), você tem o **displayV2**
 
 Obs.: Ambas versões de telas são fisicamente iguais, mas usam tecnologias diferentes, por isso a diferença.
 
