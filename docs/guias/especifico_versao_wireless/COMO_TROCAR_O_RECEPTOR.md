@@ -8,7 +8,7 @@ Você provavelmente irá querer trocar o receptor do seu teclado nos seguintes c
 
 Trocar o receptor requer a **regravação do firwmare em todas partes do teclado por completo**.
 
-Para isso, basta seguir o [guia de atualização do firwmare](./COMO_ATUALIZAR_FIRMWARE.md), usando o novo receptor.
+Para isso, basta seguir o [guia de atualização do firwmare](./COMO_ATUALIZAR_FIRMWARE.mdx), usando o novo receptor.
 
 ## Por que isso é necessário?
 

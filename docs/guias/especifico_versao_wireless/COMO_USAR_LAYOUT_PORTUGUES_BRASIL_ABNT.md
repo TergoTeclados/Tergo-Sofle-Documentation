@@ -25,7 +25,7 @@ Resume-se a realizar 2 configurações:
 
 O processo de mudar a lingua padrão é o mesmo de atualizar o firmware:
 
-[Clique aqui](./COMO_ATUALIZAR_FIRMWARE.md) para ver como isso é feito.
+[Clique aqui](./COMO_ATUALIZAR_FIRMWARE.mdx) para ver como isso é feito.
 :::
 
 1 - Baixe o arquivo de _firmware_ do receptor que contém o layout ABNT2 presente na [página do firmware da versão wireless](https://github.com/TergoTeclados/zmk-config-tergo-sofle/releases/). O nome do arquivo será algo semelhante a `sofle_receptor_abnt2.uf2`. Basta clicar no arquivo para baixá-lo.
