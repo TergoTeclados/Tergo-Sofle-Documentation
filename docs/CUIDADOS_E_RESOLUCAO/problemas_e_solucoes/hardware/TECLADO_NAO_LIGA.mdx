@@ -1,10 +1,40 @@
+import EditableTemplate from '@site/src/components/EditableTemplate';
+
 # Teclado não liga
 
 Seu teclado não está ligando ou respondendo? Siga este guia passo a passo para diagnosticar o problema.
 
 :::tip Importante
-Anote os resultados de cada teste que você fizer. Isso ajudará a identificar a causa do problema.
+Abaixo, anote os resultados de cada teste que você fizer para posteriormente nos enviar. 
+
+Isso nos ajudará a identificar a causa do problema.
 :::
+
+<EditableTemplate defaultText={`Versão do teclado (com foi ou sem fio): 
+
+TESTE INICIAL:
+1. Desligar/ligar teclado: 
+2. Porta USB diferente: 
+
+VERSÃO PADRÃO:
+3. USB esquerda (com cabo entre metades): 
+4. USB direita (com cabo entre metades): 
+
+5. USB esquerda (SEM cabo entre metades): 
+6. USB direita (SEM cabo entre metades): 
+
+7. Conector USB lateral: 
+8. Trocar cabo USB: 
+
+VERSÃO WIRELESS:
+9. LED esquerda: 
+10. LED direita: 
+11. Ligar só metade esquerda: 
+12. Ligar só metade direita: 
+
+OUTRAS OBSERVAÇÕES:
+
+`} />
 
 ## Teste inicial
 
@@ -78,14 +108,15 @@ Faça os passos abaixo para ambas metades do teclado:
 - Desligue ambas as metades e o receptor
 - Ligue apenas a **metade esquerda** e o receptor
 - Teste se o teclado responde
+- Tem tela OLED? Veja se aparece a bateria na tela. Obs.: pode demorar um pouco
 - Desligue tudo e repita com apenas a **metade direita** ligada
 
 ## Próximos passos
 
 Se nenhum dos testes acima resolveu o problema:
 
-- **Anote todos os resultados** dos testes realizados
-- **Entre em contato**
+- **Anote os resultados no template** dos testes realizados
+- **Entre em contato** e envie os testes realizados
 - Informe quais testes foram feitos e seus resultados
 - Experimente os testes avançados seguintes
 
@@ -122,3 +153,4 @@ A foto abaixo não está com o cabo USB que liga ao computador conectado, mas de
 Por mais que extremamente raro, é válido testar:
 - Remova a tela OLED, puxando ela pelas laterais para cima aos poucos, aplicando a força necessária
   - Veja [essa seção de outro guia nosso](../../manutencao/TROCAR_PLACA_CONTROLADORA.md#remoção-da-tela-oled) que explica isso com detalhes
+
