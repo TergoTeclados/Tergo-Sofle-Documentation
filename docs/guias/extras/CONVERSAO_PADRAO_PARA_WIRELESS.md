@@ -47,7 +47,7 @@ O firmware da versão Padrão é o QMK e da Wireless é o ZMK. Ambos suportam as
 Caso tenha optado por realizar o processo sozinho, seja cuidadoso e fique atento às intruções do nosso guia.
 :::
 
-Para converter o seu teclado, basta seguir o guia de [como trocar as placas controladoras do seu teclado](../../CUIDADOS_E_RESOLUCAO/manutencao/TROCAR_PLACA_CONTROLADORA.md).
+Para converter o seu teclado, basta seguir o guia de [como trocar as placas controladoras do seu teclado](../../CUIDADOS_E_RESOLUCAO/manutencao/TROCAR_PLACA_CONTROLADORA.mdx).
 
 O processo de conversão consiste em substituir as placas controladoras antigas pelas novas, da versão Wireless.
 

@@ -43,7 +43,7 @@ A poeira que entra na estrutura do teclado não deve afetar seu funcionamento, e
 :::
 
 :::tip
-Consulte o [manual de montagem](./MANUAL_DE_MONTAGEM_E_MANUTENCAO.md) para dicas de como desmontar.
+Consulte o [manual de montagem](./MANUAL_DE_MONTAGEM_E_MANUTENCAO.mdx) para dicas de como desmontar.
 :::
 
 ## Superfície das teclas
