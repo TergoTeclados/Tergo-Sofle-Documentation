@@ -30,6 +30,43 @@ import LayoutTeclado from './_shared/layout_teclado.md';
 - `como_digitar.md` - Seção sobre como digitar com ergonomia
 - `contato.md` - Seção de contato
 
+## Componentes React disponíveis
+
+### YouTubeVideo
+
+Componente para exibir vídeos do YouTube de forma reutilizável. Pode ser usado em qualquer arquivo `.mdx`:
+
+```mdx
+import YouTubeVideo from '@site/src/components/YouTubeVideo';
+
+# Meu Manual
+
+<YouTubeVideo 
+  videoId="jODsPcJ7b0g" 
+  title="Tutorial de Montagem"
+  embed={true}
+  showLink={true}
+/>
+```
+
+**Propriedades:**
+- `videoId` (obrigatório): ID do vídeo do YouTube (ex: "jODsPcJ7b0g" de https://youtu.be/jODsPcJ7b0g)
+- `title` (opcional): Título do vídeo
+- `embed` (opcional, padrão: `false`): Se `true`, mostra o vídeo embutido. Se `false`, mostra apenas link com ícone
+- `showLink` (opcional, padrão: `true`): Se `true`, mostra link de texto abaixo do vídeo/ícone
+
+**Exemplos:**
+
+Vídeo embutido (iframe):
+```mdx
+<YouTubeVideo videoId="jODsPcJ7b0g" embed={true} title="Tutorial Completo" />
+```
+
+Apenas link com ícone:
+```mdx
+<YouTubeVideo videoId="jODsPcJ7b0g" embed={false} title="Assista o tutorial" />
+```
+
 ## Nota importante
 
 Para usar imports, os arquivos principais precisam ter extensão `.mdx` ao invés de `.md`.

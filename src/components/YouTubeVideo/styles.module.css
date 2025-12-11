@@ -1,0 +1,53 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1.5rem 0;
+  gap: 0.5rem;
+}
+
+.embedWrapper {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+}
+
+.iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.link {
+  display: inline-block;
+  transition: transform 0.2s ease;
+}
+
+.link:hover {
+  transform: scale(1.05);
+}
+
+.icon {
+  width: 100px;
+  height: auto;
+}
+
+.linkText {
+  margin-top: 0.5rem;
+}
+
+.linkText a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.linkText a:hover {
+  text-decoration: underline;
+}
+
