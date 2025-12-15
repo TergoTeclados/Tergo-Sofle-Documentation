@@ -186,8 +186,8 @@ Abaixo estão alguns sites que podem ajudar. Escolha com base no que melhor se a
 
 - **[TypingClub](https://www.typingclub.com/)**: oferece cursos guiados, com lições progressivas e foco em quem está aprendendo Touch Typing do zero ou revisando a técnica. **Pode ser meio lento, então recomenda-se pular para testes mais avançados caso queira ser mais objetivo.**
 - **[Monkeytype](https://monkeytype.com/)**: permite praticar diversas linguagens, **inclusive linguagens de programação**. Ótimo para melhorar **velocidade** e praticar como você realmente escreve no dia a dia (código, textos longos, etc.).
-- **[Keybr](`https://www.keybr.com/`)**: gera combinações de letras e palavras pensadas para treinar exatamente as teclas que você mais erra. Excelente para melhorar **precisão** e corrigir vícios de digitação.
-- **[Typingcore](`https://www.typingcore.com/portugues/teste`)**: testes rápidos, em português. Site mais simples. Permite especificar teste sem acentos.
+- **[Keybr](https://www.keybr.com/)**: gera combinações de letras e palavras pensadas para treinar exatamente as teclas que você mais erra. Excelente para melhorar **precisão** e corrigir vícios de digitação.
+- **[Typingcore](https://www.typingcore.com/portugues/teste)**: testes rápidos, em português. Site mais simples. Permite especificar teste sem acentos.
 
 De forma geral, **se você está começando do zero com Touch Typing**, use o TypingClub como principal.  
 **Se já sabe digitar, mas erra muito certas colunas/teclas**, use o Keybr para treinos focados.  
