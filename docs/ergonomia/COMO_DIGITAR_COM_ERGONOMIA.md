@@ -179,6 +179,9 @@ Recomenda-se ler o restante deste guia e usá-lo também como referência enquan
 
 #### Sites indicados para praticar digitação
 
+![Exemplo](/img/monkeytype.png)
+*Exemplo de site: Monkeytype*
+
 Abaixo estão alguns sites que podem ajudar. Escolha com base no que melhor se adapta a você
 
 - **[TypingClub](https://www.typingclub.com/)**: oferece cursos guiados, com lições progressivas e foco em quem está aprendendo Touch Typing do zero ou revisando a técnica. **Pode ser meio lento, então recomenda-se pular para testes mais avançados caso queira ser mais objetivo.**
@@ -189,7 +192,6 @@ Abaixo estão alguns sites que podem ajudar. Escolha com base no que melhor se a
 De forma geral, **se você está começando do zero com Touch Typing**, use o TypingClub como principal.  
 **Se já sabe digitar, mas erra muito certas colunas/teclas**, use o Keybr para treinos focados.  
 **Se já está começando a se sentir confortável e confiante e quer ganhar velocidade e consistência**, use o Monkeytype.
-
 
 
 ## Dicas e curva de aprendizado
