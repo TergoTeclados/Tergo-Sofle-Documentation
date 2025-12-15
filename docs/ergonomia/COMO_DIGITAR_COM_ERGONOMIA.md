@@ -244,7 +244,7 @@ _Comentário traduzido [dessa postagem](https://www.reddit.com/r/ErgoMechKeyboar
 
 #### Como treinar
 
-Uma sugestão é fazer diariamente treinos de digitação com Touch Typing como dito na sessão de ["pratique touch typing"](#pratique-touch-typing), de 10 minutos por exemplo, caso queira ter uma mudança gradual.
+Uma sugestão é fazer diariamente treinos de digitação com Touch Typing como dito na sessão de ["pratique a digitação"](#pratique-a-digitação), de 10 minutos por exemplo, caso queira ter uma mudança gradual.
 
 ### Vou esquecer como usar um teclado tradicional?
 
