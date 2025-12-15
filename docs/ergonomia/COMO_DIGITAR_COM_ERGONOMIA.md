@@ -165,13 +165,32 @@ Resume-se a digitar sem olhar para o teclado e com 1 ou 2 colunas dedicadas para
 
 Ao mesmo tempo, é importante destacar que variações dessa técnica podem funcionar até melhor para cada um. Você verá mais detalhes nas dicas mais abaixo.
 
-### Pratique Touch Typing!
+### Pratique a digitação!
 
-Recomendo ler este guia inteiro e usá-lo também como referência enquanto pratica.
+Recomenda-se ler o restante deste guia e usá-lo também como referência enquanto pratica a digitação.
 
-Caso não tenha aprendido a digitar dessa maneira (ou mesmo que tenha) recomendamos que pratique online no site https://www.typingclub.com/.
+É hora de praticar para ficar proficiente no teclado e na digitação!
 
-Você pode experimentar alguns exemplos básicos e também pular direto para mais avançados.
+#### Como praticar
+
+- Recomendamos separar cerca de 10 minutos por dia para treinos focados.
+- Você não precisa substituir totalmente seu teclado pelo Tergo Sofle no primeiro dia. A adaptação é progressiva, e você pode alterar entre o uso dos seus teclados.
+- Inicie com testes de digitação que não usem muitos acentos ou símbolos especiais, para que você se acostume com o layout geral de teclas primeiramente, e então insira-os na sua rotina
+
+#### Sites indicados para praticar digitação
+
+Abaixo estão alguns sites que podem ajudar. Escolha com base no que melhor se adapta a você
+
+- **[TypingClub](https://www.typingclub.com/)**: oferece cursos guiados, com lições progressivas e foco em quem está aprendendo Touch Typing do zero ou revisando a técnica. **Pode ser meio lento, então recomenda-se pular para testes mais avançados caso queira ser mais objetivo.**
+- **[Monkeytype](https://monkeytype.com/)**: permite praticar diversas linguagens, **inclusive linguagens de programação**. Ótimo para melhorar **velocidade** e praticar como você realmente escreve no dia a dia (código, textos longos, etc.).
+- **[Keybr](`https://www.keybr.com/`)**: gera combinações de letras e palavras pensadas para treinar exatamente as teclas que você mais erra. Excelente para melhorar **precisão** e corrigir vícios de digitação.
+- **[Typingcore](`https://www.typingcore.com/portugues/teste`)**: testes rápidos, em português. Site mais simples. Permite especificar teste sem acentos.
+
+De forma geral, **se você está começando do zero com Touch Typing**, use o TypingClub como principal.  
+**Se já sabe digitar, mas erra muito certas colunas/teclas**, use o Keybr para treinos focados.  
+**Se já está começando a se sentir confortável e confiante e quer ganhar velocidade e consistência**, use o Monkeytype.
+
+
 
 ## Dicas e curva de aprendizado
 
