@@ -738,3 +738,5 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  Camada base com botões de camada destacados: [ESC, '1 !', '2 @', '3 #', '4 $', '5 %', '6 ^', '7 &', '8 *', '9 (', '0 )', '- _', TAB, Q, W, E, R, T, Y, U, I, O, P, 'BKSPC ←', SHIFT, A, S, D, F, G, H, J, K, L, '; :', ''' "', CTRL, Z, X, C,
+    V, B, {t: 'Controle de mídia', type: held}, {t: 'Config.', type: held}, N, M, ', <', '. >', '/ ?', 'ENTER ↲', {t: 'Teclado Numérico', type: held}, 'WIN MAC LINUX', LALT, 'SPACE ⌴', {t: 'Símbolos e Navegação', type: held}, 'ENTER ↲', 'BKSPC ←', DEL, 'WIN MAC LINUX', CTRL]
