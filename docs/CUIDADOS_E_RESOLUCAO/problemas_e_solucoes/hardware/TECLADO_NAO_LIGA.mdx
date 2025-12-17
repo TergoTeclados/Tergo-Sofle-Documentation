@@ -17,20 +17,38 @@ TESTE INICIAL:
 2. Porta USB diferente: 
 
 VERSÃO PADRÃO:
-3. USB esquerda (com cabo entre metades): 
-4. USB direita (com cabo entre metades): 
 
-5. USB esquerda (SEM cabo entre metades): 
-6. USB direita (SEM cabo entre metades): 
+Testes com cabo entre metades CONECTADO
+3. Conectar USB esquerda (com cabo entre metades): 
+4. Conectar USB direita (com cabo entre metades): 
+
+Testes com cabo entre metades DESCONECTADO
+5. Conectar USB esquerda (SEM cabo entre metades): 
+6. Conectar USB direita (SEM cabo entre metades): 
 
 7. Conector USB lateral: 
 8. Trocar cabo USB: 
 
 VERSÃO WIRELESS:
-9. LED esquerda: 
-10. LED direita: 
-11. Ligar só metade esquerda: 
-12. Ligar só metade direita: 
+
+Testes ligando metades pela chave liga/desliga
+9. LED vermelho esquerda liga?: 
+10. LED vermelho direita liga?: 
+
+Testes com cabo conectado para alimentação
+11. Esquerda: LED vermelho esquerda liga brevemente?:
+12. Esquerda: teclas respondem?:
+13. Esquerda: Status do LED azul com chave desligada (piscando, aceso ou apagado):
+14. Esquerda: Status do LED azul ao ligar a chave (piscando, aceso ou apagado):
+
+15. Direita: LED vermelho esquerda liga brevemente?:
+16. Direita: Status do LED azul com chave desligada (piscando, aceso ou apagado):
+17. Direita: Status do LED azul ao ligar a chave (piscando, aceso ou apagado):
+18. Direita: teclas respondem?:
+
+Testes ligando metades individualmente
+19. Ligar só metade esquerda: 
+20. Ligar só metade direita: 
 
 OUTRAS OBSERVAÇÕES:
 
@@ -102,6 +120,27 @@ Faça os passos abaixo para ambas metades do teclado:
 - Observe o teclado pela **entrada USB superior** e ligue a chave de liga/desliga
 - Uma luz vermelha deve acender brevemente ao ligar
 - Repita o teste com a outra metade
+
+### Testar se metade funciona sendo alimentada diretamente pelo USB
+
+Este teste visa ver se a metade do teclado funcionará sendo alimentada pelo computador ao invés de pela bateria,
+para identificar se a culpa pode estar no circuito de alimentação.
+
+No caso de correto funcionamento, espera-se que:
+- LED vermelho acenda ao conectar o teclado com cabo USB com chave na posição de desligado
+- LED azul fique piscando considerando chave desligada e conectado por USB
+- LED azul fique ou totalmente ligado ou desligado com chave na posição ligada e conectado por USB
+
+Como testar:
+- Conecte o receptor ao computador normalmente
+- Deixe a chave da bateria na posição **desligado**
+- Conecte a metade do teclado sendo testada ao computador também, com outro cabo USB
+- Repare se a luz vermelha acende também assim como no teste anterior e anote isso
+- Repare se há uma luz azul e anote seu status: piscando, acesa ou apagada (espera-se que piscando)
+- Veja se as teclas do teclado funcionam e anote
+- Agora, **ligue a chave** que liga/desliga o teclado
+- Repare novamente na luz azul: piscando, acesa ou apagada (espera-se que não esteja mais piscando)
+- Repita o teste para a outra metade
 
 ### Testar metades individualmente
 
