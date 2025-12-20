@@ -193,7 +193,6 @@ De forma geral, **se você está começando do zero com Touch Typing**, use o Ty
 **Se já sabe digitar, mas erra muito certas colunas/teclas**, use o Keybr para treinos focados.  
 **Se já está começando a se sentir confortável e confiante e quer ganhar velocidade e consistência**, use o Monkeytype.
 
-
 ## Dicas e curva de aprendizado
 
 ### O Uso do Mindinho em Touch Typing
