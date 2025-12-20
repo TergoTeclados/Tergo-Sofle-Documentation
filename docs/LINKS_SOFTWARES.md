@@ -7,7 +7,7 @@ sidebar_position: 99
 
 Escolha o software correto para a versão do seu teclado Tergo Sofle:
 
-## 🔌 Versão com Fio
+## Versão com Fio
 
 <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '20px', border: '2px solid #e0e0e0', borderRadius: '10px', marginBottom: '20px'}}>
 
@@ -23,7 +23,7 @@ Escolha o software correto para a versão do seu teclado Tergo Sofle:
 
 </div>
 
-## 📡 Versão Wireless
+## Versão Wireless
 
 <div style={{display: 'flex', flexDirection: 'column', alignItems: 'center', padding: '20px', border: '2px solid #e0e0e0', borderRadius: '10px', marginBottom: '20px'}}>
 
