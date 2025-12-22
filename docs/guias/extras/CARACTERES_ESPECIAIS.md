@@ -57,4 +57,14 @@ E então, para digitá-las:
 - Clique na tela que contém o símbolo que irá virar o que você deseja:
   - Para `ª`, clique na tecla física `V` (que normalmente resultaria no símbolo de `[`)
   - Para `º`, clique na tecla física `B` (que normalmente resultaria no símbolo de `]`)
-  - Para `§`, clique na tecla física `D` (que normalmente resultaria no símbolo de `-`)
+  - Para `§`, clique na tecla física `S` (que normalmente resultaria no símbolo de `=`)
+
+:::tip Crie uma tecla dedicada para essas funcionalidades
+
+Usa esses símbolos com frequência e gostaria deles com acesso mais simples?
+
+Experimente customizar o teclado pelo software de customização e escolher teclas dedicadas para essa funcionalidade.
+
+Na tecla de seu interesse, crie uma combinação que já inclua o modificador (tecla RAlt pressionada) e então a tecla do símbolo.
+
+:::
