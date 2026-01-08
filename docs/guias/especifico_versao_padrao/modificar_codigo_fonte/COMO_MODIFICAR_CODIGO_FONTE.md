@@ -29,6 +29,28 @@ Então, dentro da pasta do firmware, execute `qmk git-submodule`.
 
 _Por garantia, caso ache que o comando não funcionou, execute `git submodule update --init --recursive`._
 
+### Otimizações do Git (Recomendado)
+
+:::tip Importante
+
+O repositório contém muitos submódulos e arquivos, o que pode tornar as operações Git lentas.
+
+Para melhorar a performance, execute um dos scripts de otimização após clonar o repositório:
+
+**Windows (PowerShell):**
+```powershell
+.\setup-git-optimizations.ps1
+```
+
+**Linux/Mac:**
+```bash
+./setup-git-optimizations.sh
+```
+
+Ele otimiza as verifiações do git e evita verificar submodulos com frequência.
+
+:::
+
 ## Compilar firmware do seu teclado
 
 Após realizar os passos anteriores, abra o QMK MSYS na pasta do firmware e execute o comando `qmk compile -kb tergo_sofle/rev1 -km default -j 0`.
