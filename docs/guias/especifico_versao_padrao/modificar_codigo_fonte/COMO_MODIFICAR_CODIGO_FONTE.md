@@ -53,7 +53,9 @@ Ele otimiza as verifiações do git e evita verificar submodulos com frequência
 
 ## Compilar firmware do seu teclado
 
-Após realizar os passos anteriores, abra o QMK MSYS na pasta do firmware e execute o comando `qmk compile -kb tergo_sofle/rev1 -km default -j 0`.
+Após realizar os passos anteriores, abra o QMK MSYS na pasta do firmware e chame o script `./compile_tergo.sh`.
+
+O script irá gerar o firmware e colocá-lo na pasta `.build_tergo` o firmware na versão ANSI e ABNT2.
 
 _Ps: Seu Tergo Sofle pode ter ou não RGB e telas OLED. Você não precisa se preocupar em desabilitar essas funcionalidades ao compilar o firmware caso não tenha algo pois funcionará normalmente._
 
