@@ -68,3 +68,14 @@ Experimente customizar o teclado pelo software de customização e escolher tecl
 Na tecla de seu interesse, crie uma combinação que já inclua o modificador (tecla RAlt pressionada) e então a tecla do símbolo.
 
 :::
+
+## Sugestão: gerar essas teclas com um só clique
+
+Com as capacidades do teclado, você pode customizá-lo para que com o clique de uma tecla você obtenha o símbolo desejado.
+
+Para isso, sugerimos:
+- Criar uma camada nova ou usar uma existente
+- Criar teclas nessa camada que simulam a ação descrita no tópico anterior
+  - Para `ª`, criar tecla que simula clicar no `Alt Gr` + `[`
+  - Para `º`, criar tecla que simula clicar no `Alt Gr` + `]`
+  - Para `§`, criar tecla que simula clicar no `Alt Gr` + `=`
