@@ -2,22 +2,68 @@
 
 Teclado mais _low profile_? Entenda se você precisa mesmo e como fazer isso.
 
+![Exemplo](/img/tergo-sofle-switch-pudim.jpg)
+
 ## Será que o que está afetando sua experiência realmente é a altura do teclado?
 
 Pode ser que você tenha vindo de um teclado que era _low profile_ antes do Tergo Sofle ou acredita que a altura dele seja algo que esteja afetando sua experiência
 
 Há diversos pontos a se notar que afetam sua experiência de digitação:
 - Quanto tempo está usando o teclado
-- Posição do teclado, inclinação, posição das mãos
-- 
+- Posição do teclado
+- Inclinação
+- Posição das mãos em relação ao teclado
+
+Assim, recomendos primeiramente experimentar os seguintes pontos:
+- [Usar o teclado mais próximo de como é um teclado convencional (leia sobre)](/docs/ergonomia/COMO_DIGITAR_COM_ERGONOMIA#primeira-forma-mais-f%C3%A1cil-de-se-adaptar): Te trará maior familiaridade inicialmente com o teclado
+- [Ter um ponto de apoio alto para os pulsos (leia mais)](/docs/ergonomia/COMO_DIGITAR_COM_ERGONOMIA#inclina%C3%A7%C3%A3o-negativa): Assim o teclado ficará mais baixo em relação a sua mão
 
 ## O que gera uma experiência de digitação _low profile_?
 
-Se você está acostumado
+### Teclados convencionais de membrana "_low profile_"
+
+![exemplo](/img/ex-teclado-notebook.png)
+
+Teclados como de notebook são teclados de membrana _low profile_.
+
+Eles possuem certas características:
+- Teclas mais planas, com superfície grande e finas
+- Teclado mais baixo
+- Distância para pressionar a tecla é curta
+- Sensação tátil ao digitar e silencioso
+
+### Como o Tergo Sofle supre isso
+
+O Tergo Sofle supre essas características da seguinte forma:
+
+- Oferecemos teclas _low profile_, que são planas, com superfície grande e finas
+- Com teclas _low profile_, a altura do teclado diminui
+- Nosso switch mecânico tátil silencioso traz a sensação tátil clara ao digitar e silenciosa
+
+### E se eu quiser diminuir ainda mais?
+
+Nos próximos passos te mostraremos para ter uma sensação ainda mais _low profile_ como:
+- Diminuir ainda mais a altura do teclado
+- Diminuir a distância de digitação
+
+## Diminuindo a altura do teclado
+
+Para isso, faremos uma combinação especial de customizações:
+- Keycaps _low profile_: finas, baixas e planas
+- Switch mecânico especial: mais baixo e com distância de digitação menor
+
+![Exemplo](/img/tergo-sofle-switch-pudim.jpg)
+
+:::tip Atenção
+
+O switch que mostraremos é um switch mecânico especial compatível com o Tergo Sofle e com outros teclados do padrão "MX". Cuidado para não se confundir com switches do tipo "low profile".
+
+<details>
+<summary>Entenda mais sobre tipos de switch mecânico</summary>
 
 ## Diferenças switch convencional VS low profile
 
-O Tergo Sofle é compatível com **switches convencionais (MX-style)**, que são a opção mais padronizada e adotada do mercado.
+É importante notar que o Tergo Sofle é compatível com **switches convencionais (MX-style)**, que são a opção mais padronizada e adotada do mercado.
 
 ### Switches convencionais (MX-style)
 
@@ -27,9 +73,7 @@ Os switches convencionais, como os switches MX padrão, possuem características
 - **Compatibilidade**: Padrão amplamente adotado, com vasta gama de keycaps e switches disponíveis e melhores preços
 - **Distância de viagem**: Tipicamente entre 3,3mm a 4mm de curso total
 
-:::tip
-A maioria das opções que a Tergo oferece tem 3,3mm de distância de viagem
-:::
+Obs.: A maioria das opções que a Tergo oferece tem 3,3mm de distância de viagem.
 
 ### Switches low profile
 
@@ -45,11 +89,8 @@ Note que:
 - A diferência de distância de viagem ao pressionar as teclas tende a ser pequena
 - Os switches convencionais possuem mais variedade e possibilidades
 
-## Diminuindo a altura do teclado
-
-Para isso, faremos uma combinação especial de customizações:
-- Keycaps _low profile_
-- Switch especial Tecsee Pudding Medium
+</details>
+:::
 
 ### Keycaps _low profile_
 
@@ -61,7 +102,7 @@ Possuem características importantes:
 
 [Link na loja da Tergo Teclados](https://tecladoergonomico.com.br/loja/keycaps-teclas/). Escolha a opção de teclas _low profile_.
 
-<img src="/Tergo-Sofle-Documentation/img/keycaps-low.jpg" alt="Exemplo" />
+![Exemplo](/img/keycaps-low.jpg)
 
 :::note
 
@@ -78,14 +119,13 @@ Isso porque é compatível com teclados mecânicos tradicionais que usam switche
 Os diferenciais principais dele são:
 - **Distância de viagem**: Até 2,5mm: mais curta que teclados mecânicos tradicionais e low profile
 - **Altura**: Mais baixo que switches tradicionais
-
-[Detalhes técnicos](https://tecseekeys.store/products/tecsee-middle-switch?VariantsId=10014).
+- Outros detalhes técnicos [clicando aqui](https://tecseekeys.store/products/tecsee-middle-switch?VariantsId=10014)
 
 ![Exemplo](/img/tecsee-pudim.png)
 
 #### Onde comprar
 
-[Link no Aliexpress](https://pt.aliexpress.com/item/1005005390615875.html?spm=a2g0o.productlist.main.1.2b1ccWLncWLnLS&algo_pvid=aa8665b1-e59a-4ba6-a9df-7e0d9219b4da&algo_exp_id=aa8665b1-e59a-4ba6-a9df-7e0d9219b4da-0&pdp_ext_f=%7B%22order%22%3A%22110%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%2181.13%2167.62%21%21%2113.89%2111.58%21%402101ee6617623933162327816ee838%2112000032864785304%21sea%21BR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac2bb80e5%3Bm03_new_user%3A-29895%3BpisId%3A5000000187626968&curPageLogUid=Uuu7NYJrQVZS&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005390615875%7C_p_origin_prod%3A), com o melhor preço possível.
+[Link no Aliexpress](https://pt.aliexpress.com/item/1005005390615875.html?spm=a2g0o.productlist.main.1.2b1ccWLncWLnLS&algo_pvid=aa8665b1-e59a-4ba6-a9df-7e0d9219b4da&algo_exp_id=aa8665b1-e59a-4ba6-a9df-7e0d9219b4da-0&pdp_ext_f=%7B%22order%22%3A%22110%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%2181.13%2167.62%21%21%2113.89%2111.58%21%402101ee6617623933162327816ee838%2112000032864785304%21sea%21BR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac2bb80e5%3Bm03_new_user%3A-29895%3BpisId%3A5000000187626968&curPageLogUid=Uuu7NYJrQVZS&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005390615875%7C_p_origin_prod%3A), com o melhor preço encontrado.
 
 :::tip
 
