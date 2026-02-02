@@ -29,6 +29,7 @@ import LayoutTeclado from './_shared/layout_teclado.md';
 - `funcionalidades_modo_adepto.md` - Funcionalidades do modo adepto
 - `como_digitar.md` - Seção sobre como digitar com ergonomia
 - `contato.md` - Seção de contato
+- `testar_mal_contato_placa.md` - Seção sobre como testar mal contato da placa controladora
 
 ## Componentes React disponíveis
 

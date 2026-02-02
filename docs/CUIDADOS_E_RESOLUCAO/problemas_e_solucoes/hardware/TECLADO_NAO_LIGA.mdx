@@ -1,4 +1,5 @@
 import EditableTemplate from '@site/src/components/EditableTemplate';
+import TestarMalContatoPlaca from '../../../_shared/testar_mal_contato_placa.md';
 
 # Teclado não liga
 
@@ -176,25 +177,7 @@ Esses testes visam descobrir outras possíveis causas mais incomuns:
 - Mal contato da placa controladora
 - Tela OLED causando problema
 
-### Testar mal contato da placa controladora
-
-Primeiramente:
-- Abra a tampa da metade do teclado suspeita de problema
-- Levante a tela OLED conforme imagem abaixo para ter mais acesso à placa controladora
-
-![Exemplo](/img/oled-levantado.jpg)
-
-- Ligue o cabo USB à metade do teclado que será testada
-- Faça pressão com o dedo a placa controladora
-- Veja se alguma tecla responde ou se o teclado liga
-
-:::tip
-
-A foto abaixo não está com o cabo USB que liga ao computador conectado, mas deve ser conectado para energizar e ver se o teclado liga.
-
-:::
-
-![Exemplo](/img/apertando-placa.jpg)
+<TestarMalContatoPlaca />
 
 ### Tela OLED com problema
 
