@@ -2,6 +2,10 @@
 
 Teclado mais _low profile_? Entenda se você precisa mesmo e como fazer isso.
 
+Aqui será feito:
+- [Ver se você realmente precisa deixar o teclado mais baixo](#será-que-o-que-está-afetando-sua-experiência-realmente-é-a-altura-do-teclado)
+- [Como customizar para diminuir altura do teclado](#diminuindo-a-altura-do-teclado)
+
 ![Exemplo](/img/tergo-sofle-switch-pudim.jpg)
 
 ## Será que o que está afetando sua experiência realmente é a altura do teclado?
