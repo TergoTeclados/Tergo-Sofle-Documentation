@@ -50,7 +50,7 @@ Nos próximos passos te mostraremos para ter uma sensação ainda mais _low prof
 
 Para isso, faremos uma combinação especial de customizações:
 - Keycaps _low profile_: finas, baixas e planas
-- Switch mecânico especial: mais baixo e com distância de digitação menor
+- Switch mecânico especial baixo
 
 ![Exemplo](/img/tergo-sofle-switch-pudim.jpg)
 
@@ -110,22 +110,33 @@ O kit de teclas _low profile_ segue o padrão internacional, "ANSI". Ou seja, n�
 
 :::
 
-### Switch Tecsee Pudding Medium
+### Switch "perfil médio"
 
-O Tecsee Pudding surge para fornecer uma experiência low profile para teclados convencionais.
+Com switches especiais com perfil "médio", que são compatíveis com teclados como o Tergo Sofle, você conseguirá um teclado mais baixo.
 
-Isso porque é compatível com teclados mecânicos tradicionais que usam switches do tipo MX, mas com características únicas.
+Veja a comparação abaixo.
 
-Os diferenciais principais dele são:
-- **Distância de viagem**: Até 2,5mm: mais curta que teclados mecânicos tradicionais e low profile
-- **Altura**: Mais baixo que switches tradicionais
-- Outros detalhes técnicos [clicando aqui](https://tecseekeys.store/products/tecsee-middle-switch?VariantsId=10014)
+![Exemplo](/img/mid-vs-high.png)
+
+#### Outemu GTMX
+
+![Exemplo](/img/outemu-mid.png)
+
+[Link para compra no Aliexpress aqui](https://pt.aliexpress.com/item/1005006959024644.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.2.4608xcvLxcvLu4&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=d12f2dce-a2cd-481e-856e-61d74d3f7b75&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:d12f2dce-a2cd-481e-856e-61d74d3f7b75,tpp_buckets:668%232846%238111%231996&pdp_ext_f=%7B%22order%22%3A%22761%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21BRL%2123.18%2119.46%21%21%2128.32%2123.77%21%4021033d1217717103629138286e233f%2112000038860550439%21rec%21BR%216031491413%21XZ%211%210%21n_tag%3A-29919%3Bd%3A24676571%3Bm03_new_user%3A-29895%3BpisId%3A5000000200970460&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005006959024644%7C_p_origin_prod%3A).
+
+#### Tecsee Pudding Medium
+
+:::note
+
+Esse switch parece ter pouca disponibilidade para compra atualmente.
+
+Também, possui custo consideravelmente maior que a opção anterior.
+
+:::
 
 ![Exemplo](/img/tecsee-pudim.png)
 
-#### Onde comprar
-
-[Link no Aliexpress](https://pt.aliexpress.com/item/1005005390615875.html?spm=a2g0o.productlist.main.1.2b1ccWLncWLnLS&algo_pvid=aa8665b1-e59a-4ba6-a9df-7e0d9219b4da&algo_exp_id=aa8665b1-e59a-4ba6-a9df-7e0d9219b4da-0&pdp_ext_f=%7B%22order%22%3A%22110%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%2181.13%2167.62%21%21%2113.89%2111.58%21%402101ee6617623933162327816ee838%2112000032864785304%21sea%21BR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac2bb80e5%3Bm03_new_user%3A-29895%3BpisId%3A5000000187626968&curPageLogUid=Uuu7NYJrQVZS&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005390615875%7C_p_origin_prod%3A), com o melhor preço encontrado.
+~[Link no Aliexpress](https://pt.aliexpress.com/item/1005005390615875.html?spm=a2g0o.productlist.main.1.2b1ccWLncWLnLS&algo_pvid=aa8665b1-e59a-4ba6-a9df-7e0d9219b4da&algo_exp_id=aa8665b1-e59a-4ba6-a9df-7e0d9219b4da-0&pdp_ext_f=%7B%22order%22%3A%22110%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%2181.13%2167.62%21%21%2113.89%2111.58%21%402101ee6617623933162327816ee838%2112000032864785304%21sea%21BR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac2bb80e5%3Bm03_new_user%3A-29895%3BpisId%3A5000000187626968&curPageLogUid=Uuu7NYJrQVZS&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005390615875%7C_p_origin_prod%3A), com o melhor preço encontrado.~ Pode estar fora de estoque.
 
 :::tip
 
