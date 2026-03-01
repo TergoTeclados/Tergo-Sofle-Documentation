@@ -366,6 +366,8 @@ Não fazemos isso por padrão nos teclados enviados por 2 motivos:
 - O texto ao contrário pode gerar dúvidas no usuário
 - A iluminação RGB ficará fraca na tecla invertida
 
+:::
+
 Veja o exemplo abaixo:
 
 ![Exemplo](/img/teclas-ao-contrario.jpg)
