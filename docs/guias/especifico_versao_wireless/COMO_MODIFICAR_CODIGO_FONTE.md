@@ -150,7 +150,7 @@ As partes do teclado são meramente "shields", que enviam ao receptor os sinais 
 
 A pasta `.github` contém configurações que fazem com que uma "action" para compilar o firmware seja executada automaticamente ao dar push no repositório.
 
-O arquivo [build.yaml](./build.yaml) especifica o que deve ser compilado e com quais configurações.
+O arquivo `build.yaml` especifica o que deve ser compilado e com quais configurações.
 
 ### Contribua também!
 
