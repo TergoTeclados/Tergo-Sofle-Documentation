@@ -352,6 +352,24 @@ Essa configuração não terá todas vantagens de ergonomia que o teclado pode t
 Gradualmente experimente ir inclinando os lados e afantando-os.
 :::
 
+## Inverter teclas da linha mais abaixo: ganhando conforto de forma simples
+
+Teclas tradicionais costumam ter curvatura na sua superfície, que não é o caso nas _low profiles_.
+
+Você tende a obter ótimo contorto se inverter as teclas da linha mais debaixo de teclas do seu teclado.
+
+Assim, a superfície delas ficará mais confortável para seu dedão se apoiar e pressionar.
+
+:::note
+
+Não fazemos isso por padrão nos teclados enviados por 2 motivos:
+- O texto ao contrário pode gerar dúvidas no usuário
+- A iluminação RGB ficará fraca na tecla invertida
+
+Veja o exemplo abaixo:
+
+![Exemplo](/img/teclas-ao-contrario.jpg)
+
 ## Ergonomia e bons hábitos em geral
 
 ### Alongamentos e descansos!
