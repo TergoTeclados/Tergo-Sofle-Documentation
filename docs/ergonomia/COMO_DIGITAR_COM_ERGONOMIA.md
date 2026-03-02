@@ -370,7 +370,7 @@ Não fazemos isso por padrão nos teclados enviados por 2 motivos:
 
 :::tip
 
-Experimente também trocar a tecla maior por uma tecla pequena e aplicar a mesma técnica de inverter (a imagem abaixo não faz isso)
+Experimente também trocar a tecla maior por uma tecla pequena e aplicar a mesma técnica de inverter, que nem na imagem abaixo.
 
 :::
 
