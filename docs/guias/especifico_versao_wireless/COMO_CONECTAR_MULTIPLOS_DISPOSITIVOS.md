@@ -14,6 +14,37 @@ Na camada de ajustes você possui teclas especiais para manipular essa funcional
 
 ![Exemplo](/img/camada-ajustes-wireless.svg)
 
+## Como ver isso na tela
+
+Se seu receptor tem tela, você consegue identificar com mais precisão em que dispositivo seu teclado está conectado.
+
+Nos exemplos abaixo, repare no canto superior esquerdo:
+- O primeiro ícone refere-se ao receptor, que pode ter um `✓` se ele conseguir se comunicar com seu computador ou um `X` se tiver falhado (incomum)
+- O próximo ícone, com símbolo de bluetooth, indica o perfil de bluetooth selecionado (de 1 a 5) e se tem algo pareado (símbolo de `✓`) ou não (símbolo de bolinha).
+- O "risco" acima do ícone indica qual que está selecionado no momento: a conexão com o computador ou com o dispositivo bluetooth.
+
+Veja os exemplos abaixo de como interpretar a tela:
+
+### Exemplo 1
+
+- Receptor conectado com sucesso (ícone de `✓`)
+- Conexão pelo receptor selecionada (traço em cima do ícone dele)
+- Bluetooth com perfil 2 selecionado (número 2 ao lado do ícone)
+- Bluetooth sem dispositivo pareado no perfil 2 (ícone de bolinha acima do número 2)
+
+![Exemplo](/img/ex_1_bluetooth.jpg)
+
+### Exemplo 2
+
+- Receptor não consegue se comunicar com o dispositivo na qual está conectado (ícone de `X`)
+- Conexão pelo Bluetooth está selecionada (traço em cima do ícone dele)
+- Bluetooth com perfil 1 selecionado (número 1 ao lado do ícone)
+- Bluetooth pareado com sucesso a algum dispositivo no perfil 1 (ícone de `✓` acima do número 2)
+
+![Exemplo](/img/ex_2_bluetooth.jpg)
+
+
+
 ## Conectar dispositivo
 
 :::note
