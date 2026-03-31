@@ -1,4 +1,4 @@
-# Como conectar múltiplos dispositivos - Versão Wireless
+# Como conectar múltiplos dispositivos Bluetooth - Versão Wireless
 
 ## Visão Geral
 
@@ -14,7 +14,7 @@ Na camada de ajustes você possui teclas especiais para manipular essa funcional
 
 ![Exemplo](/img/camada-ajustes-wireless.svg)
 
-## Como ver isso na tela
+## Como ver dispositivo conectado na tela
 
 Se seu receptor tem tela, você consegue identificar com mais precisão em que dispositivo seu teclado está conectado.
 
@@ -43,31 +43,56 @@ Veja os exemplos abaixo de como interpretar a tela:
 
 ![Exemplo](/img/ex_2_bluetooth.jpg)
 
-
-
 ## Conectar dispositivo
 
-:::note
-Dispositivos móveis com tecnologia _Bluetooth_ (smartphones e tablets) tendem a conectar mais facilmente do que computadores. Assim, experimente primeiramente conectar no seu dispositivo móvel.
+:::tip O que fazer se falhar a conexão
+
+Se for sua primeira vez conectando um dispositivo e alguma parte do processo falhar, faça todos os seguintes passos e tente o processo novamente:
+
+- Limpe a configuração de bluetooth do teclado clicando em `Clear All`, na camada de ajustes. Consulte foto anterior para ver localização (fica onde seria a letra `I`)
+- Desligue as metades do teclado
+- Desligue o receptor
+- Desemparelhe o bluetooth no seu dispositivo (celular/computador) para esquecer tentativas prévias de pareamento
+- Desligue e ligue o bluetooth no seu dispositivo
+- Ligue novamente todas partes do teclado
+- Tente o passo a passo abaixo novamente para conectar um dispositivo bluetooth
+
+Dica: Dispositivos móveis com tecnologia _Bluetooth_ (smartphones e tablets) tendem a conectar mais facilmente do que computadores.
+
 :::
 
-1 - Selecione um perfil que será responsável pelo dispositivo a ser conectado. Para isso, acesse a camada de ajustes e clique no botão referente ao `🛜BT1`, que é a tecla `1` no seu teclado, conforme imagem exemplo acima.
+### Passo a passo
 
-2 - Caso você já tenha tentado conectar ou tenha algum dispositivo conectado nesse perfil, limpe-o clicando na tecla `🛜Clear Profile`, que é a tecla `K` ao estar na camada de ajustes.
+1 - Selecione um perfil que será responsável pelo dispositivo a ser conectado. Por padrão será o perfil 1.
+
+Exemplo: acesse a camada de ajustes e clique no botão referente ao `🛜BT1`, que é a tecla `1` no seu teclado. Consulte imagem da camada se necessário.
+
+2 - Caso você já tenha tentado conectar ou tenha algum dispositivo conectado a este perfil, limpe-o clicando na tecla `🛜Clear Profile`, que é a tecla `K` ao estar na camada de ajustes.
 
 3 - No seu dispositivo _Bluetooth_ que você deseja conectar ao seu teclado, no menu de dispositivos _Bluetooth, desemparelhe o teclado caso você já tenha o emparelhado anteriormente.
 
-:::tip
+:::note
 Geralmente há alguma opção chamada "esquecer dispositivo" ou "desemparelhar" que faz isso.
 :::
 
 4 - Ainda no seu dispositivo _Bluetooth_, procure por dispositivos disponíveis para conexão. Busque por `Tergo Sofle` e clique nele.
 
-:::tip
-Caso você clique no dispositivo e, ao invés dele tentar conexão, ele se desconectar automaticamente ou nada acontecer, desligue e ligue novamente o receptor do seu teclado (desconectando e conectando novamente ao seu computador).
+:::note
+Caso você clique no dispositivo e, ao invés dele tentar conexão, ele se desconectar automaticamente ou nada acontecer, desligue e ligue novamente o receptor do seu teclado (desconectando e conectando novamente ao seu computador) ou siga a diga mais acima de como recomeçar o processo.
 :::
 
-5 - Deve aparecer na tela do seu dispositivo um número ou senha que deve ser digitado **a partir do seu teclado Tergo** e, em seguida, clicado `Enter` para parear com sucesso.
+5 (condicional): Inserir senha para parear teclado. Veja detalhes a seguir:
+
+:::tip Teclados que não precisam fazer isso
+
+Teclados com a versão a partir da `v1.3.0` do firmware não precisam fazer isso.
+
+Se você adquiriu o teclado antes de 31/03/2026 e nunca atualizou o firmware você provavelmente precisará.
+
+Ou então, atualize o firmware para a versão mais recente e evite esta etapa.
+:::
+
+Pode aparecer na tela do seu dispositivo um número ou senha que deve ser digitado **a partir do seu teclado Tergo** e, em seguida, clicado `Enter` para parear com sucesso.
 
 Exemplo disso:
 - Seu dispositivo mostra a senha `9217349`
@@ -78,7 +103,9 @@ Exemplo disso:
 Caso você erre a senha durante a conexão e não consiga tentar conectar novamente ao teclado, recomenda-se desligar e ligar novamente o receptor do seu teclado (para reiniciá-lo) e, opcionalmente, refazer todos os passos.
 :::
 
-6 - Caso a senha tenha sido inserida com sucesso, o teclado deve se conectar automaticamente ao seu dispositivo. Agora, veja o próximo tópico para entender como alterar entre dispositivos.
+6 - Caso a senha tenha sido inserida com sucesso ou não tenha precisado de senha, o teclado deve se conectar automaticamente ao seu dispositivo.
+
+Agora, veja o próximo tópico para entender como alterar entre dispositivos.
 
 ## Alterar entre dispositivos
 
